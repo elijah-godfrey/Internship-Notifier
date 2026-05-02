@@ -54,6 +54,28 @@ State defaults to a JSON file under your OS app data directory (see `internship_
 
 Ensure the account running the task can reach the internet and that SMTP credentials are available if you use email.
 
-## GitHub Actions (optional)
+## GitHub Actions (scheduled email)
 
-The same CLI can run on a **schedule** in GitHub Actions, but the runner disk is ephemeral: you need a strategy for **persisting `seen_ids` and `last_sha`** between runs (for example a gist, a small object store, or commits to a branch). Local Task Scheduler plus the default state file is simpler for a personal setup.
+This repo includes [`.github/workflows/notifier.yml`](.github/workflows/notifier.yml), which runs the notifier on a **cron** (every **30 minutes** by default) and **commits** [`.github/internship-notifier-state.json`](.github/internship-notifier-state.json) when it changes so `seen_ids` and `listings_sha` survive between runs. Pushes from `github-actions[bot]` using the default `GITHUB_TOKEN` do **not** re-trigger workflows, so you avoid infinite loops.
+
+### One-time setup
+
+1. Push this repo to GitHub and ensure **Actions are enabled** (forks default to disabled for scheduled workflows).
+2. **Repository variables** (Settings → Secrets and variables → Actions → *Variables*), optional defaults in parentheses:
+   - `NOTIFIER_SOURCE` — `summer2026` or `offseason` (default: `summer2026` if unset).
+   - `NOTIFIER_CATEGORY` — e.g. `Software Engineering` (default if not using “all”).
+   - **Or** set `NOTIFIER_ALL_CATEGORIES` to `true` to pass `--all-categories` instead of `--category`.
+3. **Repository secrets** (same place, *Secrets*) for email — same names as in [`env.example`](env.example): `SMTP_HOST`, `SMTP_FROM`, `SMTP_TO`, and usually `SMTP_USER` / `SMTP_PASSWORD`. Optional: `SMTP_PORT`, `SMTP_SUBJECT_PREFIX`. If `SMTP_HOST` is unset, the job still runs but only prints new lines in the log (no email).
+4. **Manual bootstrap** (recommended after changing filters): Actions → *Internship notifier* → **Run workflow**, enable **bootstrap**, run once. The workflow also **auto-bootstraps** when `seen_ids` is empty (including the initial checked-in file).
+
+### Changing the schedule
+
+Edit the `cron` line under `schedule` in [`.github/workflows/notifier.yml`](.github/workflows/notifier.yml). GitHub allows frequent schedules, but high-frequency runs can queue during load spikes.
+
+### Branch protection
+
+If `main` requires pull requests and blocks direct pushes, the “Commit state” step will fail until you allow **GitHub Actions** to push (for example bypass rules for `github-actions[bot]`) or use a **Personal Access Token** secret with `contents: write` checked out instead of the default token (more setup).
+
+### Local vs Actions
+
+You can still use **Task Scheduler** and the default user state path on your PC; the Actions workflow is independent and uses only the committed `.github/internship-notifier-state.json`.

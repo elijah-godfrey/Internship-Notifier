@@ -1,0 +1,97 @@
+# Poll upstream listings, email new rows (optional SMTP secrets), persist state in-repo.
+#
+# Setup (repo Settings → Secrets and variables → Actions):
+#   Secrets: SMTP_HOST, SMTP_FROM, SMTP_TO, and usually SMTP_USER, SMTP_PASSWORD
+#            (optional: SMTP_PORT default 587, SMTP_SUBJECT_PREFIX)
+#   Variables: NOTIFIER_SOURCE (e.g. summer2026), NOTIFIER_CATEGORY, or set
+#              NOTIFIER_ALL_CATEGORIES to "true"
+#
+# First time: run this workflow manually with "bootstrap" checked, or rely on
+# auto-bootstrap when .github/internship-notifier-state.json is missing or has
+# empty seen_ids.
+
+name: Internship notifier
+
+on:
+  schedule:
+    # Every 20 minutes (edit if you want a different cadence).
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+    inputs:
+      bootstrap:
+        description: "Run with --bootstrap (mark all current matches as seen)"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: internship-notifier
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    env:
+      NOTIFIER_SOURCE: ${{ vars.NOTIFIER_SOURCE }}
+      NOTIFIER_ALL_CATEGORIES: ${{ vars.NOTIFIER_ALL_CATEGORIES }}
+      NOTIFIER_CATEGORY: ${{ vars.NOTIFIER_CATEGORY }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_FROM: ${{ secrets.SMTP_FROM }}
+      SMTP_TO: ${{ secrets.SMTP_TO }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      SMTP_SUBJECT_PREFIX: ${{ secrets.SMTP_SUBJECT_PREFIX }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install package
+        run: python -m pip install --upgrade pip && python -m pip install -e .
+
+      - name: Poll and notify
+        run: |
+          set -euo pipefail
+          STATE_PATH=".github/internship-notifier-state.json"
+          SRC="${NOTIFIER_SOURCE:-summer2026}"
+          COMMON=(python -m internship_notifier --source "$SRC" --state-path "$STATE_PATH")
+
+          if echo "${NOTIFIER_ALL_CATEGORIES:-}" | grep -qiE '^(true|1|yes)$'; then
+            COMMON+=(--all-categories)
+          else
+            CAT="${NOTIFIER_CATEGORY:-Software Engineering}"
+            COMMON+=(--category "$CAT")
+          fi
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.bootstrap }}" = "true" ]; then
+            "${COMMON[@]}" --bootstrap
+          fi
+
+          if ! python -c "import json, pathlib, sys; p=pathlib.Path('$STATE_PATH'); sys.exit(0 if p.is_file() and json.loads(p.read_text(encoding='utf-8')).get('seen_ids') else 1)"; then
+            "${COMMON[@]}" --bootstrap
+          fi
+
+          "${COMMON[@]}"
+
+      - name: Commit state if changed
+        run: |
+          set -euo pipefail
+          if [ ! -f .github/internship-notifier-state.json ]; then
+            echo "No state file on disk; skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/internship-notifier-state.json
+          if git diff --staged --quiet; then
+            echo "No state file changes to commit."
+          else
+            git commit -m "chore: update internship notifier state"
+            git push
+          fi
