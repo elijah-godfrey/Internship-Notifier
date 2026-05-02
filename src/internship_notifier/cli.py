@@ -3,12 +3,15 @@
 from __future__ import annotations
 
 import argparse
+import os
+import smtplib
 import sys
 from pathlib import Path
 from typing import Any
 
 from internship_notifier import filters
 from internship_notifier import github_listings
+from internship_notifier import smtp_notify
 from internship_notifier.state import load_state, save_state
 
 
@@ -44,6 +47,9 @@ def run(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
         description="Poll SimplifyJobs Summer2026-Internships listings.json, "
         "filter by README rules, and track new IDs in local state.",
+        epilog="Optional email when there are new rows: set SMTP_HOST, SMTP_FROM, "
+        "SMTP_TO; optional SMTP_PORT (587), SMTP_USER, SMTP_PASSWORD, "
+        "SMTP_SUBJECT_PREFIX.",
     )
     parser.add_argument(
         "--source",
@@ -139,6 +145,24 @@ def run(argv: list[str] | None = None) -> int:
     for row in new_rows:
         print(_format_listing_line(row))
 
+    settings = smtp_notify.settings_from_env()
+    if new_rows and settings:
+        prefix = (os.environ.get("SMTP_SUBJECT_PREFIX") or "Internship notifier").strip()
+        subject = f"{prefix}: {len(new_rows)} new listing(s)"
+        body = "\n".join(_format_listing_line(r) for r in new_rows) + "\n"
+        if ns.dry_run:
+            print(
+                f"Dry-run: would email {settings.mail_to} ({len(new_rows)} listing(s)).",
+                file=sys.stderr,
+            )
+        else:
+            smtp_notify.send_plaintext_email(
+                subject=subject,
+                body=body,
+                settings=settings,
+            )
+            print(f"Sent email to {settings.mail_to}.", file=sys.stderr)
+
     if ns.dry_run:
         print(
             f"Dry-run: {len(new_rows)} new listing(s) (state not saved).",
@@ -160,6 +184,6 @@ def main() -> None:
     """Entry point for ``python -m internship_notifier`` / console script."""
     try:
         raise SystemExit(run())
-    except (RuntimeError, ValueError, OSError) as e:
+    except (RuntimeError, ValueError, OSError, smtplib.SMTPException) as e:
         print(f"error: {e}", file=sys.stderr)
         raise SystemExit(1) from e
