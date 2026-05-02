@@ -9,6 +9,8 @@ import sys
 from pathlib import Path
 from typing import Any
 
+from dotenv import load_dotenv
+
 from internship_notifier import filters
 from internship_notifier import github_listings
 from internship_notifier import smtp_notify
@@ -182,6 +184,10 @@ def run(argv: list[str] | None = None) -> int:
 
 def main() -> None:
     """Entry point for ``python -m internship_notifier`` / console script."""
+    load_dotenv(override=False)
+    alt = (os.environ.get("DOTENV_PATH") or "").strip()
+    if alt:
+        load_dotenv(dotenv_path=Path(alt), override=False)
     try:
         raise SystemExit(run())
     except (RuntimeError, ValueError, OSError, smtplib.SMTPException) as e:

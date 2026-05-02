@@ -15,7 +15,9 @@ Run `internship-notifier --help` or `python -m internship_notifier --help`.
 
 ## Environment variables
 
-See [`env.example`](env.example) for names and short comments. Copy it to a local file (for example `.env`) and load it in your shell or Task Scheduler action before running.
+See [`env.example`](env.example) for names and short comments. Copy it to **`.env`** in the working directory (same folder you use as “Start in” for Task Scheduler, or the repo root when you run from a shell).
+
+On startup the CLI loads **`.env`** in the current working directory via **`python-dotenv`** (same idea as npm’s `dotenv`). Existing real environment variables are **not** overwritten. If **`DOTENV_PATH`** is set (in the real environment or inside `.env`), a **second** file is loaded the same way, filling only variables that are still unset.
 
 - **`GITHUB_TOKEN`** (optional): GitHub fine-grained or classic PAT with read access to public repos. Improves rate limits if you poll often.
 - **SMTP_*** (optional): If **`SMTP_HOST`** is set, **`SMTP_FROM`** and **`SMTP_TO`** are required; see `--help` epilog. Leave **`SMTP_HOST`** empty to disable email and only print new lines.
@@ -48,7 +50,7 @@ State defaults to a JSON file under your OS app data directory (see `internship_
    - **Program**: `python` (or full path to `python.exe`)  
    - **Add arguments**: `-m internship_notifier --source summer2026 --category "Software Engineering"`  
    - **Start in**: path to this repo (folder containing `pyproject.toml`).
-4. If you use a `.env` file, either bake variables into the task’s **Environment** (not always exposed in the UI) or wrap the command in a one-line `cmd /c` that calls `set VAR=value` then `python -m ...`, or use a small `.bat` that `call`s your env then runs the module.
+4. Set the task’s **Start in** to the repo folder so **`.env`** is found when the CLI loads it. Alternatively set system/user **`DOTENV_PATH`** to your env file, or define variables in the task’s **Environment** tab if your Windows edition exposes it.
 
 Ensure the account running the task can reach the internet and that SMTP credentials are available if you use email.
 

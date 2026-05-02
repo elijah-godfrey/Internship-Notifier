@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "Email alerts for new listings from SimplifyJobs/Summer2026-Internships"
 readme = "README.md"
 requires-python = ">=3.11"
+dependencies = [
+    "python-dotenv>=1.0.0",
+]
 
 [project.scripts]
 internship-notifier = "internship_notifier.cli:main"
