@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "Email alerts for new listings from SimplifyJobs/Summer2026-Internships"
 requires-python = ">=3.11"
 
+[project.scripts]
+internship-notifier = "internship_notifier.cli:main"
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
