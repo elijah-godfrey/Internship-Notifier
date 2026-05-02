@@ -14,6 +14,11 @@ from dotenv import load_dotenv
 from internship_notifier import filters
 from internship_notifier import github_listings
 from internship_notifier import smtp_notify
+from internship_notifier.config_toml import (
+    NotifierTomlConfig,
+    load_notifier_toml,
+    resolve_config_path,
+)
 from internship_notifier.state import load_state, save_state
 
 
@@ -26,6 +31,45 @@ def _apply_source(
     if source == "offseason":
         return filters.filter_off_season(listings)
     raise ValueError(f"unknown source: {source!r}")
+
+
+def _merge_filter_options(
+    ns: argparse.Namespace,
+    file_cfg: NotifierTomlConfig | None,
+) -> tuple[str, bool, list[str]]:
+    """Combine TOML defaults with optional CLI overrides.
+
+    CLI flags override the file when supplied: ``--source``, ``--all-categories``,
+    or any ``--category`` (including an empty override list, which is invalid).
+    """
+    if file_cfg is None:
+        if ns.source is None:
+            raise ValueError(
+                "Missing filter settings: add notifier.toml in the current directory, "
+                "set NOTIFIER_CONFIG to a TOML path, or pass --source and "
+                "--category / --all-categories."
+            )
+        source = ns.source
+        if ns.all_categories:
+            return source, True, []
+        cats = list(ns.categories) if ns.categories else []
+        if not cats:
+            raise ValueError(
+                "Pass --category (repeatable) or --all-categories when no notifier.toml is used."
+            )
+        return source, False, cats
+
+    source = ns.source if ns.source is not None else file_cfg.source
+    if ns.all_categories:
+        return source, True, []
+    if ns.categories is not None:
+        cats = list(ns.categories)
+        if not cats:
+            raise ValueError("When using --category, pass at least one category name.")
+        return source, False, cats
+    if file_cfg.all_categories:
+        return source, True, []
+    return source, False, list(file_cfg.categories)
 
 
 def _format_listing_line(listing: dict[str, Any]) -> str:
@@ -49,29 +93,42 @@ def run(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
         description="Poll SimplifyJobs Summer2026-Internships listings.json, "
         "filter by README rules, and track new IDs in local state.",
-        epilog="Optional email when there are new rows: set SMTP_HOST, SMTP_FROM, "
-        "SMTP_TO; optional SMTP_PORT (587), SMTP_USER, SMTP_PASSWORD, "
-        "SMTP_SUBJECT_PREFIX.",
+        epilog="Filter defaults: notifier.toml in the current directory, or "
+        "NOTIFIER_CONFIG, unless --no-config-file. Override with --source / "
+        "--category / --all-categories. Email: SMTP_HOST, SMTP_FROM, SMTP_TO; "
+        "optional SMTP_PORT (587), SMTP_USER, SMTP_PASSWORD, SMTP_SUBJECT_PREFIX.",
+    )
+    parser.add_argument(
+        "--config",
+        type=Path,
+        default=None,
+        metavar="PATH",
+        help="TOML file with source and categories (default: NOTIFIER_CONFIG or "
+        "./notifier.toml when that file exists).",
+    )
+    parser.add_argument(
+        "--no-config-file",
+        action="store_true",
+        help="Ignore notifier.toml and NOTIFIER_CONFIG even if they exist.",
     )
     parser.add_argument(
         "--source",
         choices=("summer2026", "offseason"),
-        required=True,
-        help="Which upstream README logic to mirror.",
+        default=None,
+        help="Which upstream README logic to mirror (overrides notifier.toml).",
     )
-    g = parser.add_mutually_exclusive_group(required=True)
-    g.add_argument(
+    parser.add_argument(
         "--category",
         action="append",
         dest="categories",
+        default=None,
         metavar="NAME",
-        help="Restrict to this category (repeatable). Example: --category "
-        '"Software Engineering"',
+        help="Restrict to this category (repeatable); overrides notifier.toml.",
     )
-    g.add_argument(
+    parser.add_argument(
         "--all-categories",
         action="store_true",
-        help="Do not filter by category (all roles in the chosen source).",
+        help="Include every category for the chosen source (overrides notifier.toml).",
     )
     parser.add_argument(
         "--state-path",
@@ -97,10 +154,22 @@ def run(argv: list[str] | None = None) -> int:
     )
     ns = parser.parse_args(argv)
 
-    categories: list[str] | None = None
-    if ns.categories:
-        categories = ns.categories
-    all_categories: bool = bool(ns.all_categories)
+    try:
+        cfg_path = None if ns.no_config_file else resolve_config_path(ns.config)
+    except FileNotFoundError as e:
+        print(f"error: {e}", file=sys.stderr)
+        return 1
+
+    file_cfg: NotifierTomlConfig | None = None
+    if cfg_path is not None:
+        file_cfg = load_notifier_toml(cfg_path)
+        print(f"Using notifier config: {cfg_path.resolve()}", file=sys.stderr)
+
+    try:
+        source, all_categories, categories = _merge_filter_options(ns, file_cfg)
+    except ValueError as e:
+        print(f"error: {e}", file=sys.stderr)
+        return 1
 
     state_path: Path | None = ns.state_path
     state = load_state(state_path)
@@ -117,10 +186,8 @@ def run(argv: list[str] | None = None) -> int:
         return 0
 
     raw = github_listings.fetch_listings_json(meta["download_url"])
-    filtered = _apply_source(raw, ns.source)
+    filtered = _apply_source(raw, source)
     if not all_categories:
-        if not categories:
-            raise ValueError("pass at least one --category or use --all-categories")
         filtered = filters.filter_by_categories(filtered, set(categories))
 
     if ns.bootstrap:

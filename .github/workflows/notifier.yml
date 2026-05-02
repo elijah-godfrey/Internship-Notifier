@@ -1,10 +1,10 @@
 # Poll upstream listings, email new rows (optional SMTP secrets), persist state in-repo.
 #
+# Filter source and categories: edit notifier.toml at the repo root (committed).
+#
 # Setup (repo Settings → Secrets and variables → Actions):
 #   Secrets: SMTP_HOST, SMTP_FROM, SMTP_TO, and usually SMTP_USER, SMTP_PASSWORD
 #            (optional: SMTP_PORT default 587, SMTP_SUBJECT_PREFIX)
-#   Variables: NOTIFIER_SOURCE (e.g. summer2026), NOTIFIER_CATEGORY, or set
-#              NOTIFIER_ALL_CATEGORIES to "true"
 #
 # First time: run this workflow manually with "bootstrap" checked, or rely on
 # auto-bootstrap when .github/internship-notifier-state.json is missing or has
@@ -35,9 +35,6 @@ jobs:
   poll:
     runs-on: ubuntu-latest
     env:
-      NOTIFIER_SOURCE: ${{ vars.NOTIFIER_SOURCE }}
-      NOTIFIER_ALL_CATEGORIES: ${{ vars.NOTIFIER_ALL_CATEGORIES }}
-      NOTIFIER_CATEGORY: ${{ vars.NOTIFIER_CATEGORY }}
       SMTP_HOST: ${{ secrets.SMTP_HOST }}
       SMTP_PORT: ${{ secrets.SMTP_PORT }}
       SMTP_FROM: ${{ secrets.SMTP_FROM }}
@@ -59,15 +56,7 @@ jobs:
         run: |
           set -euo pipefail
           STATE_PATH=".github/internship-notifier-state.json"
-          SRC="${NOTIFIER_SOURCE:-summer2026}"
-          COMMON=(python -m internship_notifier --source "$SRC" --state-path "$STATE_PATH")
-
-          if echo "${NOTIFIER_ALL_CATEGORIES:-}" | grep -qiE '^(true|1|yes)$'; then
-            COMMON+=(--all-categories)
-          else
-            CAT="${NOTIFIER_CATEGORY:-Software Engineering}"
-            COMMON+=(--category "$CAT")
-          fi
+          COMMON=(python -m internship_notifier --state-path "$STATE_PATH")
 
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.bootstrap }}" = "true" ]; then
             "${COMMON[@]}" --bootstrap

@@ -1,0 +1,10 @@
+# Edit this file to change which listings you track (no secrets here).
+# Run from the repo root (or pass --config / set NOTIFIER_CONFIG).
+
+source = "offseason" # summer2026 | offseason
+
+# Set true to include every category for that source.
+all_categories = false
+
+# When all_categories is false, list exact upstream category names (repeat in TOML for several).
+categories = ["Software Engineering"]
