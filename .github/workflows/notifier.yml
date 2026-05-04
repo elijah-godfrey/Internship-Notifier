@@ -14,8 +14,8 @@ name: Internship notifier
 
 on:
   schedule:
-    # Every 20 minutes (edit if you want a different cadence).
-    - cron: "*/20 * * * *"
+    # Runs every 10 minutes
+    - cron: "*/10 * * * *"
   workflow_dispatch:
     inputs:
       bootstrap:
