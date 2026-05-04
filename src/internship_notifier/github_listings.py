@@ -8,13 +8,26 @@ import os
 import urllib.error
 import urllib.parse
 import urllib.request
-from typing import Any
+from typing import Any, TypedDict
 
 UPSTREAM_OWNER = "SimplifyJobs"
 UPSTREAM_REPO = "Summer2026-Internships"
 LISTINGS_PATH = ".github/scripts/listings.json"
 DEFAULT_REF = "dev"
 USER_AGENT = "internship-notifier/0.1"
+
+# Upstream metadata response is small; full listings.json is large.
+CONTENTS_API_TIMEOUT_SECONDS = 60
+LISTINGS_DOWNLOAD_TIMEOUT_SECONDS = 120
+HTTP_ERROR_BODY_SNIPPET_CHARS = 500
+
+
+class ListingsMetadata(TypedDict):
+    """Subset of GitHub Contents API fields used by the notifier."""
+
+    sha: str
+    size: int
+    download_url: str
 
 
 def _auth_headers(token: str | None) -> dict[str, str]:
@@ -61,7 +74,9 @@ def _http_get(url: str, token: str | None = None, timeout: int = 120) -> bytes:
             return resp.read()
     except urllib.error.HTTPError as e:
         body = e.read().decode(errors="replace")
-        raise RuntimeError(f"HTTP {e.code} for {url}: {body[:500]}") from e
+        raise RuntimeError(
+            f"HTTP {e.code} for {url}: {body[:HTTP_ERROR_BODY_SNIPPET_CHARS]}"
+        ) from e
 
 
 def listings_contents_url(ref: str = DEFAULT_REF) -> str:
@@ -81,7 +96,9 @@ def listings_contents_url(ref: str = DEFAULT_REF) -> str:
     )
 
 
-def get_listings_metadata(ref: str = DEFAULT_REF, token: str | None = None) -> dict[str, Any]:
+def get_listings_metadata(
+    ref: str = DEFAULT_REF, token: str | None = None
+) -> ListingsMetadata:
     """Fetch blob metadata for upstream ``listings.json`` (small response).
 
     Use this to read the blob ``sha`` without downloading the full (~14 MiB)
@@ -94,23 +111,37 @@ def get_listings_metadata(ref: str = DEFAULT_REF, token: str | None = None) -> d
             limits on the REST API.
 
     Returns:
-        A dict with keys ``sha`` (str), ``size`` (int), and ``download_url``
-        (str) as returned by the GitHub Contents API.
+        A mapping with ``sha``, ``size``, and ``download_url`` as returned by
+        the GitHub Contents API (validated types).
 
     Raises:
         RuntimeError: If the JSON response is missing any of the required keys,
             or if :func:`_http_get` raises for HTTP errors.
     """
-    raw = _http_get(listings_contents_url(ref=ref), token=token, timeout=60)
-    data = json.loads(raw.decode())
+    raw = _http_get(
+        listings_contents_url(ref=ref),
+        token=token,
+        timeout=CONTENTS_API_TIMEOUT_SECONDS,
+    )
+    data = json.loads(raw.decode("utf-8"))
     for key in ("sha", "size", "download_url"):
         if key not in data:
             raise RuntimeError(f"GitHub response missing {key!r}: keys={list(data)!r}")
-    return {
-        "sha": data["sha"],
-        "size": data["size"],
-        "download_url": data["download_url"],
+    sha, size, download_url = data["sha"], data["size"], data["download_url"]
+    if not isinstance(sha, str):
+        raise RuntimeError(f"GitHub response 'sha' must be a string, got {type(sha).__name__}")
+    if not isinstance(size, int):
+        raise RuntimeError(f"GitHub response 'size' must be an int, got {type(size).__name__}")
+    if not isinstance(download_url, str):
+        raise RuntimeError(
+            f"GitHub response 'download_url' must be a string, got {type(download_url).__name__}"
+        )
+    meta: ListingsMetadata = {
+        "sha": sha,
+        "size": size,
+        "download_url": download_url,
     }
+    return meta
 
 
 def fetch_listings_json(download_url: str, token: str | None = None) -> list[dict[str, Any]]:
@@ -132,8 +163,10 @@ def fetch_listings_json(download_url: str, token: str | None = None) -> list[dic
         RuntimeError: If the decoded JSON is not a list, or on HTTP errors from
             :func:`_http_get`.
     """
-    raw = _http_get(download_url, token=token, timeout=120)
-    parsed = json.loads(raw.decode())
+    raw = _http_get(
+        download_url, token=token, timeout=LISTINGS_DOWNLOAD_TIMEOUT_SECONDS
+    )
+    parsed = json.loads(raw.decode("utf-8"))
     if not isinstance(parsed, list):
         raise RuntimeError(f"Expected JSON array, got {type(parsed).__name__}")
     return parsed

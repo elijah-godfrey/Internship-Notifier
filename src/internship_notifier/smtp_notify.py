@@ -8,6 +8,10 @@ import ssl
 from dataclasses import dataclass
 from email.message import EmailMessage
 
+DEFAULT_SMTP_PORT = 587
+DEFAULT_SUBJECT_PREFIX = "Internship notifier"
+SMTP_TIMEOUT_SECONDS = 60
+
 
 @dataclass(frozen=True)
 class SmtpSettings:
@@ -15,7 +19,8 @@ class SmtpSettings:
 
     Attributes:
         host: SMTP server hostname.
-        port: Server port (587 STARTTLS, 465 SSL, or plain per ``use_tls``).
+        port: Server port (465 uses implicit TLS; others use plain SMTP, with
+            STARTTLS when the server advertises it).
         user: Login username; empty string if the server needs no auth.
         password: Login password (often an app password for Gmail/Outlook).
         mail_from: RFC5322 From address.
@@ -37,7 +42,8 @@ def settings_from_env() -> SmtpSettings | None:
 
     If ``SMTP_HOST`` is set, ``SMTP_FROM`` and ``SMTP_TO`` must also be set.
 
-    Recognized variables: ``SMTP_HOST``, ``SMTP_PORT`` (default ``587``),
+    Recognized variables: ``SMTP_HOST``, ``SMTP_PORT`` (default
+    :data:`DEFAULT_SMTP_PORT`),
     ``SMTP_USER``, ``SMTP_PASSWORD``, ``SMTP_FROM``, ``SMTP_TO``.
 
     Returns:
@@ -54,7 +60,7 @@ def settings_from_env() -> SmtpSettings | None:
     mail_to = (os.environ.get("SMTP_TO") or "").strip()
     if not mail_from or not mail_to:
         raise ValueError("SMTP_HOST is set; SMTP_FROM and SMTP_TO are required")
-    port_raw = (os.environ.get("SMTP_PORT") or "587").strip()
+    port_raw = (os.environ.get("SMTP_PORT") or str(DEFAULT_SMTP_PORT)).strip()
     try:
         port = int(port_raw)
     except ValueError as e:
@@ -93,16 +99,19 @@ def send_plaintext_email(*, subject: str, body: str, settings: SmtpSettings) -> 
     msg.set_content(body)
 
     if settings.port == 465:
-        with smtplib.SMTP_SSL(settings.host, settings.port, timeout=60) as smtp:
+        with smtplib.SMTP_SSL(
+            settings.host, settings.port, timeout=SMTP_TIMEOUT_SECONDS
+        ) as smtp:
             if settings.user:
                 smtp.login(settings.user, settings.password)
             smtp.send_message(msg)
         return
 
-    with smtplib.SMTP(settings.host, settings.port, timeout=60) as smtp:
+    ctx = ssl.create_default_context()
+    with smtplib.SMTP(settings.host, settings.port, timeout=SMTP_TIMEOUT_SECONDS) as smtp:
         smtp.ehlo()
-        if settings.port == 587:
-            smtp.starttls(context=ssl.create_default_context())
+        if smtp.has_extn("STARTTLS"):
+            smtp.starttls(context=ctx)
             smtp.ehlo()
         if settings.user:
             smtp.login(settings.user, settings.password)

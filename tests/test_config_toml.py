@@ -151,7 +151,9 @@ class TestResolveConfigPath:
         cwd_toml.write_text('source = "offseason"\nall_categories = true\n', encoding="utf-8")
         assert resolve_config_path(None) == cwd_toml
 
-    def test_returns_none_when_no_candidate(self, tmp_path, monkeypatch: pytest.MonkeyPatch) -> None:
+    def test_returns_none_when_no_candidate(
+        self, tmp_path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
         monkeypatch.delenv("NOTIFIER_CONFIG", raising=False)
         monkeypatch.chdir(tmp_path)
         assert resolve_config_path(None) is None

@@ -4,7 +4,11 @@ from __future__ import annotations
 
 import pytest
 
-from internship_notifier.smtp_notify import SmtpSettings, settings_from_env
+from internship_notifier.smtp_notify import (
+    DEFAULT_SMTP_PORT,
+    SmtpSettings,
+    settings_from_env,
+)
 
 SMTP_KEYS = (
     "SMTP_HOST",
@@ -39,7 +43,7 @@ class TestSettingsFromEnv:
         got = settings_from_env()
         assert got == SmtpSettings(
             host="smtp.example.com",
-            port=587,
+            port=DEFAULT_SMTP_PORT,
             user="",
             password="",
             mail_from="from@example.com",

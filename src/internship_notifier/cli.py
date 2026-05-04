@@ -11,9 +11,7 @@ from typing import Any
 
 from dotenv import load_dotenv
 
-from internship_notifier import filters
-from internship_notifier import github_listings
-from internship_notifier import smtp_notify
+from internship_notifier import filters, github_listings, smtp_notify
 from internship_notifier.config_toml import (
     NotifierTomlConfig,
     load_notifier_toml,
@@ -70,6 +68,11 @@ def _merge_filter_options(
     if file_cfg.all_categories:
         return source, True, []
     return source, False, list(file_cfg.categories)
+
+
+def _seen_id_strings(listings: list[dict[str, Any]]) -> set[str]:
+    """Stable string ids for listings that define ``id`` (skip null/missing)."""
+    return {str(L["id"]) for L in listings if L.get("id") is not None}
 
 
 def _format_listing_line(listing: dict[str, Any]) -> str:
@@ -191,7 +194,7 @@ def run(argv: list[str] | None = None) -> int:
         filtered = filters.filter_by_categories(filtered, set(categories))
 
     if ns.bootstrap:
-        ids = {str(L["id"]) for L in filtered if "id" in L}
+        ids = _seen_id_strings(filtered)
         if not ns.dry_run:
             state.seen_ids |= ids
             state.listings_sha = new_sha
@@ -216,7 +219,9 @@ def run(argv: list[str] | None = None) -> int:
 
     settings = smtp_notify.settings_from_env()
     if new_rows and settings:
-        prefix = (os.environ.get("SMTP_SUBJECT_PREFIX") or "Internship notifier").strip()
+        prefix = (
+            os.environ.get("SMTP_SUBJECT_PREFIX") or smtp_notify.DEFAULT_SUBJECT_PREFIX
+        ).strip()
         subject = f"{prefix}: {len(new_rows)} new listing(s)"
         body = "\n".join(_format_listing_line(r) for r in new_rows) + "\n"
         if ns.dry_run:
@@ -239,7 +244,7 @@ def run(argv: list[str] | None = None) -> int:
         )
         return 0
 
-    state.seen_ids |= {str(L["id"]) for L in new_rows if L.get("id") is not None}
+    state.seen_ids |= _seen_id_strings(new_rows)
     state.listings_sha = new_sha
     save_state(state, state_path)
     print(

@@ -10,7 +10,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from internship_notifier.cli import run
-from internship_notifier.state import NotifierState, load_state, save_state
+from internship_notifier.state import NotifierState, load_state
 
 
 def _offseason_row(**overrides: object) -> dict:

@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import os
 import tomllib
 from dataclasses import dataclass
 from pathlib import Path
@@ -55,8 +56,14 @@ def load_notifier_toml(path: Path) -> NotifierTomlConfig:
     if all_categories:
         categories: list[str] = []
     else:
-        if not isinstance(categories_raw, list) or not all(isinstance(x, str) for x in categories_raw):
-            raise ValueError("notifier.toml: 'categories' must be an array of strings when all_categories is false")
+        cats_ok = isinstance(categories_raw, list) and all(
+            isinstance(x, str) for x in categories_raw
+        )
+        if not cats_ok:
+            raise ValueError(
+                "notifier.toml: 'categories' must be an array of strings when "
+                "all_categories is false"
+            )
         categories = [str(x).strip() for x in categories_raw if str(x).strip()]
         if not categories:
             raise ValueError(
@@ -87,8 +94,6 @@ def resolve_config_path(explicit: Path | None) -> Path | None:
     Raises:
         FileNotFoundError: When ``explicit`` is set but is not a readable file.
     """
-    import os
-
     if explicit is not None:
         if not explicit.is_file():
             raise FileNotFoundError(f"notifier config not found: {explicit}")

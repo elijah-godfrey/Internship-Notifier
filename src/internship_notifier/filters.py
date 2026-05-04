@@ -21,6 +21,9 @@ BLOCKED_COMPANIES: frozenset[str] = frozenset(
 DEFAULT_SUMMER_YEAR = "2026"
 DEFAULT_SUMMER_EARLIEST_DATE_POSTED = 1748761200
 
+# Substrings matched in ``terms`` entries (mirrors upstream off-season README).
+_OFF_SEASON_SEASON_MARKERS: tuple[str, ...] = ("Fall", "Winter", "Spring")
+
 
 def filter_summer(
     listings: list[Listing],
@@ -77,7 +80,9 @@ def filter_off_season(listings: list[Listing]) -> list[Listing]:
         if not listing.get("is_visible"):
             continue
         terms = listing.get("terms") or []
-        has_off = any(season in term for term in terms for season in ("Fall", "Winter", "Spring"))
+        has_off = any(
+            season in term for term in terms for season in _OFF_SEASON_SEASON_MARKERS
+        )
         has_summer = any("Summer" in term for term in terms)
         if has_off and not has_summer:
             result.append(listing)

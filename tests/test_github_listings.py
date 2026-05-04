@@ -72,6 +72,16 @@ class TestGetListingsMetadata:
             with pytest.raises(RuntimeError, match="GitHub response missing 'download_url'"):
                 get_listings_metadata()
 
+    def test_raises_when_sha_not_string(self) -> None:
+        payload = {
+            "sha": 123,
+            "size": 1,
+            "download_url": "https://example.com/blob",
+        }
+        with patch.object(github_listings, "_http_get", return_value=json.dumps(payload).encode()):
+            with pytest.raises(RuntimeError, match="'sha' must be a string"):
+                get_listings_metadata()
+
 
 class TestFetchListingsJson:
     def test_returns_list_of_dicts(self) -> None:
