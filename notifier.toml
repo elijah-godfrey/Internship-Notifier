@@ -8,3 +8,12 @@ all_categories = true
 
 # When all_categories is false, list exact upstream category names (repeat in TOML for several).
 categories = ["Software Engineering"]
+
+# Optional prestige filtering (not active until the ranking integration is enabled).
+# Choose exactly one:
+#
+# [prestige]
+# minimum_score = 75
+#
+# [prestige]
+# benchmark_company = "Microsoft"

@@ -4,11 +4,30 @@ from __future__ import annotations
 
 import os
 import tomllib
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
 ALLOWED_SOURCES = frozenset({"summer2026", "offseason"})
+MIN_PRESTIGE_SCORE = 1
+MAX_PRESTIGE_SCORE = 100
+
+
+@dataclass(frozen=True)
+class PrestigeTomlConfig:
+    """Optional company-prestige threshold configuration.
+
+    Exactly one threshold may be configured: a numeric score or one benchmark
+    company whose cached score will become the threshold.
+    """
+
+    minimum_score: int | None = None
+    benchmark_company: str | None = None
+
+    @property
+    def enabled(self) -> bool:
+        """Whether prestige filtering was configured."""
+        return self.minimum_score is not None or self.benchmark_company is not None
 
 
 @dataclass(frozen=True)
@@ -19,11 +38,56 @@ class NotifierTomlConfig:
         source: ``summer2026`` or ``offseason`` (README parity).
         all_categories: When ``True``, do not filter by category.
         categories: Canonical category names when ``all_categories`` is ``False``.
+        prestige: Optional company-prestige threshold settings.
     """
 
     source: str
     all_categories: bool
     categories: list[str]
+    prestige: PrestigeTomlConfig = field(default_factory=PrestigeTomlConfig)
+
+
+def _load_prestige_config(data: dict[str, Any]) -> PrestigeTomlConfig:
+    """Parse the optional ``[prestige]`` table."""
+    raw = data.get("prestige")
+    if raw is None:
+        return PrestigeTomlConfig()
+    if not isinstance(raw, dict):
+        raise ValueError("notifier.toml: 'prestige' must be a TOML table")
+
+    minimum_score = raw.get("minimum_score")
+    benchmark_company = raw.get("benchmark_company")
+
+    if minimum_score is not None:
+        if isinstance(minimum_score, bool) or not isinstance(minimum_score, int):
+            raise ValueError("notifier.toml: prestige.minimum_score must be an integer")
+        if not MIN_PRESTIGE_SCORE <= minimum_score <= MAX_PRESTIGE_SCORE:
+            raise ValueError(
+                "notifier.toml: prestige.minimum_score must be between "
+                f"{MIN_PRESTIGE_SCORE} and {MAX_PRESTIGE_SCORE}"
+            )
+
+    if benchmark_company is not None:
+        if not isinstance(benchmark_company, str) or not benchmark_company.strip():
+            raise ValueError(
+                "notifier.toml: prestige.benchmark_company must be a non-empty string"
+            )
+        benchmark_company = benchmark_company.strip()
+
+    if minimum_score is not None and benchmark_company is not None:
+        raise ValueError(
+            "notifier.toml: set either prestige.minimum_score or "
+            "prestige.benchmark_company, not both"
+        )
+    if minimum_score is None and benchmark_company is None:
+        raise ValueError(
+            "notifier.toml: [prestige] must set minimum_score or benchmark_company"
+        )
+
+    return PrestigeTomlConfig(
+        minimum_score=minimum_score,
+        benchmark_company=benchmark_company,
+    )
 
 
 def load_notifier_toml(path: Path) -> NotifierTomlConfig:
@@ -74,6 +138,7 @@ def load_notifier_toml(path: Path) -> NotifierTomlConfig:
         source=source,
         all_categories=all_categories,
         categories=categories,
+        prestige=_load_prestige_config(data),
     )
 
 

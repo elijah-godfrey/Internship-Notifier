@@ -8,6 +8,7 @@ import pytest
 
 from internship_notifier.config_toml import (
     NotifierTomlConfig,
+    PrestigeTomlConfig,
     load_notifier_toml,
     resolve_config_path,
 )
@@ -49,6 +50,7 @@ class TestLoadNotifierToml:
         assert cfg.source == "summer2026"
         assert cfg.all_categories is True
         assert cfg.categories == []
+        assert cfg.prestige == PrestigeTomlConfig()
 
     def test_strips_category_whitespace_and_skips_empty(self, tmp_path) -> None:
         p = tmp_path / "notifier.toml"
@@ -117,6 +119,85 @@ class TestLoadNotifierToml:
             """,
         )
         with pytest.raises(ValueError, match="categories"):
+            load_notifier_toml(p)
+
+
+class TestPrestigeTomlConfig:
+    def test_loads_minimum_score(self, tmp_path) -> None:
+        p = tmp_path / "notifier.toml"
+        _write_toml(
+            p,
+            """
+            source = "offseason"
+            all_categories = true
+
+            [prestige]
+            minimum_score = 75
+            """,
+        )
+        assert load_notifier_toml(p).prestige == PrestigeTomlConfig(minimum_score=75)
+
+    def test_loads_and_strips_benchmark_company(self, tmp_path) -> None:
+        p = tmp_path / "notifier.toml"
+        _write_toml(
+            p,
+            """
+            source = "offseason"
+            all_categories = true
+
+            [prestige]
+            benchmark_company = "  Microsoft  "
+            """,
+        )
+        assert load_notifier_toml(p).prestige == PrestigeTomlConfig(
+            benchmark_company="Microsoft"
+        )
+
+    @pytest.mark.parametrize("score", [0, 101, 4.5, True])
+    def test_rejects_invalid_minimum_score(self, tmp_path, score) -> None:
+        p = tmp_path / "notifier.toml"
+        value = str(score).lower() if isinstance(score, bool) else score
+        _write_toml(
+            p,
+            f"""
+            source = "offseason"
+            all_categories = true
+
+            [prestige]
+            minimum_score = {value}
+            """,
+        )
+        with pytest.raises(ValueError, match="minimum_score"):
+            load_notifier_toml(p)
+
+    def test_rejects_both_threshold_types(self, tmp_path) -> None:
+        p = tmp_path / "notifier.toml"
+        _write_toml(
+            p,
+            """
+            source = "offseason"
+            all_categories = true
+
+            [prestige]
+            minimum_score = 75
+            benchmark_company = "Microsoft"
+            """,
+        )
+        with pytest.raises(ValueError, match="not both"):
+            load_notifier_toml(p)
+
+    def test_rejects_empty_prestige_table(self, tmp_path) -> None:
+        p = tmp_path / "notifier.toml"
+        _write_toml(
+            p,
+            """
+            source = "offseason"
+            all_categories = true
+
+            [prestige]
+            """,
+        )
+        with pytest.raises(ValueError, match="must set"):
             load_notifier_toml(p)
 
 
