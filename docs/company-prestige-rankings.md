@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **257** of **257** cached companies (maximum 500).
+Showing **258** of **258** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -178,6 +178,7 @@ Showing **257** of **257** cached companies (maximum 500).
 | EquipmentShare | 53 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Growing construction-technology company with relevant product engineering work, but limited broad prestige relative to major software employers. |
 | Brookfield | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | Brookfield Asset Management | Major global asset manager, but its software engineering brand is not a primary industry signal. |
 | Brunswick | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established recreation and marine-products company, but not a broadly prominent software-engineering employer. |
+| Corpay | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | Fleetcor Technologies | Established corporate-payments and expense-management company with credible engineering work, but its software brand and internship selectivity are less prominent than leading technology employers. |
 | Cotiviti | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare analytics and payment-integrity company, but not broadly known for an elite software-engineering brand. |
 | HEXAWARE | 52 | High | 2026-07-18 | gpt-5.6-terra | No | Hexaware Technologies | Established IT services and consulting employer with a credible but not highly selective software-engineering signal. |
 | iHerb | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established e-commerce company with meaningful software needs, though it is not widely viewed as a top engineering brand. |
