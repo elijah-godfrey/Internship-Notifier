@@ -77,15 +77,18 @@ def _prestige_assessment(
     score: int,
     *,
     aliases: tuple[str, ...] = (),
+    reviewed_at: date = date(2026, 7, 17),
+    manual_override: bool = False,
 ) -> CompanyPrestige:
     return CompanyPrestige(
         display_name=company,
         prestige_score=score,
         confidence="high",
         reason="Test prestige assessment.",
-        reviewed_at=date(2026, 7, 17),
+        reviewed_at=reviewed_at,
         model="test-model",
         aliases=aliases,
+        manual_override=manual_override,
     )
 
 
@@ -134,6 +137,57 @@ class TestRunShaShortCircuit:
             )
         assert code == 0
         fetch.assert_not_called()
+
+    def test_refreshes_stale_prestige_cache_before_sha_short_circuit(
+        self, tmp_path, clear_smtp_env
+    ) -> None:
+        cfg = _write_notifier(tmp_path, minimum_score=75)
+        state_path = tmp_path / "state.json"
+        cache_path = tmp_path / "company-prestige-cache.json"
+        _write_state(
+            state_path,
+            NotifierState(listings_sha="same-sha", seen_ids={"1"}),
+        )
+        _write_prestige_cache(
+            cache_path,
+            _prestige_assessment(
+                "Acme",
+                70,
+                reviewed_at=date(2025, 1, 1),
+            ),
+        )
+        meta = {"sha": "same-sha", "size": 1, "download_url": "https://example.com/raw"}
+        refreshed = _prestige_assessment("Acme", 80)
+        ranker = MagicMock()
+        ranker.rank_company.return_value = refreshed
+        ranker.rank_companies.return_value = [refreshed]
+        fetch = MagicMock()
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch("internship_notifier.github_listings.fetch_listings_json", fetch),
+            patch(
+                "internship_notifier.cli.OpenAIPrestigeRanker",
+                return_value=ranker,
+            ),
+        ):
+            code = run(
+                [
+                    "--config",
+                    str(cfg),
+                    "--state-path",
+                    str(state_path),
+                ]
+            )
+
+        assert code == 0
+        fetch.assert_not_called()
+        cached = load_prestige_cache(cache_path).get("Acme")
+        assert cached is not None
+        assert cached.prestige_score == 80
 
 
 class TestRunBootstrap:
@@ -358,6 +412,7 @@ class TestRunPrestigeFiltering:
         meta = {"sha": "new", "size": 1, "download_url": "https://example.com/raw"}
         ranker = MagicMock()
         ranker.rank_company.return_value = _prestige_assessment("Acme", 85)
+        ranker.rank_companies.return_value = [ranker.rank_company.return_value]
 
         with (
             patch(
@@ -383,7 +438,10 @@ class TestRunPrestigeFiltering:
             )
 
         assert code == 0
-        ranker.rank_company.assert_called_once_with("Acme")
+        ranker.rank_companies.assert_called_once_with(
+            ["Acme"],
+            reviewed_at=None,
+        )
         assert load_prestige_cache(cache_path).get("Acme") is not None
         assert "Acme" in capsys.readouterr().out
 
@@ -443,6 +501,7 @@ class TestRunPrestigeFiltering:
         meta = {"sha": "new", "size": 1, "download_url": "https://example.com/raw"}
         ranker = MagicMock()
         ranker.rank_company.side_effect = PrestigeRankingError("API unavailable")
+        ranker.rank_companies.side_effect = PrestigeRankingError("API unavailable")
 
         with (
             patch(
@@ -531,6 +590,7 @@ class TestRunPrestigeFiltering:
         meta = {"sha": "new", "size": 1, "download_url": "https://example.com/raw"}
         ranker = MagicMock()
         ranker.rank_company.return_value = _prestige_assessment("Acme", 85)
+        ranker.rank_companies.return_value = [ranker.rank_company.return_value]
 
         with (
             patch(

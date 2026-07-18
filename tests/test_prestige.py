@@ -27,13 +27,14 @@ def _assessment(
     score: int = 88,
     aliases: tuple[str, ...] = ("Microsoft", "MSFT"),
     manual_override: bool = False,
+    reviewed_at: date = date(2026, 7, 17),
 ) -> CompanyPrestige:
     return CompanyPrestige(
         display_name=display_name,
         prestige_score=score,
         confidence="high",
         reason="Strong and widely recognized software engineering reputation.",
-        reviewed_at=date(2026, 7, 17),
+        reviewed_at=reviewed_at,
         model="test-model",
         aliases=aliases,
         manual_override=manual_override,
@@ -114,6 +115,73 @@ class TestPrestigeCache:
 
         assert changed is False
         assert cache.get("Microsoft") == manual
+
+    def test_replace_can_change_canonical_name(self) -> None:
+        cache = PrestigeCache()
+        existing = _assessment(display_name="Facebook", aliases=())
+        replacement = _assessment(display_name="Meta", aliases=("Facebook",))
+        cache.put(existing)
+
+        assert cache.replace(existing, replacement) is True
+        assert cache.get("Facebook") == replacement
+        assert "facebook" not in cache.companies
+
+    def test_stale_assessments_are_oldest_first_and_limited(self) -> None:
+        cache = PrestigeCache()
+        cache.put(
+            _assessment(
+                display_name="Oldest",
+                aliases=(),
+                reviewed_at=date(2025, 1, 1),
+            )
+        )
+        cache.put(
+            _assessment(
+                display_name="Boundary",
+                aliases=(),
+                reviewed_at=date(2026, 3, 17),
+            )
+        )
+        cache.put(
+            _assessment(
+                display_name="Fresh",
+                aliases=(),
+                reviewed_at=date(2026, 3, 18),
+            )
+        )
+
+        all_stale = cache.stale_assessments(as_of=date(2026, 7, 17))
+        limited = cache.stale_assessments(as_of=date(2026, 7, 17), limit=1)
+
+        assert [entry.display_name for entry in all_stale] == [
+            "Oldest",
+            "Boundary",
+        ]
+        assert [entry.display_name for entry in limited] == ["Oldest"]
+
+    def test_stale_assessments_skip_manual_overrides(self) -> None:
+        cache = PrestigeCache()
+        cache.put(
+            _assessment(
+                display_name="Manual",
+                aliases=(),
+                reviewed_at=date(2020, 1, 1),
+                manual_override=True,
+            )
+        )
+        assert cache.stale_assessments(as_of=date(2026, 7, 17)) == []
+
+    def test_stale_assessments_default_limit_is_25(self) -> None:
+        cache = PrestigeCache()
+        for index in range(30):
+            cache.put(
+                _assessment(
+                    display_name=f"Company {index}",
+                    aliases=(),
+                    reviewed_at=date(2025, 1, 1),
+                )
+            )
+        assert len(cache.stale_assessments(as_of=date(2026, 7, 17))) == 25
 
     def test_save_and_load_roundtrip(self, tmp_path) -> None:
         path = tmp_path / "cache.json"

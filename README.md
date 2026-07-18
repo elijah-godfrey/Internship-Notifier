@@ -8,6 +8,7 @@ and emails you only when new listing IDs appear.
 
 - Polls upstream `listings.json`
 - Applies your filters from `notifier.toml`
+- Optionally ranks company prestige and alerts only above your threshold
 - Keeps state (`seen_ids` + `listings_sha`) so you do not get duplicates
 - Optionally sends email via SMTP
 
@@ -28,6 +29,34 @@ Set what you want to track:
 - `categories = [...]` only matters when `all_categories = false`
 
 If you change filters later, run bootstrap again once.
+
+### Optional company prestige filter
+
+Choose exactly one threshold in `notifier.toml`.
+
+Use a numeric score:
+
+```toml
+[prestige]
+minimum_score = 75
+```
+
+Or use your current/baseline company:
+
+```toml
+[prestige]
+benchmark_company = "Microsoft"
+```
+
+Scores range from 1 to 100 and measure only software-engineering career
+prestige: technical reputation, selectivity, and career signal. Pay, work-life
+balance, location, and return-offer odds are deliberately excluded.
+
+The first time an unknown company appears, GPT-5.6 Terra ranks it and writes the
+result to `.github/company-prestige-cache.json`. Unknown companies are grouped
+into API requests of up to 20; later listings reuse the cached score.
+Automatic scores are refreshed after four months, at most 25 per workflow run.
+Entries with `"manual_override": true` are never refreshed automatically.
 
 ## 3) Configure environment (`.env`)
 
@@ -57,6 +86,20 @@ Typical Gmail values:
 - `SMTP_TO=yourgmail@gmail.com`
 - `SMTP_PASSWORD=16-char-app-password`
 
+### OpenAI API
+
+Prestige filtering needs an OpenAI API key only when a company is not already
+cached. API billing is separate from a ChatGPT subscription.
+
+For local runs, set:
+
+```text
+OPENAI_API_KEY=sk-your-key
+OPENAI_PRESTIGE_MODEL=gpt-5.6-terra
+```
+
+Never commit a real API key.
+
 ## 4) Bootstrap once
 
 Marks all currently matching listings as already seen.
@@ -85,9 +128,12 @@ It currently runs every **10 minutes** and persists state in
 Setup:
 
 1. Push repo and enable Actions.
-2. Add repo secrets: `SMTP_HOST`, `SMTP_FROM`, `SMTP_TO`, and usually
+2. Add the `OPENAI_API_KEY` repository secret if prestige filtering is enabled.
+3. Add the `OPENAI_PRESTIGE_MODEL` repository variable with
+   `gpt-5.6-terra` (optional; this is the default).
+4. Add email secrets: `SMTP_HOST`, `SMTP_FROM`, `SMTP_TO`, and usually
    `SMTP_USER`, `SMTP_PASSWORD`.
-3. Run the workflow manually once with `bootstrap=true`.
+5. Run the workflow manually once with `bootstrap=true`.
 
 If logs say `No upstream change (listings.json blob sha unchanged).`,
 upstream data has not changed since your saved SHA.

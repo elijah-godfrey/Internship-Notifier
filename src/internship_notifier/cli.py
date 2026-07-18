@@ -22,12 +22,13 @@ from internship_notifier.prestige import (
     PrestigeCache,
     load_prestige_cache,
     meets_prestige_threshold,
+    resolve_minimum_score,
     save_prestige_cache,
 )
 from internship_notifier.prestige_ranker import (
     OpenAIPrestigeRanker,
-    get_or_rank_company,
-    resolve_or_rank_minimum_score,
+    get_or_rank_companies,
+    refresh_stale_companies,
 )
 from internship_notifier.state import load_state, save_state
 
@@ -104,40 +105,63 @@ def _filter_new_rows_by_prestige(
     if not config.enabled or not rows:
         return rows, False, None
 
-    ranker: OpenAIPrestigeRanker | None = None
-
-    def available_ranker() -> OpenAIPrestigeRanker:
-        nonlocal ranker
-        if ranker is None:
-            ranker = OpenAIPrestigeRanker()
-        return ranker
-
-    threshold, cache_changed = resolve_or_rank_minimum_score(
-        config,
-        cache,
-        available_ranker()
-        if config.benchmark_company and cache.get(config.benchmark_company) is None
-        else None,
-    )
-    if threshold is None:
-        raise RuntimeError("prestige filtering is enabled but has no score threshold")
-
-    eligible: list[dict[str, Any]] = []
+    row_companies: list[str] = []
     for row in rows:
         company = row.get("company_name")
         if not isinstance(company, str) or not company.strip():
             raise RuntimeError("new listing is missing a company_name for prestige ranking")
-        cached = cache.get(company)
-        assessment, changed = get_or_rank_company(
-            company,
-            cache,
-            available_ranker() if cached is None else None,
-        )
-        cache_changed |= changed
+        row_companies.append(company)
+
+    requested_companies = (
+        [config.benchmark_company, *row_companies]
+        if config.benchmark_company is not None
+        else row_companies
+    )
+    has_unknown = any(cache.get(company) is None for company in requested_companies)
+    assessments, cache_changed = get_or_rank_companies(
+        requested_companies,
+        cache,
+        OpenAIPrestigeRanker() if has_unknown else None,
+    )
+    threshold = resolve_minimum_score(config, cache)
+    if threshold is None:
+        raise RuntimeError("prestige filtering is enabled but has no score threshold")
+
+    row_assessments = assessments[-len(rows) :]
+    eligible: list[dict[str, Any]] = []
+    for row, assessment in zip(rows, row_assessments, strict=True):
         if meets_prestige_threshold(assessment.prestige_score, threshold):
             eligible.append(row)
 
     return eligible, cache_changed, threshold
+
+
+def _refresh_prestige_cache(
+    config: PrestigeTomlConfig,
+    cache: PrestigeCache,
+    cache_path: Path | None,
+    *,
+    dry_run: bool,
+) -> None:
+    """Refresh a bounded stale-cache batch without blocking normal polling."""
+    if not config.enabled or dry_run or not cache.stale_assessments():
+        return
+    try:
+        ranker = OpenAIPrestigeRanker()
+    except RuntimeError as exc:
+        print(f"Warning: prestige cache refresh skipped: {exc}", file=sys.stderr)
+        return
+
+    result = refresh_stale_companies(cache, ranker)
+    if result.refreshed:
+        save_prestige_cache(cache, cache_path)
+    print(
+        f"Prestige cache refresh: {result.refreshed} updated, "
+        f"{len(result.failures)} failed.",
+        file=sys.stderr,
+    )
+    for failure in result.failures:
+        print(f"Warning: prestige refresh failed for {failure}", file=sys.stderr)
 
 
 def run(argv: list[str] | None = None) -> int:
@@ -242,6 +266,20 @@ def run(argv: list[str] | None = None) -> int:
     prestige_cache_path: Path | None = ns.prestige_cache_path
     if prestige_cache_path is None and state_path is not None:
         prestige_cache_path = state_path.with_name("company-prestige-cache.json")
+    prestige_config = (
+        file_cfg.prestige if file_cfg is not None else PrestigeTomlConfig()
+    )
+    prestige_cache = (
+        load_prestige_cache(prestige_cache_path)
+        if prestige_config.enabled
+        else PrestigeCache()
+    )
+    _refresh_prestige_cache(
+        prestige_config,
+        prestige_cache,
+        prestige_cache_path,
+        dry_run=ns.dry_run,
+    )
 
     meta = github_listings.get_listings_metadata(ref=ns.ref)
     new_sha: str = meta["sha"]
@@ -280,14 +318,6 @@ def run(argv: list[str] | None = None) -> int:
         return 2
 
     new_rows = [L for L in filtered if str(L.get("id", "")) not in state.seen_ids]
-    prestige_config = (
-        file_cfg.prestige if file_cfg is not None else PrestigeTomlConfig()
-    )
-    prestige_cache = (
-        load_prestige_cache(prestige_cache_path)
-        if prestige_config.enabled and new_rows
-        else PrestigeCache()
-    )
     notify_rows, prestige_cache_changed, prestige_threshold = (
         _filter_new_rows_by_prestige(
             new_rows,

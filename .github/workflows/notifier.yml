@@ -3,8 +3,10 @@
 # Filter source and categories: edit notifier.toml at the repo root (committed).
 #
 # Setup (repo Settings → Secrets and variables → Actions):
-#   Secrets: SMTP_HOST, SMTP_FROM, SMTP_TO, and usually SMTP_USER, SMTP_PASSWORD
-#            (optional: SMTP_PORT default 587, SMTP_SUBJECT_PREFIX)
+#   Secrets: OPENAI_API_KEY, SMTP_HOST, SMTP_FROM, SMTP_TO, and usually
+#            SMTP_USER, SMTP_PASSWORD (optional: SMTP_PORT default 587,
+#            SMTP_SUBJECT_PREFIX)
+#   Variable: OPENAI_PRESTIGE_MODEL (optional; default gpt-5.6-terra)
 #
 # First time: run this workflow manually with "bootstrap" checked, or rely on
 # auto-bootstrap when .github/internship-notifier-state.json is missing or has
@@ -35,6 +37,8 @@ jobs:
   poll:
     runs-on: ubuntu-latest
     env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_PRESTIGE_MODEL: ${{ vars.OPENAI_PRESTIGE_MODEL }}
       SMTP_HOST: ${{ secrets.SMTP_HOST }}
       SMTP_PORT: ${{ secrets.SMTP_PORT }}
       SMTP_FROM: ${{ secrets.SMTP_FROM }}
@@ -56,7 +60,12 @@ jobs:
         run: |
           set -euo pipefail
           STATE_PATH=".github/internship-notifier-state.json"
-          COMMON=(python -m internship_notifier --state-path "$STATE_PATH")
+          PRESTIGE_CACHE_PATH=".github/company-prestige-cache.json"
+          COMMON=(
+            python -m internship_notifier
+            --state-path "$STATE_PATH"
+            --prestige-cache-path "$PRESTIGE_CACHE_PATH"
+          )
 
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.bootstrap }}" = "true" ]; then
             "${COMMON[@]}" --bootstrap
@@ -68,19 +77,22 @@ jobs:
 
           "${COMMON[@]}"
 
-      - name: Commit state if changed
+      - name: Commit notifier data if changed
         run: |
           set -euo pipefail
-          if [ ! -f .github/internship-notifier-state.json ]; then
-            echo "No state file on disk; skipping commit."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .github/internship-notifier-state.json
+          for path in \
+            .github/internship-notifier-state.json \
+            .github/company-prestige-cache.json
+          do
+            if [ -f "$path" ]; then
+              git add "$path"
+            fi
+          done
           if git diff --staged --quiet; then
-            echo "No state file changes to commit."
+            echo "No notifier data changes to commit."
           else
-            git commit -m "chore: update internship notifier state"
+            git commit -m "chore: update internship notifier data"
             git push
           fi

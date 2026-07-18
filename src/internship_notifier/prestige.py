@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import re
 import unicodedata
+from calendar import monthrange
 from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
@@ -19,6 +20,8 @@ from internship_notifier.state import default_state_path
 
 CACHE_SCHEMA_VERSION = 1
 PRESTIGE_RUBRIC_VERSION = "prestige-v1"
+DEFAULT_REFRESH_AFTER_MONTHS = 4
+DEFAULT_MAX_REFRESHES_PER_RUN = 25
 Confidence = Literal["low", "medium", "high"]
 ALLOWED_CONFIDENCE: frozenset[str] = frozenset({"low", "medium", "high"})
 
@@ -62,7 +65,7 @@ def normalize_company_name(name: str) -> str:
 
 
 def validate_prestige_score(score: object) -> int:
-    """Validate and return a 1–100 prestige score."""
+    """Validate and return a 1-100 prestige score."""
     if isinstance(score, bool) or not isinstance(score, int):
         raise ValueError("prestige score must be an integer")
     if not MIN_PRESTIGE_SCORE <= score <= MAX_PRESTIGE_SCORE:
@@ -196,6 +199,47 @@ class PrestigeCache:
         self.companies[key] = assessment
         return True
 
+    def replace(
+        self,
+        existing: CompanyPrestige,
+        replacement: CompanyPrestige,
+    ) -> bool:
+        """Replace an automatic assessment while preserving manual overrides."""
+        old_key = normalize_company_name(existing.display_name)
+        current = self.companies.get(old_key)
+        if current is None:
+            return self.put(replacement)
+        if current.manual_override:
+            return False
+
+        new_key = normalize_company_name(replacement.display_name)
+        target = self.companies.get(new_key)
+        if target is not None and target != current and target.manual_override:
+            return False
+
+        self.companies.pop(old_key)
+        return self.put(replacement)
+
+    def stale_assessments(
+        self,
+        *,
+        as_of: date | None = None,
+        refresh_after_months: int = DEFAULT_REFRESH_AFTER_MONTHS,
+        limit: int = DEFAULT_MAX_REFRESHES_PER_RUN,
+    ) -> list[CompanyPrestige]:
+        """Return oldest stale automatic assessments, capped per run."""
+        if refresh_after_months < 1:
+            raise ValueError("refresh_after_months must be at least 1")
+        if limit < 0:
+            raise ValueError("limit must not be negative")
+        cutoff = _months_before(as_of or date.today(), refresh_after_months)
+        stale = [
+            assessment
+            for assessment in self.companies.values()
+            if not assessment.manual_override and assessment.reviewed_at <= cutoff
+        ]
+        return sorted(stale, key=lambda assessment: assessment.reviewed_at)[:limit]
+
     def to_json_dict(self) -> dict[str, Any]:
         """Serialize the complete cache with a schema version."""
         return {
@@ -235,6 +279,15 @@ class PrestigeCache:
 def default_prestige_cache_path() -> Path:
     """Return the local cache path beside the notifier state file."""
     return default_state_path().with_name("company-prestige-cache.json")
+
+
+def _months_before(value: date, months: int) -> date:
+    """Subtract calendar months while clamping to the target month's last day."""
+    month_index = value.year * 12 + value.month - 1 - months
+    year, zero_based_month = divmod(month_index, 12)
+    month = zero_based_month + 1
+    day = min(value.day, monthrange(year, month)[1])
+    return date(year, month, day)
 
 
 def load_prestige_cache(path: Path | None = None) -> PrestigeCache:
