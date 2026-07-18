@@ -10,7 +10,7 @@ and emails you only when new listing IDs appear.
 - Applies your filters from `notifier.toml`
 - Optionally ranks company prestige and alerts only above your threshold
 - Keeps state (`seen_ids` + `listings_sha`) so you do not get duplicates
-- Optionally sends email via SMTP
+- Optionally sends formatted HTML email via SMTP, with a plain-text fallback
 
 ## 1) Install
 

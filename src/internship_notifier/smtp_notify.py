@@ -77,16 +77,23 @@ def settings_from_env() -> SmtpSettings | None:
     )
 
 
-def send_plaintext_email(*, subject: str, body: str, settings: SmtpSettings) -> None:
-    """Send a single plain-text message.
+def send_email(
+    *,
+    subject: str,
+    plain_body: str,
+    settings: SmtpSettings,
+    html_body: str | None = None,
+) -> None:
+    """Send a multipart email with a plain-text fallback.
 
     Uses STARTTLS on port 587 (default), implicit TLS on port 465, otherwise a
     plain SMTP session (still calls ``login`` when ``settings.user`` is set).
 
     Args:
         subject: Email subject line.
-        body: UTF-8 plain body.
+        plain_body: UTF-8 plain-text content.
         settings: Connection and envelope data.
+        html_body: Optional HTML alternative.
 
     Raises:
         smtplib.SMTPException: On SMTP-level failures (auth, relay, etc.).
@@ -96,7 +103,9 @@ def send_plaintext_email(*, subject: str, body: str, settings: SmtpSettings) -> 
     msg["Subject"] = subject
     msg["From"] = settings.mail_from
     msg["To"] = settings.mail_to
-    msg.set_content(body)
+    msg.set_content(plain_body)
+    if html_body is not None:
+        msg.add_alternative(html_body, subtype="html")
 
     if settings.port == 465:
         with smtplib.SMTP_SSL(
@@ -116,3 +125,12 @@ def send_plaintext_email(*, subject: str, body: str, settings: SmtpSettings) -> 
         if settings.user:
             smtp.login(settings.user, settings.password)
         smtp.send_message(msg)
+
+
+def send_plaintext_email(*, subject: str, body: str, settings: SmtpSettings) -> None:
+    """Backward-compatible wrapper for callers that only have plain text."""
+    send_email(
+        subject=subject,
+        plain_body=body,
+        settings=settings,
+    )

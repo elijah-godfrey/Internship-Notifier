@@ -2,11 +2,14 @@
 
 from __future__ import annotations
 
+from unittest.mock import MagicMock, patch
+
 import pytest
 
 from internship_notifier.smtp_notify import (
     DEFAULT_SMTP_PORT,
     SmtpSettings,
+    send_email,
     settings_from_env,
 )
 
@@ -101,3 +104,34 @@ class TestSettingsFromEnv:
             mail_from="from@example.com",
             mail_to="to@example.com",
         )
+
+
+class TestSendEmail:
+    def test_sends_plain_and_html_alternatives(self) -> None:
+        settings = SmtpSettings(
+            host="smtp.example.com",
+            port=587,
+            user="user@example.com",
+            password="secret",
+            mail_from="from@example.com",
+            mail_to="to@example.com",
+        )
+        smtp = MagicMock()
+        smtp.has_extn.return_value = False
+
+        with patch("internship_notifier.smtp_notify.smtplib.SMTP") as smtp_class:
+            smtp_class.return_value.__enter__.return_value = smtp
+            send_email(
+                subject="New internships",
+                plain_body="Plain fallback",
+                html_body="<strong>HTML</strong>",
+                settings=settings,
+            )
+
+        message = smtp.send_message.call_args.args[0]
+        assert message.is_multipart()
+        parts = list(message.iter_parts())
+        assert parts[0].get_content_type() == "text/plain"
+        assert "Plain fallback" in parts[0].get_content()
+        assert parts[1].get_content_type() == "text/html"
+        assert "<strong>HTML</strong>" in parts[1].get_content()

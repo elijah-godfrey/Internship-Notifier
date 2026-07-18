@@ -12,7 +12,7 @@ from typing import Any
 
 from dotenv import load_dotenv
 
-from internship_notifier import filters, github_listings, smtp_notify
+from internship_notifier import email_format, filters, github_listings, smtp_notify
 from internship_notifier.config_toml import (
     NotifierTomlConfig,
     PrestigeTomlConfig,
@@ -376,11 +376,37 @@ def run(argv: list[str] | None = None) -> int:
 
     settings = smtp_notify.settings_from_env()
     if notify_rows and settings:
+        email_listings = email_format.sort_notification_listings(
+            [
+                email_format.NotificationListing.from_listing(
+                    row,
+                    prestige_cache.get(str(row.get("company_name") or ""))
+                    if prestige_config.enabled
+                    else None,
+                )
+                for row in notify_rows
+            ]
+        )
+        threshold_label = None
+        if prestige_threshold is not None:
+            threshold_label = (
+                f"{prestige_config.benchmark_company} benchmark "
+                f"({prestige_threshold}/100)"
+                if prestige_config.benchmark_company
+                else f"{prestige_threshold}/100"
+            )
         prefix = (
             os.environ.get("SMTP_SUBJECT_PREFIX") or smtp_notify.DEFAULT_SUBJECT_PREFIX
         ).strip()
         subject = f"{prefix}: {len(notify_rows)} new listing(s)"
-        body = "\n".join(_format_listing_line(r) for r in notify_rows) + "\n"
+        plain_body = email_format.render_plaintext_email(
+            email_listings,
+            threshold_label=threshold_label,
+        )
+        html_body = email_format.render_html_email(
+            email_listings,
+            threshold_label=threshold_label,
+        )
         if ns.dry_run:
             print(
                 f"Dry-run: would email {settings.mail_to} "
@@ -388,9 +414,10 @@ def run(argv: list[str] | None = None) -> int:
                 file=sys.stderr,
             )
         else:
-            smtp_notify.send_plaintext_email(
+            smtp_notify.send_email(
                 subject=subject,
-                body=body,
+                plain_body=plain_body,
+                html_body=html_body,
                 settings=settings,
             )
             print(f"Sent email to {settings.mail_to}.", file=sys.stderr)

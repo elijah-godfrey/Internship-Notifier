@@ -325,7 +325,7 @@ class TestRunNewRows:
                 "internship_notifier.github_listings.fetch_listings_json",
                 return_value=[new_row],
             ):
-                with patch("internship_notifier.smtp_notify.send_plaintext_email") as send_mail:
+                with patch("internship_notifier.smtp_notify.send_email") as send_mail:
                     code = run(
                         [
                             "--config",
@@ -338,7 +338,9 @@ class TestRunNewRows:
         send_mail.assert_called_once()
         kwargs = send_mail.call_args.kwargs
         assert "1 new listing(s)" in kwargs["subject"]
-        assert "Acme" in kwargs["body"] and "https://jobs.example/apply" in kwargs["body"]
+        assert "Acme" in kwargs["plain_body"]
+        assert "https://jobs.example/apply" in kwargs["plain_body"]
+        assert "Acme" in kwargs["html_body"]
         err = capsys.readouterr().err
         assert "Sent email to to@example.com." in err
 
@@ -364,7 +366,7 @@ class TestRunNewRows:
                 return_value=[new_row],
             ):
                 with patch("internship_notifier.cli.save_state") as save_mock:
-                    with patch("internship_notifier.smtp_notify.send_plaintext_email") as send_mail:
+                    with patch("internship_notifier.smtp_notify.send_email") as send_mail:
                         code = run(
                             [
                                 "--config",
@@ -590,7 +592,7 @@ class TestRunPrestigeFiltering:
                 return_value=rows,
             ),
             patch(
-                "internship_notifier.smtp_notify.send_plaintext_email"
+                "internship_notifier.smtp_notify.send_email"
             ) as send_mail,
         ):
             code = run(
@@ -605,8 +607,10 @@ class TestRunPrestigeFiltering:
         assert code == 0
         send_mail.assert_called_once()
         message = send_mail.call_args.kwargs
-        assert "Acme" in message["body"]
-        assert "Beta" not in message["body"]
+        assert "Acme" in message["plain_body"]
+        assert "Beta" not in message["plain_body"]
+        assert "Acme" in message["html_body"]
+        assert "Beta" not in message["html_body"]
         assert "1 new listing(s)" in message["subject"]
 
     def test_dry_run_does_not_save_new_prestige_assessment(
