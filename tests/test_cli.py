@@ -25,6 +25,7 @@ def _offseason_row(**overrides: object) -> dict:
     row = {
         "id": "100",
         "is_visible": True,
+        "active": True,
         "terms": ["Fall 2025"],
         "category": "Software Engineering",
         "company_name": "Acme",
@@ -117,6 +118,7 @@ class TestApplySource:
         summer = {
             "id": "summer",
             "is_visible": True,
+            "active": True,
             "terms": ["Summer 2026"],
             "date_posted": 9_999_999_999,
             "company_url": "https://example.com",
@@ -124,11 +126,13 @@ class TestApplySource:
         offseason = {
             "id": "offseason",
             "is_visible": True,
+            "active": True,
             "terms": ["Fall 2026"],
         }
         unrelated = {
             "id": "unrelated",
             "is_visible": True,
+            "active": True,
             "terms": ["Co-op"],
         }
 

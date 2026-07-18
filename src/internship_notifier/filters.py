@@ -31,10 +31,10 @@ def filter_summer(
     earliest_date: int = DEFAULT_SUMMER_EARLIEST_DATE_POSTED,
     blocked_companies: frozenset[str] | None = None,
 ) -> list[Listing]:
-    """Keep visible summer listings for ``year`` after ``earliest_date``, minus blocked URLs.
+    """Keep active, visible summer listings after ``earliest_date``.
 
-    Matches upstream ``filter_summer`` (same ``terms``, ``is_visible``, and
-    company URL checks).
+    Mirrors the active section of the upstream summer README, including its
+    term, visibility, date, and blocked-company checks.
 
     Args:
         listings: Full listing dicts from ``listings.json``.
@@ -50,7 +50,7 @@ def filter_summer(
     blocked_urls_lower = {url.lower() for url in blocked}
     out: list[Listing] = []
     for listing in listings:
-        if not listing.get("is_visible"):
+        if not listing.get("is_visible") or not listing.get("active"):
             continue
         terms = listing.get("terms") or []
         if not any(f"Summer {year}" in item for item in terms):
@@ -65,9 +65,10 @@ def filter_summer(
 
 
 def filter_off_season(listings: list[Listing]) -> list[Listing]:
-    """Keep visible off-season listings (Fall/Winter/Spring) with no Summer term.
+    """Keep active, visible off-season listings with no Summer term.
 
-    Matches upstream ``filter_off_season``.
+    The upstream off-season README also contains a collapsed inactive section;
+    notifications intentionally keep only its actionable active rows.
 
     Args:
         listings: Full listing dicts from ``listings.json``.
@@ -77,7 +78,7 @@ def filter_off_season(listings: list[Listing]) -> list[Listing]:
     """
     result: list[Listing] = []
     for listing in listings:
-        if not listing.get("is_visible"):
+        if not listing.get("is_visible") or not listing.get("active"):
             continue
         terms = listing.get("terms") or []
         has_off = any(

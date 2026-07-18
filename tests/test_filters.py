@@ -15,6 +15,7 @@ from internship_notifier.filters import (
 def _summer_listing(
     *,
     visible: bool = True,
+    active: bool = True,
     terms: list[str] | None = None,
     date_posted: int = DEFAULT_SUMMER_EARLIEST_DATE_POSTED + 1,
     company_url: str = "https://example.com",
@@ -23,6 +24,7 @@ def _summer_listing(
     return {
         "id": listing_id,
         "is_visible": visible,
+        "active": active,
         "terms": terms or ["Summer 2026"],
         "date_posted": date_posted,
         "company_url": company_url,
@@ -37,6 +39,10 @@ class TestFilterSummer:
 
     def test_drops_not_visible(self) -> None:
         row = _summer_listing(visible=False)
+        assert filter_summer([row]) == []
+
+    def test_drops_inactive(self) -> None:
+        row = _summer_listing(active=False)
         assert filter_summer([row]) == []
 
     def test_drops_without_summer_year_term(self) -> None:
@@ -62,6 +68,7 @@ class TestFilterOffSeason:
         row = {
             "id": "a",
             "is_visible": True,
+            "active": True,
             "terms": ["Fall 2025"],
             "category": "Software Engineering",
         }
@@ -71,6 +78,16 @@ class TestFilterOffSeason:
         row = {
             "id": "a",
             "is_visible": False,
+            "active": True,
+            "terms": ["Fall 2025"],
+        }
+        assert filter_off_season([row]) == []
+
+    def test_drops_inactive(self) -> None:
+        row = {
+            "id": "a",
+            "is_visible": True,
+            "active": False,
             "terms": ["Fall 2025"],
         }
         assert filter_off_season([row]) == []
@@ -79,6 +96,7 @@ class TestFilterOffSeason:
         row = {
             "id": "a",
             "is_visible": True,
+            "active": True,
             "terms": ["Co-op"],
         }
         assert filter_off_season([row]) == []
@@ -87,6 +105,7 @@ class TestFilterOffSeason:
         row = {
             "id": "a",
             "is_visible": True,
+            "active": True,
             "terms": ["Fall 2025", "Summer 2026"],
         }
         assert filter_off_season([row]) == []
