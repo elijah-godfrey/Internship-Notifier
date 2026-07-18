@@ -58,6 +58,11 @@ into API requests of up to 20; later listings reuse the cached score.
 Automatic scores are refreshed after four months, at most 25 per workflow run.
 Entries with `"manual_override": true` are never refreshed automatically.
 
+The workflow also generates a human-readable
+[`docs/company-prestige-rankings.md`](docs/company-prestige-rankings.md), sorted
+by score and capped at the top 500 cached companies. The JSON cache remains the
+source of truth.
+
 ## 3) Configure environment (`.env`)
 
 Copy `env.example` to `.env` and fill in values.

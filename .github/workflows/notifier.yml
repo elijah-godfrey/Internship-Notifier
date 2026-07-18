@@ -77,6 +77,12 @@ jobs:
 
           "${COMMON[@]}"
 
+      - name: Generate prestige rankings report
+        run: |
+          python -m internship_notifier.prestige_report \
+            --cache .github/company-prestige-cache.json \
+            --output docs/company-prestige-rankings.md
+
       - name: Commit notifier data if changed
         run: |
           set -euo pipefail
@@ -84,7 +90,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           for path in \
             .github/internship-notifier-state.json \
-            .github/company-prestige-cache.json
+            .github/company-prestige-cache.json \
+            docs/company-prestige-rankings.md
           do
             if [ -f "$path" ]; then
               git add "$path"
