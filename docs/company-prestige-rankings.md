@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **259** of **259** cached companies (maximum 500).
+Showing **260** of **260** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -196,6 +196,7 @@ Showing **259** of **259** cached companies (maximum 500).
 | Base Power | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Promising energy-tech startup, though its software-engineering brand and selectivity are not yet broadly established. |
 | CalAmp | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Known in telematics and connected-device technology, with a modest and industry-specific engineering signal. |
 | Eulerity | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized marketing-technology company with some technical credibility, but limited broad recognition or selectivity signal. |
+| FHLBank Topeka | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | Federal Home Loan Bank of Topeka, FHLB Topeka | Established regional financial institution with credible technology work, but limited broad recognition or selectivity as a software-engineering brand. |
 | Flagright | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Early-stage financial-crime technology company with relevant domain work, but limited broad recognition and established hiring signal. |
 | Haize Labs | 48 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Early-stage AI security company with some relevant technical positioning but limited established employer-brand evidence. |
 | MCG Health | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare-technology company, though its software brand is mainly sector-specific. |
