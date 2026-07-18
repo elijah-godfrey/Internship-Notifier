@@ -140,8 +140,39 @@ Setup:
    `SMTP_USER`, `SMTP_PASSWORD`.
 5. Run the workflow manually once with `bootstrap=true`.
 
+### Run the workflow manually
+
+1. Open the repository on GitHub.
+2. Select **Actions**.
+3. Select **Internship notifier** in the left sidebar.
+4. Click **Run workflow**.
+5. Select the `main` branch.
+6. Choose whether to enable **bootstrap**.
+7. Click **Run workflow** and open the new run to watch its logs.
+
+Leave bootstrap **off** for a normal poll. Enable it when setting up the
+notifier for the first time or after widening source/category filters.
+Bootstrap marks all current matching listings as seen without ranking or
+emailing the existing backlog.
+
+The polling step times out after 15 minutes. Company rankings are saved after
+each completed batch of 20, and the workflow commits the partial cache even if a
+later batch fails or times out. Run the workflow again to continue: cached
+companies are skipped and only unresolved companies are sent to OpenAI.
+
+Listings are emailed only after a complete successful poll. Only active,
+visible listings are eligible.
+
+### Common log messages
+
 If logs say `No upstream change (listings.json blob sha unchanged).`,
 upstream data has not changed since your saved SHA.
+
+- `Prestige ranking: ... uncached ...` shows how many companies need OpenAI
+  assessment and how many batches will run.
+- `Prestige filter: ... met minimum score ...` shows how many new listings
+  cleared the configured threshold.
+- A failed ranking does not mark its listing as seen, so a later run can retry.
 
 ## Dev checks
 
