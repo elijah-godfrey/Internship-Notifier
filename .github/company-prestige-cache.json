@@ -1595,6 +1595,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "liberty university": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Liberty University",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Recognized university employer, but it has a limited software-engineering brand and is not generally a highly selective or prominent destination for SWE internships.",
+      "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
     "lila sciences": {
       "aliases": [],
       "confidence": "medium",

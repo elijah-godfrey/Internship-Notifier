@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **258** of **258** cached companies (maximum 500).
+Showing **259** of **259** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -221,6 +221,7 @@ Showing **258** of **258** cached companies (maximum 500).
 | Eurofins | 43 | High | 2026-07-18 | gpt-5.6-terra | No | Eurofins Scientific | Established scientific-testing company, but its reputation is primarily in laboratory services rather than software engineering. |
 | Evolver | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Government-focused IT services firm with limited broad software-engineering brand recognition. |
 | Institute of Foundation Models | 43 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name suggests an AI-focused organization, but there is limited established employer-brand evidence under this exact name. |
+| Liberty University | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized university employer, but it has a limited software-engineering brand and is not generally a highly selective or prominent destination for SWE internships. |
 | Phamily | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Healthcare technology work can be relevant, but the company has limited broad software-engineering brand recognition. |
 | Super | 43 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a strong, broadly recognized software-engineering brand. |
 | Velera | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | Velera Payments, PSCU | Recognized in credit-union payments technology, but its engineering reputation is primarily industry-specific. |
