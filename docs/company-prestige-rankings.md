@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **261** of **261** cached companies (maximum 500).
+Showing **262** of **262** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -52,6 +52,7 @@ Showing **261** of **261** cached companies (maximum 500).
 
 | Company | Score | Confidence | Reviewed | Model | Manual | Aliases | Reason |
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
+| BlackRock | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Aladdin by BlackRock | Globally recognized asset manager with a strong technology brand through Aladdin; a selective, respected engineering internship signal, especially in financial software, though below the most elite general-tech employers. |
 | Point72 | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Point72 Asset Management | Highly selective investment firm with a strong quantitative and technology career signal. |
 | Texas Instruments | 78 | High | 2026-07-18 | gpt-5.6-terra | No | TI | Highly respected semiconductor employer with a strong engineering brand, especially for embedded and systems-oriented software. |
 | Veeva | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Veeva Systems | Highly regarded enterprise cloud-software company with a strong engineering reputation, particularly in life-sciences software. |

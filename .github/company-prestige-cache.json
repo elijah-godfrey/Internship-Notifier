@@ -408,6 +408,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "blackrock": {
+      "aliases": [
+        "Aladdin by BlackRock"
+      ],
+      "confidence": "high",
+      "display_name": "BlackRock",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 78,
+      "reason": "Globally recognized asset manager with a strong technology brand through Aladdin; a selective, respected engineering internship signal, especially in financial software, though below the most elite general-tech employers.",
+      "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
     "blinqlabs": {
       "aliases": [],
       "confidence": "low",
