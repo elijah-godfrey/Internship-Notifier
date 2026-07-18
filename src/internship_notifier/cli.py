@@ -6,6 +6,7 @@ import argparse
 import os
 import smtplib
 import sys
+from collections.abc import Callable
 from pathlib import Path
 from typing import Any
 
@@ -22,10 +23,12 @@ from internship_notifier.prestige import (
     PrestigeCache,
     load_prestige_cache,
     meets_prestige_threshold,
+    normalize_company_name,
     resolve_minimum_score,
     save_prestige_cache,
 )
 from internship_notifier.prestige_ranker import (
+    DEFAULT_RANKING_BATCH_SIZE,
     OpenAIPrestigeRanker,
     get_or_rank_companies,
     refresh_stale_companies,
@@ -105,6 +108,8 @@ def _filter_new_rows_by_prestige(
     rows: list[dict[str, Any]],
     config: PrestigeTomlConfig,
     cache: PrestigeCache,
+    *,
+    on_cache_change: Callable[[PrestigeCache], None] | None = None,
 ) -> tuple[list[dict[str, Any]], bool, int | None]:
     """Rank unknown companies and keep rows meeting the prestige threshold."""
     if not config.enabled or not rows:
@@ -122,11 +127,25 @@ def _filter_new_rows_by_prestige(
         if config.benchmark_company is not None
         else row_companies
     )
-    has_unknown = any(cache.get(company) is None for company in requested_companies)
+    unknown = {
+        normalize_company_name(company)
+        for company in requested_companies
+        if cache.get(company) is None
+    }
+    if unknown:
+        batch_count = (
+            len(unknown) + DEFAULT_RANKING_BATCH_SIZE - 1
+        ) // DEFAULT_RANKING_BATCH_SIZE
+        print(
+            f"Prestige ranking: {len(unknown)} uncached company or companies "
+            f"in {batch_count} batch(es).",
+            file=sys.stderr,
+        )
     assessments, cache_changed = get_or_rank_companies(
         requested_companies,
         cache,
-        OpenAIPrestigeRanker() if has_unknown else None,
+        OpenAIPrestigeRanker() if unknown else None,
+        on_cache_change=on_cache_change,
     )
     threshold = resolve_minimum_score(config, cache)
     if threshold is None:
@@ -157,9 +176,14 @@ def _refresh_prestige_cache(
         print(f"Warning: prestige cache refresh skipped: {exc}", file=sys.stderr)
         return
 
-    result = refresh_stale_companies(cache, ranker)
-    if result.refreshed:
-        save_prestige_cache(cache, cache_path)
+    result = refresh_stale_companies(
+        cache,
+        ranker,
+        on_cache_change=lambda changed_cache: save_prestige_cache(
+            changed_cache,
+            cache_path,
+        ),
+    )
     print(
         f"Prestige cache refresh: {result.refreshed} updated, "
         f"{len(result.failures)} failed.",
@@ -328,6 +352,14 @@ def run(argv: list[str] | None = None) -> int:
             new_rows,
             prestige_config,
             prestige_cache,
+            on_cache_change=(
+                None
+                if ns.dry_run
+                else lambda changed_cache: save_prestige_cache(
+                    changed_cache,
+                    prestige_cache_path,
+                )
+            ),
         )
     )
     if prestige_threshold is not None:

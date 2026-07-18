@@ -57,6 +57,7 @@ jobs:
         run: python -m pip install --upgrade pip && python -m pip install -e .
 
       - name: Poll and notify
+        timeout-minutes: 15
         run: |
           set -euo pipefail
           STATE_PATH=".github/internship-notifier-state.json"
@@ -78,12 +79,14 @@ jobs:
           "${COMMON[@]}"
 
       - name: Generate prestige rankings report
+        if: always()
         run: |
           python -m internship_notifier.prestige_report \
             --cache .github/company-prestige-cache.json \
             --output docs/company-prestige-rankings.md
 
       - name: Commit notifier data if changed
+        if: always()
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
