@@ -5,6 +5,8 @@ description = "Email alerts for new listings from SimplifyJobs/Summer2026-Intern
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "openai>=2.46.0",
+    "pydantic>=2.13.4",
     "python-dotenv>=1.0.0",
 ]
 
