@@ -9,11 +9,6 @@ all_categories = true
 # When all_categories is false, list exact upstream category names (repeat in TOML for several).
 categories = ["Software Engineering"]
 
-# Optional prestige filtering. Uncomment one [prestige] example (not both).
-# Choose exactly one:
-#
-# [prestige]
-# minimum_score = 75
-#
-# [prestige]
-# benchmark_company = "Microsoft"
+# Only notify for companies ranked at least as prestigious as Carta.
+[prestige]
+benchmark_company = "Carta"
