@@ -1620,6 +1620,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "light and wonder": {
+      "aliases": [
+        "Scientific Games"
+      ],
+      "confidence": "medium",
+      "display_name": "Light & Wonder",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established gaming and entertainment-technology company with credible engineering work, but its software brand and internship selectivity are more industry-specific than broadly top-tier.",
+      "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
     "lila sciences": {
       "aliases": [],
       "confidence": "medium",
