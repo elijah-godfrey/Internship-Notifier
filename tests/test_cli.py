@@ -10,7 +10,7 @@ from unittest.mock import MagicMock, patch
 
 import pytest
 
-from internship_notifier.cli import run
+from internship_notifier.cli import _apply_source, run
 from internship_notifier.prestige import (
     CompanyPrestige,
     PrestigeCache,
@@ -110,6 +110,31 @@ def clear_smtp_env(monkeypatch: pytest.MonkeyPatch) -> None:
         "SMTP_PASSWORD",
     ):
         monkeypatch.delenv(key, raising=False)
+
+
+class TestApplySource:
+    def test_all_combines_summer_and_offseason(self) -> None:
+        summer = {
+            "id": "summer",
+            "is_visible": True,
+            "terms": ["Summer 2026"],
+            "date_posted": 9_999_999_999,
+            "company_url": "https://example.com",
+        }
+        offseason = {
+            "id": "offseason",
+            "is_visible": True,
+            "terms": ["Fall 2026"],
+        }
+        unrelated = {
+            "id": "unrelated",
+            "is_visible": True,
+            "terms": ["Co-op"],
+        }
+
+        result = _apply_source([summer, offseason, unrelated], "all")
+
+        assert [row["id"] for row in result] == ["summer", "offseason"]
 
 
 class TestRunShaShortCircuit:

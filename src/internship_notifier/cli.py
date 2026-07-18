@@ -41,6 +41,11 @@ def _apply_source(
         return filters.filter_summer(listings)
     if source == "offseason":
         return filters.filter_off_season(listings)
+    if source == "all":
+        return [
+            *filters.filter_summer(listings),
+            *filters.filter_off_season(listings),
+        ]
     raise ValueError(f"unknown source: {source!r}")
 
 
@@ -197,7 +202,7 @@ def run(argv: list[str] | None = None) -> int:
     )
     parser.add_argument(
         "--source",
-        choices=("summer2026", "offseason"),
+        choices=("summer2026", "offseason", "all"),
         default=None,
         help="Which upstream README logic to mirror (overrides notifier.toml).",
     )

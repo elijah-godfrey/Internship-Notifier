@@ -19,6 +19,17 @@ def _write_toml(path, content: str) -> None:
 
 
 class TestLoadNotifierToml:
+    def test_loads_all_sources(self, tmp_path) -> None:
+        p = tmp_path / "notifier.toml"
+        _write_toml(
+            p,
+            """
+            source = "all"
+            all_categories = true
+            """,
+        )
+        assert load_notifier_toml(p).source == "all"
+
     def test_loads_offseason_with_categories(self, tmp_path) -> None:
         p = tmp_path / "notifier.toml"
         _write_toml(

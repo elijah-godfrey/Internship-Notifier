@@ -8,7 +8,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
-ALLOWED_SOURCES = frozenset({"summer2026", "offseason"})
+ALLOWED_SOURCES = frozenset({"summer2026", "offseason", "all"})
 MIN_PRESTIGE_SCORE = 1
 MAX_PRESTIGE_SCORE = 100
 
@@ -35,7 +35,7 @@ class NotifierTomlConfig:
     """Filter selection as read from a TOML file.
 
     Attributes:
-        source: ``summer2026`` or ``offseason`` (README parity).
+        source: ``summer2026``, ``offseason``, or ``all`` (both sources).
         all_categories: When ``True``, do not filter by category.
         categories: Canonical category names when ``all_categories`` is ``False``.
         prestige: Optional company-prestige threshold settings.

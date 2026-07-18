@@ -24,7 +24,7 @@ python -m pip install -e .
 
 Set what you want to track:
 
-- `source = "summer2026"` or `"offseason"`
+- `source = "summer2026"`, `"offseason"`, or `"all"` for both
 - `all_categories = true` to include all categories for that source
 - `categories = [...]` only matters when `all_categories = false`
 
