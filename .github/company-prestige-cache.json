@@ -635,6 +635,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "chep": {
+      "aliases": [
+        "Brambles"
+      ],
+      "confidence": "medium",
+      "display_name": "CHEP",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established global supply-chain and pallet-pooling company, offering a credible enterprise technology signal but without a particularly prominent or selective software-engineering brand.",
+      "reviewed_at": "2026-07-19",
+      "rubric_version": "prestige-v1"
+    },
     "ciena": {
       "aliases": [],
       "confidence": "high",
