@@ -1342,6 +1342,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "hitachi energy": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Hitachi Energy",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Well-regarded global power-grid and energy-technology company with credible engineering work, but its software brand is more specialized to industrial and energy systems than broadly elite in mainstream software engineering.",
+      "reviewed_at": "2026-07-20",
+      "rubric_version": "prestige-v1"
+    },
     "hiverge": {
       "aliases": [],
       "confidence": "low",

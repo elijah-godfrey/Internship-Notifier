@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **263** of **263** cached companies (maximum 500).
+Showing **264** of **264** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -100,6 +100,7 @@ Showing **263** of **263** cached companies (maximum 500).
 | General Motors | 67 | High | 2026-07-18 | gpt-5.6-terra | No | GM | Major automotive technology employer with substantial software work and a solid engineering signal. |
 | Interac | 67 | High | 2026-07-18 | gpt-5.6-terra | No | - | Prominent Canadian payments-network brand with credible fintech engineering work, though recognition is more regional than global. |
 | GE Healthcare | 66 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-recognized healthcare technology employer with solid engineering credibility, though not viewed as a top general software destination. |
+| Hitachi Energy | 66 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Well-regarded global power-grid and energy-technology company with credible engineering work, but its software brand is more specialized to industrial and energy systems than broadly elite in mainstream software engineering. |
 | PsiQuantum | 66 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | High-profile quantum-computing startup with credible deep-tech signal, though its software-engineering brand remains specialized. |
 | Fanatics | 65 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-known digital-commerce and sports platform with solid engineering relevance, but less selective or prestigious than leading consumer-tech firms. |
 | Hermeus | 65 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Technically ambitious aerospace startup with a credible engineering signal, though its software brand is still emerging. |
