@@ -3133,6 +3133,17 @@
       "reason": "Well-known EV manufacturer with meaningful software, autonomy, and vehicle-platform engineering work, especially in its core market.",
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
+    },
+    "xsolla": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Xsolla",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established gaming-commerce/payments company with relevant engineering work, but its software-engineering brand and internship selectivity are not broadly regarded as top-tier outside the games industry.",
+      "reviewed_at": "2026-07-20",
+      "rubric_version": "prestige-v1"
     }
   },
   "schema_version": 1

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **264** of **264** cached companies (maximum 500).
+Showing **265** of **265** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -205,6 +205,7 @@ Showing **264** of **264** cached companies (maximum 500).
 | Haize Labs | 48 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Early-stage AI security company with some relevant technical positioning but limited established employer-brand evidence. |
 | MCG Health | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare-technology company, though its software brand is mainly sector-specific. |
 | Wealth.com | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Growing estate-planning technology company with relevant product engineering, but a relatively niche and less established employer brand. |
+| Xsolla | 48 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Established gaming-commerce/payments company with relevant engineering work, but its software-engineering brand and internship selectivity are not broadly regarded as top-tier outside the games industry. |
 | City of Charlotte | 47 | High | 2026-07-18 | gpt-5.6-terra | No | - | Large municipal employer with legitimate public-sector technology work, but limited selectivity and broad engineering-brand recognition. |
 | Delta Dental | 47 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established insurance organization, but its software engineering brand is primarily enterprise and industry-specific. |
 | W.R. Berkley | 47 | High | 2026-07-18 | gpt-5.6-terra | No | W. R. Berkley Corporation | Respected insurance company, but software engineering recognition is primarily internal and industry-specific. |
