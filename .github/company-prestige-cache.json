@@ -11,6 +11,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "accenture": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Accenture",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Highly recognized technology consulting employer with selective technical roles, but its software-engineering signal is generally below top product-focused engineering companies.",
+      "reviewed_at": "2026-07-20",
+      "rubric_version": "prestige-v1"
+    },
     "accuweather": {
       "aliases": [],
       "confidence": "high",
@@ -692,6 +703,17 @@
       "reviewed_at": "2026-07-20",
       "rubric_version": "prestige-v1"
     },
+    "cirrus logic": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Cirrus Logic",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Respected semiconductor and embedded-systems employer with meaningful technical credibility, though its software-engineering brand is specialized rather than broadly elite.",
+      "reviewed_at": "2026-07-20",
+      "rubric_version": "prestige-v1"
+    },
     "citadel": {
       "aliases": [
         "Citadel Securities"
@@ -924,6 +946,17 @@
       "prestige_score": 47,
       "reason": "Established insurance organization, but its software engineering brand is primarily enterprise and industry-specific.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "ditto": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Ditto",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "The name is ambiguous and does not by itself establish a broadly recognized, highly selective software-engineering employer.",
+      "reviewed_at": "2026-07-20",
       "rubric_version": "prestige-v1"
     },
     "diversified automation": {
@@ -2062,6 +2095,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "nokia": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Nokia",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms.",
+      "reviewed_at": "2026-07-20",
+      "rubric_version": "prestige-v1"
+    },
     "northwestern mutual": {
       "aliases": [],
       "confidence": "high",
@@ -2523,6 +2567,19 @@
       "prestige_score": 44,
       "reason": "Connected to the respected Bosch ecosystem, but as a venture-capital organization it is not primarily a software-engineering employer.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "rtx": {
+      "aliases": [
+        "Raytheon Technologies"
+      ],
+      "confidence": "high",
+      "display_name": "RTX",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Well-known aerospace and defense employer with credible engineering work, though its software brand is less elite than leading software-native firms.",
+      "reviewed_at": "2026-07-20",
       "rubric_version": "prestige-v1"
     },
     "samaya": {
@@ -3062,6 +3119,17 @@
       "prestige_score": 78,
       "reason": "Highly regarded enterprise cloud-software company with a strong engineering reputation, particularly in life-sciences software.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "vega investment technologies": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Vega Investment Technologies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "Limited broadly recognized software-engineering brand; available name alone does not establish strong selectivity or industry-wide technical signal.",
+      "reviewed_at": "2026-07-20",
       "rubric_version": "prestige-v1"
     },
     "velera": {
