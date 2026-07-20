@@ -294,6 +294,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "aveva": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "AVEVA",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 73,
+      "reason": "Widely respected industrial software company with a strong domain-engineering reputation, though less broadly prestigious than leading consumer or cloud software firms.",
+      "reviewed_at": "2026-07-20",
+      "rubric_version": "prestige-v1"
+    },
     "axiomatic ai": {
       "aliases": [],
       "confidence": "medium",
@@ -648,6 +659,17 @@
       "reviewed_at": "2026-07-19",
       "rubric_version": "prestige-v1"
     },
+    "chevron": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Chevron Corporation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Globally recognized energy company with substantial technical operations; its software brand is respected but not a top-tier destination for software engineering.",
+      "reviewed_at": "2026-07-20",
+      "rubric_version": "prestige-v1"
+    },
     "ciena": {
       "aliases": [],
       "confidence": "high",
@@ -657,6 +679,17 @@
       "prestige_score": 73,
       "reason": "Well-regarded networking and telecommunications technology company with a strong systems and infrastructure engineering signal.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "circle k": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Circle K",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Well-known convenience retail brand, but it has limited recognition or selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-07-20",
       "rubric_version": "prestige-v1"
     },
     "citadel": {
@@ -1340,6 +1373,17 @@
       "prestige_score": 70,
       "reason": "Prominent emerging healthcare-AI startup with a potentially selective technical environment, but a still-developing employer brand.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "hirevue": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "HireVue",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Recognized HR technology company, but it has a comparatively limited software-engineering prestige signal and broad selectivity reputation.",
+      "reviewed_at": "2026-07-20",
       "rubric_version": "prestige-v1"
     },
     "hitachi energy": {
@@ -2702,6 +2746,17 @@
       "prestige_score": 28,
       "reason": "Limited evidence of a widely recognized software-engineering employer brand or selective technical reputation.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "telesat": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Telesat",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Established satellite communications company with technically relevant engineering work, though its software-employer brand is specialized rather than broadly elite.",
+      "reviewed_at": "2026-07-20",
       "rubric_version": "prestige-v1"
     },
     "tencent": {
