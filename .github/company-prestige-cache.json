@@ -1759,6 +1759,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "harris computer": {
+      "aliases": [
+        "Harris Computer Systems"
+      ],
+      "confidence": "medium",
+      "display_name": "Harris Computer",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Established vertical-market software company with credible engineering work, though its internship signal and brand recognition are modest outside its sectors.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "hcompany": {
       "aliases": [
         "H"
@@ -2128,6 +2141,19 @@
       "prestige_score": 35,
       "reason": "The name is ambiguous; known businesses using it do not generally carry strong software-engineering prestige.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "keysight technologies": {
+      "aliases": [
+        "Keysight"
+      ],
+      "confidence": "high",
+      "display_name": "Keysight Technologies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 73,
+      "reason": "Widely respected electronic-design, test, and measurement technology company with a strong technical engineering reputation and meaningful software relevance.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "kinetic systems": {
@@ -4035,6 +4061,19 @@
       "prestige_score": 73,
       "reason": "Highly respected research university with a strong computer science and engineering reputation; positive technical signal outside conventional industry roles.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "university system of new hampshire": {
+      "aliases": [
+        "USNH"
+      ],
+      "confidence": "medium",
+      "display_name": "University System of New Hampshire",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Recognized regional public university system, but not a notable software-engineering employer brand or highly selective technical internship signal.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "valeo": {
