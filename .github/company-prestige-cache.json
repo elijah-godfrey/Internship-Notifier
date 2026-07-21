@@ -1597,6 +1597,20 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "geisinger": {
+      "aliases": [
+        "Geisinger Health",
+        "Geisinger Health System"
+      ],
+      "confidence": "medium",
+      "display_name": "Geisinger",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Well-regarded regional healthcare system with meaningful health-technology work, but its software engineering brand is not broadly top-tier or highly selective.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "genbio ai": {
       "aliases": [
         "GenBioAI"
@@ -3372,6 +3386,20 @@
       "prestige_score": 87,
       "reason": "Highly visible AI infrastructure company with a strong engineering brand and substantial selectivity signal.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "schweitzer engineering laboratories": {
+      "aliases": [
+        "SEL",
+        "Schweitzer Engineering Labs"
+      ],
+      "confidence": "medium",
+      "display_name": "Schweitzer Engineering Laboratories",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Respected engineering company in power-system protection and automation, offering a solid technical signal, though its software brand is specialized rather than broadly elite.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "serval": {
