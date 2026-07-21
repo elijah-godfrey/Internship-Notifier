@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **355** of **355** cached companies (maximum 500).
+Showing **357** of **357** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -61,11 +61,13 @@ Showing **355** of **355** cached companies (maximum 500).
 | Point72 | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Point72 Asset Management | Highly selective investment firm with a strong quantitative and technology career signal. |
 | Texas Instruments | 78 | High | 2026-07-18 | gpt-5.6-terra | No | TI | Highly respected semiconductor employer with a strong engineering brand, especially for embedded and systems-oriented software. |
 | Veeva | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Veeva Systems | Highly regarded enterprise cloud-software company with a strong engineering reputation, particularly in life-sciences software. |
+| Zipline | 78 | Medium | 2026-07-21 | gpt-5.6-terra | No | Zipline International | Highly regarded robotics, autonomy, and drone-delivery company; a strong engineering signal, particularly for embedded, distributed systems, and autonomy roles, though less universally recognized than top general-tech employers. |
 | JP Morgan Chase | 77 | High | 2026-07-18 | gpt-5.6-terra | No | JPMorgan Chase, JPMC | Highly recognized financial institution with large-scale, selective engineering organizations, though its brand is finance-first. |
 | Argonne National Laboratory | 76 | High | 2026-07-21 | gpt-5.6-terra | No | Argonne | Prestigious national research laboratory with strong scientific computing and research-engineering credibility. |
 | Binance | 76 | High | 2026-07-18 | gpt-5.6-terra | No | - | Globally recognized crypto platform with a substantial technical brand, tempered by well-known reputational and regulatory scrutiny. |
 | CME Group | 76 | High | 2026-07-21 | gpt-5.6-terra | No | Chicago Mercantile Exchange Group, CME | Globally recognized derivatives-exchange operator with selective engineering work in high-performance financial systems; a strong finance-tech signal. |
 | Fortinet | 76 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established cybersecurity company with a recognized security and networking engineering brand. |
+| GE Aerospace | 76 | High | 2026-07-21 | gpt-5.6-terra | No | General Electric Aerospace, GE Aviation | Globally respected aerospace and engineering employer with demanding safety-critical software work and a strong technical reputation; especially valuable for aviation, embedded, and systems engineering. |
 | KLA Corporation | 76 | High | 2026-07-18 | gpt-5.6-terra | No | - | Leading semiconductor-process-control company with strong deep-tech engineering credibility and a respected technical brand. |
 | PayPal | 76 | High | 2026-07-18 | gpt-5.6-terra | No | - | Widely recognized fintech platform with a strong, established software-engineering employer brand. |
 | WeRide | 76 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Well-known autonomous-driving company with credible robotics and AI engineering work; selective technical signal. |

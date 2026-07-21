@@ -1573,6 +1573,20 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "ge aerospace": {
+      "aliases": [
+        "General Electric Aerospace",
+        "GE Aviation"
+      ],
+      "confidence": "high",
+      "display_name": "GE Aerospace",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "Globally respected aerospace and engineering employer with demanding safety-critical software work and a strong technical reputation; especially valuable for aviation, embedded, and systems engineering.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "ge healthcare": {
       "aliases": [],
       "confidence": "high",
@@ -4177,6 +4191,19 @@
       "prestige_score": 48,
       "reason": "Established gaming-commerce/payments company with relevant engineering work, but its software-engineering brand and internship selectivity are not broadly regarded as top-tier outside the games industry.",
       "reviewed_at": "2026-07-20",
+      "rubric_version": "prestige-v1"
+    },
+    "zipline": {
+      "aliases": [
+        "Zipline International"
+      ],
+      "confidence": "medium",
+      "display_name": "Zipline",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 78,
+      "reason": "Highly regarded robotics, autonomy, and drone-delivery company; a strong engineering signal, particularly for embedded, distributed systems, and autonomy roles, though less universally recognized than top general-tech employers.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "zuru": {
