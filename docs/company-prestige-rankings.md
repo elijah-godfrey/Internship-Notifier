@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **350** of **350** cached companies (maximum 500).
+Showing **353** of **353** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -29,6 +29,7 @@ Showing **350** of **350** cached companies (maximum 500).
 | Company | Score | Confidence | Reviewed | Model | Manual | Aliases | Reason |
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
 | ByteDance | 88 | High | 2026-07-18 | gpt-5.6-terra | No | - | Globally recognized, highly selective consumer-tech company with major engineering scale and strong systems/ML credibility. |
+| Carnegie Mellon University | 88 | High | 2026-07-21 | gpt-5.6-terra | No | CMU, Carnegie Mellon | Exceptionally respected institution in computer science and software-related research; an engineering internship there is a highly selective, strong technical career signal. |
 | DRW | 88 | High | 2026-07-18 | gpt-5.6-terra | No | DRW Holdings | Highly selective quantitative trading firm with a strong engineering reputation in trading systems, infrastructure, and research. |
 | LinkedIn | 88 | High | 2026-07-18 | gpt-5.6-terra | No | - | Highly recognizable technology employer with strong engineering standards and selective hiring. |
 | Susquehanna International Group (SIG) | 88 | High | 2026-07-18 | gpt-5.6-terra | No | SIG, Susquehanna International Group | Elite quantitative trading firm with a highly selective reputation for technical, mathematical, and systems-oriented roles. |
@@ -124,6 +125,7 @@ Showing **350** of **350** cached companies (maximum 500).
 | QuEra Computing | 65 | Medium | 2026-07-18 | gpt-5.6-terra | No | QuEra | Respected quantum-computing startup with strong specialized technical credibility, but limited mainstream software-employer recognition. |
 | Thermo Fisher Scientific | 65 | High | 2026-07-21 | gpt-5.6-terra | No | Thermo Fisher | Highly recognized scientific-instruments and life-sciences employer; software prestige is solid but domain-specific. |
 | Trane Technologies | 65 | High | 2026-07-18 | gpt-5.6-terra | No | Trane | Well-regarded global building-technology company with solid engineering credibility, but a less prominent software brand than leading tech employers. |
+| Viridien | 65 | Medium | 2026-07-21 | gpt-5.6-terra | No | CGG, Viridien Group | Well-regarded geoscience and subsurface-imaging company with meaningful technical work, but a specialized engineering brand rather than a broadly elite software signal. |
 | ACI Worldwide | 64 | High | 2026-07-18 | gpt-5.6-terra | No | ACI | Established payments-software company with credible transaction-platform engineering work and a solid fintech signal. |
 | Advanced Energy | 64 | Medium | 2026-07-18 | gpt-5.6-terra | No | Advanced Energy Industries, AEI | Established power-conversion and semiconductor-equipment company with credible engineering work, though not a widely recognized software employer. |
 | Axiomatic AI | 64 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Prominent early-stage AI-for-science company with a strong technical profile, though its employer reputation is still developing. |
@@ -138,6 +140,7 @@ Showing **350** of **350** cached companies (maximum 500).
 | PlusAI | 63 | Medium | 2026-07-18 | gpt-5.6-terra | No | Plus | Established autonomous-trucking technology company with meaningful systems and AI engineering work, but less broad recognition than top autonomy firms. |
 | Prior Labs | 63 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Promising AI-focused startup with notable technical positioning, but it is new and lacks a long-established hiring signal. |
 | Truveta | 63 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Respected health-data platform with credible technical work, though less broadly recognized in software. |
+| United Parcel Service (UPS) | 63 | High | 2026-07-21 | gpt-5.6-terra | No | UPS, United Parcel Service | Globally recognized logistics employer with substantial large-scale technology needs, though its software-engineering brand is not generally viewed as top-tier. |
 | Valeo | 63 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established global automotive supplier with meaningful embedded, ADAS, and mobility software work, though not an elite general software signal. |
 | BAE Systems | 62 | High | 2026-07-18 | gpt-5.6-terra | No | - | Highly respected defense engineering employer, with a solid but less elite general software signal. |
 | SHEIN | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Large technology-driven commerce platform with meaningful engineering scale, but a less distinguished software-employer brand. |

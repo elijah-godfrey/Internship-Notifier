@@ -771,6 +771,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "carnegie mellon university": {
+      "aliases": [
+        "CMU",
+        "Carnegie Mellon"
+      ],
+      "confidence": "high",
+      "display_name": "Carnegie Mellon University",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 88,
+      "reason": "Exceptionally respected institution in computer science and software-related research; an engineering internship there is a highly selective, strong technical career signal.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "carta": {
       "aliases": [],
       "confidence": "high",
@@ -3903,6 +3917,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "united parcel service ups": {
+      "aliases": [
+        "UPS",
+        "United Parcel Service"
+      ],
+      "confidence": "high",
+      "display_name": "United Parcel Service (UPS)",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Globally recognized logistics employer with substantial large-scale technology needs, though its software-engineering brand is not generally viewed as top-tier.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "university of maryland college park": {
       "aliases": [
         "UMD"
@@ -3996,6 +4024,20 @@
       "prestige_score": 30,
       "reason": "Government health IT contractor with relevant technical work but limited broad software-engineering prestige.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "viridien": {
+      "aliases": [
+        "CGG",
+        "Viridien Group"
+      ],
+      "confidence": "medium",
+      "display_name": "Viridien",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Well-regarded geoscience and subsurface-imaging company with meaningful technical work, but a specialized engineering brand rather than a broadly elite software signal.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "walrus": {
