@@ -3396,6 +3396,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "ribbon": {
+      "aliases": [
+        "Ribbon Communications"
+      ],
+      "confidence": "low",
+      "display_name": "Ribbon",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "The name is ambiguous; assuming Ribbon Communications, it has a credible telecom/software engineering presence but limited broad recognition as a selective software internship brand.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "roam": {
       "aliases": [],
       "confidence": "low",
