@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **365** of **365** cached companies (maximum 500).
+Showing **366** of **366** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -222,6 +222,7 @@ Showing **365** of **365** cached companies (maximum 500).
 | iHerb | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established e-commerce company with meaningful software needs, though it is not widely viewed as a top engineering brand. |
 | Light & Wonder | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | Scientific Games | Established gaming and entertainment-technology company with credible engineering work, but its software brand and internship selectivity are more industry-specific than broadly top-tier. |
 | LightGuide, Inc. | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established industrial augmented-reality and manufacturing software company; a solid niche technical signal rather than a broadly elite engineering brand. |
+| Littelfuse | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established industrial technology manufacturer with credible embedded, firmware, and engineering work, but it has limited broad recognition or selectivity as a software-engineering employer. |
 | Medpace | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | Medpace Holdings | Established clinical research organization with credible domain-specific technology work, but limited broad software-engineering prestige relative to major tech or engineering employers. |
 | Nidec | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Large, established industrial motor and electronics manufacturer, but primarily known for hardware and manufacturing rather than a strong software-engineering signal. |
 | Techtronic Industries | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | TTI | Established power-tools and hardware company, but not widely known for a standout software-engineering employer brand. |
