@@ -2408,6 +2408,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "medpace": {
+      "aliases": [
+        "Medpace Holdings"
+      ],
+      "confidence": "medium",
+      "display_name": "Medpace",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established clinical research organization with credible domain-specific technology work, but limited broad software-engineering prestige relative to major tech or engineering employers.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "melotech": {
       "aliases": [],
       "confidence": "low",
@@ -2570,6 +2583,20 @@
       "model": "gpt-5.6-terra",
       "prestige_score": 22,
       "reason": "Name is too ambiguous to establish a notable software-engineering employer brand; conservative assessment.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "moss and associates": {
+      "aliases": [
+        "Moss",
+        "Moss Construction"
+      ],
+      "confidence": "medium",
+      "display_name": "Moss & Associates",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established construction-management firm, but it has limited broad recognition or a distinct software-engineering brand.",
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
@@ -3724,6 +3751,19 @@
       "prestige_score": 78,
       "reason": "Highly respected semiconductor employer with a strong engineering brand, especially for embedded and systems-oriented software.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "the boeing": {
+      "aliases": [
+        "Boeing"
+      ],
+      "confidence": "high",
+      "display_name": "The Boeing Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 75,
+      "reason": "Globally recognized aerospace and defense employer with selective engineering work; its software signal is strong, especially in embedded, systems, and safety-critical domains.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "the campbell s": {
