@@ -850,6 +850,17 @@
       "reviewed_at": "2026-07-20",
       "rubric_version": "prestige-v1"
     },
+    "cisive": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Cisive",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Established background-screening and compliance-services firm, but it has a limited public software-engineering brand and narrower industry recognition.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "citadel": {
       "aliases": [
         "Citadel Securities"
@@ -916,6 +927,20 @@
       "prestige_score": 43,
       "reason": "Cloud consulting and services brand with relevant technical work, but limited evidence of broad software-engineering prestige.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "cme group": {
+      "aliases": [
+        "Chicago Mercantile Exchange Group",
+        "CME"
+      ],
+      "confidence": "high",
+      "display_name": "CME Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "Globally recognized derivatives-exchange operator with selective engineering work in high-performance financial systems; a strong finance-tech signal.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "codeage": {
@@ -1543,6 +1568,19 @@
       "prestige_score": 66,
       "reason": "Well-recognized healthcare technology employer with solid engineering credibility, though not viewed as a top general software destination.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "ge vernova": {
+      "aliases": [
+        "GEV"
+      ],
+      "confidence": "medium",
+      "display_name": "GE Vernova",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Recognized energy and industrial technology company with credible engineering work, but its software brand is less prominent than its domain-engineering reputation.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "genbio ai": {
@@ -2217,6 +2255,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "liveramp": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "LiveRamp",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded data-connectivity and advertising-technology company with meaningful engineering work, though less selective and broadly recognized than top-tier tech firms.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "m and t bank": {
       "aliases": [
         "Manufacturers and Traders Trust Company"
@@ -2596,6 +2645,17 @@
       "prestige_score": 64,
       "reason": "Recognized consumer technology platform with meaningful engineering scale, though not broadly viewed as a top-tier engineering destination.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "nidec": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Nidec",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Large, established industrial motor and electronics manufacturer, but primarily known for hardware and manufacturing rather than a strong software-engineering signal.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "nightwing intelligence solutions": {
