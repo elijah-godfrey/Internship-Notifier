@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **360** of **360** cached companies (maximum 500).
+Showing **361** of **361** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -272,6 +272,7 @@ Showing **360** of **360** cached companies (maximum 500).
 | ASM Global | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Recognized live-entertainment venue operator, but has a limited software-engineering brand and internship signal. |
 | Black Box | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established enterprise connectivity and IT-services brand, but modest contemporary software-engineering prestige. |
 | BSE Global | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized sports and entertainment organization, but its software-engineering brand is not broadly distinguished. |
+| Centific | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established AI data, localization, and digital-services provider, but its software engineering brand and internship selectivity are not broadly viewed as top-tier. |
 | Circle K | 43 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Well-known convenience retail brand, but it has limited recognition or selectivity as a software-engineering employer. |
 | Cloudforce | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Cloud consulting and services brand with relevant technical work, but limited evidence of broad software-engineering prestige. |
 | Eurofins | 43 | High | 2026-07-18 | gpt-5.6-terra | No | Eurofins Scientific | Established scientific-testing company, but its reputation is primarily in laboratory services rather than software engineering. |
