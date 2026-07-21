@@ -57,6 +57,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "adobe": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Adobe",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 91,
+      "reason": "Exceptional global software brand with highly regarded products, strong engineering culture, and selective technical recruiting.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "advanced energy": {
       "aliases": [
         "Advanced Energy Industries",
@@ -246,6 +257,28 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "applied materials": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Applied Materials",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 80,
+      "reason": "Highly respected semiconductor-equipment leader with a strong technical and engineering signal, especially in hardware-adjacent software.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "aptiv": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Aptiv",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Strong automotive technology and embedded/software reputation, particularly for mobility and systems engineering.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "aptura": {
       "aliases": [],
       "confidence": "low",
@@ -268,6 +301,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "argonne national laboratory": {
+      "aliases": [
+        "Argonne"
+      ],
+      "confidence": "high",
+      "display_name": "Argonne National Laboratory",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "Prestigious national research laboratory with strong scientific computing and research-engineering credibility.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "arlo": {
       "aliases": [
         "Arlo Technologies"
@@ -279,6 +325,17 @@
       "prestige_score": 57,
       "reason": "Recognized consumer smart-security brand, but its software-engineering reputation is more product-specific than broadly elite.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "asm global": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "ASM Global",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Recognized live-entertainment venue operator, but has a limited software-engineering brand and internship signal.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "asml": {
@@ -347,6 +404,19 @@
       "prestige_score": 64,
       "reason": "Prominent early-stage AI-for-science company with a strong technical profile, though its employer reputation is still developing.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "axos bank": {
+      "aliases": [
+        "Axos Financial"
+      ],
+      "confidence": "medium",
+      "display_name": "Axos Bank",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established digital bank, but its engineering reputation and selectivity are not broadly prominent in software recruiting.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "axq capital": {
@@ -450,6 +520,17 @@
       "prestige_score": 76,
       "reason": "Globally recognized crypto platform with a substantial technical brand, tempered by well-known reputational and regulatory scrutiny.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "bio techne": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Bio-Techne",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Respected life-sciences tools company, with software work likely specialized rather than a broadly prominent engineering signal.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "black box": {
@@ -859,6 +940,17 @@
       "prestige_score": 46,
       "reason": "Specialized defense and training-systems engineering firm; relevant technical work but limited broad software-engineering brand recognition.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "colonial pipeline": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Colonial Pipeline Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 44,
+      "reason": "Recognized energy-infrastructure operator, but offers limited broad software-engineering brand or technical selectivity signal.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "consensus cloud solutions": {
@@ -1362,6 +1454,17 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "first quality": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "First Quality",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Established consumer-products manufacturer, but it has limited recognition as a software-engineering destination.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "flagright": {
       "aliases": [],
       "confidence": "medium",
@@ -1600,6 +1703,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "hewlett packard hp": {
+      "aliases": [
+        "Hewlett Packard",
+        "HP Inc."
+      ],
+      "confidence": "high",
+      "display_name": "Hewlett Packard (HP)",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Long-established global technology brand with credible software and systems engineering recognition, though below the most selective tech firms.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "hexaware": {
       "aliases": [
         "Hexaware Technologies"
@@ -1677,6 +1794,19 @@
       "prestige_score": 45,
       "reason": "Established energy company, but it is not broadly recognized as a destination for software engineering.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "iheartmedia": {
+      "aliases": [
+        "iHeart"
+      ],
+      "confidence": "high",
+      "display_name": "iHeartMedia",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 49,
+      "reason": "Recognized media company with relevant digital products, but not a particularly strong or selective software-engineering signal.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "iherb": {
@@ -1780,6 +1910,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "international rescue committee irc": {
+      "aliases": [
+        "International Rescue Committee",
+        "IRC"
+      ],
+      "confidence": "high",
+      "display_name": "International Rescue Committee (IRC)",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Highly respected humanitarian nonprofit, though it has limited software-engineering employer prestige relative to technical organizations.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "internship": {
       "aliases": [],
       "confidence": "low",
@@ -1789,6 +1933,28 @@
       "prestige_score": 1,
       "reason": "Not an identifiable employer, so it provides no assessable software engineering prestige signal.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "jade global": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Jade Global",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established IT consulting and services provider, but it has limited broad selectivity or software-brand recognition.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "jain global": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Jain Global",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Well-regarded investment firm, though its software-engineering brand is less established than leading technology or quant employers.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "jp morgan chase": {
@@ -2101,6 +2267,19 @@
       "prestige_score": 45,
       "reason": "Established industrial holding company, but with limited standalone software engineering brand recognition.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "marvell": {
+      "aliases": [
+        "Marvell Technology"
+      ],
+      "confidence": "high",
+      "display_name": "Marvell",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 78,
+      "reason": "Well-regarded semiconductor company with strong technical credibility in networking, silicon, and systems software.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "maxima": {
@@ -2527,6 +2706,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "occidental petroleum": {
+      "aliases": [
+        "Oxy"
+      ],
+      "confidence": "high",
+      "display_name": "Occidental Petroleum",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 56,
+      "reason": "Major energy company with solid industry recognition, though software engineering is not its primary career brand.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "octaura": {
       "aliases": [],
       "confidence": "medium",
@@ -2699,6 +2891,19 @@
       "prestige_score": 58,
       "reason": "Well-known research university with credible technical work, though not a top software-industry employer signal.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "pennsylvania state university": {
+      "aliases": [
+        "Penn State"
+      ],
+      "confidence": "high",
+      "display_name": "Pennsylvania State University",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Major research university with solid technical credibility, though university software roles carry a less selective industry signal.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "peraton": {
@@ -3221,6 +3426,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "ss and c": {
+      "aliases": [
+        "SS&C Technologies"
+      ],
+      "confidence": "medium",
+      "display_name": "SS&C",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established financial-services software provider with relevant enterprise engineering work but limited broad prestige among software candidates.",
+      "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
     "stevens capital management": {
       "aliases": [
         "SCM"
@@ -3305,6 +3523,19 @@
       "prestige_score": 28,
       "reason": "Limited evidence of a widely recognized software-engineering employer brand or selective technical reputation.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "techtronic industries": {
+      "aliases": [
+        "TTI"
+      ],
+      "confidence": "medium",
+      "display_name": "Techtronic Industries",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established power-tools and hardware company, but not widely known for a standout software-engineering employer brand.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "telesat": {
@@ -3429,6 +3660,19 @@
       "prestige_score": 49,
       "reason": "Well-known consumer and agriculture business, but its software-engineering employer reputation is not especially prominent.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "thermo fisher scientific": {
+      "aliases": [
+        "Thermo Fisher"
+      ],
+      "confidence": "high",
+      "display_name": "Thermo Fisher Scientific",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Highly recognized scientific-instruments and life-sciences employer; software prestige is solid but domain-specific.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "thyssenkrupp": {
@@ -3573,6 +3817,19 @@
       "prestige_score": 63,
       "reason": "Respected health-data platform with credible technical work, though less broadly recognized in software.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "umb": {
+      "aliases": [
+        "UMB Financial"
+      ],
+      "confidence": "low",
+      "display_name": "UMB",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Ambiguous company name; if referring to UMB Financial, it is a respected regional financial-services employer but has limited broad software-engineering brand recognition.",
+      "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
     "uncountable": {
