@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **366** of **366** cached companies (maximum 500).
+Showing **367** of **367** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -113,6 +113,7 @@ Showing **366** of **366** cached companies (maximum 500).
 | Nokia | 68 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms. |
 | Schweitzer Engineering Laboratories | 68 | Medium | 2026-07-21 | gpt-5.6-terra | No | SEL, Schweitzer Engineering Labs | Respected engineering company in power-system protection and automation, offering a solid technical signal, though its software brand is specialized rather than broadly elite. |
 | Torc Robotics | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Torc | Established autonomous-trucking company with relevant robotics and systems-engineering signal, though less broadly prestigious than leading autonomy firms. |
+| University of Virginia | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | UVA | Well-regarded university and research institution; a software engineering internship there can signal solid technical and academic credibility, though it carries less industry engineering-brand prestige than leading technology companies. |
 | Accenture | 67 | High | 2026-07-20 | gpt-5.6-terra | No | - | Highly recognized technology consulting employer with selective technical roles, but its software-engineering signal is generally below top product-focused engineering companies. |
 | Ancestry | 67 | High | 2026-07-18 | gpt-5.6-terra | No | - | Recognized consumer-data and genealogy technology company with mature engineering work and a solid brand. |
 | General Motors | 67 | High | 2026-07-18 | gpt-5.6-terra | No | GM | Major automotive technology employer with substantial software work and a solid engineering signal. |

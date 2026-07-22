@@ -4087,6 +4087,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "university of virginia": {
+      "aliases": [
+        "UVA"
+      ],
+      "confidence": "medium",
+      "display_name": "University of Virginia",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded university and research institution; a software engineering internship there can signal solid technical and academic credibility, though it carries less industry engineering-brand prestige than leading technology companies.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
     "university system of new hampshire": {
       "aliases": [
         "USNH"
