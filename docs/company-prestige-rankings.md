@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **378** of **378** cached companies (maximum 500).
+Showing **379** of **379** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -114,6 +114,7 @@ Showing **378** of **378** cached companies (maximum 500).
 | LiveRamp | 68 | High | 2026-07-21 | gpt-5.6-terra | No | - | Well-regarded data-connectivity and advertising-technology company with meaningful engineering work, though less selective and broadly recognized than top-tier tech firms. |
 | Nio | 68 | High | 2026-07-18 | gpt-5.6-terra | No | - | Recognized EV maker with meaningful software and autonomous-vehicle engineering relevance, though not top-tier software prestige. |
 | Nokia | 68 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms. |
+| Rivian | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | Rivian Automotive | Well-known EV technology company with meaningful software work in embedded systems, vehicle platforms, and connected products; a solid engineering signal, though less selective and less established as a software brand than top tech firms. |
 | Schweitzer Engineering Laboratories | 68 | Medium | 2026-07-21 | gpt-5.6-terra | No | SEL, Schweitzer Engineering Labs | Respected engineering company in power-system protection and automation, offering a solid technical signal, though its software brand is specialized rather than broadly elite. |
 | Torc Robotics | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Torc | Established autonomous-trucking company with relevant robotics and systems-engineering signal, though less broadly prestigious than leading autonomy firms. |
 | University of Virginia | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | UVA | Well-regarded university and research institution; a software engineering internship there can signal solid technical and academic credibility, though it carries less industry engineering-brand prestige than leading technology companies. |
