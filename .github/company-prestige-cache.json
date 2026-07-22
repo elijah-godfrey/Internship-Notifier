@@ -617,6 +617,17 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "borgwarner": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "BorgWarner",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Established global automotive supplier with credible embedded, vehicle, and industrial software exposure, though not a top-tier software engineering brand.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
     "bosch": {
       "aliases": [
         "Robert Bosch GmbH",
@@ -1420,6 +1431,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "excel sports management": {
+      "aliases": [
+        "Excel Sports"
+      ],
+      "confidence": "medium",
+      "display_name": "Excel Sports Management",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Recognized in sports representation, but has limited standalone reputation or selectivity as a software engineering employer.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
     "expedia group": {
       "aliases": [
         "Expedia"
@@ -2059,6 +2083,20 @@
       "prestige_score": 58,
       "reason": "Well-regarded investment firm, though its software-engineering brand is less established than leading technology or quant employers.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "jingdong": {
+      "aliases": [
+        "JD.com",
+        "Jingdong Group"
+      ],
+      "confidence": "medium",
+      "display_name": "JINGDONG",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "Large, respected Chinese e-commerce and logistics technology company with meaningful engineering scale and a strong regional technical brand.",
+      "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
     "jp morgan chase": {
@@ -3444,6 +3482,33 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "rockwool group": {
+      "aliases": [
+        "ROCKWOOL"
+      ],
+      "confidence": "medium",
+      "display_name": "ROCKWOOL Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Established industrial and building-materials company, but its employer reputation is primarily outside software engineering.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
+    "royal bank of canada": {
+      "aliases": [
+        "RBC",
+        "RBC Royal Bank"
+      ],
+      "confidence": "high",
+      "display_name": "Royal Bank of Canada",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Major, well-regarded financial institution with substantial technology organizations; a solid engineering signal, though banking is not generally viewed as elite software branding.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
     "rtx": {
       "aliases": [
         "Raytheon Technologies"
@@ -3524,6 +3589,19 @@
       "prestige_score": 62,
       "reason": "Large technology-driven commerce platform with meaningful engineering scale, but a less distinguished software-employer brand.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "shyftlabs": {
+      "aliases": [
+        "Shyft Labs"
+      ],
+      "confidence": "low",
+      "display_name": "ShyftLabs",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 39,
+      "reason": "Technology and data-services firm with limited broad recognition or demonstrated selectivity as a software engineering brand.",
+      "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
     "sila nanotechnologies": {
