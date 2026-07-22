@@ -2694,6 +2694,17 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "mosaic": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Mosaic",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Ambiguous company name; without a clear entity, it has limited identifiable software-engineering brand signal.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
     "moss and associates": {
       "aliases": [
         "Moss",

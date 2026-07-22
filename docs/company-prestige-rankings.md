@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **376** of **376** cached companies (maximum 500).
+Showing **377** of **377** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -271,6 +271,7 @@ Showing **376** of **376** cached companies (maximum 500).
 | Hunt Oil Company | 45 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established energy company, but it is not broadly recognized as a destination for software engineering. |
 | International Rescue Committee (IRC) | 45 | High | 2026-07-21 | gpt-5.6-terra | No | International Rescue Committee, IRC | Highly respected humanitarian nonprofit, though it has limited software-engineering employer prestige relative to technical organizations. |
 | Marmon Holdings | 45 | Medium | 2026-07-18 | gpt-5.6-terra | No | Marmon | Established industrial holding company, but with limited standalone software engineering brand recognition. |
+| Mosaic | 45 | Low | 2026-07-22 | gpt-5.6-terra | No | - | Ambiguous company name; without a clear entity, it has limited identifiable software-engineering brand signal. |
 | Onware | 45 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Recognized as a niche construction-software employer, but not a broadly prestigious engineering signal. |
 | Ribbon | 45 | Low | 2026-07-21 | gpt-5.6-terra | No | Ribbon Communications | The name is ambiguous; assuming Ribbon Communications, it has a credible telecom/software engineering presence but limited broad recognition as a selective software internship brand. |
 | UMB | 45 | Low | 2026-07-21 | gpt-5.6-terra | No | UMB Financial | Ambiguous company name; if referring to UMB Financial, it is a respected regional financial-services employer but has limited broad software-engineering brand recognition. |
