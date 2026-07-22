@@ -68,6 +68,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "adtheorant": {
+      "aliases": [
+        "AdTheorent"
+      ],
+      "confidence": "medium",
+      "display_name": "Adtheorant",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Established ad-tech company with relevant data and software work, but limited broad recognition or selectivity as a standout software-engineering employer.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
     "advanced energy": {
       "aliases": [
         "Advanced Energy Industries",
@@ -299,6 +312,19 @@
       "prestige_score": 25,
       "reason": "Limited broadly established software-engineering reputation under this name.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "arcadis": {
+      "aliases": [
+        "Arcadis NV"
+      ],
+      "confidence": "high",
+      "display_name": "Arcadis",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Well-regarded global engineering and consulting firm, but its reputation is centered on infrastructure and design rather than a strong software-engineering hiring signal.",
+      "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
     "architect labs": {
@@ -1983,6 +2009,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "impulse space": {
+      "aliases": [
+        "Impulse Space Propulsion"
+      ],
+      "confidence": "medium",
+      "display_name": "Impulse Space",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Technically ambitious space company with a promising aerospace engineering signal, but it is young and has not yet built broad, established software-employer recognition.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
     "infojini": {
       "aliases": [],
       "confidence": "medium",
@@ -2201,6 +2240,19 @@
       "prestige_score": 35,
       "reason": "The name is ambiguous; known businesses using it do not generally carry strong software-engineering prestige.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "kepler communications": {
+      "aliases": [
+        "Kepler"
+      ],
+      "confidence": "medium",
+      "display_name": "Kepler Communications",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Respected satellite-communications startup with technically relevant systems work, but a relatively niche and less broadly recognized software-engineering brand.",
+      "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
     "keysight technologies": {
@@ -3044,6 +3096,19 @@
       "prestige_score": 45,
       "reason": "Recognized as a niche construction-software employer, but not a broadly prestigious engineering signal.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "opusclip": {
+      "aliases": [
+        "Opus Clip"
+      ],
+      "confidence": "medium",
+      "display_name": "OpusClip",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Visible AI video-product startup with relevant applied-ML and product engineering work, though its employer brand remains emerging rather than broadly established.",
+      "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
     "oracle": {
@@ -4272,6 +4337,20 @@
       "prestige_score": 63,
       "reason": "Established global automotive supplier with meaningful embedded, ADAS, and mobility software work, though not an elite general software signal.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "varian": {
+      "aliases": [
+        "Varian Medical Systems",
+        "Varian Medical"
+      ],
+      "confidence": "medium",
+      "display_name": "Varian",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Established medical-technology and scientific-instrumentation name with credible engineering work, though its software brand is not broadly elite or consumer-tech prominent.",
+      "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
     "varick agents": {
