@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **374** of **374** cached companies (maximum 500).
+Showing **376** of **376** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -109,6 +109,7 @@ Showing **374** of **374** cached companies (maximum 500).
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
 | Agilent Technologies | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Agilent | Highly respected scientific-instrumentation company with solid technical credibility, though not primarily known for mainstream software engineering. |
 | Ambarella | 68 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-regarded semiconductor and edge-AI company with strong specialized engineering credibility. |
+| Amgen | 68 | High | 2026-07-22 | gpt-5.6-terra | No | - | Highly respected global biotechnology company with meaningful engineering and data work, though its software engineering brand is not viewed as top-tier tech. |
 | LiveRamp | 68 | High | 2026-07-21 | gpt-5.6-terra | No | - | Well-regarded data-connectivity and advertising-technology company with meaningful engineering work, though less selective and broadly recognized than top-tier tech firms. |
 | Nio | 68 | High | 2026-07-18 | gpt-5.6-terra | No | - | Recognized EV maker with meaningful software and autonomous-vehicle engineering relevance, though not top-tier software prestige. |
 | Nokia | 68 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms. |
@@ -369,6 +370,7 @@ Showing **374** of **374** cached companies (maximum 500).
 | Cybernetic Labs | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Insufficient evidence of a widely established employer reputation or recognized software-engineering brand. |
 | Denari | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognizable software-engineering brand under this name. |
 | Eragon | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence supports a strong internship signal. |
+| Exploration Technology Corp. | 28 | Low | 2026-07-22 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized or selective software engineering employer brand under this exact name. |
 | NeoCognition | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; appears to be a lesser-known technology company. |
 | Rainmaker | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a recognized software-engineering employer brand. |
 | Samaya | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not have a broadly established software engineering reputation. |

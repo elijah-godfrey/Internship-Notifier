@@ -200,6 +200,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "amgen": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Amgen",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Highly respected global biotechnology company with meaningful engineering and data work, though its software engineering brand is not viewed as top-tier tech.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
     "analytical mechanics associates": {
       "aliases": [
         "AMA"
@@ -1455,6 +1466,17 @@
       "prestige_score": 74,
       "reason": "Well-known consumer internet company with substantial software engineering and a strong mainstream tech signal.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "exploration technology": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Exploration Technology Corp.",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited reliable evidence of a broadly recognized or selective software engineering employer brand under this exact name.",
+      "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
     "f schumacher": {
