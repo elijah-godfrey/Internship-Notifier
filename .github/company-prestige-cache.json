@@ -3248,6 +3248,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "primetals technologies": {
+      "aliases": [
+        "Primetals"
+      ],
+      "confidence": "medium",
+      "display_name": "Primetals Technologies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established industrial-technology and metals engineering firm with credible enterprise engineering work, but limited broad recognition or selectivity as a software-engineering brand compared with leading tech employers.",
+      "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
     "prior labs": {
       "aliases": [],
       "confidence": "medium",

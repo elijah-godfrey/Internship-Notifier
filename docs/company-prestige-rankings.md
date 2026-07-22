@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **373** of **373** cached companies (maximum 500).
+Showing **374** of **374** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -181,6 +181,7 @@ Showing **373** of **373** cached companies (maximum 500).
 | Jain Global | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Well-regarded investment firm, though its software-engineering brand is less established than leading technology or quant employers. |
 | Meshy | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | Meshy AI | Visible generative-AI startup with relevant technical work, but an early-stage and less established engineering reputation. |
 | PennState University | 58 | High | 2026-07-18 | gpt-5.6-terra | No | Penn State, The Pennsylvania State University | Well-known research university with credible technical work, though not a top software-industry employer signal. |
+| Primetals Technologies | 58 | Medium | 2026-07-22 | gpt-5.6-terra | No | Primetals | Established industrial-technology and metals engineering firm with credible enterprise engineering work, but limited broad recognition or selectivity as a software-engineering brand compared with leading tech employers. |
 | Solink | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Credible security-software company with a positive but primarily regional and industry-specific engineering reputation. |
 | SS&C | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | SS&C Technologies | Established financial-services software provider with relevant enterprise engineering work but limited broad prestige among software candidates. |
 | Westinghouse | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | Westinghouse Electric Company | Established engineering and energy name, but its software-engineering brand is more specialized than broadly elite. |
