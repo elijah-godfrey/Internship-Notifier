@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **377** of **377** cached companies (maximum 500).
+Showing **378** of **378** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -59,6 +59,7 @@ Showing **377** of **377** cached companies (maximum 500).
 | BlackRock | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Aladdin by BlackRock | Globally recognized asset manager with a strong technology brand through Aladdin; a selective, respected engineering internship signal, especially in financial software, though below the most elite general-tech employers. |
 | Marvell | 78 | High | 2026-07-21 | gpt-5.6-terra | No | Marvell Technology | Well-regarded semiconductor company with strong technical credibility in networking, silicon, and systems software. |
 | Point72 | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Point72 Asset Management | Highly selective investment firm with a strong quantitative and technology career signal. |
+| Samsung | 78 | High | 2026-07-22 | gpt-5.6-terra | No | Samsung Electronics | Globally recognized technology leader with substantial engineering scale and respected software work across devices, platforms, and semiconductors; a strong signal, though its software-engineering brand is generally less elite than the most selective pure software firms. |
 | Texas Instruments | 78 | High | 2026-07-18 | gpt-5.6-terra | No | TI | Highly respected semiconductor employer with a strong engineering brand, especially for embedded and systems-oriented software. |
 | Veeva | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Veeva Systems | Highly regarded enterprise cloud-software company with a strong engineering reputation, particularly in life-sciences software. |
 | Zipline | 78 | Medium | 2026-07-21 | gpt-5.6-terra | No | Zipline International | Highly regarded robotics, autonomy, and drone-delivery company; a strong engineering signal, particularly for embedded, distributed systems, and autonomy roles, though less universally recognized than top general-tech employers. |
