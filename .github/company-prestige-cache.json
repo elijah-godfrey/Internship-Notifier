@@ -3633,6 +3633,20 @@
       "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
+    "rsm": {
+      "aliases": [
+        "RSM US LLP",
+        "RSM International"
+      ],
+      "confidence": "medium",
+      "display_name": "RSM",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Well-known professional-services and accounting firm with credible technology consulting opportunities, but its software engineering brand and selectivity are less prominent than major technology employers.",
+      "reviewed_at": "2026-07-23",
+      "rubric_version": "prestige-v1"
+    },
     "rtx": {
       "aliases": [
         "Raytheon Technologies"

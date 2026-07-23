@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **385** of **385** cached companies (maximum 500).
+Showing **386** of **386** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -189,6 +189,7 @@ Showing **385** of **385** cached companies (maximum 500).
 | Meshy | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | Meshy AI | Visible generative-AI startup with relevant technical work, but an early-stage and less established engineering reputation. |
 | PennState University | 58 | High | 2026-07-18 | gpt-5.6-terra | No | Penn State, The Pennsylvania State University | Well-known research university with credible technical work, though not a top software-industry employer signal. |
 | Primetals Technologies | 58 | Medium | 2026-07-22 | gpt-5.6-terra | No | Primetals | Established industrial-technology and metals engineering firm with credible enterprise engineering work, but limited broad recognition or selectivity as a software-engineering brand compared with leading tech employers. |
+| RSM | 58 | Medium | 2026-07-23 | gpt-5.6-terra | No | RSM US LLP, RSM International | Well-known professional-services and accounting firm with credible technology consulting opportunities, but its software engineering brand and selectivity are less prominent than major technology employers. |
 | Solink | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Credible security-software company with a positive but primarily regional and industry-specific engineering reputation. |
 | SS&C | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | SS&C Technologies | Established financial-services software provider with relevant enterprise engineering work but limited broad prestige among software candidates. |
 | Westinghouse | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | Westinghouse Electric Company | Established engineering and energy name, but its software-engineering brand is more specialized than broadly elite. |
