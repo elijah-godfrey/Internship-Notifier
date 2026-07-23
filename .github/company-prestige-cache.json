@@ -3960,6 +3960,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "t rowe price": {
+      "aliases": [
+        "T. Rowe Price Group",
+        "TROW"
+      ],
+      "confidence": "medium",
+      "display_name": "T. Rowe Price",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Well-regarded asset manager with solid technology roles and a credible financial-services signal, though its engineering brand is not broadly viewed as top-tier tech.",
+      "reviewed_at": "2026-07-23",
+      "rubric_version": "prestige-v1"
+    },
     "technergetics": {
       "aliases": [],
       "confidence": "low",
@@ -4474,6 +4488,19 @@
       "prestige_score": 37,
       "reason": "The name is ambiguous; likely a smaller company with limited established software-engineering employer recognition.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "warner bros": {
+      "aliases": [
+        "Warner Bros. Discovery"
+      ],
+      "confidence": "medium",
+      "display_name": "Warner Bros.",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Globally recognized entertainment brand with meaningful technology work, but its software engineering reputation is less elite and less selective than major dedicated tech employers.",
+      "reviewed_at": "2026-07-23",
       "rubric_version": "prestige-v1"
     },
     "wealthcom": {

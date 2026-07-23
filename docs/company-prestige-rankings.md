@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **387** of **387** cached companies (maximum 500).
+Showing **389** of **389** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -138,6 +138,7 @@ Showing **387** of **387** cached companies (maximum 500).
 | Thermo Fisher Scientific | 65 | High | 2026-07-21 | gpt-5.6-terra | No | Thermo Fisher | Highly recognized scientific-instruments and life-sciences employer; software prestige is solid but domain-specific. |
 | Trane Technologies | 65 | High | 2026-07-18 | gpt-5.6-terra | No | Trane | Well-regarded global building-technology company with solid engineering credibility, but a less prominent software brand than leading tech employers. |
 | Viridien | 65 | Medium | 2026-07-21 | gpt-5.6-terra | No | CGG, Viridien Group | Well-regarded geoscience and subsurface-imaging company with meaningful technical work, but a specialized engineering brand rather than a broadly elite software signal. |
+| Warner Bros. | 65 | Medium | 2026-07-23 | gpt-5.6-terra | No | Warner Bros. Discovery | Globally recognized entertainment brand with meaningful technology work, but its software engineering reputation is less elite and less selective than major dedicated tech employers. |
 | ACI Worldwide | 64 | High | 2026-07-18 | gpt-5.6-terra | No | ACI | Established payments-software company with credible transaction-platform engineering work and a solid fintech signal. |
 | Advanced Energy | 64 | Medium | 2026-07-18 | gpt-5.6-terra | No | Advanced Energy Industries, AEI | Established power-conversion and semiconductor-equipment company with credible engineering work, though not a widely recognized software employer. |
 | Axiomatic AI | 64 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Prominent early-stage AI-for-science company with a strong technical profile, though its employer reputation is still developing. |
@@ -147,6 +148,7 @@ Showing **387** of **387** cached companies (maximum 500).
 | NewsBreak | 64 | Medium | 2026-07-18 | gpt-5.6-terra | No | NewsBreak App | Recognized consumer technology platform with meaningful engineering scale, though not broadly viewed as a top-tier engineering destination. |
 | RTX | 64 | High | 2026-07-20 | gpt-5.6-terra | No | Raytheon Technologies | Well-known aerospace and defense employer with credible engineering work, though its software brand is less elite than leading software-native firms. |
 | Synchrony Financial | 64 | High | 2026-07-18 | gpt-5.6-terra | No | Synchrony | Recognized financial-services company with meaningful technology work; a solid but not elite software-engineering signal. |
+| T. Rowe Price | 64 | Medium | 2026-07-23 | gpt-5.6-terra | No | T. Rowe Price Group, TROW | Well-regarded asset manager with solid technology roles and a credible financial-services signal, though its engineering brand is not broadly viewed as top-tier tech. |
 | Varian | 64 | Medium | 2026-07-22 | gpt-5.6-terra | No | Varian Medical Systems, Varian Medical | Established medical-technology and scientific-instrumentation name with credible engineering work, though its software brand is not broadly elite or consumer-tech prominent. |
 | Baker Hughes | 63 | High | 2026-07-18 | gpt-5.6-terra | No | - | Major industrial-energy company with substantial engineering and digital operations, though not primarily known for software talent. |
 | Magna | 63 | High | 2026-07-18 | gpt-5.6-terra | No | Magna International | Major automotive supplier with credible embedded and mobility software work, but not a leading software brand. |
