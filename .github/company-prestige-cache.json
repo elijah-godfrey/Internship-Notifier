@@ -3473,6 +3473,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "red bull": {
+      "aliases": [
+        "Red Bull GmbH"
+      ],
+      "confidence": "medium",
+      "display_name": "Red Bull",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Globally recognizable consumer brand, but its software engineering organization is not broadly known as a selective or top-tier engineering career signal.",
+      "reviewed_at": "2026-07-23",
+      "rubric_version": "prestige-v1"
+    },
     "rehlko": {
       "aliases": [],
       "confidence": "medium",

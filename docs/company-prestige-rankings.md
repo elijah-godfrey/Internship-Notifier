@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **386** of **386** cached companies (maximum 500).
+Showing **387** of **387** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -239,6 +239,7 @@ Showing **386** of **386** cached companies (maximum 500).
 | Littelfuse | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established industrial technology manufacturer with credible embedded, firmware, and engineering work, but it has limited broad recognition or selectivity as a software-engineering employer. |
 | Medpace | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | Medpace Holdings | Established clinical research organization with credible domain-specific technology work, but limited broad software-engineering prestige relative to major tech or engineering employers. |
 | Nidec | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Large, established industrial motor and electronics manufacturer, but primarily known for hardware and manufacturing rather than a strong software-engineering signal. |
+| Red Bull | 52 | Medium | 2026-07-23 | gpt-5.6-terra | No | Red Bull GmbH | Globally recognizable consumer brand, but its software engineering organization is not broadly known as a selective or top-tier engineering career signal. |
 | Techtronic Industries | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | TTI | Established power-tools and hardware company, but not widely known for a standout software-engineering employer brand. |
 | TIFIN | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized fintech company with relevant engineering work, though its software-engineering reputation is not broadly top-tier. |
 | TribalScale | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established digital-product consultancy, but consulting work carries a more modest software-engineering prestige signal. |
