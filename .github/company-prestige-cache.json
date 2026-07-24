@@ -259,6 +259,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "appian": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Appian",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Established enterprise software company with a respectable engineering signal, particularly in low-code and workflow platforms, but not generally viewed as top-tier software prestige.",
+      "reviewed_at": "2026-07-24",
+      "rubric_version": "prestige-v1"
+    },
     "apple": {
       "aliases": [],
       "confidence": "high",
@@ -397,6 +408,19 @@
       "prestige_score": 55,
       "reason": "Name is ambiguous; if referring to a semiconductor or infrastructure-focused firm, it has technical relevance but limited broad software prestige.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "astranis": {
+      "aliases": [
+        "Astranis Space Technologies"
+      ],
+      "confidence": "medium",
+      "display_name": "Astranis",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Well-regarded, selective space-tech startup with technically demanding work; its software brand is strong in the aerospace/startup niche but less broadly established than major software firms.",
+      "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
     "auctor": {
@@ -2802,6 +2826,20 @@
       "prestige_score": 42,
       "reason": "Established construction-management firm, but it has limited broad recognition or a distinct software-engineering brand.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "motorola": {
+      "aliases": [
+        "Motorola Solutions",
+        "Motorola Mobility"
+      ],
+      "confidence": "medium",
+      "display_name": "Motorola",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Recognized technology brand with credible engineering heritage, though its current software-engineering signal is less elite and depends heavily on the specific Motorola entity and team.",
+      "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
     "multiply labs": {

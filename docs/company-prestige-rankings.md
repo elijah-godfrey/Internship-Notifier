@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **395** of **395** cached companies (maximum 500).
+Showing **398** of **398** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -92,6 +92,7 @@ Showing **395** of **395** cached companies (maximum 500).
 | Keysight Technologies | 73 | High | 2026-07-21 | gpt-5.6-terra | No | Keysight | Widely respected electronic-design, test, and measurement technology company with a strong technical engineering reputation and meaningful software relevance. |
 | University of Maryland - College Park | 73 | High | 2026-07-18 | gpt-5.6-terra | No | UMD | Highly respected research university with a strong computer science and engineering reputation; positive technical signal outside conventional industry roles. |
 | Aptiv | 72 | High | 2026-07-21 | gpt-5.6-terra | No | - | Strong automotive technology and embedded/software reputation, particularly for mobility and systems engineering. |
+| Astranis | 72 | Medium | 2026-07-24 | gpt-5.6-terra | No | Astranis Space Technologies | Well-regarded, selective space-tech startup with technically demanding work; its software brand is strong in the aerospace/startup niche but less broadly established than major software firms. |
 | Carta | 72 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-known venture-backed fintech with a solid engineering and startup-career signal. |
 | Hewlett Packard (HP) | 72 | High | 2026-07-21 | gpt-5.6-terra | No | Hewlett Packard, HP Inc. | Long-established global technology brand with credible software and systems engineering recognition, though below the most selective tech firms. |
 | Lambda | 72 | Medium | 2026-07-18 | gpt-5.6-terra | No | Lambda Labs | Recognized AI-computing and cloud startup with a strong relevant technical signal, though less established than leading infrastructure firms. |
@@ -125,6 +126,7 @@ Showing **395** of **395** cached companies (maximum 500).
 | General Motors | 67 | High | 2026-07-18 | gpt-5.6-terra | No | GM | Major automotive technology employer with substantial software work and a solid engineering signal. |
 | Interac | 67 | High | 2026-07-18 | gpt-5.6-terra | No | - | Prominent Canadian payments-network brand with credible fintech engineering work, though recognition is more regional than global. |
 | Royal Bank of Canada | 67 | High | 2026-07-22 | gpt-5.6-terra | No | RBC, RBC Royal Bank | Major, well-regarded financial institution with substantial technology organizations; a solid engineering signal, though banking is not generally viewed as elite software branding. |
+| Appian | 66 | Medium | 2026-07-24 | gpt-5.6-terra | No | - | Established enterprise software company with a respectable engineering signal, particularly in low-code and workflow platforms, but not generally viewed as top-tier software prestige. |
 | Chevron Corporation | 66 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized energy company with substantial technical operations; its software brand is respected but not a top-tier destination for software engineering. |
 | GE Healthcare | 66 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-recognized healthcare technology employer with solid engineering credibility, though not viewed as a top general software destination. |
 | GE Vernova | 66 | Medium | 2026-07-21 | gpt-5.6-terra | No | GEV | Recognized energy and industrial technology company with credible engineering work, but its software brand is less prominent than its domain-engineering reputation. |
@@ -161,6 +163,7 @@ Showing **395** of **395** cached companies (maximum 500).
 | Valeo | 63 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established global automotive supplier with meaningful embedded, ADAS, and mobility software work, though not an elite general software signal. |
 | BAE Systems | 62 | High | 2026-07-18 | gpt-5.6-terra | No | - | Highly respected defense engineering employer, with a solid but less elite general software signal. |
 | BorgWarner | 62 | Medium | 2026-07-22 | gpt-5.6-terra | No | - | Established global automotive supplier with credible embedded, vehicle, and industrial software exposure, though not a top-tier software engineering brand. |
+| Motorola | 62 | Medium | 2026-07-24 | gpt-5.6-terra | No | Motorola Solutions, Motorola Mobility | Recognized technology brand with credible engineering heritage, though its current software-engineering signal is less elite and depends heavily on the specific Motorola entity and team. |
 | SHEIN | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Large technology-driven commerce platform with meaningful engineering scale, but a less distinguished software-employer brand. |
 | Sila Nanotechnologies | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | Sila Nano, Sila | Notable battery-materials deep-tech company with a positive specialized engineering signal, but limited broad software recognition. |
 | Telesat | 62 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Established satellite communications company with technically relevant engineering work, though its software-employer brand is specialized rather than broadly elite. |
