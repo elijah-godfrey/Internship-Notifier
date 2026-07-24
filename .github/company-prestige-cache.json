@@ -524,6 +524,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "bank of montreal": {
+      "aliases": [
+        "BMO",
+        "BMO Financial Group"
+      ],
+      "confidence": "high",
+      "display_name": "Bank of Montreal",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Major established bank with a credible technology organization and strong general employer recognition, though its engineering brand is below top-tier technology firms.",
+      "reviewed_at": "2026-07-24",
+      "rubric_version": "prestige-v1"
+    },
     "barkback": {
       "aliases": [],
       "confidence": "low",
@@ -991,6 +1005,19 @@
       "prestige_score": 95,
       "reason": "Exceptional quantitative trading and market-making brand, known for highly selective technical hiring and demanding engineering work.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "city of austin": {
+      "aliases": [
+        "City of Austin, Texas"
+      ],
+      "confidence": "medium",
+      "display_name": "City of Austin",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 50,
+      "reason": "Recognizable public-sector employer with potentially meaningful civic-tech work, but limited broad selectivity or software-engineering prestige signal.",
+      "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
     "city of charlotte": {
@@ -2603,6 +2630,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "manulife financial": {
+      "aliases": [
+        "Manulife"
+      ],
+      "confidence": "medium",
+      "display_name": "Manulife Financial",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Large, respected global financial-services employer with substantial technology operations, though not generally viewed as a top software-engineering destination.",
+      "reviewed_at": "2026-07-24",
+      "rubric_version": "prestige-v1"
+    },
     "marmon holdings": {
       "aliases": [
         "Marmon"
@@ -3006,6 +3046,17 @@
       "prestige_score": 64,
       "reason": "Recognized consumer technology platform with meaningful engineering scale, though not broadly viewed as a top-tier engineering destination.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "nextiva": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Nextiva",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Established cloud communications/SaaS company with relevant engineering work, but a modest broader software-engineering brand and selectivity signal.",
+      "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
     "nidec": {

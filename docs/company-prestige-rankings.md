@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **403** of **403** cached companies (maximum 500).
+Showing **407** of **407** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -127,6 +127,7 @@ Showing **403** of **403** cached companies (maximum 500).
 | Interac | 67 | High | 2026-07-18 | gpt-5.6-terra | No | - | Prominent Canadian payments-network brand with credible fintech engineering work, though recognition is more regional than global. |
 | Royal Bank of Canada | 67 | High | 2026-07-22 | gpt-5.6-terra | No | RBC, RBC Royal Bank | Major, well-regarded financial institution with substantial technology organizations; a solid engineering signal, though banking is not generally viewed as elite software branding. |
 | Appian | 66 | Medium | 2026-07-24 | gpt-5.6-terra | No | - | Established enterprise software company with a respectable engineering signal, particularly in low-code and workflow platforms, but not generally viewed as top-tier software prestige. |
+| Bank of Montreal | 66 | High | 2026-07-24 | gpt-5.6-terra | No | BMO, BMO Financial Group | Major established bank with a credible technology organization and strong general employer recognition, though its engineering brand is below top-tier technology firms. |
 | Chevron Corporation | 66 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized energy company with substantial technical operations; its software brand is respected but not a top-tier destination for software engineering. |
 | GE Healthcare | 66 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-recognized healthcare technology employer with solid engineering credibility, though not viewed as a top general software destination. |
 | GE Vernova | 66 | Medium | 2026-07-21 | gpt-5.6-terra | No | GEV | Recognized energy and industrial technology company with credible engineering work, but its software brand is less prominent than its domain-engineering reputation. |
@@ -163,6 +164,7 @@ Showing **403** of **403** cached companies (maximum 500).
 | Valeo | 63 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established global automotive supplier with meaningful embedded, ADAS, and mobility software work, though not an elite general software signal. |
 | BAE Systems | 62 | High | 2026-07-18 | gpt-5.6-terra | No | - | Highly respected defense engineering employer, with a solid but less elite general software signal. |
 | BorgWarner | 62 | Medium | 2026-07-22 | gpt-5.6-terra | No | - | Established global automotive supplier with credible embedded, vehicle, and industrial software exposure, though not a top-tier software engineering brand. |
+| Manulife Financial | 62 | Medium | 2026-07-24 | gpt-5.6-terra | No | Manulife | Large, respected global financial-services employer with substantial technology operations, though not generally viewed as a top software-engineering destination. |
 | Motorola | 62 | Medium | 2026-07-24 | gpt-5.6-terra | No | Motorola Solutions, Motorola Mobility | Recognized technology brand with credible engineering heritage, though its current software-engineering signal is less elite and depends heavily on the specific Motorola entity and team. |
 | SHEIN | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Large technology-driven commerce platform with meaningful engineering scale, but a less distinguished software-employer brand. |
 | Sila Nanotechnologies | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | Sila Nano, Sila | Notable battery-materials deep-tech company with a positive specialized engineering signal, but limited broad software recognition. |
@@ -225,6 +227,7 @@ Showing **403** of **403** cached companies (maximum 500).
 | Eluvio | 55 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Technically oriented decentralized-video platform, but niche market presence and limited mainstream software-engineering recognition. |
 | Etched.ai | 55 | Medium | 2026-07-18 | gpt-5.6-terra | No | Etched | High-profile AI-chip startup concept, but too early to have an established engineering-employer reputation. |
 | GenScript | 55 | Medium | 2026-07-18 | gpt-5.6-terra | No | GenScript Biotech | Recognized life-sciences company with credible technical operations, but software engineering is not its primary employer reputation. |
+| Nextiva | 55 | Medium | 2026-07-24 | gpt-5.6-terra | No | - | Established cloud communications/SaaS company with relevant engineering work, but a modest broader software-engineering brand and selectivity signal. |
 | Northwell Health | 55 | Medium | 2026-07-24 | gpt-5.6-terra | No | Northwell | Large, respected healthcare system with meaningful health-IT engineering work, though its software-engineering brand is not broadly top-tier. |
 | Sandhills Global | 55 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established technology and marketplace business with a credible but mostly regional and industry-specific engineering signal. |
 | Symmetry Systems | 55 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Credible data-security startup with relevant technical work, but limited broad employer recognition. |
@@ -255,6 +258,7 @@ Showing **403** of **403** cached companies (maximum 500).
 | Rehlko | 51 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established energy-resilience business with technical relevance, but a limited standalone software-engineering prestige signal. |
 | Smiths Detection | 51 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established security-technology company, though its software engineering reputation is specialized rather than broadly prestigious. |
 | Centerfield | 50 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established performance-marketing technology company with ordinary broader recognition among software employers. |
+| City of Austin | 50 | Medium | 2026-07-24 | gpt-5.6-terra | No | City of Austin, Texas | Recognizable public-sector employer with potentially meaningful civic-tech work, but limited broad selectivity or software-engineering prestige signal. |
 | Consensus Cloud Solutions | 50 | Medium | 2026-07-18 | gpt-5.6-terra | No | Consensus Cloud | Established cloud communications and document-services company, but with modest visibility as a software-engineering destination. |
 | Definity Financial | 50 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established insurance company with solid enterprise technology opportunities but limited wider engineering prestige. |
 | Nelnet | 50 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established financial-services and education-technology employer with solid technology work but modest national engineering prestige. |
