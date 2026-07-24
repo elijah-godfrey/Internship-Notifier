@@ -1121,6 +1121,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "core and main": {
+      "aliases": [
+        "Core & Main LP"
+      ],
+      "confidence": "medium",
+      "display_name": "Core & Main",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established distributor with useful enterprise IT exposure, but it has limited recognition or selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-07-24",
+      "rubric_version": "prestige-v1"
+    },
     "corpay": {
       "aliases": [
         "Fleetcor Technologies"
@@ -2009,6 +2022,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "howmet aerospace": {
+      "aliases": [
+        "Howmet"
+      ],
+      "confidence": "medium",
+      "display_name": "Howmet Aerospace",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Recognized aerospace and industrial manufacturer with credible technical work, but a comparatively limited software-engineering employer reputation.",
+      "reviewed_at": "2026-07-24",
+      "rubric_version": "prestige-v1"
+    },
     "hubsis": {
       "aliases": [],
       "confidence": "low",
@@ -2855,6 +2881,17 @@
       "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
+    "msm": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "MSM Inc.",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "The name is ambiguous and does not establish a widely recognized or selective software-engineering employer brand.",
+      "reviewed_at": "2026-07-24",
+      "rubric_version": "prestige-v1"
+    },
     "multiply labs": {
       "aliases": [],
       "confidence": "medium",
@@ -3026,6 +3063,19 @@
       "prestige_score": 68,
       "reason": "Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms.",
       "reviewed_at": "2026-07-20",
+      "rubric_version": "prestige-v1"
+    },
+    "northwell health": {
+      "aliases": [
+        "Northwell"
+      ],
+      "confidence": "medium",
+      "display_name": "Northwell Health",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Large, respected healthcare system with meaningful health-IT engineering work, though its software-engineering brand is not broadly top-tier.",
+      "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
     "northwestern mutual": {
