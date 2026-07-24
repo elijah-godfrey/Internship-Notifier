@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **398** of **398** cached companies (maximum 500).
+Showing **399** of **399** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -392,6 +392,7 @@ Showing **398** of **398** cached companies (maximum 500).
 | Denari | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognizable software-engineering brand under this name. |
 | Eragon | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence supports a strong internship signal. |
 | Exploration Technology Corp. | 28 | Low | 2026-07-22 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized or selective software engineering employer brand under this exact name. |
+| Group 1001 | 28 | Low | 2026-07-24 | gpt-5.6-terra | No | Grupo 1001 | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence of a strong technical recruiting signal. |
 | NeoCognition | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; appears to be a lesser-known technology company. |
 | Rainmaker | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a recognized software-engineering employer brand. |
 | Samaya | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not have a broadly established software engineering reputation. |
