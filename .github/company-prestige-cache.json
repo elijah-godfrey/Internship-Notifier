@@ -2438,6 +2438,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "kobo": {
+      "aliases": [
+        "Rakuten Kobo"
+      ],
+      "confidence": "medium",
+      "display_name": "Kobo",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Recognized consumer e-reader and digital-books company with credible product/software work, but a comparatively modest and less selective engineering brand than major global technology firms.",
+      "reviewed_at": "2026-07-25",
+      "rubric_version": "prestige-v1"
+    },
     "kosai": {
       "aliases": [],
       "confidence": "low",
