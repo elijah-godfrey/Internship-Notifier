@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **407** of **407** cached companies (maximum 500).
+Showing **409** of **409** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -57,6 +57,7 @@ Showing **407** of **407** cached companies (maximum 500).
 | Company | Score | Confidence | Reviewed | Model | Manual | Aliases | Reason |
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
 | BlackRock | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Aladdin by BlackRock | Globally recognized asset manager with a strong technology brand through Aladdin; a selective, respected engineering internship signal, especially in financial software, though below the most elite general-tech employers. |
+| CoreWeave | 78 | Medium | 2026-07-25 | gpt-5.6-terra | No | - | High-profile AI cloud infrastructure company with a strong technical signal in GPU computing and large-scale systems, though its software-engineering brand is newer and less established than leading hyperscalers. |
 | Marvell | 78 | High | 2026-07-21 | gpt-5.6-terra | No | Marvell Technology | Well-regarded semiconductor company with strong technical credibility in networking, silicon, and systems software. |
 | Point72 | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Point72 Asset Management | Highly selective investment firm with a strong quantitative and technology career signal. |
 | Samsung | 78 | High | 2026-07-22 | gpt-5.6-terra | No | Samsung Electronics | Globally recognized technology leader with substantial engineering scale and respected software work across devices, platforms, and semiconductors; a strong signal, though its software-engineering brand is generally less elite than the most selective pure software firms. |
@@ -119,6 +120,7 @@ Showing **407** of **407** cached companies (maximum 500).
 | Nokia | 68 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms. |
 | Rivian | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | Rivian Automotive | Well-known EV technology company with meaningful software work in embedded systems, vehicle platforms, and connected products; a solid engineering signal, though less selective and less established as a software brand than top tech firms. |
 | Schweitzer Engineering Laboratories | 68 | Medium | 2026-07-21 | gpt-5.6-terra | No | SEL, Schweitzer Engineering Labs | Respected engineering company in power-system protection and automation, offering a solid technical signal, though its software brand is specialized rather than broadly elite. |
+| The Federal Reserve System | 68 | Medium | 2026-07-25 | gpt-5.6-terra | No | Federal Reserve, U.S. Federal Reserve, Federal Reserve Banks | Highly respected public institution with meaningful technology and financial-systems work, but it is not broadly viewed as a top-tier software engineering brand in the way major technology firms are. |
 | Torc Robotics | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Torc | Established autonomous-trucking company with relevant robotics and systems-engineering signal, though less broadly prestigious than leading autonomy firms. |
 | University of Virginia | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | UVA | Well-regarded university and research institution; a software engineering internship there can signal solid technical and academic credibility, though it carries less industry engineering-brand prestige than leading technology companies. |
 | Accenture | 67 | High | 2026-07-20 | gpt-5.6-terra | No | - | Highly recognized technology consulting employer with selective technical roles, but its software-engineering signal is generally below top product-focused engineering companies. |
