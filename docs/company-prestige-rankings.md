@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **410** of **410** cached companies (maximum 500).
+Showing **411** of **411** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -423,6 +423,7 @@ Showing **410** of **410** cached companies (maximum 500).
 | kos.ai | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited verifiable public recognition as an established or selective software-engineering employer. |
 | Maxima | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The company name is too ambiguous to establish a recognized software-engineering reputation conservatively. |
 | MSM Inc. | 25 | Low | 2026-07-24 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a widely recognized or selective software-engineering employer brand. |
+| North Cloud | 25 | Low | 2026-07-26 | gpt-5.6-terra | No | - | Limited identifiable evidence of a broadly recognized or selective software-engineering employer brand under this name. |
 | Pendulum Intelligence | 25 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer. |
 | Remarcable | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited public evidence of an established, selective, or broadly recognized engineering employer brand. |
 | Truland Equipment | 25 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Primarily an equipment dealership business with limited relevant software-engineering prestige. |
