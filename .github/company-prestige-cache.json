@@ -4453,6 +4453,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "toshiba global commerce": {
+      "aliases": [
+        "Toshiba Global Commerce Solutions",
+        "TGCS"
+      ],
+      "confidence": "medium",
+      "display_name": "Toshiba Global Commerce",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established enterprise retail-technology business with credible engineering work, but a narrower and less prominent software-engineering brand than top technology employers.",
+      "reviewed_at": "2026-07-27",
+      "rubric_version": "prestige-v1"
+    },
     "tower research capital": {
       "aliases": [
         "Tower"

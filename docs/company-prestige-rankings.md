@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **411** of **411** cached companies (maximum 500).
+Showing **412** of **412** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -257,6 +257,7 @@ Showing **411** of **411** cached companies (maximum 500).
 | Red Bull | 52 | Medium | 2026-07-23 | gpt-5.6-terra | No | Red Bull GmbH | Globally recognizable consumer brand, but its software engineering organization is not broadly known as a selective or top-tier engineering career signal. |
 | Techtronic Industries | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | TTI | Established power-tools and hardware company, but not widely known for a standout software-engineering employer brand. |
 | TIFIN | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized fintech company with relevant engineering work, though its software-engineering reputation is not broadly top-tier. |
+| Toshiba Global Commerce | 52 | Medium | 2026-07-27 | gpt-5.6-terra | No | Toshiba Global Commerce Solutions, TGCS | Established enterprise retail-technology business with credible engineering work, but a narrower and less prominent software-engineering brand than top technology employers. |
 | TribalScale | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established digital-product consultancy, but consulting work carries a more modest software-engineering prestige signal. |
 | Rehlko | 51 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established energy-resilience business with technical relevance, but a limited standalone software-engineering prestige signal. |
 | Smiths Detection | 51 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established security-technology company, though its software engineering reputation is specialized rather than broadly prestigious. |
