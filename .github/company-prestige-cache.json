@@ -303,6 +303,17 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "apptronik": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Apptronik",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Notable humanoid-robotics company with a technically compelling engineering brand, though its software-employer signal is still less established than leading robotics firms.",
+      "reviewed_at": "2026-07-27",
+      "rubric_version": "prestige-v1"
+    },
     "aptiv": {
       "aliases": [],
       "confidence": "high",
@@ -893,6 +904,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "ccc intelligent solutions": {
+      "aliases": [
+        "CCC",
+        "CCC Intelligent Solutions Holdings"
+      ],
+      "confidence": "medium",
+      "display_name": "CCC Intelligent Solutions",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established insurance-technology and automotive-claims software company, with a solid but primarily industry-specific engineering signal.",
+      "reviewed_at": "2026-07-27",
+      "rubric_version": "prestige-v1"
+    },
     "centerfield": {
       "aliases": [],
       "confidence": "medium",
@@ -1418,6 +1443,20 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "east penn manufacturing": {
+      "aliases": [
+        "East Penn",
+        "Deka Batteries"
+      ],
+      "confidence": "medium",
+      "display_name": "East Penn Manufacturing Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Respected battery manufacturer, but it has limited broad recognition as a software engineering employer.",
+      "reviewed_at": "2026-07-27",
+      "rubric_version": "prestige-v1"
+    },
     "egra": {
       "aliases": [],
       "confidence": "low",
@@ -1890,6 +1929,19 @@
       "prestige_score": 43,
       "reason": "Georgian Partners is a recognized growth-equity investor with a technology focus, but it is not chiefly known as a software-engineering employer.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "globalfoundries": {
+      "aliases": [
+        "GF"
+      ],
+      "confidence": "high",
+      "display_name": "GlobalFoundries",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Major semiconductor foundry with strong technical credibility; software roles benefit from its established engineering and hardware-industry reputation.",
+      "reviewed_at": "2026-07-27",
       "rubric_version": "prestige-v1"
     },
     "golden pet brands": {
