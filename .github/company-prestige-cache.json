@@ -489,6 +489,19 @@
       "reviewed_at": "2026-07-23",
       "rubric_version": "prestige-v1"
     },
+    "axon": {
+      "aliases": [
+        "Axon Enterprise"
+      ],
+      "confidence": "high",
+      "display_name": "Axon",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Recognized public-safety technology company with meaningful software products and a solid engineering signal, though not in the broad top tier of software employers.",
+      "reviewed_at": "2026-07-27",
+      "rubric_version": "prestige-v1"
+    },
     "axos bank": {
       "aliases": [
         "Axos Financial"
@@ -1406,6 +1419,20 @@
       "prestige_score": 44,
       "reason": "Large, well-known logistics operator, but it is not broadly recognized as a leading software-engineering employer.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "draper": {
+      "aliases": [
+        "Draper Laboratory",
+        "Charles Stark Draper Laboratory"
+      ],
+      "confidence": "low",
+      "display_name": "Draper",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "The name is ambiguous; assuming Draper Laboratory, it is respected in specialized engineering and R&D but has a narrower general software-employer signal.",
+      "reviewed_at": "2026-07-27",
       "rubric_version": "prestige-v1"
     },
     "drw": {
@@ -2512,6 +2539,19 @@
       "prestige_score": 62,
       "reason": "Recognized consumer e-reader and digital-books company with credible product/software work, but a comparatively modest and less selective engineering brand than major global technology firms.",
       "reviewed_at": "2026-07-25",
+      "rubric_version": "prestige-v1"
+    },
+    "kodak": {
+      "aliases": [
+        "Eastman Kodak"
+      ],
+      "confidence": "high",
+      "display_name": "Kodak",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "Historically iconic brand, but it has limited current relevance as a software-engineering destination and a comparatively weak modern software employer signal.",
+      "reviewed_at": "2026-07-27",
       "rubric_version": "prestige-v1"
     },
     "kosai": {
@@ -4180,6 +4220,19 @@
       "reviewed_at": "2026-07-27",
       "rubric_version": "prestige-v1"
     },
+    "sri international": {
+      "aliases": [
+        "SRI"
+      ],
+      "confidence": "high",
+      "display_name": "SRI International",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Well-regarded research institute with a strong technical and innovation legacy; its software-engineering signal is positive but more research-specialized than mainstream software-industry prestige.",
+      "reviewed_at": "2026-07-27",
+      "rubric_version": "prestige-v1"
+    },
     "ss and c": {
       "aliases": [
         "SS&C Technologies"
@@ -4863,6 +4916,19 @@
       "prestige_score": 65,
       "reason": "Globally recognized entertainment brand with meaningful technology work, but its software engineering reputation is less elite and less selective than major dedicated tech employers.",
       "reviewed_at": "2026-07-23",
+      "rubric_version": "prestige-v1"
+    },
+    "waystar": {
+      "aliases": [
+        "Waystar Holding"
+      ],
+      "confidence": "medium",
+      "display_name": "Waystar",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established healthcare revenue-cycle software company with a credible domain-specific engineering signal, but limited broad recognition as an elite software employer.",
+      "reviewed_at": "2026-07-27",
       "rubric_version": "prestige-v1"
     },
     "wealthcom": {
