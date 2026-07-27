@@ -915,6 +915,17 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "chanel": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Chanel",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Globally prestigious luxury brand, but its recognition and selectivity do not translate into a particularly strong or widely visible software engineering signal.",
+      "reviewed_at": "2026-07-27",
+      "rubric_version": "prestige-v1"
+    },
     "chep": {
       "aliases": [
         "Brambles"
@@ -4103,6 +4114,20 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "squarepoint capital": {
+      "aliases": [
+        "Squarepoint",
+        "Squarepoint Capital LLP"
+      ],
+      "confidence": "high",
+      "display_name": "Squarepoint Capital",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 84,
+      "reason": "Highly selective quantitative investment firm with a strong technical reputation; software engineering roles signal demanding systems, data, and quantitative infrastructure work.",
+      "reviewed_at": "2026-07-27",
+      "rubric_version": "prestige-v1"
+    },
     "ss and c": {
       "aliases": [
         "SS&C Technologies"
@@ -4438,6 +4463,20 @@
       "prestige_score": 32,
       "reason": "Limited broadly verifiable engineering-employer recognition under this name.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "tjx": {
+      "aliases": [
+        "The TJX Companies",
+        "TJ Maxx"
+      ],
+      "confidence": "medium",
+      "display_name": "TJX",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Large, established retailer with meaningful internal technology work, but its software engineering brand is not broadly viewed as top-tier.",
+      "reviewed_at": "2026-07-27",
       "rubric_version": "prestige-v1"
     },
     "torc robotics": {
