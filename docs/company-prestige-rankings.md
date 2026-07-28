@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **424** of **424** cached companies (maximum 500).
+Showing **425** of **425** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -141,6 +141,7 @@ Showing **424** of **424** cached companies (maximum 500).
 | SRI International | 66 | High | 2026-07-27 | gpt-5.6-terra | No | SRI | Well-regarded research institute with a strong technical and innovation legacy; its software-engineering signal is positive but more research-specialized than mainstream software-industry prestige. |
 | Apptronik | 65 | Medium | 2026-07-27 | gpt-5.6-terra | No | - | Notable humanoid-robotics company with a technically compelling engineering brand, though its software-employer signal is still less established than leading robotics firms. |
 | Cirrus Logic | 65 | High | 2026-07-20 | gpt-5.6-terra | No | - | Respected semiconductor and embedded-systems employer with meaningful technical credibility, though its software-engineering brand is specialized rather than broadly elite. |
+| Deloitte | 65 | High | 2026-07-28 | gpt-5.6-terra | No | - | Globally recognized professional-services brand with credible technology and consulting work, but its software engineering signal is generally weaker and less selective than top product-focused tech employers. |
 | Fanatics | 65 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-known digital-commerce and sports platform with solid engineering relevance, but less selective or prestigious than leading consumer-tech firms. |
 | Hermeus | 65 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Technically ambitious aerospace startup with a credible engineering signal, though its software brand is still emerging. |
 | Interdigital | 65 | High | 2026-07-18 | gpt-5.6-terra | No | - | Respected wireless and communications R&D company with meaningful technical depth, though less broadly recognized by general software recruiters. |

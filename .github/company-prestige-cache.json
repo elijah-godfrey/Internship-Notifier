@@ -1317,6 +1317,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "deloitte": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Deloitte",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Globally recognized professional-services brand with credible technology and consulting work, but its software engineering signal is generally weaker and less selective than top product-focused tech employers.",
+      "reviewed_at": "2026-07-28",
+      "rubric_version": "prestige-v1"
+    },
     "delta dental": {
       "aliases": [],
       "confidence": "high",
