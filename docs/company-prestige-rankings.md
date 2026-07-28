@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **425** of **425** cached companies (maximum 500).
+Showing **426** of **426** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -224,6 +224,7 @@ Showing **425** of **425** cached companies (maximum 500).
 | Nightwing Intelligence Solutions | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | Nightwing | Credible national-security technology work, but its independent software engineering brand is relatively new and niche. |
 | Octaura | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized fixed-income market-infrastructure company with relevant technical work, but limited broad recognition as an engineering destination. |
 | Peraton | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established government technology contractor with solid technical work, but limited elite software-company signaling. |
+| Smiths Detection Group | 57 | Medium | 2026-07-28 | gpt-5.6-terra | No | Smiths Detection, Smiths Group | Established specialized security and threat-detection technology company with credible engineering work, but a limited broad software-engineering brand and less general internship selectivity recognition than leading tech employers. |
 | Uncountable | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized software company with a credible technical product focus, but limited mainstream engineering-brand recognition. |
 | Berkshire Hathaway Energy | 56 | High | 2026-07-18 | gpt-5.6-terra | No | BHE | Respected energy operator with solid enterprise technology opportunities, but limited broad software-engineering brand strength. |
 | Docugami | 56 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | AI document-engineering startup with relevant technical work, though its employer brand remains niche and relatively early-stage. |

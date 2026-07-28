@@ -4127,6 +4127,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "smiths detection group": {
+      "aliases": [
+        "Smiths Detection",
+        "Smiths Group"
+      ],
+      "confidence": "medium",
+      "display_name": "Smiths Detection Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Established specialized security and threat-detection technology company with credible engineering work, but a limited broad software-engineering brand and less general internship selectivity recognition than leading tech employers.",
+      "reviewed_at": "2026-07-28",
+      "rubric_version": "prestige-v1"
+    },
     "solar turbines": {
       "aliases": [],
       "confidence": "high",
