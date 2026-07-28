@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **426** of **426** cached companies (maximum 500).
+Showing **428** of **428** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -199,6 +199,7 @@ Showing **426** of **426** cached companies (maximum 500).
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
 | M&T Bank | 59 | High | 2026-07-18 | gpt-5.6-terra | No | Manufacturers and Traders Trust Company | Established financial institution with substantial technology work, but only moderate general prestige as a software-engineering employer. |
 | Quadric | 59 | Medium | 2026-07-18 | gpt-5.6-terra | No | Quadric.io | Technically credible edge-AI and processor company, though niche within the broader software-engineering labor market. |
+| Axis Capital | 58 | Medium | 2026-07-28 | gpt-5.6-terra | No | AXIS Capital Holdings | Established specialty insurer/reinsurer with credible technical roles, but it has a modest software-engineering brand and limited broad recognition as a top engineering destination. |
 | CCC Intelligent Solutions | 58 | Medium | 2026-07-27 | gpt-5.6-terra | No | CCC, CCC Intelligent Solutions Holdings | Established insurance-technology and automotive-claims software company, with a solid but primarily industry-specific engineering signal. |
 | Equifax | 58 | High | 2026-07-18 | gpt-5.6-terra | No | - | Large, established data and financial-services technology employer, but not generally viewed as top-tier software prestige. |
 | Geisinger | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | Geisinger Health, Geisinger Health System | Well-regarded regional healthcare system with meaningful health-technology work, but its software engineering brand is not broadly top-tier or highly selective. |
@@ -232,6 +233,7 @@ Showing **426** of **426** cached companies (maximum 500).
 | Mercor | 56 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Visible early-stage AI recruiting company, but its long-term engineering reputation is still unestablished. |
 | Occidental Petroleum | 56 | High | 2026-07-21 | gpt-5.6-terra | No | Oxy | Major energy company with solid industry recognition, though software engineering is not its primary career brand. |
 | Solar Turbines | 56 | High | 2026-07-18 | gpt-5.6-terra | No | - | Respected industrial technology company, but software engineering is not its primary or broadly recognized career signal. |
+| Assurant | 55 | Medium | 2026-07-28 | gpt-5.6-terra | No | - | Large, established insurance and protection-services company with solid enterprise technology work, though it is not broadly regarded as a highly selective or standout software-engineering employer. |
 | Astera | 55 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Name is ambiguous; if referring to a semiconductor or infrastructure-focused firm, it has technical relevance but limited broad software prestige. |
 | Bio-Techne | 55 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Respected life-sciences tools company, with software work likely specialized rather than a broadly prominent engineering signal. |
 | Ditto | 55 | Low | 2026-07-20 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a broadly recognized, highly selective software-engineering employer. |
