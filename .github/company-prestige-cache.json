@@ -608,6 +608,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "berkshire grey": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Berkshire Grey",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "A credible robotics and automation company with technically relevant work, but a more niche and less broadly recognized software-engineering brand.",
+      "reviewed_at": "2026-07-28",
+      "rubric_version": "prestige-v1"
+    },
     "berkshire hathaway energy": {
       "aliases": [
         "BHE"
@@ -1124,6 +1135,17 @@
       "prestige_score": 28,
       "reason": "The name is ambiguous and there is limited evidence of a broadly recognized software-engineering reputation.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "cloudflare": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Cloudflare",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 85,
+      "reason": "Widely respected internet-infrastructure company with a strong engineering brand and selective technical roles.",
+      "reviewed_at": "2026-07-28",
       "rubric_version": "prestige-v1"
     },
     "cloudforce": {
@@ -1763,6 +1785,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "field ai": {
+      "aliases": [
+        "FieldAI"
+      ],
+      "confidence": "medium",
+      "display_name": "Field AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "An emerging AI/robotics company with a potentially strong technical profile, though its employer brand and long-term selectivity are less established than major AI labs.",
+      "reviewed_at": "2026-07-28",
+      "rubric_version": "prestige-v1"
+    },
     "firetiger": {
       "aliases": [],
       "confidence": "low",
@@ -1772,6 +1807,17 @@
       "prestige_score": 23,
       "reason": "Limited verifiable broad recognition as a software-engineering employer.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "first bank and trust": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "First Bank & Trust",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "A conventional banking employer; the name is ambiguous and does not by itself indicate a broadly recognized or highly selective software-engineering brand.",
+      "reviewed_at": "2026-07-28",
       "rubric_version": "prestige-v1"
     },
     "first quality": {
@@ -2589,6 +2635,17 @@
       "reviewed_at": "2026-07-27",
       "rubric_version": "prestige-v1"
     },
+    "kognitos": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Kognitos",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "A smaller AI automation company with relevant technical work, but limited broad recognition and a less established software-engineering prestige signal.",
+      "reviewed_at": "2026-07-28",
+      "rubric_version": "prestige-v1"
+    },
     "kosai": {
       "aliases": [],
       "confidence": "low",
@@ -2996,6 +3053,19 @@
       "prestige_score": 27,
       "reason": "Appears to be a specialized sustainability company with limited widely recognized software-engineering prestige.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "modal": {
+      "aliases": [
+        "Modal Labs"
+      ],
+      "confidence": "medium",
+      "display_name": "Modal",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "A well-regarded AI/cloud infrastructure startup with a strong technical product and engineering-focused reputation, though less established than major platform companies.",
+      "reviewed_at": "2026-07-28",
       "rubric_version": "prestige-v1"
     },
     "monogram": {
@@ -4066,6 +4136,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "savannah river national laboratory": {
+      "aliases": [
+        "SRNL"
+      ],
+      "confidence": "medium",
+      "display_name": "Savannah River National Laboratory",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Respected U.S. national-laboratory research environment with meaningful technical credibility, though it has a less prominent general software-engineering brand than leading technology firms.",
+      "reviewed_at": "2026-07-28",
+      "rubric_version": "prestige-v1"
+    },
     "scale ai": {
       "aliases": [],
       "confidence": "high",
@@ -5091,6 +5174,19 @@
       "reviewed_at": "2026-07-20",
       "rubric_version": "prestige-v1"
     },
+    "xtx markets": {
+      "aliases": [
+        "XTX"
+      ],
+      "confidence": "high",
+      "display_name": "XTX Markets",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 87,
+      "reason": "Highly selective quantitative trading firm with a strong reputation for sophisticated engineering, data, and research work.",
+      "reviewed_at": "2026-07-28",
+      "rubric_version": "prestige-v1"
+    },
     "zipline": {
       "aliases": [
         "Zipline International"
@@ -5102,6 +5198,20 @@
       "prestige_score": 78,
       "reason": "Highly regarded robotics, autonomy, and drone-delivery company; a strong engineering signal, particularly for embedded, distributed systems, and autonomy roles, though less universally recognized than top general-tech employers.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "zurich insurance": {
+      "aliases": [
+        "Zurich",
+        "Zurich Insurance Group"
+      ],
+      "confidence": "medium",
+      "display_name": "Zurich Insurance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Well-known global insurer and a credible enterprise technology employer, but not generally a top-tier software-engineering prestige signal.",
+      "reviewed_at": "2026-07-28",
       "rubric_version": "prestige-v1"
     },
     "zuru": {
