@@ -373,6 +373,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "arkema global": {
+      "aliases": [
+        "Arkema"
+      ],
+      "confidence": "medium",
+      "display_name": "Arkema Global",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Recognized global materials and chemicals company, but it is not principally known as a software-engineering employer.",
+      "reviewed_at": "2026-07-29",
+      "rubric_version": "prestige-v1"
+    },
     "arlo": {
       "aliases": [
         "Arlo Technologies"
@@ -1418,6 +1431,19 @@
       "prestige_score": 34,
       "reason": "Dexmate appears to be a specialized early-stage technical company, but it has limited broad software-engineering employer recognition.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "dexterra group": {
+      "aliases": [
+        "Dexterra"
+      ],
+      "confidence": "medium",
+      "display_name": "Dexterra Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 30,
+      "reason": "Established facilities and support-services company, but it has limited standalone software-engineering brand recognition.",
+      "reviewed_at": "2026-07-29",
       "rubric_version": "prestige-v1"
     },
     "ditto": {
@@ -2823,6 +2849,17 @@
       "reviewed_at": "2026-07-29",
       "rubric_version": "prestige-v1"
     },
+    "loop": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Loop",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "The name is ambiguous; without a specific entity, it does not provide a reliably strong software-engineering prestige signal.",
+      "reviewed_at": "2026-07-29",
+      "rubric_version": "prestige-v1"
+    },
     "m and t bank": {
       "aliases": [
         "Manufacturers and Traders Trust Company"
@@ -4085,6 +4122,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "rockwell automation": {
+      "aliases": [
+        "Rockwell"
+      ],
+      "confidence": "high",
+      "display_name": "Rockwell Automation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Widely respected industrial-automation employer with substantial engineering depth, though its software brand is more industrial than broadly elite tech.",
+      "reviewed_at": "2026-07-29",
+      "rubric_version": "prestige-v1"
+    },
     "rockwool group": {
       "aliases": [
         "ROCKWOOL"
@@ -4245,6 +4295,17 @@
       "prestige_score": 39,
       "reason": "Technology and data-services firm with limited broad recognition or demonstrated selectivity as a software engineering brand.",
       "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
+    "sifive": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "SiFive",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 75,
+      "reason": "Well-regarded RISC-V semiconductor company with a strong, specialized engineering reputation and meaningful technical selectivity.",
+      "reviewed_at": "2026-07-29",
       "rubric_version": "prestige-v1"
     },
     "sila nanotechnologies": {
@@ -4527,6 +4588,19 @@
       "prestige_score": 52,
       "reason": "Established power-tools and hardware company, but not widely known for a standout software-engineering employer brand.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "teledyne": {
+      "aliases": [
+        "Teledyne Technologies"
+      ],
+      "confidence": "medium",
+      "display_name": "Teledyne",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Respected technology and instrumentation group with credible engineering work, but limited broad software-engineering brand prestige.",
+      "reviewed_at": "2026-07-29",
       "rubric_version": "prestige-v1"
     },
     "telesat": {
