@@ -2810,6 +2810,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "loblaw companies": {
+      "aliases": [
+        "Loblaw"
+      ],
+      "confidence": "medium",
+      "display_name": "Loblaw Companies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Major Canadian retailer with credible large-scale digital, e-commerce, and enterprise engineering work, but its software-engineering brand is primarily regional and not broadly viewed as top-tier tech.",
+      "reviewed_at": "2026-07-29",
+      "rubric_version": "prestige-v1"
+    },
     "m and t bank": {
       "aliases": [
         "Manufacturers and Traders Trust Company"

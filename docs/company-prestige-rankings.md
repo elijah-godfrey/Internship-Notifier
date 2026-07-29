@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **439** of **439** cached companies (maximum 500).
+Showing **440** of **440** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -213,6 +213,7 @@ Showing **439** of **439** cached companies (maximum 500).
 | Generac | 58 | High | 2026-07-18 | gpt-5.6-terra | No | Generac Power Systems | Recognized energy and power-products company with relevant embedded, IoT, and platform software work; a solid engineering signal. |
 | Jain Global | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Well-regarded investment firm, though its software-engineering brand is less established than leading technology or quant employers. |
 | Kepler Communications | 58 | Medium | 2026-07-22 | gpt-5.6-terra | No | Kepler | Respected satellite-communications startup with technically relevant systems work, but a relatively niche and less broadly recognized software-engineering brand. |
+| Loblaw Companies | 58 | Medium | 2026-07-29 | gpt-5.6-terra | No | Loblaw | Major Canadian retailer with credible large-scale digital, e-commerce, and enterprise engineering work, but its software-engineering brand is primarily regional and not broadly viewed as top-tier tech. |
 | Meshy | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | Meshy AI | Visible generative-AI startup with relevant technical work, but an early-stage and less established engineering reputation. |
 | PennState University | 58 | High | 2026-07-18 | gpt-5.6-terra | No | Penn State, The Pennsylvania State University | Well-known research university with credible technical work, though not a top software-industry employer signal. |
 | Primetals Technologies | 58 | Medium | 2026-07-22 | gpt-5.6-terra | No | Primetals | Established industrial-technology and metals engineering firm with credible enterprise engineering work, but limited broad recognition or selectivity as a software-engineering brand compared with leading tech employers. |
