@@ -3598,6 +3598,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "pathai": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "PathAI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded, specialized AI/digital-pathology company with credible technical work, but its software-engineering brand and selectivity are less broadly recognized than top generalist technology employers.",
+      "reviewed_at": "2026-07-29",
+      "rubric_version": "prestige-v1"
+    },
     "paypal": {
       "aliases": [],
       "confidence": "high",
