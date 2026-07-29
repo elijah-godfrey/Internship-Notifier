@@ -4010,6 +4010,20 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "richemont": {
+      "aliases": [
+        "Compagnie Financi\u00e8re Richemont",
+        "Richemont Group"
+      ],
+      "confidence": "medium",
+      "display_name": "Richemont",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Globally recognized luxury-goods group with a credible technology environment, but its employer brand is centered on luxury retail rather than highly selective software engineering.",
+      "reviewed_at": "2026-07-29",
+      "rubric_version": "prestige-v1"
+    },
     "rivian": {
       "aliases": [
         "Rivian Automotive"
