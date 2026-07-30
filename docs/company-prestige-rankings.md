@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **449** of **449** cached companies (maximum 500).
+Showing **450** of **450** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -127,6 +127,7 @@ Showing **449** of **449** cached companies (maximum 500).
 | Nokia | 68 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms. |
 | PathAI | 68 | Medium | 2026-07-29 | gpt-5.6-terra | No | - | Well-regarded, specialized AI/digital-pathology company with credible technical work, but its software-engineering brand and selectivity are less broadly recognized than top generalist technology employers. |
 | Rivian | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | Rivian Automotive | Well-known EV technology company with meaningful software work in embedded systems, vehicle platforms, and connected products; a solid engineering signal, though less selective and less established as a software brand than top tech firms. |
+| Rivian and Volkswagen Group Technologies | 68 | Medium | 2026-07-30 | gpt-5.6-terra | No | RV Tech, Rivian Volkswagen Group Technologies | A credible automotive-software and EV engineering signal, supported by Rivian’s technology focus and Volkswagen Group affiliation. It is respected in mobility software but is less broadly selective or recognized than top general-purpose software employers. |
 | Rockwell Automation | 68 | High | 2026-07-29 | gpt-5.6-terra | No | Rockwell | Widely respected industrial-automation employer with substantial engineering depth, though its software brand is more industrial than broadly elite tech. |
 | Schweitzer Engineering Laboratories | 68 | Medium | 2026-07-21 | gpt-5.6-terra | No | SEL, Schweitzer Engineering Labs | Respected engineering company in power-system protection and automation, offering a solid technical signal, though its software brand is specialized rather than broadly elite. |
 | The Federal Reserve System | 68 | Medium | 2026-07-25 | gpt-5.6-terra | No | Federal Reserve, U.S. Federal Reserve, Federal Reserve Banks | Highly respected public institution with meaningful technology and financial-systems work, but it is not broadly viewed as a top-tier software engineering brand in the way major technology firms are. |
