@@ -3962,6 +3962,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "rapdev": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "RapDev",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Specialized cloud and DevOps consulting firm; relevant technical work is plausible, but it has limited broad recognition as a selective software engineering internship brand.",
+      "reviewed_at": "2026-07-30",
+      "rubric_version": "prestige-v1"
+    },
     "red bull": {
       "aliases": [
         "Red Bull GmbH"
@@ -3973,6 +3984,17 @@
       "prestige_score": 52,
       "reason": "Globally recognizable consumer brand, but its software engineering organization is not broadly known as a selective or top-tier engineering career signal.",
       "reviewed_at": "2026-07-23",
+      "rubric_version": "prestige-v1"
+    },
+    "redwood materials": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Redwood Materials",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Well-regarded climate-tech and battery-materials startup with notable industry visibility, but its software engineering brand is less established than leading tech employers.",
+      "reviewed_at": "2026-07-30",
       "rubric_version": "prestige-v1"
     },
     "rehlko": {

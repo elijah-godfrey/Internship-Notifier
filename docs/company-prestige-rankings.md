@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **446** of **446** cached companies (maximum 500).
+Showing **448** of **448** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -183,6 +183,7 @@ Showing **446** of **446** cached companies (maximum 500).
 | Kobo | 62 | Medium | 2026-07-25 | gpt-5.6-terra | No | Rakuten Kobo | Recognized consumer e-reader and digital-books company with credible product/software work, but a comparatively modest and less selective engineering brand than major global technology firms. |
 | Manulife Financial | 62 | Medium | 2026-07-24 | gpt-5.6-terra | No | Manulife | Large, respected global financial-services employer with substantial technology operations, though not generally viewed as a top software-engineering destination. |
 | Motorola | 62 | Medium | 2026-07-24 | gpt-5.6-terra | No | Motorola Solutions, Motorola Mobility | Recognized technology brand with credible engineering heritage, though its current software-engineering signal is less elite and depends heavily on the specific Motorola entity and team. |
+| Redwood Materials | 62 | Medium | 2026-07-30 | gpt-5.6-terra | No | - | Well-regarded climate-tech and battery-materials startup with notable industry visibility, but its software engineering brand is less established than leading tech employers. |
 | SHEIN | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Large technology-driven commerce platform with meaningful engineering scale, but a less distinguished software-employer brand. |
 | Sila Nanotechnologies | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | Sila Nano, Sila | Notable battery-materials deep-tech company with a positive specialized engineering signal, but limited broad software recognition. |
 | Telesat | 62 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Established satellite communications company with technically relevant engineering work, though its software-employer brand is specialized rather than broadly elite. |
@@ -329,6 +330,7 @@ Showing **446** of **446** cached companies (maximum 500).
 | Marmon Holdings | 45 | Medium | 2026-07-18 | gpt-5.6-terra | No | Marmon | Established industrial holding company, but with limited standalone software engineering brand recognition. |
 | Mosaic | 45 | Low | 2026-07-22 | gpt-5.6-terra | No | - | Ambiguous company name; without a clear entity, it has limited identifiable software-engineering brand signal. |
 | Onware | 45 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Recognized as a niche construction-software employer, but not a broadly prestigious engineering signal. |
+| RapDev | 45 | Low | 2026-07-30 | gpt-5.6-terra | No | - | Specialized cloud and DevOps consulting firm; relevant technical work is plausible, but it has limited broad recognition as a selective software engineering internship brand. |
 | Ribbon | 45 | Low | 2026-07-21 | gpt-5.6-terra | No | Ribbon Communications | The name is ambiguous; assuming Ribbon Communications, it has a credible telecom/software engineering presence but limited broad recognition as a selective software internship brand. |
 | UMB | 45 | Low | 2026-07-21 | gpt-5.6-terra | No | UMB Financial | Ambiguous company name; if referring to UMB Financial, it is a respected regional financial-services employer but has limited broad software-engineering brand recognition. |
 | World Surf League | 45 | Medium | 2026-07-18 | gpt-5.6-terra | No | WSL | Recognized sports-media organization, but it has a limited software-engineering prestige signal relative to dedicated technology employers. |
