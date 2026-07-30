@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **451** of **451** cached companies (maximum 500).
+Showing **452** of **452** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -70,6 +70,7 @@ Showing **451** of **451** cached companies (maximum 500).
 | JP Morgan Chase | 77 | High | 2026-07-18 | gpt-5.6-terra | No | JPMorgan Chase, JPMC | Highly recognized financial institution with large-scale, selective engineering organizations, though its brand is finance-first. |
 | Argonne National Laboratory | 76 | High | 2026-07-21 | gpt-5.6-terra | No | Argonne | Prestigious national research laboratory with strong scientific computing and research-engineering credibility. |
 | Binance | 76 | High | 2026-07-18 | gpt-5.6-terra | No | - | Globally recognized crypto platform with a substantial technical brand, tempered by well-known reputational and regulatory scrutiny. |
+| Capital One | 76 | High | 2026-07-30 | gpt-5.6-terra | No | Capital One Financial Corporation | Well-regarded large financial-services employer with a strong, modern software engineering and data/technology brand; selective internships provide a strong, though not elite-tech-tier, signal. |
 | CME Group | 76 | High | 2026-07-21 | gpt-5.6-terra | No | Chicago Mercantile Exchange Group, CME | Globally recognized derivatives-exchange operator with selective engineering work in high-performance financial systems; a strong finance-tech signal. |
 | Fortinet | 76 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established cybersecurity company with a recognized security and networking engineering brand. |
 | GE Aerospace | 76 | High | 2026-07-21 | gpt-5.6-terra | No | General Electric Aerospace, GE Aviation | Globally respected aerospace and engineering employer with demanding safety-critical software work and a strong technical reputation; especially valuable for aviation, embedded, and systems engineering. |
