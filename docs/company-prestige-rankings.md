@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **450** of **450** cached companies (maximum 500).
+Showing **451** of **451** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -311,6 +311,7 @@ Showing **450** of **450** cached companies (maximum 500).
 | HireVue | 48 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Recognized HR technology company, but it has a comparatively limited software-engineering prestige signal and broad selectivity reputation. |
 | MCG Health | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare-technology company, though its software brand is mainly sector-specific. |
 | Phlair | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Phlair is an early-stage climate-tech company with technically demanding work, but it has limited broad recognition as a software-engineering brand. |
+| Turner & Townsend | 48 | Medium | 2026-07-30 | gpt-5.6-terra | No | - | Well-regarded global professional-services and project-management firm, but it has limited software-engineering brand recognition and is not typically viewed as a selective tech employer. |
 | University System of New Hampshire | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | USNH | Recognized regional public university system, but not a notable software-engineering employer brand or highly selective technical internship signal. |
 | Veralto | 48 | Medium | 2026-07-23 | gpt-5.6-terra | No | - | Recognized industrial and water-quality technology company, but it has a limited standalone software-engineering brand and is not broadly known as a selective software employer. |
 | Wealth.com | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Growing estate-planning technology company with relevant product engineering, but a relatively niche and less established employer brand. |
