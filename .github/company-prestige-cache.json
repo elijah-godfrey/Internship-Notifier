@@ -1280,6 +1280,17 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "colonist": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Colonist",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Niche online gaming company with limited broad recognition as a software-engineering employer; may offer relevant product experience but is not a widely established prestige signal.",
+      "reviewed_at": "2026-07-31",
+      "rubric_version": "prestige-v1"
+    },
     "consensus cloud solutions": {
       "aliases": [
         "Consensus Cloud"
@@ -1784,6 +1795,17 @@
       "prestige_score": 38,
       "reason": "Recognized in sports representation, but has limited standalone reputation or selectivity as a software engineering employer.",
       "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
+    "exclusive networks": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Exclusive Networks",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established cybersecurity-focused technology distributor with recognizable industry presence, but not generally known as a highly selective or top-tier software-engineering employer.",
+      "reviewed_at": "2026-07-31",
       "rubric_version": "prestige-v1"
     },
     "expedia group": {

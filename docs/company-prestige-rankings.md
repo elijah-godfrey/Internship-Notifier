@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **466** of **466** cached companies (maximum 500).
+Showing **468** of **468** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -285,6 +285,7 @@ Showing **466** of **466** cached companies (maximum 500).
 | CHEP | 52 | Medium | 2026-07-19 | gpt-5.6-terra | No | Brambles | Established global supply-chain and pallet-pooling company, offering a credible enterprise technology signal but without a particularly prominent or selective software-engineering brand. |
 | Corpay | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | Fleetcor Technologies | Established corporate-payments and expense-management company with credible engineering work, but its software brand and internship selectivity are less prominent than leading technology employers. |
 | Cotiviti | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare analytics and payment-integrity company, but not broadly known for an elite software-engineering brand. |
+| Exclusive Networks | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Established cybersecurity-focused technology distributor with recognizable industry presence, but not generally known as a highly selective or top-tier software-engineering employer. |
 | HEXAWARE | 52 | High | 2026-07-18 | gpt-5.6-terra | No | Hexaware Technologies | Established IT services and consulting employer with a credible but not highly selective software-engineering signal. |
 | iHerb | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established e-commerce company with meaningful software needs, though it is not widely viewed as a top engineering brand. |
 | Kognitos | 52 | Medium | 2026-07-28 | gpt-5.6-terra | No | - | A smaller AI automation company with relevant technical work, but limited broad recognition and a less established software-engineering prestige signal. |
@@ -359,6 +360,7 @@ Showing **466** of **466** cached companies (maximum 500).
 | Centific | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established AI data, localization, and digital-services provider, but its software engineering brand and internship selectivity are not broadly viewed as top-tier. |
 | Circle K | 43 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Well-known convenience retail brand, but it has limited recognition or selectivity as a software-engineering employer. |
 | Cloudforce | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Cloud consulting and services brand with relevant technical work, but limited evidence of broad software-engineering prestige. |
+| Colonist | 43 | Low | 2026-07-31 | gpt-5.6-terra | No | - | Niche online gaming company with limited broad recognition as a software-engineering employer; may offer relevant product experience but is not a widely established prestige signal. |
 | Eurofins | 43 | High | 2026-07-18 | gpt-5.6-terra | No | Eurofins Scientific | Established scientific-testing company, but its reputation is primarily in laboratory services rather than software engineering. |
 | Evolver | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Government-focused IT services firm with limited broad software-engineering brand recognition. |
 | First Bank & Trust | 43 | Low | 2026-07-28 | gpt-5.6-terra | No | - | A conventional banking employer; the name is ambiguous and does not by itself indicate a broadly recognized or highly selective software-engineering brand. |
