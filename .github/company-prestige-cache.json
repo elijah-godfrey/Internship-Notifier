@@ -176,6 +176,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "altice usa": {
+      "aliases": [
+        "Optimum"
+      ],
+      "confidence": "medium",
+      "display_name": "Altice USA",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established U.S. telecommunications provider with meaningful engineering work, but a modest software-engineering brand and limited prestige outside its industry.",
+      "reviewed_at": "2026-07-31",
+      "rubric_version": "prestige-v1"
+    },
     "amarok security": {
       "aliases": [],
       "confidence": "medium",
@@ -2503,6 +2516,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "instalily": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "InstaLILY",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 31,
+      "reason": "Appears to be a relatively lesser-known company; limited public evidence of a broadly recognized or selective software-engineering brand.",
+      "reviewed_at": "2026-07-31",
+      "rubric_version": "prestige-v1"
+    },
     "instawork": {
       "aliases": [],
       "confidence": "medium",
@@ -4040,6 +4064,19 @@
       "prestige_score": 29,
       "reason": "Appears industry-specific with limited evidence of a widely recognized software-engineering brand.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "psecu": {
+      "aliases": [
+        "Pennsylvania State Employees Credit Union"
+      ],
+      "confidence": "medium",
+      "display_name": "PSECU",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Recognized regional credit union with potentially solid internal technology roles, but limited selectivity and broad software-engineering employer recognition.",
+      "reviewed_at": "2026-07-31",
       "rubric_version": "prestige-v1"
     },
     "psiquantum": {

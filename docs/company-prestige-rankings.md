@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **469** of **469** cached companies (maximum 500).
+Showing **472** of **472** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -279,6 +279,7 @@ Showing **469** of **469** cached companies (maximum 500).
 | Solid Power | 54 | High | 2026-07-18 | gpt-5.6-terra | No | - | Recognized advanced-battery company with technical credibility, but its primary reputation is in materials and energy rather than software engineering. |
 | Analytical Mechanics Associates | 53 | Medium | 2026-07-18 | gpt-5.6-terra | No | AMA | Specialized engineering and aerospace-services employer with credible technical work, but limited broad software-engineering recognition. |
 | EquipmentShare | 53 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Growing construction-technology company with relevant product engineering work, but limited broad prestige relative to major software employers. |
+| Altice USA | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | Optimum | Established U.S. telecommunications provider with meaningful engineering work, but a modest software-engineering brand and limited prestige outside its industry. |
 | Brookfield | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | Brookfield Asset Management | Major global asset manager, but its software engineering brand is not a primary industry signal. |
 | Brunswick | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established recreation and marine-products company, but not a broadly prominent software-engineering employer. |
 | Chanel | 52 | Medium | 2026-07-27 | gpt-5.6-terra | No | - | Globally prestigious luxury brand, but its recognition and selectivity do not translate into a particularly strong or widely visible software engineering signal. |
@@ -370,6 +371,7 @@ Showing **469** of **469** cached companies (maximum 500).
 | Liberty University | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized university employer, but it has a limited software-engineering brand and is not generally a highly selective or prominent destination for SWE internships. |
 | Phamily | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Healthcare technology work can be relevant, but the company has limited broad software-engineering brand recognition. |
 | Phonic | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Emerging voice-AI company with technically relevant work, but still limited broad recognition and selectivity signal. |
+| PSECU | 43 | Medium | 2026-07-31 | gpt-5.6-terra | No | Pennsylvania State Employees Credit Union | Recognized regional credit union with potentially solid internal technology roles, but limited selectivity and broad software-engineering employer recognition. |
 | Super | 43 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a strong, broadly recognized software-engineering brand. |
 | Velera | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | Velera Payments, PSCU | Recognized in credit-union payments technology, but its engineering reputation is primarily industry-specific. |
 | Altasciences | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established life-sciences services company, though not widely known for a top software-engineering brand. |
@@ -437,6 +439,7 @@ Showing **469** of **469** cached companies (maximum 500).
 | Tilde Research | 32 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited broadly verifiable engineering-employer recognition under this name. |
 | Architect Labs | 31 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable public recognition as a selective or established software-engineering employer warrants a conservative assessment. |
 | GenBio AI | 31 | Low | 2026-07-18 | gpt-5.6-terra | No | GenBioAI | Early-stage AI and biotech identity provides some technical relevance, but broad engineering reputation is not established. |
+| InstaLILY | 31 | Low | 2026-07-31 | gpt-5.6-terra | No | - | Appears to be a relatively lesser-known company; limited public evidence of a broadly recognized or selective software-engineering brand. |
 | Melotech | 31 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited evidence of an established or widely recognized software-engineering brand; likely an early-stage niche company. |
 | Spacial AI | 31 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited widely recognized engineering reputation; name may refer to a small AI startup. |
 | Bloxd | 30 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Small game-platform brand with limited wider software-engineering recognition. |
