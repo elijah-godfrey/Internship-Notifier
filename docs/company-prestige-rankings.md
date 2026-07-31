@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **461** of **461** cached companies (maximum 500).
+Showing **463** of **463** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -215,6 +215,7 @@ Showing **461** of **461** cached companies (maximum 500).
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
 | M&T Bank | 59 | High | 2026-07-18 | gpt-5.6-terra | No | Manufacturers and Traders Trust Company | Established financial institution with substantial technology work, but only moderate general prestige as a software-engineering employer. |
 | Quadric | 59 | Medium | 2026-07-18 | gpt-5.6-terra | No | Quadric.io | Technically credible edge-AI and processor company, though niche within the broader software-engineering labor market. |
+| Arizona State University | 58 | Medium | 2026-07-31 | gpt-5.6-terra | No | ASU | A well-known major research university with credible technical opportunities, but its software-engineering employer brand is less selective and industry-signaling than leading technology companies. |
 | Axis Capital | 58 | Medium | 2026-07-28 | gpt-5.6-terra | No | AXIS Capital Holdings | Established specialty insurer/reinsurer with credible technical roles, but it has a modest software-engineering brand and limited broad recognition as a top engineering destination. |
 | Berkshire Grey | 58 | Medium | 2026-07-28 | gpt-5.6-terra | No | - | A credible robotics and automation company with technically relevant work, but a more niche and less broadly recognized software-engineering brand. |
 | CCC Intelligent Solutions | 58 | Medium | 2026-07-27 | gpt-5.6-terra | No | CCC, CCC Intelligent Solutions Holdings | Established insurance-technology and automotive-claims software company, with a solid but primarily industry-specific engineering signal. |
@@ -472,6 +473,7 @@ Showing **461** of **461** cached companies (maximum 500).
 | Hiverge | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized software-engineering brand. |
 | kos.ai | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited verifiable public recognition as an established or selective software-engineering employer. |
 | Maxima | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The company name is too ambiguous to establish a recognized software-engineering reputation conservatively. |
+| Melius | 25 | Low | 2026-07-31 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a widely recognized software-engineering employer; limited evidence supports a strong internship signal. |
 | MSM Inc. | 25 | Low | 2026-07-24 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a widely recognized or selective software-engineering employer brand. |
 | North Cloud | 25 | Low | 2026-07-26 | gpt-5.6-terra | No | - | Limited identifiable evidence of a broadly recognized or selective software-engineering employer brand under this name. |
 | Pendulum Intelligence | 25 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer. |

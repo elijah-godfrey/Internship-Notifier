@@ -384,6 +384,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "arizona state university": {
+      "aliases": [
+        "ASU"
+      ],
+      "confidence": "medium",
+      "display_name": "Arizona State University",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "A well-known major research university with credible technical opportunities, but its software-engineering employer brand is less selective and industry-signaling than leading technology companies.",
+      "reviewed_at": "2026-07-31",
+      "rubric_version": "prestige-v1"
+    },
     "arkema global": {
       "aliases": [
         "Arkema"
@@ -3066,6 +3079,17 @@
       "prestige_score": 52,
       "reason": "Established clinical research organization with credible domain-specific technology work, but limited broad software-engineering prestige relative to major tech or engineering employers.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "melius": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Melius",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "The name is ambiguous and does not identify a widely recognized software-engineering employer; limited evidence supports a strong internship signal.",
+      "reviewed_at": "2026-07-31",
       "rubric_version": "prestige-v1"
     },
     "melotech": {
