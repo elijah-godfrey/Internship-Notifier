@@ -1198,6 +1198,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "clearesult": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "CLEAResult",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established energy-efficiency and sustainability services firm, but its software engineering brand and internship selectivity have limited broad recognition outside its industry.",
+      "reviewed_at": "2026-07-31",
+      "rubric_version": "prestige-v1"
+    },
     "clera": {
       "aliases": [],
       "confidence": "low",

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **468** of **468** cached companies (maximum 500).
+Showing **469** of **469** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -313,6 +313,7 @@ Showing **468** of **468** cached companies (maximum 500).
 | Axos Bank | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | Axos Financial | Established digital bank, but its engineering reputation and selectivity are not broadly prominent in software recruiting. |
 | Base Power | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Promising energy-tech startup, though its software-engineering brand and selectivity are not yet broadly established. |
 | CalAmp | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Known in telematics and connected-device technology, with a modest and industry-specific engineering signal. |
+| CLEAResult | 48 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Established energy-efficiency and sustainability services firm, but its software engineering brand and internship selectivity have limited broad recognition outside its industry. |
 | Eulerity | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized marketing-technology company with some technical credibility, but limited broad recognition or selectivity signal. |
 | FHLBank Topeka | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | Federal Home Loan Bank of Topeka, FHLB Topeka | Established regional financial institution with credible technology work, but limited broad recognition or selectivity as a software-engineering brand. |
 | Flagright | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Early-stage financial-crime technology company with relevant domain work, but limited broad recognition and established hiring signal. |
