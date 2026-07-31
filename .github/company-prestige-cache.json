@@ -2245,6 +2245,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "heliux": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Heliux",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Limited verifiable recognition as a software-engineering employer under this exact name; it does not appear to carry a broadly established technical hiring signal.",
+      "reviewed_at": "2026-07-31",
+      "rubric_version": "prestige-v1"
+    },
     "helsing": {
       "aliases": [
         "Helsing AI",

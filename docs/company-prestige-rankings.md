@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **463** of **463** cached companies (maximum 500).
+Showing **464** of **464** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -470,6 +470,7 @@ Showing **463** of **463** cached companies (maximum 500).
 | Auctor | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Name is ambiguous and no broadly recognized software-engineering prestige signal is evident. |
 | AXQ Capital | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited broadly recognized software engineering brand; company identity and technical selectivity are unclear. |
 | Codeage | 25 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Primarily known as a consumer wellness brand rather than a recognized software-engineering employer. |
+| Heliux | 25 | Low | 2026-07-31 | gpt-5.6-terra | No | - | Limited verifiable recognition as a software-engineering employer under this exact name; it does not appear to carry a broadly established technical hiring signal. |
 | Hiverge | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized software-engineering brand. |
 | kos.ai | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited verifiable public recognition as an established or selective software-engineering employer. |
 | Maxima | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The company name is too ambiguous to establish a recognized software-engineering reputation conservatively. |
