@@ -2059,6 +2059,17 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "gemini": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Gemini",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "The name is ambiguous; if referring to the Gemini cryptocurrency exchange, it has some industry recognition but a less broadly established software-engineering prestige signal than leading technology employers.",
+      "reviewed_at": "2026-07-31",
+      "rubric_version": "prestige-v1"
+    },
     "genbio ai": {
       "aliases": [
         "GenBioAI"

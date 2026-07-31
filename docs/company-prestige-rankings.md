@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **465** of **465** cached companies (maximum 500).
+Showing **466** of **466** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -337,6 +337,7 @@ Showing **465** of **465** cached companies (maximum 500).
 | Apogee Engineering | 45 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Engineering-services signal may be positive, but the name has limited broad software-industry recognition. |
 | CALSTART | 45 | Medium | 2026-07-30 | gpt-5.6-terra | No | - | Respected clean-transportation nonprofit in its niche, but offers limited broad software-engineering prestige. |
 | Democratic National Committee | 45 | High | 2026-07-21 | gpt-5.6-terra | No | DNC | Nationally recognizable organization with consequential digital operations, but it is not principally known as a selective software-engineering employer. |
+| Gemini | 45 | Low | 2026-07-31 | gpt-5.6-terra | No | - | The name is ambiguous; if referring to the Gemini cryptocurrency exchange, it has some industry recognition but a less broadly established software-engineering prestige signal than leading technology employers. |
 | Hunt Oil Company | 45 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established energy company, but it is not broadly recognized as a destination for software engineering. |
 | International Rescue Committee (IRC) | 45 | High | 2026-07-21 | gpt-5.6-terra | No | International Rescue Committee, IRC | Highly respected humanitarian nonprofit, though it has limited software-engineering employer prestige relative to technical organizations. |
 | Marmon Holdings | 45 | Medium | 2026-07-18 | gpt-5.6-terra | No | Marmon | Established industrial holding company, but with limited standalone software engineering brand recognition. |
