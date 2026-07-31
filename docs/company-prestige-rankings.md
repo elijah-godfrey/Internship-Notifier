@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **464** of **464** cached companies (maximum 500).
+Showing **465** of **465** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -476,6 +476,7 @@ Showing **464** of **464** cached companies (maximum 500).
 | Maxima | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The company name is too ambiguous to establish a recognized software-engineering reputation conservatively. |
 | Melius | 25 | Low | 2026-07-31 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a widely recognized software-engineering employer; limited evidence supports a strong internship signal. |
 | MSM Inc. | 25 | Low | 2026-07-24 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a widely recognized or selective software-engineering employer brand. |
+| NAXO | 25 | Low | 2026-07-31 | gpt-5.6-terra | No | - | Limited identifiable evidence of a broadly recognized or selective software-engineering employer brand under this name. |
 | North Cloud | 25 | Low | 2026-07-26 | gpt-5.6-terra | No | - | Limited identifiable evidence of a broadly recognized or selective software-engineering employer brand under this name. |
 | Pendulum Intelligence | 25 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer. |
 | Remarcable | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited public evidence of an established, selective, or broadly recognized engineering employer brand. |
