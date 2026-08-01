@@ -248,6 +248,20 @@
       "reviewed_at": "2026-07-30",
       "rubric_version": "prestige-v1"
     },
+    "american enterprise institute": {
+      "aliases": [
+        "AEI",
+        "American Enterprise Institute for Public Policy Research"
+      ],
+      "confidence": "medium",
+      "display_name": "American Enterprise Institute",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Well-known public-policy think tank with some research/technology work, but it is not a prominent or highly selective software-engineering employer.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "amgen": {
       "aliases": [],
       "confidence": "high",

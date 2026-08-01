@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **486** of **486** cached companies (maximum 500).
+Showing **487** of **487** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -383,6 +383,7 @@ Showing **486** of **486** cached companies (maximum 500).
 | Vendelux | 43 | Low | 2026-08-01 | gpt-5.6-terra | No | - | A relatively niche, early-stage technology company; it offers some relevant startup signal but limited broad software-engineering name recognition. |
 | Altasciences | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established life-sciences services company, though not widely known for a top software-engineering brand. |
 | AMAROK Security | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Niche security company with limited evidence of a broadly recognized software-engineering brand. |
+| American Enterprise Institute | 42 | Medium | 2026-08-01 | gpt-5.6-terra | No | AEI, American Enterprise Institute for Public Policy Research | Well-known public-policy think tank with some research/technology work, but it is not a prominent or highly selective software-engineering employer. |
 | Arkema Global | 42 | Medium | 2026-07-29 | gpt-5.6-terra | No | Arkema | Recognized global materials and chemicals company, but it is not principally known as a software-engineering employer. |
 | Axogen | 42 | Medium | 2026-07-23 | gpt-5.6-terra | No | - | Specialized medical-technology company with a credible niche reputation, but limited broad recognition or software-engineering prestige. |
 | Boston Properties | 42 | High | 2026-07-18 | gpt-5.6-terra | No | BXP | Prominent real-estate company, but its employer reputation is not centered on software engineering. |
