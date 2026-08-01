@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **483** of **483** cached companies (maximum 500).
+Showing **486** of **486** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -136,6 +136,7 @@ Showing **483** of **483** cached companies (maximum 500).
 | Rockwell Automation | 68 | High | 2026-07-29 | gpt-5.6-terra | No | Rockwell | Widely respected industrial-automation employer with substantial engineering depth, though its software brand is more industrial than broadly elite tech. |
 | Schweitzer Engineering Laboratories | 68 | Medium | 2026-07-21 | gpt-5.6-terra | No | SEL, Schweitzer Engineering Labs | Respected engineering company in power-system protection and automation, offering a solid technical signal, though its software brand is specialized rather than broadly elite. |
 | The Federal Reserve System | 68 | Medium | 2026-07-25 | gpt-5.6-terra | No | Federal Reserve, U.S. Federal Reserve, Federal Reserve Banks | Highly respected public institution with meaningful technology and financial-systems work, but it is not broadly viewed as a top-tier software engineering brand in the way major technology firms are. |
+| Thomson Reuters | 68 | High | 2026-08-01 | gpt-5.6-terra | No | TR | A globally recognized information-services company with established engineering organizations and respected technology products, though not generally viewed as an elite software destination. |
 | Torc Robotics | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Torc | Established autonomous-trucking company with relevant robotics and systems-engineering signal, though less broadly prestigious than leading autonomy firms. |
 | University of Virginia | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | UVA | Well-regarded university and research institution; a software engineering internship there can signal solid technical and academic credibility, though it carries less industry engineering-brand prestige than leading technology companies. |
 | Accenture | 67 | High | 2026-07-20 | gpt-5.6-terra | No | - | Highly recognized technology consulting employer with selective technical roles, but its software-engineering signal is generally below top product-focused engineering companies. |
@@ -379,6 +380,7 @@ Showing **483** of **483** cached companies (maximum 500).
 | PSECU | 43 | Medium | 2026-07-31 | gpt-5.6-terra | No | Pennsylvania State Employees Credit Union | Recognized regional credit union with potentially solid internal technology roles, but limited selectivity and broad software-engineering employer recognition. |
 | Super | 43 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a strong, broadly recognized software-engineering brand. |
 | Velera | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | Velera Payments, PSCU | Recognized in credit-union payments technology, but its engineering reputation is primarily industry-specific. |
+| Vendelux | 43 | Low | 2026-08-01 | gpt-5.6-terra | No | - | A relatively niche, early-stage technology company; it offers some relevant startup signal but limited broad software-engineering name recognition. |
 | Altasciences | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established life-sciences services company, though not widely known for a top software-engineering brand. |
 | AMAROK Security | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Niche security company with limited evidence of a broadly recognized software-engineering brand. |
 | Arkema Global | 42 | Medium | 2026-07-29 | gpt-5.6-terra | No | Arkema | Recognized global materials and chemicals company, but it is not principally known as a software-engineering employer. |
@@ -473,6 +475,7 @@ Showing **483** of **483** cached companies (maximum 500).
 | SoloPulse | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer brand under this name. |
 | Sweatpals | 28 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Early-stage consumer fitness/community app with limited broad recognition as a software-engineering employer. |
 | Technergetics | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited evidence of a widely recognized software-engineering employer brand or selective technical reputation. |
+| Zettabyte | 28 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer; the name provides a modest niche technology signal but an uncertain career-brand signal. |
 | Boys Town | 27 | Medium | 2026-07-18 | gpt-5.6-terra | No | Boys Town National Research Hospital | Respected nonprofit institution, but it has limited relevance and recognition as a software-engineering employer. |
 | Brio Water Technology | 27 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited evidence of a recognized or selective software engineering brand; reputation appears primarily outside mainstream software. |
 | Frontier Health | 27 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Appears to be a specialized health-focused company, with limited established software-engineering prestige. |

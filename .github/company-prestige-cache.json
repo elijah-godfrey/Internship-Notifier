@@ -5153,6 +5153,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "thomson reuters": {
+      "aliases": [
+        "TR"
+      ],
+      "confidence": "high",
+      "display_name": "Thomson Reuters",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "A globally recognized information-services company with established engineering organizations and respected technology products, though not generally viewed as an elite software destination.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "thyssenkrupp": {
       "aliases": [],
       "confidence": "high",
@@ -5526,6 +5539,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "vendelux": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Vendelux",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "A relatively niche, early-stage technology company; it offers some relevant startup signal but limited broad software-engineering name recognition.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "veralto": {
       "aliases": [],
       "confidence": "medium",
@@ -5731,6 +5755,17 @@
       "model": "gpt-5.6-terra",
       "prestige_score": 52,
       "reason": "Established communications-software product with a credible engineering signal, though not broadly top-tier in software recruiting.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
+    "zettabyte": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Zettabyte",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited verifiable broad recognition as a software-engineering employer; the name provides a modest niche technology signal but an uncertain career-brand signal.",
       "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
