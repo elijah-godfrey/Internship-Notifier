@@ -4864,6 +4864,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "sony pictures entertainment": {
+      "aliases": [
+        "Sony Pictures",
+        "SPE"
+      ],
+      "confidence": "medium",
+      "display_name": "Sony Pictures Entertainment",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "A globally recognized entertainment company with meaningful engineering work in digital media, streaming, and production technology, but its software engineering brand and internship selectivity are less prominent than those of leading technology employers.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "spacial ai": {
       "aliases": [],
       "confidence": "low",

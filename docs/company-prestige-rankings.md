@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **499** of **499** cached companies (maximum 500).
+Showing **500** of **500** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -176,6 +176,7 @@ Showing **499** of **499** cached companies (maximum 500).
 | Moog | 64 | High | 2026-07-18 | gpt-5.6-terra | No | - | Respected aerospace and industrial engineering company, with a solid but less prominent general software-engineering brand. |
 | NewsBreak | 64 | Medium | 2026-07-18 | gpt-5.6-terra | No | NewsBreak App | Recognized consumer technology platform with meaningful engineering scale, though not broadly viewed as a top-tier engineering destination. |
 | RTX | 64 | High | 2026-07-20 | gpt-5.6-terra | No | Raytheon Technologies | Well-known aerospace and defense employer with credible engineering work, though its software brand is less elite than leading software-native firms. |
+| Sony Pictures Entertainment | 64 | Medium | 2026-08-01 | gpt-5.6-terra | No | Sony Pictures, SPE | A globally recognized entertainment company with meaningful engineering work in digital media, streaming, and production technology, but its software engineering brand and internship selectivity are less prominent than those of leading technology employers. |
 | Synchrony Financial | 64 | High | 2026-07-18 | gpt-5.6-terra | No | Synchrony | Recognized financial-services company with meaningful technology work; a solid but not elite software-engineering signal. |
 | T. Rowe Price | 64 | Medium | 2026-07-23 | gpt-5.6-terra | No | T. Rowe Price Group, TROW | Well-regarded asset manager with solid technology roles and a credible financial-services signal, though its engineering brand is not broadly viewed as top-tier tech. |
 | Varian | 64 | Medium | 2026-07-22 | gpt-5.6-terra | No | Varian Medical Systems, Varian Medical | Established medical-technology and scientific-instrumentation name with credible engineering work, though its software brand is not broadly elite or consumer-tech prominent. |
