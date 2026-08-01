@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **496** of **496** cached companies (maximum 500).
+Showing **499** of **499** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -96,6 +96,7 @@ Showing **496** of **496** cached companies (maximum 500).
 | pony.ai | 74 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Well-known autonomous-driving company with technically demanding engineering work and meaningful sector recognition. |
 | The University of Edinburgh | 74 | High | 2026-07-18 | gpt-5.6-terra | No | University of Edinburgh | Globally respected research university with a strong computing reputation; a positive technical signal, though not a conventional elite software employer. |
 | Tradeweb | 74 | High | 2026-07-18 | gpt-5.6-terra | No | Tradeweb Markets | Well-regarded electronic-markets and financial-technology firm with substantial engineering relevance and strong industry recognition. |
+| Trend Micro | 74 | High | 2026-08-01 | gpt-5.6-terra | No | - | Well-recognized global cybersecurity company with a credible technical brand; a strong engineering signal, though below the most selective software employers. |
 | Altera Corporation | 73 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Well-known FPGA and semiconductor brand with strong hardware-adjacent engineering credibility, though not a top general software employer. |
 | AVEVA | 73 | High | 2026-07-20 | gpt-5.6-terra | No | - | Widely respected industrial software company with a strong domain-engineering reputation, though less broadly prestigious than leading consumer or cloud software firms. |
 | Ciena | 73 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-regarded networking and telecommunications technology company with a strong systems and infrastructure engineering signal. |
@@ -376,6 +377,7 @@ Showing **496** of **496** cached companies (maximum 500).
 | Centific | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established AI data, localization, and digital-services provider, but its software engineering brand and internship selectivity are not broadly viewed as top-tier. |
 | Circle K | 43 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Well-known convenience retail brand, but it has limited recognition or selectivity as a software-engineering employer. |
 | Cloudforce | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Cloud consulting and services brand with relevant technical work, but limited evidence of broad software-engineering prestige. |
+| Clyde Companies | 43 | Medium | 2026-08-01 | gpt-5.6-terra | No | - | Established regional construction/materials group, but it has limited broad recognition as a software-engineering employer. |
 | Colonist | 43 | Low | 2026-07-31 | gpt-5.6-terra | No | - | Niche online gaming company with limited broad recognition as a software-engineering employer; may offer relevant product experience but is not a widely established prestige signal. |
 | Eurofins | 43 | High | 2026-07-18 | gpt-5.6-terra | No | Eurofins Scientific | Established scientific-testing company, but its reputation is primarily in laboratory services rather than software engineering. |
 | Evolver | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Government-focused IT services firm with limited broad software-engineering brand recognition. |
@@ -469,6 +471,7 @@ Showing **496** of **496** cached companies (maximum 500).
 | Quadrillion | 30 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The supplied name is ambiguous and does not establish a broadly recognized software-engineering employer brand. |
 | Roam | 30 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The name is highly ambiguous across companies; no strong, broadly established engineering signal can be assigned conservatively. |
 | Serval | 30 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Ambiguous company name with limited broadly established software engineering recognition. |
+| Terranova | 30 | Low | 2026-08-01 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a broadly recognized or established software-engineering employer. |
 | VetsEZ | 30 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Government health IT contractor with relevant technical work but limited broad software-engineering prestige. |
 | Protech Automotive Solutions | 29 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Appears industry-specific with limited evidence of a widely recognized software-engineering brand. |
 | Revise Robotics | 29 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Early-stage robotics identity may offer relevant work, but has limited established career signal. |

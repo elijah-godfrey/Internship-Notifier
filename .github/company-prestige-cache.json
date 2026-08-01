@@ -1315,6 +1315,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "clyde companies": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Clyde Companies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established regional construction/materials group, but it has limited broad recognition as a software-engineering employer.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "cme group": {
       "aliases": [
         "Chicago Mercantile Exchange Group",
@@ -5122,6 +5133,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "terranova": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Terranova",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 30,
+      "reason": "The name is ambiguous and does not identify a broadly recognized or established software-engineering employer.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "tesla": {
       "aliases": [],
       "confidence": "high",
@@ -5413,6 +5435,17 @@
       "prestige_score": 65,
       "reason": "Well-regarded global building-technology company with solid engineering credibility, but a less prominent software brand than leading tech employers.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "trend micro": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Trend Micro",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 74,
+      "reason": "Well-recognized global cybersecurity company with a credible technical brand; a strong engineering signal, though below the most selective software employers.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "tribalscale": {
