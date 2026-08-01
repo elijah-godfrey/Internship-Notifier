@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **487** of **487** cached companies (maximum 500).
+Showing **490** of **490** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -191,6 +191,7 @@ Showing **487** of **487** cached companies (maximum 500).
 | BorgWarner | 62 | Medium | 2026-07-22 | gpt-5.6-terra | No | - | Established global automotive supplier with credible embedded, vehicle, and industrial software exposure, though not a top-tier software engineering brand. |
 | Kobo | 62 | Medium | 2026-07-25 | gpt-5.6-terra | No | Rakuten Kobo | Recognized consumer e-reader and digital-books company with credible product/software work, but a comparatively modest and less selective engineering brand than major global technology firms. |
 | Manulife Financial | 62 | Medium | 2026-07-24 | gpt-5.6-terra | No | Manulife | Large, respected global financial-services employer with substantial technology operations, though not generally viewed as a top software-engineering destination. |
+| Mizuho Securities USA | 62 | Medium | 2026-08-01 | gpt-5.6-terra | No | Mizuho Securities | Recognized global financial-services brand with selective technology roles, though its software engineering reputation is primarily finance-industry-specific rather than a broad tech signal. |
 | Motorola | 62 | Medium | 2026-07-24 | gpt-5.6-terra | No | Motorola Solutions, Motorola Mobility | Recognized technology brand with credible engineering heritage, though its current software-engineering signal is less elite and depends heavily on the specific Motorola entity and team. |
 | Redwood Materials | 62 | Medium | 2026-07-30 | gpt-5.6-terra | No | - | Well-regarded climate-tech and battery-materials startup with notable industry visibility, but its software engineering brand is less established than leading tech employers. |
 | SHEIN | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Large technology-driven commerce platform with meaningful engineering scale, but a less distinguished software-employer brand. |
@@ -245,6 +246,7 @@ Showing **487** of **487** cached companies (maximum 500).
 | Harris Computer | 57 | Medium | 2026-07-21 | gpt-5.6-terra | No | Harris Computer Systems | Established vertical-market software company with credible engineering work, though its internship signal and brand recognition are modest outside its sectors. |
 | Howmet Aerospace | 57 | Medium | 2026-07-24 | gpt-5.6-terra | No | Howmet | Recognized aerospace and industrial manufacturer with credible technical work, but a comparatively limited software-engineering employer reputation. |
 | Lila Sciences | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Ambitious AI-for-science startup with potentially strong technical relevance, but too new for a broadly established engineering prestige signal. |
+| Nationwide Children's Hospital | 57 | Medium | 2026-08-01 | gpt-5.6-terra | No | Nationwide Children's | Respected pediatric healthcare and research institution; engineering work can signal meaningful health-tech exposure, but it is not generally viewed as a highly selective software employer. |
 | Nightwing Intelligence Solutions | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | Nightwing | Credible national-security technology work, but its independent software engineering brand is relatively new and niche. |
 | Octaura | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized fixed-income market-infrastructure company with relevant technical work, but limited broad recognition as an engineering destination. |
 | Peraton | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established government technology contractor with solid technical work, but limited elite software-company signaling. |
@@ -282,6 +284,7 @@ Showing **487** of **487** cached companies (maximum 500).
 | Solid Power | 54 | High | 2026-07-18 | gpt-5.6-terra | No | - | Recognized advanced-battery company with technical credibility, but its primary reputation is in materials and energy rather than software engineering. |
 | Analytical Mechanics Associates | 53 | Medium | 2026-07-18 | gpt-5.6-terra | No | AMA | Specialized engineering and aerospace-services employer with credible technical work, but limited broad software-engineering recognition. |
 | EquipmentShare | 53 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Growing construction-technology company with relevant product engineering work, but limited broad prestige relative to major software employers. |
+| Ferrovial | 53 | Medium | 2026-08-01 | gpt-5.6-terra | No | - | Well-established international infrastructure company, but its software engineering brand is not broadly prominent outside infrastructure and related operational technology. |
 | Altice USA | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | Optimum | Established U.S. telecommunications provider with meaningful engineering work, but a modest software-engineering brand and limited prestige outside its industry. |
 | Brookfield | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | Brookfield Asset Management | Major global asset manager, but its software engineering brand is not a primary industry signal. |
 | Brunswick | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established recreation and marine-products company, but not a broadly prominent software-engineering employer. |

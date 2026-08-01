@@ -1938,6 +1938,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "ferrovial": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Ferrovial",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "Well-established international infrastructure company, but its software engineering brand is not broadly prominent outside infrastructure and related operational technology.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "fhlbank topeka": {
       "aliases": [
         "Federal Home Loan Bank of Topeka",
@@ -3328,6 +3339,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "mizuho securities usa": {
+      "aliases": [
+        "Mizuho Securities"
+      ],
+      "confidence": "medium",
+      "display_name": "Mizuho Securities USA",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Recognized global financial-services brand with selective technology roles, though its software engineering reputation is primarily finance-industry-specific rather than a broad tech signal.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "mobius renewables": {
       "aliases": [],
       "confidence": "low",
@@ -3494,6 +3518,19 @@
       "prestige_score": 24,
       "reason": "Limited broadly verifiable reputation or recognition as a software-engineering employer.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "nationwide children s hospital": {
+      "aliases": [
+        "Nationwide Children's"
+      ],
+      "confidence": "medium",
+      "display_name": "Nationwide Children's Hospital",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Respected pediatric healthcare and research institution; engineering work can signal meaningful health-tech exposure, but it is not generally viewed as a highly selective software employer.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "navaide": {
