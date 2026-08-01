@@ -896,6 +896,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "brio water technology": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Brio Water Technology",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 27,
+      "reason": "Limited evidence of a recognized or selective software engineering brand; reputation appears primarily outside mainstream software.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "brookfield": {
       "aliases": [
         "Brookfield Asset Management"
@@ -3513,6 +3524,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "new york post holdings": {
+      "aliases": [
+        "New York Post"
+      ],
+      "confidence": "medium",
+      "display_name": "New York Post Holdings",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Recognized media brand, but its software engineering organization is not broadly viewed as a top technical career signal.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "newsbreak": {
       "aliases": [
         "NewsBreak App"
@@ -3937,6 +3961,17 @@
       "prestige_score": 86,
       "reason": "Highly visible AI product company with a strong, selective engineering and research signal, though it is still young.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "persona ai": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Persona AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "The name is ambiguous and there is limited clear evidence of a widely recognized, selective software engineering brand.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "phamily": {
@@ -4565,6 +4600,17 @@
       "prestige_score": 62,
       "reason": "Notable battery-materials deep-tech company with a positive specialized engineering signal, but limited broad software recognition.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "skydio": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Skydio",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "Well-regarded autonomous-drone company with a strong robotics, computer vision, and engineering reputation.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "smiths detection": {
@@ -5605,6 +5651,17 @@
       "prestige_score": 87,
       "reason": "Highly selective quantitative trading firm with a strong reputation for sophisticated engineering, data, and research work.",
       "reviewed_at": "2026-07-28",
+      "rubric_version": "prestige-v1"
+    },
+    "zello": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Zello",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established communications-software product with a credible engineering signal, though not broadly top-tier in software recruiting.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "zipline": {
