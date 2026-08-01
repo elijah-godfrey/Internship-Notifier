@@ -2335,6 +2335,17 @@
       "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
+    "gumloop": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Gumloop",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Emerging AI automation startup with a relevant technical product and some startup-market visibility, but a limited established track record and less broadly recognized engineering signal than top-tier technology employers.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "haize labs": {
       "aliases": [],
       "confidence": "low",

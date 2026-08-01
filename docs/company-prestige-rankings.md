@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **495** of **495** cached companies (maximum 500).
+Showing **496** of **496** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -226,6 +226,7 @@ Showing **495** of **495** cached companies (maximum 500).
 | Equifax | 58 | High | 2026-07-18 | gpt-5.6-terra | No | - | Large, established data and financial-services technology employer, but not generally viewed as top-tier software prestige. |
 | Geisinger | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | Geisinger Health, Geisinger Health System | Well-regarded regional healthcare system with meaningful health-technology work, but its software engineering brand is not broadly top-tier or highly selective. |
 | Generac | 58 | High | 2026-07-18 | gpt-5.6-terra | No | Generac Power Systems | Recognized energy and power-products company with relevant embedded, IoT, and platform software work; a solid engineering signal. |
+| Gumloop | 58 | Medium | 2026-08-01 | gpt-5.6-terra | No | - | Emerging AI automation startup with a relevant technical product and some startup-market visibility, but a limited established track record and less broadly recognized engineering signal than top-tier technology employers. |
 | Jain Global | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Well-regarded investment firm, though its software-engineering brand is less established than leading technology or quant employers. |
 | Kepler Communications | 58 | Medium | 2026-07-22 | gpt-5.6-terra | No | Kepler | Respected satellite-communications startup with technically relevant systems work, but a relatively niche and less broadly recognized software-engineering brand. |
 | Loblaw Companies | 58 | Medium | 2026-07-29 | gpt-5.6-terra | No | Loblaw | Major Canadian retailer with credible large-scale digital, e-commerce, and enterprise engineering work, but its software-engineering brand is primarily regional and not broadly viewed as top-tier tech. |
