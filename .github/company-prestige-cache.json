@@ -1111,6 +1111,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "centerstone": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Centerstone",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established name in behavioral health, but not broadly known for a selective or prominent software-engineering brand.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "centific": {
       "aliases": [],
       "confidence": "medium",
@@ -2798,6 +2809,17 @@
       "prestige_score": 38,
       "reason": "Name is ambiguous; if referring to the K1 investment firm, it has limited direct software-engineering employer signal.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "kastle ai": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Kastle AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "Limited broadly recognized software-engineering employer brand; likely a niche or early-stage company signal rather than a widely selective name.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "kbr": {

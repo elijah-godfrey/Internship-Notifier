@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **493** of **493** cached companies (maximum 500).
+Showing **495** of **495** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -371,6 +371,7 @@ Showing **493** of **493** cached companies (maximum 500).
 | ASM Global | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Recognized live-entertainment venue operator, but has a limited software-engineering brand and internship signal. |
 | Black Box | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established enterprise connectivity and IT-services brand, but modest contemporary software-engineering prestige. |
 | BSE Global | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized sports and entertainment organization, but its software-engineering brand is not broadly distinguished. |
+| Centerstone | 43 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Established name in behavioral health, but not broadly known for a selective or prominent software-engineering brand. |
 | Centific | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established AI data, localization, and digital-services provider, but its software engineering brand and internship selectivity are not broadly viewed as top-tier. |
 | Circle K | 43 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Well-known convenience retail brand, but it has limited recognition or selectivity as a software-engineering employer. |
 | Cloudforce | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Cloud consulting and services brand with relevant technical work, but limited evidence of broad software-engineering prestige. |
@@ -434,6 +435,7 @@ Showing **493** of **493** cached companies (maximum 500).
 | Diversified Automation | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Appears to be a specialized automation business with limited broad recognition as a software-engineering employer. |
 | Fluxergy | 35 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized diagnostics startup with technical work, but limited general software-engineering recognition. |
 | Gritt Robotics Inc | 35 | Low | 2026-07-21 | gpt-5.6-terra | No | - | A robotics startup can offer relevant technical work, but Gritt Robotics has limited broad recognition and an unestablished software-engineering brand. |
+| Kastle AI | 35 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering employer brand; likely a niche or early-stage company signal rather than a widely selective name. |
 | Kensington | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous; known businesses using it do not generally carry strong software-engineering prestige. |
 | Kirin | 35 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The name is associated with several entities, but it is not a clear high-prestige software-engineering employer. |
 | Kodak | 35 | High | 2026-07-27 | gpt-5.6-terra | No | Eastman Kodak | Historically iconic brand, but it has limited current relevance as a software-engineering destination and a comparatively weak modern software employer signal. |
