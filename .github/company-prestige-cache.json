@@ -1386,6 +1386,17 @@
       "reviewed_at": "2026-07-31",
       "rubric_version": "prestige-v1"
     },
+    "conocophillips": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "ConocoPhillips",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Major, respected energy company, but software engineering is not its primary external career brand.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "consensus cloud solutions": {
       "aliases": [
         "Consensus Cloud"
@@ -2133,6 +2144,17 @@
       "prestige_score": 27,
       "reason": "Appears to be a specialized health-focused company, with limited established software-engineering prestige.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "garmin": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Garmin",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 69,
+      "reason": "Well-regarded technology and embedded-systems employer with a credible engineering reputation, though not generally viewed as elite software prestige.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "ge aerospace": {
@@ -4224,6 +4246,28 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "postman": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Postman",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "Widely recognized developer-tools company with a strong product and engineering brand; selective and respected in software circles.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
+    "ppl": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "PPL",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established utility employer; a credible internship signal, though its software engineering brand is not broadly top-tier.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "primetals technologies": {
       "aliases": [
         "Primetals"
@@ -5370,6 +5414,17 @@
       "prestige_score": 55,
       "reason": "Large, established retailer with meaningful internal technology work, but its software engineering brand is not broadly viewed as top-tier.",
       "reviewed_at": "2026-07-27",
+      "rubric_version": "prestige-v1"
+    },
+    "tmx group": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "TMX Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Recognized financial-markets infrastructure employer with solid technical relevance, though less globally prominent as a software brand.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "torc robotics": {
