@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **479** of **479** cached companies (maximum 500).
+Showing **483** of **483** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -326,6 +326,7 @@ Showing **479** of **479** cached companies (maximum 500).
 | HireVue | 48 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Recognized HR technology company, but it has a comparatively limited software-engineering prestige signal and broad selectivity reputation. |
 | MCG Health | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare-technology company, though its software brand is mainly sector-specific. |
 | New York Post Holdings | 48 | Medium | 2026-08-01 | gpt-5.6-terra | No | New York Post | Recognized media brand, but its software engineering organization is not broadly viewed as a top technical career signal. |
+| Nexstar | 48 | Low | 2026-08-01 | gpt-5.6-terra | No | Nexstar Media Group | The name is ambiguous; if referring to Nexstar Media Group, it is a recognizable media company but not especially known for a top software-engineering brand. |
 | Phlair | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Phlair is an early-stage climate-tech company with technically demanding work, but it has limited broad recognition as a software-engineering brand. |
 | Turner & Townsend | 48 | Medium | 2026-07-30 | gpt-5.6-terra | No | - | Well-regarded global professional-services and project-management firm, but it has limited software-engineering brand recognition and is not typically viewed as a selective tech employer. |
 | University System of New Hampshire | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | USNH | Recognized regional public university system, but not a notable software-engineering employer brand or highly selective technical internship signal. |
@@ -470,6 +471,7 @@ Showing **479** of **479** cached companies (maximum 500).
 | Rainmaker | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a recognized software-engineering employer brand. |
 | Samaya | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not have a broadly established software engineering reputation. |
 | SoloPulse | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer brand under this name. |
+| Sweatpals | 28 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Early-stage consumer fitness/community app with limited broad recognition as a software-engineering employer. |
 | Technergetics | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited evidence of a widely recognized software-engineering employer brand or selective technical reputation. |
 | Boys Town | 27 | Medium | 2026-07-18 | gpt-5.6-terra | No | Boys Town National Research Hospital | Respected nonprofit institution, but it has limited relevance and recognition as a software-engineering employer. |
 | Brio Water Technology | 27 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited evidence of a recognized or selective software engineering brand; reputation appears primarily outside mainstream software. |
@@ -493,7 +495,9 @@ Showing **479** of **479** cached companies (maximum 500).
 | North Cloud | 25 | Low | 2026-07-26 | gpt-5.6-terra | No | - | Limited identifiable evidence of a broadly recognized or selective software-engineering employer brand under this name. |
 | Pendulum Intelligence | 25 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer. |
 | Remarcable | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited public evidence of an established, selective, or broadly recognized engineering employer brand. |
+| Tessera Labs | 25 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited verifiable public signal as a selective or broadly recognized software-engineering employer. |
 | Truland Equipment | 25 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Primarily an equipment dealership business with limited relevant software-engineering prestige. |
+| Alljoined | 24 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Appears to have limited broad recognition and an unestablished software-engineering employer brand. |
 | Espa AI | 24 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited public recognition and insufficient evidence of a mature software-engineering reputation. |
 | GenMD | 24 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer. |
 | Junior AI | 24 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited established employer reputation and technical career signal. |
