@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **490** of **490** cached companies (maximum 500).
+Showing **493** of **493** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -189,6 +189,7 @@ Showing **490** of **490** cached companies (maximum 500).
 | Valeo | 63 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established global automotive supplier with meaningful embedded, ADAS, and mobility software work, though not an elite general software signal. |
 | BAE Systems | 62 | High | 2026-07-18 | gpt-5.6-terra | No | - | Highly respected defense engineering employer, with a solid but less elite general software signal. |
 | BorgWarner | 62 | Medium | 2026-07-22 | gpt-5.6-terra | No | - | Established global automotive supplier with credible embedded, vehicle, and industrial software exposure, though not a top-tier software engineering brand. |
+| Caterpillar Inc. | 62 | High | 2026-08-01 | gpt-5.6-terra | No | CAT | Highly established industrial company with credible engineering work, though its software brand is not broadly viewed as top-tier. |
 | Kobo | 62 | Medium | 2026-07-25 | gpt-5.6-terra | No | Rakuten Kobo | Recognized consumer e-reader and digital-books company with credible product/software work, but a comparatively modest and less selective engineering brand than major global technology firms. |
 | Manulife Financial | 62 | Medium | 2026-07-24 | gpt-5.6-terra | No | Manulife | Large, respected global financial-services employer with substantial technology operations, though not generally viewed as a top software-engineering destination. |
 | Mizuho Securities USA | 62 | Medium | 2026-08-01 | gpt-5.6-terra | No | Mizuho Securities | Recognized global financial-services brand with selective technology roles, though its software engineering reputation is primarily finance-industry-specific rather than a broad tech signal. |
@@ -293,6 +294,7 @@ Showing **490** of **490** cached companies (maximum 500).
 | Corpay | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | Fleetcor Technologies | Established corporate-payments and expense-management company with credible engineering work, but its software brand and internship selectivity are less prominent than leading technology employers. |
 | Cotiviti | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare analytics and payment-integrity company, but not broadly known for an elite software-engineering brand. |
 | Exclusive Networks | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Established cybersecurity-focused technology distributor with recognizable industry presence, but not generally known as a highly selective or top-tier software-engineering employer. |
+| Hendrick Motorsports | 52 | Medium | 2026-08-01 | gpt-5.6-terra | No | HMS | Well-known and competitive motorsports organization; software work can be technically relevant but has a specialized, industry-specific engineering brand. |
 | HEXAWARE | 52 | High | 2026-07-18 | gpt-5.6-terra | No | Hexaware Technologies | Established IT services and consulting employer with a credible but not highly selective software-engineering signal. |
 | iHerb | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established e-commerce company with meaningful software needs, though it is not widely viewed as a top engineering brand. |
 | Kognitos | 52 | Medium | 2026-07-28 | gpt-5.6-terra | No | - | A smaller AI automation company with relevant technical work, but limited broad recognition and a less established software-engineering prestige signal. |
@@ -333,6 +335,7 @@ Showing **490** of **490** cached companies (maximum 500).
 | Nexstar | 48 | Low | 2026-08-01 | gpt-5.6-terra | No | Nexstar Media Group | The name is ambiguous; if referring to Nexstar Media Group, it is a recognizable media company but not especially known for a top software-engineering brand. |
 | Phlair | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Phlair is an early-stage climate-tech company with technically demanding work, but it has limited broad recognition as a software-engineering brand. |
 | Turner & Townsend | 48 | Medium | 2026-07-30 | gpt-5.6-terra | No | - | Well-regarded global professional-services and project-management firm, but it has limited software-engineering brand recognition and is not typically viewed as a selective tech employer. |
+| University of Nevada, Reno | 48 | Medium | 2026-08-01 | gpt-5.6-terra | No | UNR, Nevada Reno | Recognized public research university, but a university IT or software internship carries a mainly regional and non-top-tier software-engineering signal. |
 | University System of New Hampshire | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | USNH | Recognized regional public university system, but not a notable software-engineering employer brand or highly selective technical internship signal. |
 | Veralto | 48 | Medium | 2026-07-23 | gpt-5.6-terra | No | - | Recognized industrial and water-quality technology company, but it has a limited standalone software-engineering brand and is not broadly known as a selective software employer. |
 | Wealth.com | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Growing estate-planning technology company with relevant product engineering, but a relatively niche and less established employer brand. |

@@ -1073,6 +1073,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "caterpillar": {
+      "aliases": [
+        "CAT"
+      ],
+      "confidence": "high",
+      "display_name": "Caterpillar Inc.",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Highly established industrial company with credible engineering work, though its software brand is not broadly viewed as top-tier.",
+      "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
     "ccc intelligent solutions": {
       "aliases": [
         "CCC",
@@ -2385,6 +2398,19 @@
       "prestige_score": 82,
       "reason": "Highly regarded European defense-AI company with a strong technical reputation and selective engineering profile, though it is relatively young.",
       "reviewed_at": "2026-07-30",
+      "rubric_version": "prestige-v1"
+    },
+    "hendrick motorsports": {
+      "aliases": [
+        "HMS"
+      ],
+      "confidence": "medium",
+      "display_name": "Hendrick Motorsports",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Well-known and competitive motorsports organization; software work can be technically relevant but has a specialized, industry-specific engineering brand.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "hermeus": {
@@ -5449,6 +5475,20 @@
       "prestige_score": 73,
       "reason": "Highly respected research university with a strong computer science and engineering reputation; positive technical signal outside conventional industry roles.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "university of nevada reno": {
+      "aliases": [
+        "UNR",
+        "Nevada Reno"
+      ],
+      "confidence": "medium",
+      "display_name": "University of Nevada, Reno",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Recognized public research university, but a university IT or software internship carries a mainly regional and non-top-tier software-engineering signal.",
+      "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
     "university of rochester": {
