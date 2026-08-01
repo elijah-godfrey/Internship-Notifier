@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **478** of **478** cached companies (maximum 500).
+Showing **479** of **479** cached companies (maximum 500).
 
 ## Exceptional (90-100)
 
@@ -515,6 +515,7 @@ Showing **478** of **478** cached companies (maximum 500).
 
 | Company | Score | Confidence | Reviewed | Model | Manual | Aliases | Reason |
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
+| General Intuition & Medal | 18 | Low | 2026-08-01 | gpt-5.6-terra | No | General Intuition &amp; Medal | No well-established public software-engineering employer brand or selectivity signal is identifiable from this name; conservative score due to limited evidence. |
 | Barkback | 15 | Low | 2026-07-18 | gpt-5.6-terra | No | - | No recognizable or established software-engineering prestige signal is evident. |
 | LAXIR | 15 | Low | 2026-07-18 | gpt-5.6-terra | No | - | No broadly recognizable software-engineering employer brand is evident. |
 | Internship | 1 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Not an identifiable employer, so it provides no assessable software engineering prestige signal. |
