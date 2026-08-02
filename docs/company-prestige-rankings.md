@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **507** cached companies (maximum 500).
+Showing **500** of **508** cached companies (maximum 500).
 
-_The 7 lowest-scored companies are omitted by the report cap._
+_The 8 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -498,6 +498,7 @@ _The 7 lowest-scored companies are omitted by the report cap._
 | SoloPulse | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer brand under this name. |
 | Sweatpals | 28 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Early-stage consumer fitness/community app with limited broad recognition as a software-engineering employer. |
 | Technergetics | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited evidence of a widely recognized software-engineering employer brand or selective technical reputation. |
+| Yotta Labs | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable evidence of a broadly recognized or selective software-engineering employer brand; the name is ambiguous and does not carry a strong established internship signal. |
 | Zettabyte | 28 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer; the name provides a modest niche technology signal but an uncertain career-brand signal. |
 | Boys Town | 27 | Medium | 2026-07-18 | gpt-5.6-terra | No | Boys Town National Research Hospital | Respected nonprofit institution, but it has limited relevance and recognition as a software-engineering employer. |
 | Brio Water Technology | 27 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited evidence of a recognized or selective software engineering brand; reputation appears primarily outside mainstream software. |
@@ -536,4 +537,3 @@ _The 7 lowest-scored companies are omitted by the report cap._
 | Hubs.is | 23 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited identifiable, broadly recognized software-engineering employer brand from the supplied name. |
 | Egra | 22 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable employer reputation and software-engineering brand recognition. |
 | Golden Pet Brands | 22 | Low | 2026-07-23 | gpt-5.6-terra | No | - | Consumer pet-products company with little evident software-engineering brand or broad technical-employer recognition. |
-| Moon | 22 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Name is too ambiguous to establish a notable software-engineering employer brand; conservative assessment. |
