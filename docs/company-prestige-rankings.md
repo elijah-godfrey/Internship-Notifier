@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **505** cached companies (maximum 500).
+Showing **500** of **507** cached companies (maximum 500).
 
-_The 5 lowest-scored companies are omitted by the report cap._
+_The 7 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -380,6 +380,7 @@ _The 5 lowest-scored companies are omitted by the report cap._
 | Adaptive Security | 43 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Early-stage security company with a relevant domain, but limited established evidence of broad software-engineering prestige. |
 | ASM Global | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Recognized live-entertainment venue operator, but has a limited software-engineering brand and internship signal. |
 | Black Box | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established enterprise connectivity and IT-services brand, but modest contemporary software-engineering prestige. |
+| Block Imaging | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialty medical-imaging equipment company, but its software engineering brand is primarily niche rather than a broadly prestigious technical signal. |
 | BSE Global | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized sports and entertainment organization, but its software-engineering brand is not broadly distinguished. |
 | Centerstone | 43 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Established name in behavioral health, but not broadly known for a selective or prominent software-engineering brand. |
 | Centific | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established AI data, localization, and digital-services provider, but its software engineering brand and internship selectivity are not broadly viewed as top-tier. |
@@ -491,6 +492,7 @@ _The 5 lowest-scored companies are omitted by the report cap._
 | Forus | 28 | Low | 2026-07-30 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a widely recognized software-engineering employer; limited evidence supports a strong internship career signal. |
 | Group 1001 | 28 | Low | 2026-07-24 | gpt-5.6-terra | No | Grupo 1001 | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence of a strong technical recruiting signal. |
 | NeoCognition | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; appears to be a lesser-known technology company. |
+| Obsidian Solutions Group | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; the name is not strongly associated with selective technical internship recruiting. |
 | Rainmaker | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a recognized software-engineering employer brand. |
 | Samaya | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not have a broadly established software engineering reputation. |
 | SoloPulse | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer brand under this name. |
@@ -535,5 +537,3 @@ _The 5 lowest-scored companies are omitted by the report cap._
 | Egra | 22 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable employer reputation and software-engineering brand recognition. |
 | Golden Pet Brands | 22 | Low | 2026-07-23 | gpt-5.6-terra | No | - | Consumer pet-products company with little evident software-engineering brand or broad technical-employer recognition. |
 | Moon | 22 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Name is too ambiguous to establish a notable software-engineering employer brand; conservative assessment. |
-| Fab2 | 21 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited identifiable employer reputation and software-engineering signal. |
-| Instead | 20 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Company identity is ambiguous and there is insufficient evidence of an established software-engineering reputation. |
