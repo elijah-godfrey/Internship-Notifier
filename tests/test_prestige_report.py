@@ -84,6 +84,16 @@ class TestRenderPrestigeReport:
         assert "1 lowest-scored companies" in report
         assert report.count("| Company ") == MAX_REPORT_COMPANIES + 1
 
+    def test_all_report_includes_lowest_scored_companies(self) -> None:
+        cache = PrestigeCache()
+        for index in range(MAX_REPORT_COMPANIES + 1):
+            cache.put(_assessment(f"Company {index:03}", 50))
+
+        report = render_prestige_report(cache, max_count=None)
+
+        assert "Showing **501** of **501** cached companies (all cached companies)." in report
+        assert "lowest-scored companies are omitted" not in report
+
     @pytest.mark.parametrize("max_count", [0, MAX_REPORT_COMPANIES + 1])
     def test_rejects_count_outside_cap(self, max_count: int) -> None:
         with pytest.raises(ValueError, match="max_count"):
@@ -112,3 +122,18 @@ class TestWritePrestigeReport:
         )
 
         assert output.is_file()
+
+    def test_cli_generates_an_all_companies_report(self, tmp_path) -> None:
+        output = tmp_path / "custom" / "all-rankings.md"
+
+        main(
+            [
+                "--cache",
+                str(tmp_path / "missing-cache.json"),
+                "--output",
+                str(output),
+                "--all",
+            ]
+        )
+
+        assert "all cached companies" in output.read_text(encoding="utf-8")

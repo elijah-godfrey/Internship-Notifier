@@ -83,7 +83,11 @@ jobs:
         run: |
           python -m internship_notifier.prestige_report \
             --cache .github/company-prestige-cache.json \
-            --output docs/company-prestige-rankings.md
+            --output docs/company-prestige-rankings-top-500.md
+          python -m internship_notifier.prestige_report \
+            --cache .github/company-prestige-cache.json \
+            --output docs/company-prestige-rankings-all.md \
+            --all
 
       - name: Commit notifier data if changed
         if: always()
@@ -94,7 +98,8 @@ jobs:
           for path in \
             .github/internship-notifier-state.json \
             .github/company-prestige-cache.json \
-            docs/company-prestige-rankings.md
+            docs/company-prestige-rankings-top-500.md \
+            docs/company-prestige-rankings-all.md
           do
             if [ -f "$path" ]; then
               git add "$path"

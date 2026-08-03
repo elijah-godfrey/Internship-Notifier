@@ -58,10 +58,14 @@ into API requests of up to 20; later listings reuse the cached score.
 Automatic scores are refreshed after four months, at most 25 per workflow run.
 Entries with `"manual_override": true` are never refreshed automatically.
 
-The workflow also generates a human-readable
-[`docs/company-prestige-rankings.md`](docs/company-prestige-rankings.md), sorted
-by score and capped at the top 500 cached companies. The JSON cache remains the
-source of truth.
+The workflow generates two human-readable reports, both sorted by score:
+
+- [`docs/company-prestige-rankings-top-500.md`](docs/company-prestige-rankings-top-500.md)
+  contains the highest-scored 500 cached companies.
+- [`docs/company-prestige-rankings-all.md`](docs/company-prestige-rankings-all.md)
+  contains every cached company, including entries omitted from the top-500 view.
+
+The JSON cache remains the source of truth.
 
 ### Seeding the cache deliberately
 

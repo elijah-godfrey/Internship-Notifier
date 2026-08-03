@@ -61,7 +61,11 @@ jobs:
         run: |
           python -m internship_notifier.prestige_report \
             --cache .github/company-prestige-cache.json \
-            --output docs/company-prestige-rankings.md
+            --output docs/company-prestige-rankings-top-500.md
+          python -m internship_notifier.prestige_report \
+            --cache .github/company-prestige-cache.json \
+            --output docs/company-prestige-rankings-all.md \
+            --all
 
       - name: Commit completed cache batches
         if: always()
@@ -69,7 +73,10 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for path in .github/company-prestige-cache.json docs/company-prestige-rankings.md
+          for path in \
+            .github/company-prestige-cache.json \
+            docs/company-prestige-rankings-top-500.md \
+            docs/company-prestige-rankings-all.md
           do
             if [ -f "$path" ]; then
               git add "$path"
