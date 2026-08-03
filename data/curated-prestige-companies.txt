@@ -1,0 +1,82 @@
+Abnormal AI
+Airtable
+Airwallex
+AlphaSense
+Astral
+Basis
+Belvedere Trading
+Canva
+Chainguard
+Chainalysis
+Checkout.com
+ClickHouse
+Cognition
+Coinbase
+Cursor
+D. E. Shaw
+Datadog
+Decagon
+DeepL
+Deel
+Elastic
+ElevenLabs
+Einride
+Exotec
+Figma
+Figure AI
+Five Rings
+Formation Bio
+GitLab
+Glean
+Groq
+Headlands Technologies
+Hebbia
+Hugging Face
+Iambic Therapeutics
+LangChain
+Linear
+Luminance
+Luma AI
+Magic
+Metropolis
+Midjourney
+Millennium Management
+MoonPay
+Navan
+Neon
+Netskope
+Old Mission Capital
+OpenEvidence
+Pinecone
+Plaid
+Poolside
+PostHog
+Qube Research & Technologies
+Rad AI
+Ramp
+Renaissance Technologies
+Replit
+Retool
+Revolut
+Robinhood
+Runway
+Sakana AI
+Saronic Technologies
+Semgrep
+Sourcegraph
+Suno
+Supabase
+Tailscale
+Temporal
+TGS Management
+Thinking Machines Lab
+Turso
+Vanta
+VAST Data
+Weights & Biases
+Wiz
+Wolverine Trading
+World Labs
+WorldQuant
+Writer
+xAI
