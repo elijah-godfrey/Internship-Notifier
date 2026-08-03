@@ -21230,6 +21230,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "novogradac": {
+      "aliases": [
+        "Novogradac & Company LLP"
+      ],
+      "confidence": "medium",
+      "display_name": "Novogradac",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Respected specialist accounting and consulting firm, though its software-engineering employer signal is limited.",
+      "reviewed_at": "2026-08-03",
+      "rubric_version": "prestige-v1"
+    },
     "nox metals": {
       "aliases": [],
       "confidence": "low",
@@ -21298,6 +21311,19 @@
       "prestige_score": 62,
       "reason": "Specialized cybersecurity and national-security technology employer with a solid niche technical signal, though limited mainstream recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "ntt data aivista": {
+      "aliases": [
+        "AIVista"
+      ],
+      "confidence": "low",
+      "display_name": "NTT DATA AIVista",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Association with NTT DATA provides a solid enterprise-technology signal, but the AIVista unit itself has limited standalone engineering-brand recognition.",
+      "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
     "nuclear promise x": {
@@ -23837,6 +23863,17 @@
       "prestige_score": 40,
       "reason": "Established life-sciences services firm, but not broadly known for a distinctive software engineering brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "prophet": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Prophet",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 47,
+      "reason": "The name is ambiguous; the commonly known Prophet consulting brand has some professional-services recognition but limited software-engineering prestige.",
+      "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
     "prospect equities": {
@@ -28396,6 +28433,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "studyfetch": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "StudyFetch",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "Small edtech/AI company with limited established evidence of a selective or widely recognized engineering brand.",
+      "reviewed_at": "2026-08-03",
+      "rubric_version": "prestige-v1"
+    },
     "successkpi": {
       "aliases": [],
       "confidence": "medium",
@@ -32125,6 +32173,17 @@
       "prestige_score": 18,
       "reason": "Limited reliable evidence of an established software engineering brand or selective technical reputation.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "vitalant": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Vitalant",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established blood-services nonprofit, but it has limited broad recognition as a software-engineering employer.",
+      "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
     "vitas healthcare": {
