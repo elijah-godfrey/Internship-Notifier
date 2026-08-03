@@ -4404,6 +4404,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "black cape": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Black Cape",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Specialized national-security technology contractor with a credible technical niche, but limited broad software-engineering brand recognition.",
+      "reviewed_at": "2026-08-03",
+      "rubric_version": "prestige-v1"
+    },
     "blackberry": {
       "aliases": [],
       "confidence": "high",
@@ -5797,6 +5808,17 @@
       "prestige_score": 57,
       "reason": "Credible climate-tech and carbon-management company with relevant data and software work, though still niche.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "carbon engineering": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Carbon Engineering Ltd.",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Recognized climate-technology company with technically demanding work, but software engineering is not its primary employer brand.",
+      "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
     "carbon robotics": {
@@ -15563,6 +15585,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "innovation works": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Innovation Works, Inc.",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 30,
+      "reason": "This name is ambiguous and does not by itself indicate a widely recognized or selective software-engineering employer.",
+      "reviewed_at": "2026-08-03",
+      "rubric_version": "prestige-v1"
+    },
     "inogen": {
       "aliases": [],
       "confidence": "medium",
@@ -15824,6 +15857,17 @@
       "prestige_score": 63,
       "reason": "Established medical-imaging software company with relevant domain expertise, though primarily recognized within healthcare IT.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "intelligenesis": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "IntelliGenesis",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 51,
+      "reason": "Specialized government and intelligence technology contractor with credible technical work, though its software-engineering brand is niche.",
+      "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
     "interac": {
@@ -20315,6 +20359,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "naver uhub": {
+      "aliases": [
+        "U.Hub INC"
+      ],
+      "confidence": "low",
+      "display_name": "Naver U.Hub INC",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "The name suggests an affiliation with the Naver ecosystem, but this specific entity has limited verifiable software-engineering brand recognition.",
+      "reviewed_at": "2026-08-03",
+      "rubric_version": "prestige-v1"
+    },
     "navy federal": {
       "aliases": [
         "Navy Federal Credit Union"
@@ -20376,6 +20433,17 @@
       "prestige_score": 68,
       "reason": "Emerging AI-cloud infrastructure company with a technically relevant brand, though its internship signal is still less proven than leading cloud employers.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "nebo": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Nebo",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 41,
+      "reason": "The name is ambiguous; likely digital-agency or product work can offer relevant experience, but the employer signal is mainly regional or niche.",
+      "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
     "nec software solutions": {
@@ -23760,6 +23828,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "prospect equities": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Prospect Equities",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "A real-estate-focused firm with little apparent software-engineering employer reputation.",
+      "reviewed_at": "2026-08-03",
+      "rubric_version": "prestige-v1"
+    },
     "prosper funding": {
       "aliases": [
         "Prosper Marketplace"
@@ -25245,6 +25324,19 @@
       "prestige_score": 46,
       "reason": "Established industrial and building-materials company, but its employer reputation is primarily outside software engineering.",
       "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
+    "rodan energy solutions": {
+      "aliases": [
+        "Rodan Energy"
+      ],
+      "confidence": "medium",
+      "display_name": "Rodan Energy Solutions Inc.",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "A specialized energy-services company with some technology relevance, but limited broad software-engineering recognition.",
+      "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
     "rogers behavioral health": {
@@ -28021,6 +28113,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "stellar science": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Stellar Science",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Specialized scientific and defense software work can be a solid technical signal, though recognition is niche rather than broad.",
+      "reviewed_at": "2026-08-03",
+      "rubric_version": "prestige-v1"
+    },
     "stem expert": {
       "aliases": [],
       "confidence": "low",
@@ -29506,6 +29609,19 @@
       "prestige_score": 66,
       "reason": "Major retailer with meaningful internal technology operations and recognizable brand, though not generally viewed as a top software employer.",
       "reviewed_at": "2026-07-30",
+      "rubric_version": "prestige-v1"
+    },
+    "the hub project": {
+      "aliases": [
+        "Hub Project"
+      ],
+      "confidence": "medium",
+      "display_name": "The Hub Project",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 34,
+      "reason": "Primarily an advocacy organization; it has limited visibility or selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
     "the information lab": {
@@ -33406,6 +33522,20 @@
       "prestige_score": 28,
       "reason": "Limited verifiable broad recognition as a software-engineering employer; the name provides a modest niche technology signal but an uncertain career-brand signal.",
       "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
+    "zgf architects": {
+      "aliases": [
+        "ZGF Architects LLP",
+        "ZGF"
+      ],
+      "confidence": "high",
+      "display_name": "ZGF Architects",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Well-regarded architecture and design firm, but it is not a notable software-engineering employer brand.",
+      "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
     "zillow": {
