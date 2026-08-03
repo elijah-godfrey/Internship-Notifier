@@ -1,0 +1,83 @@
+name: Seed prestige cache
+
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "Candidate queue to process"
+        required: true
+        default: curated
+        type: choice
+        options:
+          - curated
+          - upstream
+      max_companies:
+        description: "Maximum uncached companies to rank (recommended: 100)"
+        required: true
+        default: "100"
+        type: string
+
+permissions:
+  contents: write
+
+# Share the writer lock with the scheduled notifier so both workflows cannot
+# race to overwrite the same committed cache.
+concurrency:
+  group: internship-notifier
+  cancel-in-progress: false
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_PRESTIGE_MODEL: ${{ vars.OPENAI_PRESTIGE_MODEL }}
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install package
+        run: python -m pip install --upgrade pip && python -m pip install -e .
+
+      - name: Seed bounded prestige-cache batch
+        run: |
+          set -euo pipefail
+          case "${{ inputs.source }}" in
+            curated) INPUT="data/curated-prestige-companies.txt" ;;
+            upstream) INPUT="data/uncached-upstream-companies.txt" ;;
+            *) echo "Unsupported candidate source." >&2; exit 1 ;;
+          esac
+          python -m internship_notifier.seed_prestige_cache \
+            --input "$INPUT" \
+            --cache-path .github/company-prestige-cache.json \
+            --max-companies "${{ inputs.max_companies }}"
+
+      - name: Generate prestige rankings report
+        if: always()
+        run: |
+          python -m internship_notifier.prestige_report \
+            --cache .github/company-prestige-cache.json \
+            --output docs/company-prestige-rankings.md
+
+      - name: Commit completed cache batches
+        if: always()
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for path in .github/company-prestige-cache.json docs/company-prestige-rankings.md
+          do
+            if [ -f "$path" ]; then
+              git add "$path"
+            fi
+          done
+          if git diff --staged --quiet; then
+            echo "No prestige-cache changes to commit."
+          else
+            git commit -m "chore: update prestige cache"
+            git push
+          fi

@@ -63,6 +63,38 @@ The workflow also generates a human-readable
 by score and capped at the top 500 cached companies. The JSON cache remains the
 source of truth.
 
+### Seeding the cache deliberately
+
+Do not send every company in the 2,000-plus upstream queue to the model in one
+run. The repository provides two ordered seed queues:
+
+- [`data/curated-prestige-companies.txt`](data/curated-prestige-companies.txt):
+  a small, hand-curated high-signal set of quant firms, established tech
+  companies, and notable AI/startup employers. Process this first.
+- [`data/uncached-upstream-companies.txt`](data/uncached-upstream-companies.txt):
+  all currently uncached names found in upstream `listings.json`. Use this
+  later, in bounded runs.
+
+The seed command sends up to 20 names per OpenAI request, saves the cache after
+every completed batch, and never sends email:
+
+```bash
+python -m internship_notifier.seed_prestige_cache \
+  --input data/curated-prestige-companies.txt \
+  --cache-path .github/company-prestige-cache.json \
+  --max-companies 100
+```
+
+Run it again to continue: cached companies are skipped and the next uncached
+names in the file are selected. Use `--dry-run` to inspect the next batch
+without calling OpenAI. Multiple `--input` arguments are supported; their order
+defines priority.
+
+For GitHub Actions, run **Seed prestige cache** manually. Select `curated`
+first, then `upstream`, and keep `max_companies` at about **100** unless you
+have deliberately reviewed the cost and expected runtime. This workflow uses
+the same write lock as the notifier, so cache commits cannot race.
+
 ## 3) Configure environment (`.env`)
 
 Copy `env.example` to `.env` and fill in values.
