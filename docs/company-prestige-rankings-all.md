@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2848** of **2848** cached companies (all cached companies).
+Showing **2849** of **2849** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1789,6 +1789,7 @@ Showing **2848** of **2848** cached companies (all cached companies).
 | Medline | 48 | High | 2026-08-02 | gpt-5.6-terra | No | Medline Industries | Established medical-supply company, though it is not broadly recognized for software engineering or technical selectivity. |
 | MERGE | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known digital and marketing agency with relevant engineering work, but a modest and industry-specific technical signal. |
 | MGIC | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Mortgage Guaranty Insurance Corporation | Established mortgage insurer, but its software-engineering brand is primarily internal and industry-specific. |
+| NBT Bank | 48 | Medium | 2026-08-04 | gpt-5.6-terra | No | NBT Bancorp | Established regional bank with credible enterprise technology work, but limited national visibility or selectivity as a software-engineering brand. |
 | Neighborly | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established home-services franchisor with technology work, but it is not widely recognized as a standout software-engineering employer. |
 | New York Post Holdings | 48 | Medium | 2026-08-01 | gpt-5.6-terra | No | New York Post | Recognized media brand, but its software engineering organization is not broadly viewed as a top technical career signal. |
 | Nexstar | 48 | Low | 2026-08-01 | gpt-5.6-terra | No | Nexstar Media Group | The name is ambiguous; if referring to Nexstar Media Group, it is a recognizable media company but not especially known for a top software-engineering brand. |
