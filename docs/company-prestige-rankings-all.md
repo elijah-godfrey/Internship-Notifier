@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2847** of **2847** cached companies (all cached companies).
+Showing **2848** of **2848** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1117,6 +1117,7 @@ Showing **2847** of **2847** cached companies (all cached companies).
 | Voyager Technologies | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Space and defense technology positioning provides a potentially strong technical signal, but the engineering brand is still less established. |
 | Wabtec | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Westinghouse Air Brake Technologies Corporation | Established industrial technology company, though its software engineering brand is less prominent than its rail and manufacturing reputation. |
 | Waystar | 58 | Medium | 2026-07-27 | gpt-5.6-terra | No | Waystar Holding | Established healthcare revenue-cycle software company with a credible domain-specific engineering signal, but limited broad recognition as an elite software employer. |
+| WebMD | 58 | Medium | 2026-08-04 | gpt-5.6-terra | No | - | Well-known consumer health-information brand with meaningful web/product engineering work, but its software-engineering hiring signal is not generally viewed as top-tier or especially selective relative to leading technology firms. |
 | Westinghouse | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | Westinghouse Electric Company | Established engineering and energy name, but its software-engineering brand is more specialized than broadly elite. |
 | William Blair | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected investment bank and asset manager; technical roles carry a solid but finance-specific signal. |
 | Yes Energy | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded energy-market data and software specialist, with a positive but industry-niche engineering signal. |

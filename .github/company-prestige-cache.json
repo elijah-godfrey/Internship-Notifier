@@ -32631,6 +32631,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "webmd": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "WebMD",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Well-known consumer health-information brand with meaningful web/product engineering work, but its software-engineering hiring signal is not generally viewed as top-tier or especially selective relative to leading technology firms.",
+      "reviewed_at": "2026-08-04",
+      "rubric_version": "prestige-v1"
+    },
     "webster bank": {
       "aliases": [],
       "confidence": "medium",
