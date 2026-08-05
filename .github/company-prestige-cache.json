@@ -9873,6 +9873,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "eaton": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Eaton Corporation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Established global industrial and power-management company with credible engineering work, but a less prominent and selective software-engineering brand than major technology employers.",
+      "reviewed_at": "2026-08-05",
+      "rubric_version": "prestige-v1"
+    },
     "ebsco": {
       "aliases": [
         "EBSCO Information Services"
