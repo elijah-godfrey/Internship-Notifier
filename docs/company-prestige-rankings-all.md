@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2853** of **2853** cached companies (all cached companies).
+Showing **2854** of **2854** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2208,6 +2208,7 @@ Showing **2853** of **2853** cached companies (all cached companies).
 | True Manufacturing | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established refrigeration manufacturer, but it has limited broad software-engineering brand recognition. |
 | U.S. Venture | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established distribution and energy-related business, but with limited broad software-engineering employer recognition. |
 | Udig | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Regional technology consulting and digital-services brand with limited broad recognition as a selective software engineering destination. |
+| US Acute Care Solutions | 43 | Medium | 2026-08-05 | gpt-5.6-terra | No | USACS | Established healthcare staffing and physician-services organization, but it has limited broad recognition or selectivity as a software engineering employer; its technical brand is primarily industry-specific. |
 | Velera | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | Velera Payments, PSCU | Recognized in credit-union payments technology, but its engineering reputation is primarily industry-specific. |
 | Vendelux | 43 | Low | 2026-08-01 | gpt-5.6-terra | No | - | A relatively niche, early-stage technology company; it offers some relevant startup signal but limited broad software-engineering name recognition. |
 | Vitalant | 43 | Medium | 2026-08-03 | gpt-5.6-terra | No | - | Established blood-services nonprofit, but it has limited broad recognition as a software-engineering employer. |
