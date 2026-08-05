@@ -1595,6 +1595,17 @@
       "reviewed_at": "2026-07-30",
       "rubric_version": "prestige-v1"
     },
+    "ameren": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Ameren",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 54,
+      "reason": "Established utility with credible enterprise technology work, but limited prestige as a destination for software engineering talent.",
+      "reviewed_at": "2026-08-05",
+      "rubric_version": "prestige-v1"
+    },
     "ameresco": {
       "aliases": [],
       "confidence": "medium",
@@ -10734,6 +10745,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "eridu ai": {
+      "aliases": [
+        "Eridu"
+      ],
+      "confidence": "low",
+      "display_name": "Eridu AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Limited verifiable evidence of a broadly recognized or selective software engineering employer brand.",
+      "reviewed_at": "2026-08-05",
+      "rubric_version": "prestige-v1"
+    },
     "ernst and young": {
       "aliases": [
         "EY",
@@ -11016,6 +11040,17 @@
       "prestige_score": 25,
       "reason": "Limited reliable recognition as a software-engineering employer under this exact name.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "exabeam": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Exabeam",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Recognized cybersecurity company with a strong security-product engineering signal, though below the most elite software brands.",
+      "reviewed_at": "2026-08-05",
       "rubric_version": "prestige-v1"
     },
     "exact sciences": {
@@ -14000,6 +14035,17 @@
       "prestige_score": 58,
       "reason": "Known education-benefits technology company with a positive startup/edtech signal, though not a top engineering brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "gulf management": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Gulf Management",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 18,
+      "reason": "The name is ambiguous and does not carry a clearly established software engineering employer signal.",
+      "reviewed_at": "2026-08-05",
       "rubric_version": "prestige-v1"
     },
     "gulfstream": {
@@ -23423,6 +23469,19 @@
       "prestige_score": 58,
       "reason": "A recognizable SaaS company with solid product-engineering relevance, but limited broad prestige or selectivity signal.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "point blue conservation science": {
+      "aliases": [
+        "Point Blue"
+      ],
+      "confidence": "medium",
+      "display_name": "Point Blue Conservation Science",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established conservation-science nonprofit, but it has limited broad recognition as a software engineering employer.",
+      "reviewed_at": "2026-08-05",
       "rubric_version": "prestige-v1"
     },
     "point c": {
@@ -32954,6 +33013,19 @@
       "prestige_score": 42,
       "reason": "Well-known forest-products company, but offers limited broad software engineering prestige.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "wgu": {
+      "aliases": [
+        "Western Governors University"
+      ],
+      "confidence": "high",
+      "display_name": "WGU",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Well-known online university with meaningful technology operations, though not broadly viewed as a top-tier software engineering brand.",
+      "reviewed_at": "2026-08-05",
       "rubric_version": "prestige-v1"
     },
     "whatnot": {

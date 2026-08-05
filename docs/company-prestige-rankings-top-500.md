@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **2854** cached companies (maximum 500).
+Showing **500** of **2860** cached companies (maximum 500).
 
-_The 2354 lowest-scored companies are omitted by the report cap._
+_The 2360 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -403,6 +403,7 @@ _The 2354 lowest-scored companies are omitted by the report cap._
 | Deliveroo | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized global marketplace and logistics technology company with substantial engineering complexity and a strong European tech signal. |
 | Disney | 72 | High | 2026-08-02 | gpt-5.6-terra | No | The Walt Disney Company, Disney Entertainment | Exceptional global brand with substantial digital, streaming, and platform engineering work, though less software-centric than leading technology companies. |
 | Equinix | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized digital-infrastructure leader; strong systems, networking, and cloud-adjacent engineering signal. |
+| Exabeam | 72 | High | 2026-08-05 | gpt-5.6-terra | No | - | Recognized cybersecurity company with a strong security-product engineering signal, though below the most elite software brands. |
 | Flagship Pioneering | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded venture-creation firm in biotech and AI-enabled life sciences; selective, but its software-engineering brand is specialized rather than broad. |
 | Formlabs | 72 | High | 2026-07-30 | gpt-5.6-terra | No | - | Well-regarded 3D-printing technology company with a strong product-engineering reputation and selective startup signal. |
 | Freshworks | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized SaaS company with a strong product-engineering identity and respected software career signal. |
@@ -526,4 +527,3 @@ _The 2354 lowest-scored companies are omitted by the report cap._
 | AlphaSense | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-intelligence software company with a positive technical signal, but less broad software-engineering recognition. |
 | Ambarella | 68 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-regarded semiconductor and edge-AI company with strong specialized engineering credibility. |
 | Amgen | 68 | High | 2026-07-22 | gpt-5.6-terra | No | - | Highly respected global biotechnology company with meaningful engineering and data work, though its software engineering brand is not viewed as top-tier tech. |
-| Arctic Wolf | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Arctic Wolf Networks | Recognized cybersecurity company with a credible and growing engineering brand, especially in security software. |
