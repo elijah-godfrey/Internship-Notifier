@@ -18223,6 +18223,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "louisiana blue": {
+      "aliases": [
+        "Louisiana Blue Cross and Blue Shield",
+        "Blue Cross and Blue Shield of Louisiana"
+      ],
+      "confidence": "low",
+      "display_name": "Louisiana Blue",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Likely a regional health-insurance organization; it has limited broad visibility as a software-engineering employer.",
+      "reviewed_at": "2026-08-05",
+      "rubric_version": "prestige-v1"
+    },
     "louisiana state university lsu": {
       "aliases": [
         "LSU",
@@ -28827,6 +28841,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "tacit": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Tacit",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "The name is ambiguous and does not by itself indicate a broadly recognized or selective software-engineering employer.",
+      "reviewed_at": "2026-08-05",
+      "rubric_version": "prestige-v1"
+    },
     "tahoe therapeutics": {
       "aliases": [],
       "confidence": "low",
@@ -31594,6 +31619,17 @@
       "prestige_score": 56,
       "reason": "Established vertical-market software acquirer with relevant software operations, but modest standalone engineering prestige.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "valstad": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Valstad",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 20,
+      "reason": "Limited reliable evidence of an established, broadly recognized software-engineering employer under this name.",
+      "reviewed_at": "2026-08-05",
       "rubric_version": "prestige-v1"
     },
     "vanasse hangen brustlin vhb": {

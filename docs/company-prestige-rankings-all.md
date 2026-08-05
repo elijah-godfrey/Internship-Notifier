@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2849** of **2849** cached companies (all cached companies).
+Showing **2852** of **2852** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1999,6 +1999,7 @@ Showing **2849** of **2849** cached companies (all cached companies).
 | KCI Technologies | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected engineering and consulting firm, though its reputation is primarily outside mainstream software engineering. |
 | Kira | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous; likely a niche software or AI business without a clear, broadly established engineering-prestige signal. |
 | Kontoor Brands | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established apparel company, but its software engineering brand is not a major industry signal. |
+| Louisiana Blue | 45 | Low | 2026-08-05 | gpt-5.6-terra | No | Louisiana Blue Cross and Blue Shield, Blue Cross and Blue Shield of Louisiana | Likely a regional health-insurance organization; it has limited broad visibility as a software-engineering employer. |
 | Mach9 | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | Mach9 Robotics | Early-stage geospatial technology company; relevant technical work is plausible, but broad employer recognition is limited. |
 | Marmon Holdings | 45 | Medium | 2026-07-18 | gpt-5.6-terra | No | Marmon | Established industrial holding company, but with limited standalone software engineering brand recognition. |
 | Masco | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established building-products company, but with limited broad recognition as a software engineering employer. |
@@ -2813,6 +2814,7 @@ Showing **2849** of **2849** cached companies (all cached companies).
 | SimonComputing | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly established information about a distinctive or selective software-engineering employer brand. |
 | Sunwater Capital | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable recognition as a software-engineering employer; the name is not associated with an established engineering brand. |
 | System Canada Technologies | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited recognizable evidence of a substantial or widely respected software-engineering employer brand. |
+| Tacit | 25 | Low | 2026-08-05 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself indicate a broadly recognized or selective software-engineering employer. |
 | TALON | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a reliable software-engineering reputation; score is conservative. |
 | Tessera Labs | 25 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited verifiable public signal as a selective or broadly recognized software-engineering employer. |
 | Treehouse Strategy and Communications | 25 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Strategy and communications focus provides little clear software-engineering employer signal. |
@@ -2868,6 +2870,7 @@ Showing **2849** of **2849** cached companies (all cached companies).
 | MyEmployment | 20 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited verifiable employer and software-engineering brand recognition under this name. |
 | Prolaio | 20 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized software engineering brand or selective technical internship program. |
 | RAVL | 20 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable recognition as a software-engineering employer under this exact name. |
+| Valstad | 20 | Low | 2026-08-05 | gpt-5.6-terra | No | - | Limited reliable evidence of an established, broadly recognized software-engineering employer under this name. |
 | Vmax AI Corp | 20 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized, established software engineering employer brand. |
 | Yai | 20 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Insufficient reliable evidence to identify a recognized software engineering employer under this exact name. |
 
