@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2860** of **2860** cached companies (all cached companies).
+Showing **2863** of **2863** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -547,6 +547,7 @@ Showing **2860** of **2860** cached companies (all cached companies).
 | Howard Hughes Medical Institute (HHMI) | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | HHMI, Howard Hughes Medical Institute | Highly respected biomedical research institution; technical roles carry a strong research signal, though it is not primarily known as a software employer. |
 | Hyundai Motor Company | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Hyundai | Globally recognized automaker with growing software and mobility engineering work; a strong signal, though not a top software-brand employer. |
 | ID.me | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized digital-identity technology company with consequential engineering work and a solid modern software reputation. |
+| impact.com | 68 | Medium | 2026-08-06 | gpt-5.6-terra | No | Impact | Well-regarded partnership-management SaaS company with a credible engineering product brand, though it lacks the broad selectivity and recognition of top-tier software employers. |
 | Impulse Space | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | Impulse Space Propulsion | Technically ambitious space company with a promising aerospace engineering signal, but it is young and has not yet built broad, established software-employer recognition. |
 | Intapp | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established vertical SaaS company for professional services with a credible engineering reputation, though limited broad recognition. |
 | Johnson & Johnson | 68 | High | 2026-08-02 | gpt-5.6-terra | No | J&J, JNJ | Globally respected healthcare company with strong selectivity and meaningful technology needs, though software is not its primary employer brand. |
@@ -1116,6 +1117,7 @@ Showing **2860** of **2860** cached companies (all cached companies).
 | STR | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Systems & Technology Research | Likely STR, a specialized research and engineering contractor; technically credible but not a broad software-engineering prestige signal. |
 | Synthego | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known in biotech automation and genome-engineering tools, with relevant technical work but limited broad software-brand recognition. |
 | Terabase | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Terabase Energy | Respected climate-tech company applying software and automation to solar deployment, though not broadly elite in software. |
+| Terminal | 58 | Low | 2026-08-06 | gpt-5.6-terra | No | Terminal.io | Known in technology recruiting and distributed engineering-team services, but its employer brand and selectivity as a software internship destination are less broadly established. |
 | Voyager Technologies | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Space and defense technology positioning provides a potentially strong technical signal, but the engineering brand is still less established. |
 | Wabtec | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Westinghouse Air Brake Technologies Corporation | Established industrial technology company, though its software engineering brand is less prominent than its rail and manufacturing reputation. |
 | Waystar | 58 | Medium | 2026-07-27 | gpt-5.6-terra | No | Waystar Holding | Established healthcare revenue-cycle software company with a credible domain-specific engineering signal, but limited broad recognition as an elite software employer. |
@@ -2176,6 +2178,7 @@ Showing **2860** of **2860** cached companies (all cached companies).
 | Northumbria University | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | University of Northumbria at Newcastle | Established university name, but it is not broadly regarded as a highly selective software-engineering employer. |
 | Oleria Security | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | Oleria | Security-focused startup with relevant domain potential, but limited established evidence of broad engineering prestige. |
 | Olsson | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Olsson Associates | Established engineering design firm, though its software-engineering reputation is limited and domain-specific. |
+| Open Road Integrated Media | 43 | Medium | 2026-08-06 | gpt-5.6-terra | No | Open Road Media | Established digital publishing and media business, but it has limited visibility and prestige as a software-engineering employer. |
 | Particle Measuring Systems | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialized instrumentation company, but not widely known as a software-engineering destination. |
 | Per Scholas | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded workforce-development nonprofit, but not primarily an established software-engineering employer. |
 | Phamily | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Healthcare technology work can be relevant, but the company has limited broad software-engineering brand recognition. |

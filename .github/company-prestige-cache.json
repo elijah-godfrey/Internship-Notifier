@@ -15539,6 +15539,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "impactcom": {
+      "aliases": [
+        "Impact"
+      ],
+      "confidence": "medium",
+      "display_name": "impact.com",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded partnership-management SaaS company with a credible engineering product brand, though it lacks the broad selectivity and recognition of top-tier software employers.",
+      "reviewed_at": "2026-08-06",
+      "rubric_version": "prestige-v1"
+    },
     "impinj": {
       "aliases": [],
       "confidence": "high",
@@ -22002,6 +22015,19 @@
       "prestige_score": 35,
       "reason": "Consumer pet-food brand; software engineering is not central to its employer reputation.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "open road integrated media": {
+      "aliases": [
+        "Open Road Media"
+      ],
+      "confidence": "medium",
+      "display_name": "Open Road Integrated Media",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established digital publishing and media business, but it has limited visibility and prestige as a software-engineering employer.",
+      "reviewed_at": "2026-08-06",
       "rubric_version": "prestige-v1"
     },
     "openai": {
@@ -29447,6 +29473,19 @@
       "prestige_score": 57,
       "reason": "Established industrial equipment manufacturer with credible engineering work, but a modest software-specific brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "terminal": {
+      "aliases": [
+        "Terminal.io"
+      ],
+      "confidence": "low",
+      "display_name": "Terminal",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Known in technology recruiting and distributed engineering-team services, but its employer brand and selectivity as a software internship destination are less broadly established.",
+      "reviewed_at": "2026-08-06",
       "rubric_version": "prestige-v1"
     },
     "terran orbital": {
