@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **2870** cached companies (maximum 500).
+Showing **500** of **2873** cached companies (maximum 500).
 
-_The 2370 lowest-scored companies are omitted by the report cap._
+_The 2373 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -101,6 +101,7 @@ _The 2370 lowest-scored companies are omitted by the report cap._
 | Cisco | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Cisco Systems | Highly recognized networking and infrastructure company with a strong, established engineering reputation. |
 | Cohere | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Cohere AI | Highly visible AI company with a strong technical brand and selective engineering reputation. |
 | Confluent | 84 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded data-streaming company with a strong engineering brand, widely recognized technology, and selective technical hiring. |
+| Epic Games | 84 | High | 2026-08-07 | gpt-5.6-terra | No | Epic | Highly recognized global game-tech company with strong engineering brands in Unreal Engine, large-scale online systems, and graphics; internships are competitively regarded. |
 | Intuit | 84 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected financial-software company with selective engineering hiring and a strong, widely recognized technical brand. |
 | PlayStation | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Sony Interactive Entertainment, SIE | A globally recognized gaming platform with demanding consumer-scale engineering work and a strong software brand. |
 | Princeton University | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Princeton | Exceptional global academic and research reputation; a technical internship is a strong signal, though it is not a conventional software employer. |
@@ -526,4 +527,3 @@ _The 2370 lowest-scored companies are omitted by the report cap._
 | AllTrails | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded consumer software product with a credible engineering brand, though not typically viewed as a top-tier global internship signal. |
 | AlphaSense | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-intelligence software company with a positive technical signal, but less broad software-engineering recognition. |
 | Ambarella | 68 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-regarded semiconductor and edge-AI company with strong specialized engineering credibility. |
-| Amgen | 68 | High | 2026-07-22 | gpt-5.6-terra | No | - | Highly respected global biotechnology company with meaningful engineering and data work, though its software engineering brand is not viewed as top-tier tech. |

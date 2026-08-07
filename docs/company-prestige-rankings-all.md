@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2870** of **2870** cached companies (all cached companies).
+Showing **2873** of **2873** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -99,6 +99,7 @@ Showing **2870** of **2870** cached companies (all cached companies).
 | Cisco | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Cisco Systems | Highly recognized networking and infrastructure company with a strong, established engineering reputation. |
 | Cohere | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Cohere AI | Highly visible AI company with a strong technical brand and selective engineering reputation. |
 | Confluent | 84 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded data-streaming company with a strong engineering brand, widely recognized technology, and selective technical hiring. |
+| Epic Games | 84 | High | 2026-08-07 | gpt-5.6-terra | No | Epic | Highly recognized global game-tech company with strong engineering brands in Unreal Engine, large-scale online systems, and graphics; internships are competitively regarded. |
 | Intuit | 84 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected financial-software company with selective engineering hiring and a strong, widely recognized technical brand. |
 | PlayStation | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Sony Interactive Entertainment, SIE | A globally recognized gaming platform with demanding consumer-scale engineering work and a strong software brand. |
 | Princeton University | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Princeton | Exceptional global academic and research reputation; a technical internship is a strong signal, though it is not a conventional software employer. |
@@ -1757,6 +1758,7 @@ Showing **2870** of **2870** cached companies (all cached companies).
 | Elanco | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Elanco Animal Health | Recognized animal-health company with some technology roles, but software is not a core employer brand. |
 | Emergent Holdings | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established insurance and health-services employer, with software primarily supporting its core business. |
 | Energy Vault | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Visible clean-energy technology company with some technical appeal, but a limited established software-engineering signal. |
+| Engineers and Geoscientists BC | 48 | Medium | 2026-08-07 | gpt-5.6-terra | No | EGBC, Engineers and Geoscientists British Columbia | Well-recognized provincial professional regulator in its domain, but it has limited software-engineering employer prestige relative to technology-focused firms. |
 | Ensemble Health Partners | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized healthcare revenue-cycle company, though its engineering brand is mainly industry-specific rather than broadly elite. |
 | Eulerity | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized marketing-technology company with some technical credibility, but limited broad recognition or selectivity signal. |
 | EverCommerce | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Vertical-market SaaS business with credible product engineering, but modest broad employer recognition. |
@@ -2636,6 +2638,7 @@ Showing **2870** of **2870** cached companies (all cached companies).
 | Remedy Scientific | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly established evidence of a notable software-engineering brand; the name is not widely recognized as a selective engineering employer. |
 | SteerBridge | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | SteerBridge Strategies | Limited broadly established evidence of a strong or selective software-engineering employer brand. |
 | Tekton | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Ambiguous name with limited evidence of a broadly recognized software engineering employer brand. |
+| The Nuclear Company | 32 | Low | 2026-08-07 | gpt-5.6-terra | No | - | Appears to be a newer, specialized nuclear-energy company with limited established software-engineering brand or internship prestige evidence. |
 | Tilde Research | 32 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited broadly verifiable engineering-employer recognition under this name. |
 | Ultra | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer or a reliable software-engineering reputation. |
 | Westgate Resorts | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Hospitality company with limited recognition or selectivity as a software engineering employer. |

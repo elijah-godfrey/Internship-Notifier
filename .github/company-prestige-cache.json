@@ -10453,6 +10453,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "engineers and geoscientists bc": {
+      "aliases": [
+        "EGBC",
+        "Engineers and Geoscientists British Columbia"
+      ],
+      "confidence": "medium",
+      "display_name": "Engineers and Geoscientists BC",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Well-recognized provincial professional regulator in its domain, but it has limited software-engineering employer prestige relative to technology-focused firms.",
+      "reviewed_at": "2026-08-07",
+      "rubric_version": "prestige-v1"
+    },
     "enovis": {
       "aliases": [],
       "confidence": "medium",
@@ -10604,6 +10618,19 @@
       "prestige_score": 45,
       "reason": "Relevant IT-services work, but its software-engineering reputation is relatively niche and less broadly recognized.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "epic games": {
+      "aliases": [
+        "Epic"
+      ],
+      "confidence": "high",
+      "display_name": "Epic Games",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 84,
+      "reason": "Highly recognized global game-tech company with strong engineering brands in Unreal Engine, large-scale online systems, and graphics; internships are competitively regarded.",
+      "reviewed_at": "2026-08-07",
       "rubric_version": "prestige-v1"
     },
     "epicor": {
@@ -29991,6 +30018,17 @@
       "prestige_score": 76,
       "reason": "Prominent digital media organization with a respected product-engineering and journalism-technology reputation.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "the nuclear": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "The Nuclear Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Appears to be a newer, specialized nuclear-energy company with limited established software-engineering brand or internship prestige evidence.",
+      "reviewed_at": "2026-08-07",
       "rubric_version": "prestige-v1"
     },
     "the scion group": {
