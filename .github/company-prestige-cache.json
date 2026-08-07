@@ -3198,6 +3198,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "atoms": {
+      "aliases": [
+        "Atoms footwear",
+        "Atoms Shoes"
+      ],
+      "confidence": "low",
+      "display_name": "Atoms",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Name is ambiguous; assuming the direct-to-consumer footwear company, it has some product/technology recognition but a limited software-engineering employer brand.",
+      "reviewed_at": "2026-08-07",
+      "rubric_version": "prestige-v1"
+    },
     "atos": {
       "aliases": [
         "Atos SE"
@@ -22487,6 +22501,20 @@
       "prestige_score": 35,
       "reason": "Limited widely visible software-engineering brand; the name is primarily associated with specialized products rather than software.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "panagora": {
+      "aliases": [
+        "Panagora Asset Management",
+        "PanAgora Pharma"
+      ],
+      "confidence": "medium",
+      "display_name": "PanAgora",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established analytics and technology consulting firm with relevant technical work, but it has limited broad recognition as a selective software-engineering internship brand.",
+      "reviewed_at": "2026-08-07",
       "rubric_version": "prestige-v1"
     },
     "papa john s": {

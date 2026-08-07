@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2863** of **2863** cached companies (all cached companies).
+Showing **2865** of **2865** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2022,6 +2022,7 @@ Showing **2863** of **2863** cached companies (all cached companies).
 | Ontic | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous across several firms; no single interpretation has broad software-engineering prestige. |
 | Onware | 45 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Recognized as a niche construction-software employer, but not a broadly prestigious engineering signal. |
 | Orennia | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Specialized energy-analytics company with limited broad recognition as a software engineering brand. |
+| PanAgora | 45 | Medium | 2026-08-07 | gpt-5.6-terra | No | Panagora Asset Management, PanAgora Pharma | Established analytics and technology consulting firm with relevant technical work, but it has limited broad recognition as a selective software-engineering internship brand. |
 | Parexel | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known clinical research organization, but software engineering is not its primary career brand. |
 | Patterson Companies | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established dental and animal-health distributor with technology functions, but not a prominent software-engineering employer brand. |
 | Pella Corporation | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established manufacturing brand, but software engineering is not a central source of employer prestige. |
@@ -2100,6 +2101,7 @@ Showing **2863** of **2863** cached companies (all cached companies).
 | ASM Global | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Recognized live-entertainment venue operator, but has a limited software-engineering brand and internship signal. |
 | ATCO | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established infrastructure and utilities group, but limited general recognition as a software-engineering employer. |
 | Atlantic Health System | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected regional healthcare system, but it has limited standalone software-engineering employer recognition. |
+| Atoms | 43 | Low | 2026-08-07 | gpt-5.6-terra | No | Atoms footwear, Atoms Shoes | Name is ambiguous; assuming the direct-to-consumer footwear company, it has some product/technology recognition but a limited software-engineering employer brand. |
 | Auto Club Group | 43 | High | 2026-08-02 | gpt-5.6-terra | No | The Auto Club Group, ACG | Established insurance and mobility organization, but its technology work carries limited broad software-engineering prestige. |
 | Axsome Therapeutics Inc | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established biotech and pharmaceutical company, but software engineering is not central to its employer reputation. |
 | Baldwin Group | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | The Baldwin Group | Insurance brokerage and services brand with limited recognized software-engineering prestige. |
