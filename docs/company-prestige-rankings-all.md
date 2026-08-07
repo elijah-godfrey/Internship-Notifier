@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2869** of **2869** cached companies (all cached companies).
+Showing **2870** of **2870** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2534,6 +2534,7 @@ Showing **2869** of **2869** cached companies (all cached companies).
 | DuCharme, McMillen & Associates | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | DMA | Specialized tax-services firm with limited general recognition or demonstrated prestige as a software-engineering employer. |
 | Eataly | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized food-retail brand, but it has limited software-engineering employer signal. |
 | EisnerAmper | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established accounting and advisory firm, but it offers limited software-engineering prestige. |
+| Everstream Analytics | 35 | Low | 2026-08-07 | gpt-5.6-terra | No | - | Appears to have limited broad recognition as a software-engineering internship employer; insufficient evidence of a highly selective or widely established engineering brand. |
 | Fairlife | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established consumer-food brand, but not broadly recognized for software engineering. |
 | Fluxergy | 35 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized diagnostics startup with technical work, but limited general software-engineering recognition. |
 | Foley Hoag | 35 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected law firm, but it offers little relevant software-engineering employer signal. |

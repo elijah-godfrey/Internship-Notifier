@@ -11001,6 +11001,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "everstream analytics": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Everstream Analytics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "Appears to have limited broad recognition as a software-engineering internship employer; insufficient evidence of a highly selective or widely established engineering brand.",
+      "reviewed_at": "2026-08-07",
+      "rubric_version": "prestige-v1"
+    },
     "evgo": {
       "aliases": [],
       "confidence": "medium",
