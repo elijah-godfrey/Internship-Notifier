@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2865** of **2865** cached companies (all cached companies).
+Showing **2868** of **2868** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2328,6 +2328,7 @@ Showing **2865** of **2865** cached companies (all cached companies).
 | SuccessKPI | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Niche customer-experience analytics software vendor with limited broad recognition and engineering-employer signal. |
 | Sundt | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | Sundt Construction | Respected construction company, but software engineering is not its principal career brand. |
 | T.D. Williamson | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established pipeline-infrastructure company, but software engineering is not a central or widely recognized brand strength. |
+| tarte cosmetics | 42 | Medium | 2026-08-07 | gpt-5.6-terra | No | - | Recognizable consumer beauty brand, but not broadly regarded as a selective or high-prestige software-engineering employer. |
 | TC Energy | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large energy infrastructure employer with technology needs, but a modest software-engineering brand. |
 | The State Bar of California | 42 | High | 2026-08-02 | gpt-5.6-terra | No | State Bar of California, California State Bar | Prominent legal regulatory body, but its technology roles do not carry a strong general software-engineering brand. |
 | Triumph | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The company name is ambiguous; absent a clearer entity, it offers only a limited software-engineering prestige signal. |
@@ -2681,6 +2682,7 @@ Showing **2865** of **2865** cached companies (all cached companies).
 | GAINS | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Company identity and software engineering reputation are insufficiently clear; conservative score reflects limited recognizable technical signal. |
 | GoMaterials | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited public evidence of a broadly recognized or selective software-engineering employer brand. |
 | Health Research | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer or a meaningful software-engineering reputation. |
+| HealthCorps | 30 | Low | 2026-08-07 | gpt-5.6-terra | No | - | Mission-driven health nonprofit with limited evidence of a notable or selective software-engineering employer brand. |
 | Innovation Works, Inc. | 30 | Low | 2026-08-03 | gpt-5.6-terra | No | - | This name is ambiguous and does not by itself indicate a widely recognized or selective software-engineering employer. |
 | Integrated Resources | 30 | Medium | 2026-08-02 | gpt-5.6-terra | No | IRI | Primarily recognized as a staffing and services firm rather than for a distinctive software-engineering brand. |
 | Kelso Industries | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of a notable software-engineering employer brand; conservative assessment. |
@@ -2762,6 +2764,7 @@ Showing **2865** of **2865** cached companies (all cached companies).
 | Phia | 27 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Ambiguous name and limited evidence of an established software engineering employer brand. |
 | Pitt Ohio | 27 | High | 2026-08-02 | gpt-5.6-terra | No | - | Regional transportation and logistics company with limited distinct software-engineering reputation. |
 | Premier Truck Rental | 27 | Medium | 2026-08-02 | gpt-5.6-terra | No | PTR | Primarily a truck-rental business with little visible software-engineering employer prestige. |
+| Premium Merchant Funding | 27 | Low | 2026-08-07 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; known primarily as a specialized business-finance firm. |
 | Veeda AI | 27 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly established engineering reputation; appears to be a small AI-focused brand. |
 | VSC Fire & Security | 27 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialized contractor, but it has little recognized software engineering employer prestige. |
 | Bee Sweet Citrus | 26 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Agribusiness employer with little established visibility or selectivity as a software-engineering destination. |

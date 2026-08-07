@@ -14392,6 +14392,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "healthcorps": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "HealthCorps",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 30,
+      "reason": "Mission-driven health nonprofit with limited evidence of a notable or selective software-engineering employer brand.",
+      "reviewed_at": "2026-08-07",
+      "rubric_version": "prestige-v1"
+    },
     "healthesystems": {
       "aliases": [],
       "confidence": "medium",
@@ -23850,6 +23861,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "premium merchant funding": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Premium Merchant Funding",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 27,
+      "reason": "Limited broadly recognized software-engineering brand; known primarily as a specialized business-finance firm.",
+      "reviewed_at": "2026-08-07",
+      "rubric_version": "prestige-v1"
+    },
     "presence": {
       "aliases": [],
       "confidence": "low",
@@ -29147,6 +29169,17 @@
       "prestige_score": 45,
       "reason": "Publicly known pharmaceutical company, though software engineering is not its primary or especially prominent career brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "tarte cosmetics": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "tarte cosmetics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Recognizable consumer beauty brand, but not broadly regarded as a selective or high-prestige software-engineering employer.",
+      "reviewed_at": "2026-08-07",
       "rubric_version": "prestige-v1"
     },
     "tastylive": {
