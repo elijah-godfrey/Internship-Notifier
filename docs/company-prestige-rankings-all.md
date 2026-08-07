@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2868** of **2868** cached companies (all cached companies).
+Showing **2869** of **2869** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2745,6 +2745,7 @@ Showing **2868** of **2868** cached companies (all cached companies).
 | Rainmaker | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a recognized software-engineering employer brand. |
 | Samaya | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not have a broadly established software engineering reputation. |
 | SoloPulse | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer brand under this name. |
+| Stand Insurance | 28 | Low | 2026-08-07 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand and unclear evidence of selectivity; likely a niche insurance-focused employer rather than a strong general tech career signal. |
 | Sweatpals | 28 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Early-stage consumer fitness/community app with limited broad recognition as a software-engineering employer. |
 | Technergetics | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited evidence of a widely recognized software-engineering employer brand or selective technical reputation. |
 | Upstream USA | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Mission-driven nonprofit organization with little established software-engineering employer recognition. |

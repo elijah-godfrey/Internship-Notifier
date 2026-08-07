@@ -28081,6 +28081,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "stand insurance": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Stand Insurance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited broadly recognized software-engineering brand and unclear evidence of selectivity; likely a niche insurance-focused employer rather than a strong general tech career signal.",
+      "reviewed_at": "2026-08-07",
+      "rubric_version": "prestige-v1"
+    },
     "stand together": {
       "aliases": [
         "Stand Together Foundation"
