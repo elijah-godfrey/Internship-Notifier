@@ -12058,6 +12058,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "flexion robotics": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Flexion Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 34,
+      "reason": "Robotics work can be technically relevant, but the company has limited broad recognition as a selective software-engineering internship employer.",
+      "reviewed_at": "2026-08-08",
+      "rubric_version": "prestige-v1"
+    },
     "flextronics international": {
       "aliases": [
         "Flex"
@@ -15223,6 +15234,17 @@
       "prestige_score": 25,
       "reason": "The name is ambiguous and is not clearly associated with a widely recognized software-engineering employer.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "hyperlight": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "HyperLight",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Appears to be a niche technology company; limited evidence of a broadly recognized or highly selective software-engineering internship brand.",
+      "reviewed_at": "2026-08-08",
       "rubric_version": "prestige-v1"
     },
     "hyperproof": {
@@ -24067,6 +24089,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "pronexus": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "ProNexus",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "The name does not indicate a widely established software-engineering employer brand; limited evidence supports a strong internship prestige signal.",
+      "reviewed_at": "2026-08-08",
+      "rubric_version": "prestige-v1"
+    },
     "proofpoint": {
       "aliases": [],
       "confidence": "high",
@@ -30397,6 +30430,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "tmeic corporation americas": {
+      "aliases": [
+        "TMEIC"
+      ],
+      "confidence": "medium",
+      "display_name": "TMEIC Corporation Americas",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Part of an established industrial electrical-systems organization, providing a solid engineering signal, though its software brand is specialized rather than broadly elite.",
+      "reviewed_at": "2026-08-08",
+      "rubric_version": "prestige-v1"
+    },
     "tmx group": {
       "aliases": [],
       "confidence": "medium",
@@ -30977,6 +31023,17 @@
       "prestige_score": 25,
       "reason": "Limited publicly established recognition as a software-engineering employer; available evidence is insufficient for a higher score.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "turabify": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Turabify",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 18,
+      "reason": "Limited evidence of an established technical employer reputation or recognized software-engineering internship brand.",
+      "reviewed_at": "2026-08-08",
       "rubric_version": "prestige-v1"
     },
     "turion space": {
@@ -32708,6 +32765,19 @@
       "prestige_score": 76,
       "reason": "Selective quantitative investment firm with a strong technical signal, though less broadly recognized than the largest quant firms.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "wallstreetquants": {
+      "aliases": [
+        "Wall Street Quants"
+      ],
+      "confidence": "low",
+      "display_name": "WallStreetQuants",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "The name suggests a quantitative-finance focus, but there is limited evidence of an established, widely recognized software-engineering employer brand.",
+      "reviewed_at": "2026-08-08",
       "rubric_version": "prestige-v1"
     },
     "walmart": {
