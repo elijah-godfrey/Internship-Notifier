@@ -29018,6 +29018,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "systems planning and analysis spa": {
+      "aliases": [
+        "SPA",
+        "Systems Planning and Analysis"
+      ],
+      "confidence": "medium",
+      "display_name": "Systems Planning and Analysis (SPA)",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established defense and national-security consulting firm with credible technical work, but its software-engineering brand and internship signal are comparatively niche rather than broadly elite.",
+      "reviewed_at": "2026-08-08",
+      "rubric_version": "prestige-v1"
+    },
     "t mobile": {
       "aliases": [
         "T-Mobile US"

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2879** of **2879** cached companies (all cached companies).
+Showing **2880** of **2880** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1542,6 +1542,7 @@ Showing **2879** of **2879** cached companies (all cached companies).
 | SC Johnson | 52 | High | 2026-08-02 | gpt-5.6-terra | No | S. C. Johnson & Son | Well-regarded consumer-products employer with solid general reputation, but limited software-engineering brand strength. |
 | Sentry Insurance | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Sentry | Established insurer with technology roles, but its reputation is primarily in insurance rather than software engineering. |
 | Stash | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Stash Financial | Recognized consumer fintech startup with relevant product engineering, though its employer signal is not broadly elite. |
+| Systems Planning and Analysis (SPA) | 52 | Medium | 2026-08-08 | gpt-5.6-terra | No | SPA, Systems Planning and Analysis | Established defense and national-security consulting firm with credible technical work, but its software-engineering brand and internship signal are comparatively niche rather than broadly elite. |
 | Talkspace | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognizable digital-health company with relevant product engineering, but not a top-tier engineering signal. |
 | Tandem | 52 | Low | 2026-08-02 | gpt-5.6-terra | No | Tandem Diabetes Care | The name is ambiguous; if referring to a healthcare-device company, it has credible technical work but limited broad software prestige. |
 | Tandem Diabetes Care | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized diabetes-device company, but its software engineering brand is specialized rather than broadly elite. |
