@@ -10069,6 +10069,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "eko health": {
+      "aliases": [
+        "Eko",
+        "Eko Devices"
+      ],
+      "confidence": "medium",
+      "display_name": "Eko Health",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "A credible digital-health and medical-device company with meaningful technical work in AI-enabled cardiac screening, but its software engineering brand and internship selectivity are less broadly recognized than major technology or top healthcare-tech employers.",
+      "reviewed_at": "2026-08-08",
+      "rubric_version": "prestige-v1"
+    },
     "elanco": {
       "aliases": [
         "Elanco Animal Health"

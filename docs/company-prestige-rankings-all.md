@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2880** of **2880** cached companies (all cached companies).
+Showing **2881** of **2881** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1157,6 +1157,7 @@ Showing **2880** of **2880** cached companies (all cached companies).
 | Dow Chemical Company | 57 | High | 2026-08-02 | gpt-5.6-terra | No | Dow | Globally respected science and industrial employer, but software engineering is not its primary career signal. |
 | Duke Energy | 57 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, established utility with solid enterprise technology roles, but limited standing as a destination software-engineering brand. |
 | Edwards Lifesciences | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded medical-device company with solid technical credibility, though software is not its primary employer brand. |
+| Eko Health | 57 | Medium | 2026-08-08 | gpt-5.6-terra | No | Eko, Eko Devices | A credible digital-health and medical-device company with meaningful technical work in AI-enabled cardiac screening, but its software engineering brand and internship selectivity are less broadly recognized than major technology or top healthcare-tech employers. |
 | Emory University | 57 | High | 2026-08-02 | gpt-5.6-terra | No | Emory | Well-regarded research university, but its software-employer signal is less direct than that of dedicated technology firms. |
 | EQ Bank | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | Equitable Bank | Recognized Canadian digital-bank brand with relevant fintech engineering work, but limited global software-employer prestige. |
 | Evercore | 57 | High | 2026-08-02 | gpt-5.6-terra | No | - | Elite investment-banking name, but its primary career signal is finance rather than software engineering. |
