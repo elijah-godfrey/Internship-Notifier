@@ -25454,6 +25454,19 @@
       "reviewed_at": "2026-07-30",
       "rubric_version": "prestige-v1"
     },
+    "rli": {
+      "aliases": [
+        "RLI Insurance"
+      ],
+      "confidence": "medium",
+      "display_name": "RLI Corp.",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established specialty insurer with a credible technology environment, but it is not broadly recognized as a selective or top-tier software engineering employer.",
+      "reviewed_at": "2026-08-10",
+      "rubric_version": "prestige-v1"
+    },
     "roam": {
       "aliases": [],
       "confidence": "low",
@@ -29784,6 +29797,19 @@
       "prestige_score": 78,
       "reason": "Highly respected semiconductor employer with a strong engineering brand, especially for embedded and systems-oriented software.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "texas permanent school fund": {
+      "aliases": [
+        "Texas PSF Corporation"
+      ],
+      "confidence": "low",
+      "display_name": "Texas Permanent School Fund Corporation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "A specialized public investment entity with limited visible software-engineering employer branding or broad technical-industry recognition.",
+      "reviewed_at": "2026-08-10",
       "rubric_version": "prestige-v1"
     },
     "texas rangers": {

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2883** of **2883** cached companies (all cached companies).
+Showing **2885** of **2885** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1536,6 +1536,7 @@ Showing **2883** of **2883** cached companies (all cached companies).
 | PSP Investments | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Public Sector Pension Investment Board, PSP | Respected institutional investment organization, though its technical employer signal is narrower than that of leading engineering-focused firms. |
 | QuinStreet | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established digital marketing and marketplace business with a solid but not especially distinguished engineering signal. |
 | Red Bull | 52 | Medium | 2026-07-23 | gpt-5.6-terra | No | Red Bull GmbH | Globally recognizable consumer brand, but its software engineering organization is not broadly known as a selective or top-tier engineering career signal. |
+| RLI Corp. | 52 | Medium | 2026-08-10 | gpt-5.6-terra | No | RLI Insurance | Established specialty insurer with a credible technology environment, but it is not broadly recognized as a selective or top-tier software engineering employer. |
 | Rolls-Royce Motorcars | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Rolls-Royce Motor Cars | Prestigious luxury automotive brand, but its software-engineering employer signal is narrower and less prominent than its product reputation. |
 | Ryan Specialty | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ryan Specialty Holdings, Ryan Specialty Group | Established specialty-insurance company, with a software signal that is mainly tied to its industry rather than a broad engineering brand. |
 | Ryder System | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ryder | Large, established transportation and logistics employer, but not broadly recognized for software-engineering selectivity. |
@@ -2490,6 +2491,7 @@ Showing **2883** of **2883** cached companies (all cached companies).
 | Standard Aero | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | StandardAero | Established aerospace maintenance company, though software engineering is not central to its employer reputation. |
 | T1D Exchange | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected diabetes research nonprofit, but it has limited standalone software-engineering prestige. |
 | TAP Engineering | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly visible software-engineering brand; the name is not strongly associated with a widely recognized technical employer. |
+| Texas Permanent School Fund Corporation | 38 | Low | 2026-08-10 | gpt-5.6-terra | No | Texas PSF Corporation | A specialized public investment entity with limited visible software-engineering employer branding or broad technical-industry recognition. |
 | The Kinetic Group | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | Kinetic Group | Limited broadly established software-engineering employer reputation under this name. |
 | The Scion Group | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | Scion Group | Student-housing company with limited broad recognition or selectivity as a software engineering employer. |
 | Treefera | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage climate-data company with limited established recognition or demonstrated software-engineering hiring signal. |
