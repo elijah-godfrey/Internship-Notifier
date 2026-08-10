@@ -14756,6 +14756,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "hiebing": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Hiebing",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Regional independent marketing agency with some digital work, but limited broad recognition as a software-engineering employer.",
+      "reviewed_at": "2026-08-10",
+      "rubric_version": "prestige-v1"
+    },
     "higharc": {
       "aliases": [],
       "confidence": "medium",
@@ -21181,6 +21192,17 @@
       "prestige_score": 35,
       "reason": "Early-stage company with limited established recognition or demonstrated selectivity in software engineering.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "noblis": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Noblis",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Respected government and defense consulting contractor with meaningful technical work, though its software-engineering brand is less prominent than top technology employers.",
+      "reviewed_at": "2026-08-10",
       "rubric_version": "prestige-v1"
     },
     "nobull": {

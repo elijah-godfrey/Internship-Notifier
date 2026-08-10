@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2881** of **2881** cached companies (all cached companies).
+Showing **2883** of **2883** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -940,6 +940,7 @@ Showing **2881** of **2881** cached companies (all cached companies).
 | Newsela | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known education-technology company with a relevant product-engineering environment, though its overall prestige is more sector-specific than elite. |
 | NextEra Energy | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | NextEra | Highly regarded energy company with meaningful technology work, though not chiefly known as a software-engineering destination. |
 | Nielsen | 61 | High | 2026-08-02 | gpt-5.6-terra | No | The Nielsen Company | Recognized data, measurement, and analytics company; a solid signal, though not generally viewed as an elite software employer. |
+| Noblis | 61 | Medium | 2026-08-10 | gpt-5.6-terra | No | - | Respected government and defense consulting contractor with meaningful technical work, though its software-engineering brand is less prominent than top technology employers. |
 | NTT DATA AIVista | 61 | Low | 2026-08-03 | gpt-5.6-terra | No | AIVista | Association with NTT DATA provides a solid enterprise-technology signal, but the AIVista unit itself has limited standalone engineering-brand recognition. |
 | OCC | 61 | Medium | 2026-07-18 | gpt-5.6-terra | No | Options Clearing Corporation, The Options Clearing Corporation | Major financial-market infrastructure organization; solid systems signal but a less prominent general software brand. |
 | OfferUp | 61 | High | 2026-07-18 | gpt-5.6-terra | No | - | Recognized consumer marketplace with credible product engineering, though not generally viewed as top-tier. |
@@ -2160,6 +2161,7 @@ Showing **2881** of **2881** cached companies (all cached companies).
 | Georgian Partners Growth | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | Georgian Partners | Georgian Partners is a recognized growth-equity investor with a technology focus, but it is not chiefly known as a software-engineering employer. |
 | GIA | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Gemological Institute of America | Strong name in gemology, but limited relevance and recognition as a software engineering employer. |
 | HF Sinclair | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established energy company, but it has limited broad recognition as a software-engineering employer. |
+| Hiebing | 43 | Medium | 2026-08-10 | gpt-5.6-terra | No | - | Regional independent marketing agency with some digital work, but limited broad recognition as a software-engineering employer. |
 | Horace Mann | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established insurer with technology roles, but limited general recognition as a software-engineering employer. |
 | HyperLight | 43 | Low | 2026-08-08 | gpt-5.6-terra | No | - | Appears to be a niche technology company; limited evidence of a broadly recognized or highly selective software-engineering internship brand. |
 | IJM | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | IJM Corporation Berhad | Known primarily as an infrastructure and construction-oriented company rather than a recognized software-engineering employer. |
