@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2885** of **2885** cached companies (all cached companies).
+Showing **2886** of **2886** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1088,6 +1088,7 @@ Showing **2885** of **2885** cached companies (all cached companies).
 | Major League Baseball | 58 | High | 2026-08-02 | gpt-5.6-terra | No | MLB | Highly recognizable organization with interesting sports, media, and data technology work, but a less established general software-employer brand. |
 | Mars | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected global consumer-products company, but its software engineering signal is secondary to its consumer brand. |
 | Meshy | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | Meshy AI | Visible generative-AI startup with relevant technical work, but an early-stage and less established engineering reputation. |
+| Mujin | 58 | Medium | 2026-08-10 | gpt-5.6-terra | No | - | Well-regarded robotics and industrial automation company with technically credible software work, especially in motion planning and warehouse automation, but it has a narrower and less broadly recognized software-engineering brand than major global tech employers. |
 | Myriad Genetics | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Myriad | Recognized genomics company with credible technical and data-intensive work, but a moderate general software-engineering signal. |
 | National Information Solutions Cooperative (NISC) | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | NISC | Established vertical-software cooperative with meaningful engineering work, but primarily industry-specific recognition. |
 | NCR Voyix | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | NCR | Established enterprise commerce and payments-technology employer, but its software-engineering brand is not broadly top-tier. |
