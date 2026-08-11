@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2886** of **2886** cached companies (all cached companies).
+Showing **2891** of **2891** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1294,6 +1294,7 @@ Showing **2886** of **2886** cached companies (all cached companies).
 | Blackboard | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-known education-software company with an established product engineering footprint, but not generally viewed as top-tier. |
 | Blue Cross Blue Shield | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | BCBS, Blue Cross and Blue Shield | Well-known health-insurance brand with substantial technology needs, but not a broadly top-tier software engineering signal. |
 | Brigham Young University | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | BYU | A well-known university with credible technical work, but its employer signal is academic rather than a highly selective software-company brand. |
+| Caddi Workflow Automation | 55 | Medium | 2026-08-11 | gpt-5.6-terra | No | Caddi | Caddi has a recognizable industrial-software profile, but its engineering-employer signal is not broadly top-tier globally. |
 | Canadian Tire | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Major Canadian retailer with substantial digital operations, but not broadly viewed as a top software employer. |
 | Capital Rx | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Health-tech and pharmacy-benefits company with relevant software work, but limited broad engineering prestige. |
 | Carbon Engineering Ltd. | 55 | Medium | 2026-08-03 | gpt-5.6-terra | No | - | Recognized climate-technology company with technically demanding work, but software engineering is not its primary employer brand. |
@@ -2322,6 +2323,7 @@ Showing **2886** of **2886** cached companies (all cached companies).
 | Redwood Credit Union | 42 | High | 2026-08-02 | gpt-5.6-terra | No | RCU | Established regional financial institution, but software engineering is not a prominent external employer signal. |
 | Reli | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage insurance technology company with relevant software work, but limited established engineering-employer recognition. |
 | Resolve Tech Solutions | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Appears to be a smaller technology-services firm with limited broad recognition or selectivity as a software-engineering signal. |
+| ResponsiveAds | 42 | Low | 2026-08-11 | gpt-5.6-terra | No | - | Niche advertising-technology company with limited broad recognition as a software engineering employer. |
 | S&T Bank | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | S&T Bancorp | Regional banking employer with limited software-engineering recognition beyond its industry. |
 | Salt Lake County | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Government employer with stable regional recognition but limited software-engineering prestige. |
 | Saputo | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known food company, but not a notable destination for software-engineering prestige. |
@@ -2495,6 +2497,7 @@ Showing **2886** of **2886** cached companies (all cached companies).
 | Texas Permanent School Fund Corporation | 38 | Low | 2026-08-10 | gpt-5.6-terra | No | Texas PSF Corporation | A specialized public investment entity with limited visible software-engineering employer branding or broad technical-industry recognition. |
 | The Kinetic Group | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | Kinetic Group | Limited broadly established software-engineering employer reputation under this name. |
 | The Scion Group | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | Scion Group | Student-housing company with limited broad recognition or selectivity as a software engineering employer. |
+| Thingtrax | 38 | Low | 2026-08-11 | gpt-5.6-terra | No | - | Industry-focused manufacturing/IoT software company with limited evidence of broad engineering-employer recognition. |
 | Treefera | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage climate-data company with limited established recognition or demonstrated software-engineering hiring signal. |
 | Tri-State Generation and Transmission Association | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established utility organization, but it has limited software-engineering prestige outside its industry. |
 | Veryable | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Smaller operations marketplace with limited broad recognition as a software-engineering employer. |
@@ -2843,6 +2846,7 @@ Showing **2886** of **2886** cached companies (all cached companies).
 | Sajix | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited available evidence of broad employer recognition or a strong software-engineering brand. |
 | Sierra | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer's software engineering reputation; assessed conservatively. |
 | SimonComputing | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly established information about a distinctive or selective software-engineering employer brand. |
+| SkyGig | 25 | Low | 2026-08-11 | gpt-5.6-terra | No | - | Limited verifiable public engineering-employer reputation; conservative score due to sparse evidence. |
 | Sunwater Capital | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable recognition as a software-engineering employer; the name is not associated with an established engineering brand. |
 | System Canada Technologies | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited recognizable evidence of a substantial or widely respected software-engineering employer brand. |
 | Tacit | 25 | Low | 2026-08-05 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself indicate a broadly recognized or selective software-engineering employer. |
@@ -2860,6 +2864,7 @@ Showing **2886** of **2886** cached companies (all cached companies).
 | NationGraph | 24 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly verifiable reputation or recognition as a software-engineering employer. |
 | NeoSigma | 24 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited identifiable software-engineering reputation under this name. |
 | New Lantern | 24 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Company identity and software-engineering reputation are unclear, so there is limited evidence of relevant prestige. |
+| OceanComm | 24 | Low | 2026-08-11 | gpt-5.6-terra | No | - | Limited identifiable public software-engineering brand or selectivity signal under this name. |
 | Orbital Industries | 24 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer under this exact name. |
 | Preferred Risk Insurance Services | 24 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited evidence of a notable software-engineering brand or broad technical-employer recognition. |
 | Prospect Equities | 24 | Medium | 2026-08-03 | gpt-5.6-terra | No | - | A real-estate-focused firm with little apparent software-engineering employer reputation. |
