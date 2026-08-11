@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2895** of **2895** cached companies (all cached companies).
+Showing **2897** of **2897** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1319,6 +1319,7 @@ Showing **2895** of **2895** cached companies (all cached companies).
 | Everfox | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Cybersecurity and defense-focused technology company with relevant specialized engineering work but limited broad recognition. |
 | Exact Sciences | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded diagnostics and health-tech company, though its software-engineering brand is more specialized than broadly elite. |
 | Fever Up | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Fever | Recognized event-discovery technology company with relevant product engineering, but a moderate overall engineering signal. |
+| Foxconn Industrial Internet | 55 | Medium | 2026-08-11 | gpt-5.6-terra | No | FII | Large, recognized industrial-internet and manufacturing technology company, but its software engineering brand is less prominent than its hardware and manufacturing reputation. |
 | General Dynamics Information Technology | 55 | High | 2026-08-02 | gpt-5.6-terra | No | GDIT | Large government IT contractor with relevant engineering roles, but a comparatively ordinary software-industry signal. |
 | GenScript | 55 | Medium | 2026-07-18 | gpt-5.6-terra | No | GenScript Biotech | Recognized life-sciences company with credible technical operations, but software engineering is not its primary employer reputation. |
 | Globalization Partners | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | G-P, Globalization Partners International | Recognized HR technology and employer-of-record company, with a moderate but not elite engineering brand. |
@@ -2503,6 +2504,7 @@ Showing **2895** of **2895** cached companies (all cached companies).
 | Thingtrax | 38 | Low | 2026-08-11 | gpt-5.6-terra | No | - | Industry-focused manufacturing/IoT software company with limited evidence of broad engineering-employer recognition. |
 | Treefera | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage climate-data company with limited established recognition or demonstrated software-engineering hiring signal. |
 | Tri-State Generation and Transmission Association | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established utility organization, but it has limited software-engineering prestige outside its industry. |
+| UHY | 38 | Medium | 2026-08-11 | gpt-5.6-terra | No | UHY International | Established professional-services network, primarily known for accounting, audit, and advisory rather than selective or broadly recognized software engineering roles. |
 | Veryable | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Smaller operations marketplace with limited broad recognition as a software-engineering employer. |
 | VITAS Healthcare | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | VITAS | Established healthcare provider, but it has limited software-engineering-specific market recognition. |
 | Vulcan Elements | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage industrial-technology company with limited established software engineering recognition. |
