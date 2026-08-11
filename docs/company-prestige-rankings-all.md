@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2891** of **2891** cached companies (all cached companies).
+Showing **2892** of **2892** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -897,6 +897,7 @@ Showing **2891** of **2891** cached companies (all cached companies).
 | Telesat | 62 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Established satellite communications company with technically relevant engineering work, though its software-employer brand is specialized rather than broadly elite. |
 | The Coca-Cola Company | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Coca-Cola, Coke | Globally recognized company with substantial technology needs, though its engineering brand is not a top-tier software signal. |
 | tldraw | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Developer-tool company with a respected open-source product and strong relevance to modern frontend engineering, albeit small and niche. |
+| Truist Bank | 62 | High | 2026-08-11 | gpt-5.6-terra | No | Truist, Truist Financial | Large, established U.S. bank with credible enterprise technology and engineering opportunities, but its software-engineering brand and internship selectivity are not generally viewed at the level of leading technology firms or elite quantitative-finance employers. |
 | U.S. Bank | 62 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, respected financial institution with substantial technology work, though its engineering brand is not top-tier tech. |
 | Unilever | 62 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized employer with substantial digital operations, but its primary career signal is consumer goods rather than software engineering. |
 | Vertex Pharmaceuticals | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Vertex | Highly respected biopharma company with meaningful technical work, though software engineering is not its core brand. |

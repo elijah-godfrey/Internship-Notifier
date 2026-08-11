@@ -31081,6 +31081,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "truist bank": {
+      "aliases": [
+        "Truist",
+        "Truist Financial"
+      ],
+      "confidence": "high",
+      "display_name": "Truist Bank",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Large, established U.S. bank with credible enterprise technology and engineering opportunities, but its software-engineering brand and internship selectivity are not generally viewed at the level of leading technology firms or elite quantitative-finance employers.",
+      "reviewed_at": "2026-08-11",
+      "rubric_version": "prestige-v1"
+    },
     "truland equipment": {
       "aliases": [],
       "confidence": "medium",
