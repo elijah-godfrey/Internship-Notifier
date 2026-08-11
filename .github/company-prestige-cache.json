@@ -6839,6 +6839,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "city of manhattan kansas": {
+      "aliases": [
+        "Manhattan, KS"
+      ],
+      "confidence": "medium",
+      "display_name": "City of Manhattan, Kansas",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Municipal-government technology work is credible public-sector experience but has limited broad software-engineering prestige or selectivity signal.",
+      "reviewed_at": "2026-08-11",
+      "rubric_version": "prestige-v1"
+    },
     "city of olathe": {
       "aliases": [],
       "confidence": "high",
@@ -7201,6 +7214,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "cmic": {
+      "aliases": [
+        "Computer Methods International Corp."
+      ],
+      "confidence": "medium",
+      "display_name": "CMiC",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 54,
+      "reason": "Established construction-management software vendor with relevant enterprise engineering work, though its brand is mainly industry-specific rather than broadly elite.",
+      "reviewed_at": "2026-08-11",
+      "rubric_version": "prestige-v1"
+    },
     "cms energy": {
       "aliases": [],
       "confidence": "high",
@@ -7491,6 +7517,17 @@
       "prestige_score": 65,
       "reason": "Major technology and media employer with substantial engineering teams, though not generally viewed as top-tier tech.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "commence": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Commence",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "The name is ambiguous and does not clearly identify a widely recognized software-engineering employer; available signal is limited.",
+      "reviewed_at": "2026-08-11",
       "rubric_version": "prestige-v1"
     },
     "commercial metals": {

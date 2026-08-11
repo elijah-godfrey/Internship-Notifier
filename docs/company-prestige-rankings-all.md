@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2892** of **2892** cached companies (all cached companies).
+Showing **2895** of **2895** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1394,6 +1394,7 @@ Showing **2892** of **2892** cached companies (all cached companies).
 | Blue Robotics | 54 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Well regarded in the niche marine-robotics and open hardware community, with credible technical work but limited mainstream software-brand reach. |
 | Cell Signaling Technology | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | CST | Respected life-sciences company, but software engineering is not its principal external reputation. |
 | Centrica | 54 | High | 2026-08-02 | gpt-5.6-terra | No | British Gas | Established energy-services company, but its technology reputation is primarily tied to its industry rather than software engineering. |
+| CMiC | 54 | Medium | 2026-08-11 | gpt-5.6-terra | No | Computer Methods International Corp. | Established construction-management software vendor with relevant enterprise engineering work, though its brand is mainly industry-specific rather than broadly elite. |
 | CSL | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected life-sciences company, but software engineering is supportive rather than its central employer brand. |
 | FHLBank Atlanta | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | Federal Home Loan Bank of Atlanta | A respected financial institution with meaningful technology work, but a limited standalone software-engineering brand. |
 | Genworth Financial | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | Genworth | Established financial-services employer, but its software engineering brand is not broadly viewed as top-tier. |
@@ -2268,6 +2269,7 @@ Showing **2892** of **2892** cached companies (all cached companies).
 | CelLink Technologies | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | CelLink | Specialized automotive and electronics company with limited broadly recognized software engineering brand. |
 | Chemours | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established chemicals company, but it is not broadly recognized as a software-engineering destination. |
 | Cinemark Theatres | 42 | High | 2026-08-02 | gpt-5.6-terra | No | Cinemark | Recognized entertainment operator, but not broadly viewed as a notable software-engineering employer. |
+| City of Manhattan, Kansas | 42 | Medium | 2026-08-11 | gpt-5.6-terra | No | Manhattan, KS | Municipal-government technology work is credible public-sector experience but has limited broad software-engineering prestige or selectivity signal. |
 | CloudFit Software | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | CloudFit | Credible cloud-services and engineering contractor, but with mainly regional or sector-specific recognition. |
 | Codal | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established digital product agency with credible client work, but limited elite or broad engineering-employer recognition. |
 | Concord | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | Concord Technologies, Concord CLM | The name is ambiguous; assuming the contract-management software company, it has a relevant SaaS product but limited broad engineering prestige. |
@@ -2543,6 +2545,7 @@ Showing **2892** of **2892** cached companies (all cached companies).
 | BlueLabs Analytics | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | BlueLabs | Appears to be a specialized analytics organization with limited broad recognition or established software-engineering brand. |
 | Capella | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearly established software employer identity, the technical signal is limited. |
 | Civil & Environmental Consultants | 35 | High | 2026-08-02 | gpt-5.6-terra | No | CEC | Established engineering consultancy, but software engineering is not its primary employer brand. |
+| Commence | 35 | Low | 2026-08-11 | gpt-5.6-terra | No | - | The name is ambiguous and does not clearly identify a widely recognized software-engineering employer; available signal is limited. |
 | Conner Strong & Buckelew | 35 | High | 2026-08-02 | gpt-5.6-terra | No | CSB, Conner Strong | Established insurance brokerage and consulting firm, but it has limited relevance and recognition as a software-engineering employer. |
 | Diversified Automation | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Appears to be a specialized automation business with limited broad recognition as a software-engineering employer. |
 | Dorsia | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage consumer/reservations brand with limited established recognition in software engineering. |
