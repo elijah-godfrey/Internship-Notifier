@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2898** of **2898** cached companies (all cached companies).
+Showing **2899** of **2899** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2924,6 +2924,7 @@ Showing **2898** of **2898** cached companies (all cached companies).
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
 | 3S Business Corporation | 18 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited public evidence of an established or recognized software engineering employer brand. |
 | Deegit | 18 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable evidence of a recognized software engineering employer brand; score is conservative. |
+| Felix Magazine | 18 | Low | 2026-08-12 | gpt-5.6-terra | No | - | Limited evidence of a recognized software-engineering employer brand or selective engineering internship signal; the name primarily suggests a publication rather than a technology employer. |
 | General Intuition & Medal | 18 | Low | 2026-08-01 | gpt-5.6-terra | No | General Intuition &amp; Medal | No well-established public software-engineering employer brand or selectivity signal is identifiable from this name; conservative score due to limited evidence. |
 | Gulf Management | 18 | Low | 2026-08-05 | gpt-5.6-terra | No | - | The name is ambiguous and does not carry a clearly established software engineering employer signal. |
 | NOX METALS | 18 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of an established software-engineering employer brand under this name. |

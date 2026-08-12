@@ -11687,6 +11687,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "felix magazine": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Felix Magazine",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 18,
+      "reason": "Limited evidence of a recognized software-engineering employer brand or selective engineering internship signal; the name primarily suggests a publication rather than a technology employer.",
+      "reviewed_at": "2026-08-12",
+      "rubric_version": "prestige-v1"
+    },
     "fenwick and west": {
       "aliases": [
         "Fenwick"
