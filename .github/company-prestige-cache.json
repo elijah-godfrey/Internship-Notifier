@@ -15577,6 +15577,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "ies holdings": {
+      "aliases": [
+        "IES"
+      ],
+      "confidence": "medium",
+      "display_name": "IES Holdings",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established specialty contractor and infrastructure-services company, but it has limited broad recognition or selectivity as a software-engineering employer compared with technology-focused firms.",
+      "reviewed_at": "2026-08-12",
+      "rubric_version": "prestige-v1"
+    },
     "ifs": {
       "aliases": [
         "Industrial and Financial Systems"

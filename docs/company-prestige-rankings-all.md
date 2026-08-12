@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2900** of **2900** cached companies (all cached companies).
+Showing **2901** of **2901** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2300,6 +2300,7 @@ Showing **2900** of **2900** cached companies (all cached companies).
 | Holman | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established automotive-services company with limited broad recognition for software-engineering careers. |
 | Hone Health | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage health company with limited established evidence of a strong software-engineering reputation. |
 | HPR (Hyannis Port Research) | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | HPR, Hyannis Port Research | A specialized research organization with limited broad recognition as a software-engineering employer. |
+| IES Holdings | 42 | Medium | 2026-08-12 | gpt-5.6-terra | No | IES | Established specialty contractor and infrastructure-services company, but it has limited broad recognition or selectivity as a software-engineering employer compared with technology-focused firms. |
 | Inizio | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare commercialization business, but it has limited broad software-engineering employer recognition. |
 | Inogen | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Medical-device company with limited software-engineering brand recognition outside its specialized product area. |
 | Integra FEC | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly visible software-engineering reputation; the name is primarily associated with specialized industrial or electronics work. |
