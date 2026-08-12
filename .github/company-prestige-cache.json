@@ -17952,6 +17952,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "leger": {
+      "aliases": [
+        "L\u00e9ger Marketing"
+      ],
+      "confidence": "medium",
+      "display_name": "L\u00e9ger",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "L\u00e9ger is a recognized Canadian market-research and analytics firm, but it has limited broad software-engineering brand recognition or selectivity relative to leading technology employers.",
+      "reviewed_at": "2026-08-12",
+      "rubric_version": "prestige-v1"
+    },
     "leggett and platt": {
       "aliases": [],
       "confidence": "high",

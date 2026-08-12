@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2897** of **2897** cached companies (all cached companies).
+Showing **2898** of **2898** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2018,6 +2018,7 @@ Showing **2897** of **2897** cached companies (all cached companies).
 | Kira | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous; likely a niche software or AI business without a clear, broadly established engineering-prestige signal. |
 | Kontoor Brands | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established apparel company, but its software engineering brand is not a major industry signal. |
 | Louisiana Blue | 45 | Low | 2026-08-05 | gpt-5.6-terra | No | Louisiana Blue Cross and Blue Shield, Blue Cross and Blue Shield of Louisiana | Likely a regional health-insurance organization; it has limited broad visibility as a software-engineering employer. |
+| Léger | 45 | Medium | 2026-08-12 | gpt-5.6-terra | No | Léger Marketing | Léger is a recognized Canadian market-research and analytics firm, but it has limited broad software-engineering brand recognition or selectivity relative to leading technology employers. |
 | Mach9 | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | Mach9 Robotics | Early-stage geospatial technology company; relevant technical work is plausible, but broad employer recognition is limited. |
 | Marmon Holdings | 45 | Medium | 2026-07-18 | gpt-5.6-terra | No | Marmon | Established industrial holding company, but with limited standalone software engineering brand recognition. |
 | Masco | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established building-products company, but with limited broad recognition as a software engineering employer. |
