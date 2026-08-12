@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2899** of **2899** cached companies (all cached companies).
+Showing **2900** of **2900** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1743,6 +1743,7 @@ Showing **2899** of **2899** cached companies (all cached companies).
 | AskBio | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Asklepios BioPharmaceutical | Respected gene-therapy biotech, but not a broadly recognized software-engineering brand. |
 | AssetWorks | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized in enterprise asset-management software niches, with limited broader engineering-brand visibility. |
 | Associated Bank | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Associated Banc-Corp | Solid regional bank, but not widely viewed as a standout software-engineering destination. |
+| Assured Guaranty | 48 | Medium | 2026-08-12 | gpt-5.6-terra | No | - | Established financial-guaranty insurer with a credible specialized finance reputation, but limited broad software-engineering brand recognition or selectivity signal. |
 | Aura Frames | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Aura | Consumer technology company with relevant product work, but a relatively limited and niche engineering brand. |
 | Avathon | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Industrial AI and software company with technically relevant work, but a comparatively limited established engineering reputation. |
 | Axios | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized digital-media brand, but its software engineering organization is not widely regarded as a major technical signal. |

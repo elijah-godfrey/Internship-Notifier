@@ -2998,6 +2998,17 @@
       "reviewed_at": "2026-07-28",
       "rubric_version": "prestige-v1"
     },
+    "assured guaranty": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Assured Guaranty",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established financial-guaranty insurer with a credible specialized finance reputation, but limited broad software-engineering brand recognition or selectivity signal.",
+      "reviewed_at": "2026-08-12",
+      "rubric_version": "prestige-v1"
+    },
     "astera": {
       "aliases": [],
       "confidence": "low",
