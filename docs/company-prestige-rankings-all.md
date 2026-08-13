@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2909** of **2909** cached companies (all cached companies).
+Showing **2911** of **2911** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1833,6 +1833,7 @@ Showing **2909** of **2909** cached companies (all cached companies).
 | Reflect Orbital | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable ambitious space-technology startup, but its engineering-employer reputation is still unproven and niche. |
 | Revance | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Revance Therapeutics | Recognized primarily as a specialized biopharmaceutical company rather than for a strong software-engineering employer brand. |
 | SBA Communications Corporation | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established telecommunications-infrastructure company, but not a prominent software-engineering employer brand. |
+| SchoolMint | 48 | Medium | 2026-08-13 | gpt-5.6-terra | No | - | Established education-technology software company with relevant product engineering work, but primarily niche/industry-specific rather than a broadly prestigious engineering signal. |
 | Sharecare | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established digital-health company with relevant technology work, though limited broad selectivity or engineering-brand recognition. |
 | SMX | 48 | Low | 2026-08-02 | gpt-5.6-terra | No | SMX Tech | Likely a government-focused digital-services contractor; it has a modest, specialized engineering signal rather than broad software-industry prestige. |
 | Snap Finance | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialty-finance company, but it has limited broad recognition as a top software engineering employer. |
@@ -2654,6 +2655,7 @@ Showing **2909** of **2909** cached companies (all cached companies).
 | Erickson Senior Living | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Primarily a senior-living operator; limited software-engineering reputation as an employer. |
 | First West Credit Union | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | First West | A regional credit union with limited software-engineering visibility outside its local financial-services market. |
 | Geo Owl | 32 | Low | 2026-08-03 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; likely a niche or smaller employer, so its internship signal is not widely established. |
+| Interco | 32 | Low | 2026-08-13 | gpt-5.6-terra | No | - | The name is ambiguous and does not map clearly to a broadly recognized software-engineering employer; limited identifiable engineering-brand signal. |
 | JK Moving Services | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | JK Moving | Established moving-services business, but it has little relevant software-engineering employer prestige. |
 | Latitude.io | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and there is insufficient evidence of a broadly recognized or selective software-engineering employer brand. |
 | MedElite | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Healthcare-services brand with limited known software-engineering reputation or selectivity signal. |

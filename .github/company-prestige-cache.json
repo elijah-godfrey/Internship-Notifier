@@ -16258,6 +16258,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "interco": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Interco",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "The name is ambiguous and does not map clearly to a broadly recognized software-engineering employer; limited identifiable engineering-brand signal.",
+      "reviewed_at": "2026-08-13",
+      "rubric_version": "prestige-v1"
+    },
     "intercontinental exchange": {
       "aliases": [
         "ICE",
@@ -26691,6 +26702,17 @@
       "prestige_score": 82,
       "reason": "Highly selective quantitative investment firm with strong technical expectations; an excellent signal for engineering roles in trading and finance.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "schoolmint": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "SchoolMint",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established education-technology software company with relevant product engineering work, but primarily niche/industry-specific rather than a broadly prestigious engineering signal.",
+      "reviewed_at": "2026-08-13",
       "rubric_version": "prestige-v1"
     },
     "schreiber foods": {
