@@ -5037,6 +5037,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "bowergroupasia": {
+      "aliases": [
+        "BGA"
+      ],
+      "confidence": "medium",
+      "display_name": "BowerGroupAsia",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established Asia-focused public-affairs consultancy, but it has limited software-engineering brand recognition.",
+      "reviewed_at": "2026-08-13",
+      "rubric_version": "prestige-v1"
+    },
     "box": {
       "aliases": [],
       "confidence": "high",
@@ -5614,6 +5627,20 @@
       "prestige_score": 59,
       "reason": "Established network technology company with a credible engineering reputation in broadband and cloud platforms.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "calpion plutus health": {
+      "aliases": [
+        "Calpion",
+        "Plutus Health"
+      ],
+      "confidence": "low",
+      "display_name": "Calpion/Plutus Health",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 37,
+      "reason": "Healthcare IT and services-oriented businesses with limited broadly recognized engineering prestige.",
+      "reviewed_at": "2026-08-13",
       "rubric_version": "prestige-v1"
     },
     "calstart": {
@@ -12878,6 +12905,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "gartner": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Gartner",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Widely recognized research and advisory firm with a solid technology reputation, though not typically viewed as a top-tier software-engineering destination.",
+      "reviewed_at": "2026-08-13",
+      "rubric_version": "prestige-v1"
+    },
     "gci": {
       "aliases": [],
       "confidence": "low",
@@ -15793,6 +15831,17 @@
       "prestige_score": 68,
       "reason": "Technically ambitious space company with a promising aerospace engineering signal, but it is young and has not yet built broad, established software-employer recognition.",
       "reviewed_at": "2026-07-22",
+      "rubric_version": "prestige-v1"
+    },
+    "inbulks": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Inbulks",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 22,
+      "reason": "Limited verifiable public recognition as a selective or notable software-engineering employer.",
+      "reviewed_at": "2026-08-13",
       "rubric_version": "prestige-v1"
     },
     "incident iq": {
@@ -23489,6 +23538,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "picton mahoney asset management": {
+      "aliases": [
+        "Picton Mahoney"
+      ],
+      "confidence": "medium",
+      "display_name": "Picton Mahoney Asset Management",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Respected Canadian asset manager, but its software-engineering reputation is primarily finance-specific rather than broadly prominent.",
+      "reviewed_at": "2026-08-13",
+      "rubric_version": "prestige-v1"
+    },
     "pika": {
       "aliases": [
         "Pika Labs"
@@ -28091,6 +28153,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "specter aerospace": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Specter Aerospace",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "Limited public evidence of a recognized or selective software-engineering employer brand.",
+      "reviewed_at": "2026-08-13",
+      "rubric_version": "prestige-v1"
+    },
     "specterops": {
       "aliases": [],
       "confidence": "high",
@@ -31270,6 +31343,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "tuckernuck": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Tuckernuck",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 40,
+      "reason": "Recognizable direct-to-consumer retailer, but with a modest and industry-specific software-engineering brand.",
+      "reviewed_at": "2026-08-13",
+      "rubric_version": "prestige-v1"
+    },
     "tuesday lab": {
       "aliases": [],
       "confidence": "low",
@@ -32975,6 +33059,17 @@
       "prestige_score": 38,
       "reason": "Early-stage industrial-technology company with limited established software engineering recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "vwh capital management": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "VWH Capital Management",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Appears to have limited public software-engineering employer recognition; investment-management branding alone is not a strong engineering signal.",
+      "reviewed_at": "2026-08-13",
       "rubric_version": "prestige-v1"
     },
     "vystar credit union": {
