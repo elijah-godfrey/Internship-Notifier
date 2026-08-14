@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2922** of **2922** cached companies (all cached companies).
+Showing **2923** of **2923** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2226,6 +2226,7 @@ Showing **2922** of **2922** cached companies (all cached companies).
 | RTW Investments | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | RTW | Recognized specialist investment firm, though it is not a notable software-engineering employer. |
 | Savage X Fenty | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer and e-commerce brand, but it has limited standalone software-engineering prestige. |
 | Schreiber Foods | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established food manufacturer, but its software-engineering brand is primarily industry-specific and not widely prestigious. |
+| SciTec | 43 | Low | 2026-08-14 | gpt-5.6-terra | No | - | A specialized technical/defense-oriented employer with credible domain work, but limited broad recognition or a prominent software-engineering internship brand compared with major technology firms. |
 | SCS Engineers | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established environmental consulting firm, but it has limited software-engineering brand recognition. |
 | Sonoco | 43 | High | 2026-08-02 | gpt-5.6-terra | No | Sonoco Products Company | Large packaging manufacturer, but its software engineering organization is not a notable technical career signal. |
 | SonoThera | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage biotech with limited broadly established software-engineering brand. |
