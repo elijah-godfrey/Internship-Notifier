@@ -2546,6 +2546,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "arevon": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Arevon",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "A credible renewable-energy developer/operator, but its software engineering brand and internship selectivity are not broadly recognized compared with major technology or engineering employers.",
+      "reviewed_at": "2026-08-14",
+      "rubric_version": "prestige-v1"
+    },
     "argmax": {
       "aliases": [],
       "confidence": "low",

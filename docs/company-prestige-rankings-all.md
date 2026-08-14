@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2924** of **2924** cached companies (all cached companies).
+Showing **2925** of **2925** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2118,6 +2118,7 @@ Showing **2924** of **2924** cached companies (all cached companies).
 | American Red Cross | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Red Cross | Widely recognized humanitarian organization, though it has limited software-engineering brand strength. |
 | Apex Clean Energy | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized renewable-energy developer, but its software engineering brand is limited. |
 | Appen | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known in AI data annotation and language-data services, but it has a limited high-end software engineering signal. |
+| Arevon | 43 | Medium | 2026-08-14 | gpt-5.6-terra | No | - | A credible renewable-energy developer/operator, but its software engineering brand and internship selectivity are not broadly recognized compared with major technology or engineering employers. |
 | Argo Group | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialty insurer, but it offers limited broad software engineering prestige. |
 | Armada | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearly established software-engineering brand, prestige evidence is limited. |
 | ARRAY Technologies | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established solar-tracking equipment company, though it has limited recognition as a software-engineering destination. |
