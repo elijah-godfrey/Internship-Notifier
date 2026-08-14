@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2923** of **2923** cached companies (all cached companies).
+Showing **2924** of **2924** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2681,6 +2681,7 @@ Showing **2923** of **2923** cached companies (all cached companies).
 | The Nuclear Company | 32 | Low | 2026-08-07 | gpt-5.6-terra | No | - | Appears to be a newer, specialized nuclear-energy company with limited established software-engineering brand or internship prestige evidence. |
 | Tilde Research | 32 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited broadly verifiable engineering-employer recognition under this name. |
 | Ultra | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer or a reliable software-engineering reputation. |
+| University of Pikeville | 32 | Medium | 2026-08-14 | gpt-5.6-terra | No | UPIKE, U-Pike | A small regional university with limited visibility as a software engineering employer; it provides some technical experience but is not a strong broadly recognized engineering-brand signal. |
 | Westgate Resorts | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Hospitality company with limited recognition or selectivity as a software engineering employer. |
 | Agentis Capital | 31 | High | 2026-08-02 | gpt-5.6-terra | No | - | Investment banking and advisory firm with little meaningful software-engineering employer brand. |
 | Altom Transport | 31 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Transportation and logistics company with limited public software engineering brand recognition. |

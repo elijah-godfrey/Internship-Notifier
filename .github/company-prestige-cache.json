@@ -32098,6 +32098,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "university of pikeville": {
+      "aliases": [
+        "UPIKE",
+        "U-Pike"
+      ],
+      "confidence": "medium",
+      "display_name": "University of Pikeville",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "A small regional university with limited visibility as a software engineering employer; it provides some technical experience but is not a strong broadly recognized engineering-brand signal.",
+      "reviewed_at": "2026-08-14",
+      "rubric_version": "prestige-v1"
+    },
     "university of rochester": {
       "aliases": [
         "U of Rochester",
