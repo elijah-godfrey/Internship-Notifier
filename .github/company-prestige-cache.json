@@ -3811,6 +3811,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "bank of china usa": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Bank of China USA",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 51,
+      "reason": "Recognizable banking affiliation, but its U.S. operation is not broadly known for a particularly strong or selective software engineering brand.",
+      "reviewed_at": "2026-08-14",
+      "rubric_version": "prestige-v1"
+    },
     "bank of montreal": {
       "aliases": [
         "BMO",
@@ -11660,6 +11671,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "fast enterprises": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "FAST Enterprises",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Well-regarded niche provider of government software, offering a solid technical signal but limited broad consumer-tech recognition.",
+      "reviewed_at": "2026-08-14",
+      "rubric_version": "prestige-v1"
+    },
     "fastly": {
       "aliases": [],
       "confidence": "high",
@@ -18971,6 +18993,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "magnera": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Magnera",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 37,
+      "reason": "Limited established software-engineering brand and relatively limited evidence of broad technical-career recognition.",
+      "reviewed_at": "2026-08-14",
+      "rubric_version": "prestige-v1"
+    },
     "magnet forensics": {
       "aliases": [],
       "confidence": "medium",
@@ -19407,6 +19440,17 @@
       "prestige_score": 45,
       "reason": "Recognized government and defense-services contractor, but it has limited broad software-engineering brand recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "maxlinear": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "MaxLinear",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Established semiconductor company with credible engineering work and a solid technical reputation, though less broadly prestigious than top chip firms.",
+      "reviewed_at": "2026-08-14",
       "rubric_version": "prestige-v1"
     },
     "maybell quantum industries": {
@@ -20421,6 +20465,17 @@
       "prestige_score": 59,
       "reason": "Established real-estate software provider with solid domain credibility, but not a broadly top-tier engineering brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "msa safety": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "MSA Safety",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Respected industrial safety company, but it has limited broad recognition as a destination for software engineering careers.",
+      "reviewed_at": "2026-08-14",
       "rubric_version": "prestige-v1"
     },
     "msg entertainment": {
@@ -25458,6 +25513,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "reyes beverage group": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Reyes Beverage Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Large beverage distribution business, but its software engineering brand and technical selectivity are not widely distinguished.",
+      "reviewed_at": "2026-08-14",
+      "rubric_version": "prestige-v1"
+    },
     "rf smart": {
       "aliases": [
         "RF-SMART, a division of Oracle NetSuite"
@@ -26341,6 +26407,17 @@
       "prestige_score": 35,
       "reason": "Limited evidence of a widely recognized or selective software-engineering employer brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "sam": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "SAM",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 20,
+      "reason": "The name is too ambiguous to establish a specific employer or a meaningful software-engineering reputation; scored conservatively.",
+      "reviewed_at": "2026-08-14",
       "rubric_version": "prestige-v1"
     },
     "samaya": {
