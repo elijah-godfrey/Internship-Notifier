@@ -201,6 +201,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "aarp": {
+      "aliases": [
+        "American Association of Retired Persons"
+      ],
+      "confidence": "medium",
+      "display_name": "AARP",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Well-known national nonprofit brand, but it has limited visibility as a selective software engineering employer.",
+      "reviewed_at": "2026-08-14",
+      "rubric_version": "prestige-v1"
+    },
     "abacus insights": {
       "aliases": [],
       "confidence": "medium",
@@ -20456,6 +20469,17 @@
       "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
+    "mpr associates": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "MPR Associates",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established technical consulting and engineering firm, but with limited broad recognition as a software engineering internship brand.",
+      "reviewed_at": "2026-08-14",
+      "rubric_version": "prestige-v1"
+    },
     "mri software": {
       "aliases": [],
       "confidence": "high",
@@ -22782,6 +22806,20 @@
       "prestige_score": 58,
       "reason": "Well-regarded commercial-vehicle manufacturer with meaningful embedded and industrial technology work, but not a top software brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "pacific northwest national laboratory": {
+      "aliases": [
+        "PNNL",
+        "Pacific Northwest National Lab"
+      ],
+      "confidence": "high",
+      "display_name": "Pacific Northwest National Laboratory",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 74,
+      "reason": "Respected U.S. national laboratory with strong scientific computing and research-engineering credibility; a meaningful technical career signal.",
+      "reviewed_at": "2026-08-14",
       "rubric_version": "prestige-v1"
     },
     "pacvue": {

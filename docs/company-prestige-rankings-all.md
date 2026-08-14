@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2918** of **2918** cached companies (all cached companies).
+Showing **2921** of **2921** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -341,6 +341,7 @@ Showing **2918** of **2918** cached companies (all cached companies).
 | Microchip Technology | 74 | High | 2026-07-18 | gpt-5.6-terra | No | Microchip | Widely respected semiconductor and embedded-systems employer with a strong technical engineering signal. |
 | Northrop Grumman | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized defense and aerospace employer with substantial advanced engineering work; a strong technical signal, though less associated with mainstream software product engineering. |
 | Old Mission Capital | 74 | Medium | 2026-08-02 | gpt-5.6-terra | No | OMC | Selective quantitative trading firm with a strong technical signal, though less broadly recognized outside trading. |
+| Pacific Northwest National Laboratory | 74 | High | 2026-08-14 | gpt-5.6-terra | No | PNNL, Pacific Northwest National Lab | Respected U.S. national laboratory with strong scientific computing and research-engineering credibility; a meaningful technical career signal. |
 | Pinecone | 74 | High | 2026-08-02 | gpt-5.6-terra | No | Pinecone Systems | Recognized AI data-infrastructure company with a strong developer-facing engineering brand. |
 | pony.ai | 74 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Well-known autonomous-driving company with technically demanding engineering work and meaningful sector recognition. |
 | PricewaterhouseCoopers (PwC) | 74 | High | 2026-08-02 | gpt-5.6-terra | No | PwC, PricewaterhouseCoopers | Globally recognized, selective professional-services brand with substantial technology consulting, though not a premier software-product engineering signal. |
@@ -1726,6 +1727,7 @@ Showing **2918** of **2918** cached companies (all cached companies).
 | Waters Corporation | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established scientific-instruments company with technical roles, but limited broad software engineering prestige. |
 | 1-800 Contacts | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established e-commerce and vision-care company, but its software engineering brand is not broadly prominent. |
 | AAR | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established aviation-services company with credible domain technology needs, but limited software engineering brand recognition. |
+| AARP | 48 | Medium | 2026-08-14 | gpt-5.6-terra | No | American Association of Retired Persons | Well-known national nonprofit brand, but it has limited visibility as a selective software engineering employer. |
 | ACCIONA | 48 | High | 2026-08-02 | gpt-5.6-terra | No | Acciona S.A. | Large, respected infrastructure and renewable-energy company, but not broadly known as a software engineering employer. |
 | Accuray | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected medical-device company, with engineering relevance but limited software-specific career recognition. |
 | AccuWeather | 48 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established weather-data brand with technical relevance, but limited prestige as a software employer. |
@@ -2197,6 +2199,7 @@ Showing **2918** of **2918** cached companies (all cached companies).
 | MEMIC | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Maine Employers' Mutual Insurance Company | Established regional insurance employer with limited broad software-engineering recognition. |
 | Midmark | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare equipment company, but limited broad recognition as a software-engineering employer. |
 | Mohawk | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; likely a non-software-focused company with limited general software-engineering brand recognition. |
+| MPR Associates | 43 | Low | 2026-08-14 | gpt-5.6-terra | No | - | Established technical consulting and engineering firm, but with limited broad recognition as a software engineering internship brand. |
 | mthree | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known for early-career technology talent and training, but carries a weaker engineering-employer signal than established product companies. |
 | Neighbor | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Company name is ambiguous; assuming the peer-to-peer storage marketplace, it has limited broad software-engineering prestige. |
 | Nordson | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial manufacturer, but it has limited visibility and selectivity as a software-engineering employer. |

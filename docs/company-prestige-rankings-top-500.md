@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **2918** cached companies (maximum 500).
+Showing **500** of **2921** cached companies (maximum 500).
 
-_The 2418 lowest-scored companies are omitted by the report cap._
+_The 2421 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -343,6 +343,7 @@ _The 2418 lowest-scored companies are omitted by the report cap._
 | Microchip Technology | 74 | High | 2026-07-18 | gpt-5.6-terra | No | Microchip | Widely respected semiconductor and embedded-systems employer with a strong technical engineering signal. |
 | Northrop Grumman | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized defense and aerospace employer with substantial advanced engineering work; a strong technical signal, though less associated with mainstream software product engineering. |
 | Old Mission Capital | 74 | Medium | 2026-08-02 | gpt-5.6-terra | No | OMC | Selective quantitative trading firm with a strong technical signal, though less broadly recognized outside trading. |
+| Pacific Northwest National Laboratory | 74 | High | 2026-08-14 | gpt-5.6-terra | No | PNNL, Pacific Northwest National Lab | Respected U.S. national laboratory with strong scientific computing and research-engineering credibility; a meaningful technical career signal. |
 | Pinecone | 74 | High | 2026-08-02 | gpt-5.6-terra | No | Pinecone Systems | Recognized AI data-infrastructure company with a strong developer-facing engineering brand. |
 | pony.ai | 74 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Well-known autonomous-driving company with technically demanding engineering work and meaningful sector recognition. |
 | PricewaterhouseCoopers (PwC) | 74 | High | 2026-08-02 | gpt-5.6-terra | No | PwC, PricewaterhouseCoopers | Globally recognized, selective professional-services brand with substantial technology consulting, though not a premier software-product engineering signal. |
@@ -526,4 +527,3 @@ _The 2418 lowest-scored companies are omitted by the report cap._
 | Agilent Technologies | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Agilent | Highly respected scientific-instrumentation company with solid technical credibility, though not primarily known for mainstream software engineering. |
 | AllTrails | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded consumer software product with a credible engineering brand, though not typically viewed as a top-tier global internship signal. |
 | AlphaSense | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-intelligence software company with a positive technical signal, but less broad software-engineering recognition. |
-| Ambarella | 68 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-regarded semiconductor and edge-AI company with strong specialized engineering credibility. |
