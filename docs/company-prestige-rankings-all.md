@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2929** of **2929** cached companies (all cached companies).
+Showing **2930** of **2930** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2773,6 +2773,7 @@ Showing **2929** of **2929** cached companies (all cached companies).
 | Compassion International | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established nonprofit, but not a notable or selective software-engineering employer signal. |
 | CTGT | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer; the company identity and scale are unclear. |
 | Cybernetic Labs | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Insufficient evidence of a widely established employer reputation or recognized software-engineering brand. |
+| Dedalus Labs | 28 | Low | 2026-08-15 | gpt-5.6-terra | No | - | Limited broadly recognized evidence of an established, selective software-engineering employer brand; the name has modest career-signaling value absent clearer context. |
 | Denari | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognizable software-engineering brand under this name. |
 | Elevations Credit Union | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Regional financial institution with limited software-engineering brand recognition. |
 | Eragon | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence supports a strong internship signal. |
