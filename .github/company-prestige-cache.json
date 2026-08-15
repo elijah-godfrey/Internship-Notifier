@@ -10757,6 +10757,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "epia neuro": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Epia Neuro",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 22,
+      "reason": "Appears to be a lesser-known, specialized neurotechnology company with limited evidence of an established software-engineering hiring brand.",
+      "reviewed_at": "2026-08-15",
+      "rubric_version": "prestige-v1"
+    },
     "epic games": {
       "aliases": [
         "Epic"
@@ -22326,6 +22337,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "oneok": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "ONEOK",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established energy-infrastructure employer, but it has limited broad recognition as a software-engineering destination.",
+      "reviewed_at": "2026-08-15",
+      "rubric_version": "prestige-v1"
+    },
     "onlogic": {
       "aliases": [],
       "confidence": "medium",
@@ -31891,6 +31913,19 @@
       "prestige_score": 55,
       "reason": "Highly established safety-science institution with technical credibility, though it is not principally known as a software engineering employer.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "unify": {
+      "aliases": [
+        "Unify (enterprise communications)"
+      ],
+      "confidence": "low",
+      "display_name": "Unify",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 34,
+      "reason": "The name is ambiguous; the commonly known enterprise-communications company has limited current software-engineering prestige relative to leading technology employers.",
+      "reviewed_at": "2026-08-15",
       "rubric_version": "prestige-v1"
     },
     "unilever": {

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2925** of **2925** cached companies (all cached companies).
+Showing **2928** of **2928** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1824,6 +1824,7 @@ Showing **2925** of **2925** cached companies (all cached companies).
 | Norfolk Southern | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major transportation company with operational technology needs, but modest broad software-engineering prestige. |
 | OLG | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ontario Lottery and Gaming | Assuming Ontario Lottery and Gaming, it is a recognized regional operator with ordinary software-employer signal. |
 | Omnicom Health | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare marketing network, but its reputation is not centered on selective software engineering. |
+| ONEOK | 48 | Medium | 2026-08-15 | gpt-5.6-terra | No | - | Established energy-infrastructure employer, but it has limited broad recognition as a software-engineering destination. |
 | Orion Innovation | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established digital-services and engineering consultancy, though not a broadly prestigious software destination. |
 | Orthofix | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-device company, but software engineering is not its primary public career signal. |
 | Papa John's | 48 | High | 2026-08-02 | gpt-5.6-terra | No | Papa Johns | Recognizable consumer brand with real digital technology needs, but not generally viewed as a selective software-engineering destination. |
@@ -2651,6 +2652,7 @@ Showing **2925** of **2925** cached companies (all cached companies).
 | STRS Ohio | 34 | High | 2026-08-02 | gpt-5.6-terra | No | State Teachers Retirement System of Ohio | Public pension system with limited relevance or recognition as a software-engineering employer. |
 | The Hub Project | 34 | Medium | 2026-08-03 | gpt-5.6-terra | No | Hub Project | Primarily an advocacy organization; it has limited visibility or selectivity as a software-engineering employer. |
 | The Tatitlek Corporation | 34 | Medium | 2026-07-18 | gpt-5.6-terra | No | Tatitlek Corporation | Established Alaska Native corporation and government contractor, but with limited broad software-engineering brand recognition. |
+| Unify | 34 | Low | 2026-08-15 | gpt-5.6-terra | No | Unify (enterprise communications) | The name is ambiguous; the commonly known enterprise-communications company has limited current software-engineering prestige relative to leading technology employers. |
 | C&S Wholesale Grocers | 33 | Medium | 2026-08-02 | gpt-5.6-terra | No | C&S | Large grocery-distribution company, but software engineering is not its primary external career brand. |
 | Citylogix Inc. | 33 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized transportation-technology company with limited broad recognition among software employers. |
 | Johnson Brothers Liquor Company | 33 | Medium | 2026-08-02 | gpt-5.6-terra | No | Johnson Brothers | Established beverage distributor, but it has limited software-engineering brand recognition outside its industry. |
@@ -2914,6 +2916,7 @@ Showing **2925** of **2925** cached companies (all cached companies).
 | CWAN | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized software engineering employer under this name. |
 | DESIGNME Hair | 22 | Medium | 2026-08-02 | gpt-5.6-terra | No | DESIGNME | Consumer hair-care brand with little established software-engineering reputation. |
 | Egra | 22 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable employer reputation and software-engineering brand recognition. |
+| Epia Neuro | 22 | Low | 2026-08-15 | gpt-5.6-terra | No | - | Appears to be a lesser-known, specialized neurotechnology company with limited evidence of an established software-engineering hiring brand. |
 | Global Infrastructure | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a recognized software engineering employer reputation. |
 | Golden Pet Brands | 22 | Low | 2026-07-23 | gpt-5.6-terra | No | - | Consumer pet-products company with little evident software-engineering brand or broad technical-employer recognition. |
 | Inbulks | 22 | Low | 2026-08-13 | gpt-5.6-terra | No | - | Limited verifiable public recognition as a selective or notable software-engineering employer. |
