@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2928** of **2928** cached companies (all cached companies).
+Showing **2929** of **2929** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2782,6 +2782,7 @@ Showing **2928** of **2928** cached companies (all cached companies).
 | Global Channel Management | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | GCM | Primarily associated with staffing and channel-management services rather than a strong software engineering brand. |
 | Group 1001 | 28 | Low | 2026-07-24 | gpt-5.6-terra | No | Grupo 1001 | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence of a strong technical recruiting signal. |
 | HELLBENDER | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name does not identify a clearly established software employer; available signal is insufficient for a higher score. |
+| Hypercubic | 28 | Low | 2026-08-15 | gpt-5.6-terra | No | - | Limited broadly recognizable evidence of a selective or established software-engineering employer brand under this exact name. |
 | InfiniteQuant | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable employer recognition and software-engineering brand visibility. |
 | International Mission Board | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | IMB | Established nonprofit organization, but it has limited relevance or recognition as a software-engineering employer. |
 | Intropic | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly established evidence of a recognized software-engineering employer brand. |
