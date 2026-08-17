@@ -23263,6 +23263,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "pelmorex": {
+      "aliases": [
+        "The Weather Network"
+      ],
+      "confidence": "medium",
+      "display_name": "Pelmorex",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established weather-data and media technology company with relevant engineering work, but its software brand and internship selectivity are not broadly viewed as top-tier.",
+      "reviewed_at": "2026-08-17",
+      "rubric_version": "prestige-v1"
+    },
     "pendar technologies": {
       "aliases": [
         "Pendar"
@@ -25430,6 +25443,20 @@
       "prestige_score": 92,
       "reason": "Exceptional quantitative-finance signal; renowned for technical rigor and extreme selectivity.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "renesas electronics": {
+      "aliases": [
+        "Renesas",
+        "Renesas Technology"
+      ],
+      "confidence": "high",
+      "display_name": "Renesas Electronics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 74,
+      "reason": "Globally recognized semiconductor and embedded-systems company with a strong technical reputation; especially valuable for low-level, firmware, and hardware-adjacent software, though less of a general software prestige signal than elite software firms.",
+      "reviewed_at": "2026-08-17",
       "rubric_version": "prestige-v1"
     },
     "replit": {

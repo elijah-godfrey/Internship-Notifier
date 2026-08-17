@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **2930** cached companies (maximum 500).
+Showing **500** of **2932** cached companies (maximum 500).
 
-_The 2430 lowest-scored companies are omitted by the report cap._
+_The 2432 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -347,6 +347,7 @@ _The 2430 lowest-scored companies are omitted by the report cap._
 | Pinecone | 74 | High | 2026-08-02 | gpt-5.6-terra | No | Pinecone Systems | Recognized AI data-infrastructure company with a strong developer-facing engineering brand. |
 | pony.ai | 74 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Well-known autonomous-driving company with technically demanding engineering work and meaningful sector recognition. |
 | PricewaterhouseCoopers (PwC) | 74 | High | 2026-08-02 | gpt-5.6-terra | No | PwC, PricewaterhouseCoopers | Globally recognized, selective professional-services brand with substantial technology consulting, though not a premier software-product engineering signal. |
+| Renesas Electronics | 74 | High | 2026-08-17 | gpt-5.6-terra | No | Renesas, Renesas Technology | Globally recognized semiconductor and embedded-systems company with a strong technical reputation; especially valuable for low-level, firmware, and hardware-adjacent software, though less of a general software prestige signal than elite software firms. |
 | Retool | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected developer-tools company with a strong product and engineering reputation among software teams. |
 | SandboxAQ | 74 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Prominent quantum-and-AI startup with a specialized, technically strong reputation, though less established than leading large tech firms. |
 | Semgrep | 74 | High | 2026-08-02 | gpt-5.6-terra | No | r2c | Respected developer-security company with a strong code-analysis product and open-source-adjacent engineering reputation. |
@@ -526,4 +527,3 @@ _The 2430 lowest-scored companies are omitted by the report cap._
 | 1X | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | 1X Technologies, 1X Technologies AS | Visible robotics and AI company with a growing technical reputation, but a less established internship signal than top AI labs. |
 | Agilent Technologies | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Agilent | Highly respected scientific-instrumentation company with solid technical credibility, though not primarily known for mainstream software engineering. |
 | AllTrails | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded consumer software product with a credible engineering brand, though not typically viewed as a top-tier global internship signal. |
-| AlphaSense | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-intelligence software company with a positive technical signal, but less broad software-engineering recognition. |

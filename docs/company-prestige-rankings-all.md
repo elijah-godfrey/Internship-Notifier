@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2930** of **2930** cached companies (all cached companies).
+Showing **2932** of **2932** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -345,6 +345,7 @@ Showing **2930** of **2930** cached companies (all cached companies).
 | Pinecone | 74 | High | 2026-08-02 | gpt-5.6-terra | No | Pinecone Systems | Recognized AI data-infrastructure company with a strong developer-facing engineering brand. |
 | pony.ai | 74 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Well-known autonomous-driving company with technically demanding engineering work and meaningful sector recognition. |
 | PricewaterhouseCoopers (PwC) | 74 | High | 2026-08-02 | gpt-5.6-terra | No | PwC, PricewaterhouseCoopers | Globally recognized, selective professional-services brand with substantial technology consulting, though not a premier software-product engineering signal. |
+| Renesas Electronics | 74 | High | 2026-08-17 | gpt-5.6-terra | No | Renesas, Renesas Technology | Globally recognized semiconductor and embedded-systems company with a strong technical reputation; especially valuable for low-level, firmware, and hardware-adjacent software, though less of a general software prestige signal than elite software firms. |
 | Retool | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected developer-tools company with a strong product and engineering reputation among software teams. |
 | SandboxAQ | 74 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Prominent quantum-and-AI startup with a specialized, technically strong reputation, though less established than leading large tech firms. |
 | Semgrep | 74 | High | 2026-08-02 | gpt-5.6-terra | No | r2c | Respected developer-security company with a strong code-analysis product and open-source-adjacent engineering reputation. |
@@ -1104,6 +1105,7 @@ Showing **2930** of **2930** cached companies (all cached companies).
 | Otis | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Otis Elevator Company | Globally recognized engineering company, though its reputation is stronger in elevators and industrial systems than software. |
 | Otis Worldwide | 58 | High | 2026-08-02 | gpt-5.6-terra | No | Otis Elevator Company | Globally recognized engineering company, though its reputation is stronger in elevators and industrial systems than software. |
 | Paccar | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded commercial-vehicle manufacturer with meaningful embedded and industrial technology work, but not a top software brand. |
+| Pelmorex | 58 | Medium | 2026-08-17 | gpt-5.6-terra | No | The Weather Network | Established weather-data and media technology company with relevant engineering work, but its software brand and internship selectivity are not broadly viewed as top-tier. |
 | PennState University | 58 | High | 2026-07-18 | gpt-5.6-terra | No | Penn State, The Pennsylvania State University | Well-known research university with credible technical work, though not a top software-industry employer signal. |
 | Podium | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | A recognizable SaaS company with solid product-engineering relevance, but limited broad prestige or selectivity signal. |
 | Primetals Technologies | 58 | Medium | 2026-07-22 | gpt-5.6-terra | No | Primetals | Established industrial-technology and metals engineering firm with credible enterprise engineering work, but limited broad recognition or selectivity as a software-engineering brand compared with leading tech employers. |
