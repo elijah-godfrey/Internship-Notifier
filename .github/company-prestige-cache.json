@@ -24322,6 +24322,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "praytell": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Praytell",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Primarily known as a communications/PR agency rather than for a prominent software engineering organization; limited technical-brand signal for an engineering internship.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "precisely": {
       "aliases": [
         "Precisely Data Integrity"

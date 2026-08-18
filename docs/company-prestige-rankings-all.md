@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2941** of **2941** cached companies (all cached companies).
+Showing **2942** of **2942** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2515,6 +2515,7 @@ Showing **2941** of **2941** cached companies (all cached companies).
 | Pennant Group | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | The Pennant Group | Healthcare-services company with limited software-engineering brand recognition. |
 | Penta Group | 38 | Low | 2026-08-14 | gpt-5.6-terra | No | - | The name is ambiguous and does not indicate a broadly recognized, selective software-engineering employer; any technical career signal is likely industry- or region-specific. |
 | PingWind | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Government and defense technology contractor with relevant technical work, but limited broad software-engineering prestige. |
+| Praytell | 38 | Low | 2026-08-18 | gpt-5.6-terra | No | - | Primarily known as a communications/PR agency rather than for a prominent software engineering organization; limited technical-brand signal for an engineering internship. |
 | RA Capital Management | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | RA Capital | Respected specialist investment firm, but it has limited relevance and visibility as a software engineering employer. |
 | RegDesk | 38 | Medium | 2026-08-18 | gpt-5.6-terra | No | - | A niche regulatory-technology company; relevant startup experience but limited recognition as a software-engineering brand. |
 | Salient Motion | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Niche motion-control technology company with limited broad software-engineering brand recognition. |
