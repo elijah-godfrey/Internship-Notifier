@@ -7133,6 +7133,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "clinical ink": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Clinical Ink",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established clinical-trial technology specialist with credible domain relevance, but limited broad software-engineering prestige.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "clio": {
       "aliases": [],
       "confidence": "high",
@@ -10478,6 +10489,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "encephalo investments": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Encephalo Investments",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 20,
+      "reason": "Limited verifiable employer recognition and no evident established software-engineering brand.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "endeavor": {
       "aliases": [],
       "confidence": "medium",
@@ -11658,6 +11680,19 @@
       "prestige_score": 70,
       "reason": "Major consumer technology and gaming platform with substantial engineering work and a respected product-engineering signal.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "fannie mae": {
+      "aliases": [
+        "Federal National Mortgage Association"
+      ],
+      "confidence": "high",
+      "display_name": "Fannie Mae",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-recognized financial institution with substantial technology work, though not generally viewed as an elite software-engineering destination.",
+      "reviewed_at": "2026-08-18",
       "rubric_version": "prestige-v1"
     },
     "fanthreesixty": {
@@ -15347,6 +15382,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "huck adventures": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Huck Adventures",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "Appears to have limited visibility and no established software-engineering employer brand.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "hudl": {
       "aliases": [],
       "confidence": "high",
@@ -17748,6 +17794,19 @@
       "prestige_score": 25,
       "reason": "Limited verifiable public recognition as an established or selective software-engineering employer.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "kostal group": {
+      "aliases": [
+        "KOSTAL"
+      ],
+      "confidence": "medium",
+      "display_name": "KOSTAL Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established automotive and industrial supplier with engineering credibility, but a comparatively modest software-specific employer signal.",
+      "reviewed_at": "2026-08-18",
       "rubric_version": "prestige-v1"
     },
     "kph healthcare services": {
@@ -25316,6 +25375,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "regdesk": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "RegDesk",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "A niche regulatory-technology company; relevant startup experience but limited recognition as a software-engineering brand.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "regions bank": {
       "aliases": [
         "Regions Financial"
@@ -27569,6 +27639,17 @@
       "prestige_score": 75,
       "reason": "Well-regarded RISC-V semiconductor company with a strong, specialized engineering reputation and meaningful technical selectivity.",
       "reviewed_at": "2026-07-29",
+      "rubric_version": "prestige-v1"
+    },
+    "sightcall": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "SightCall",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Recognized provider of visual-assistance software with a credible technical product, but primarily known within its niche.",
+      "reviewed_at": "2026-08-18",
       "rubric_version": "prestige-v1"
     },
     "sigma computing": {
@@ -34775,6 +34856,17 @@
       "prestige_score": 81,
       "reason": "Globally recognized communications platform with a strong large-scale product and infrastructure engineering signal.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "zoomifier": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Zoomifier",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 27,
+      "reason": "Limited public recognition and no clearly established software-engineering prestige signal.",
+      "reviewed_at": "2026-08-18",
       "rubric_version": "prestige-v1"
     },
     "zoominfo": {
