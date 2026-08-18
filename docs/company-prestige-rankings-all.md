@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2942** of **2942** cached companies (all cached companies).
+Showing **2944** of **2944** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1671,6 +1671,7 @@ Showing **2942** of **2942** cached companies (all cached companies).
 | Rhombus Power | 50 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Specialized AI and defense-oriented technology work can be technically relevant, but the company has limited broad engineering-market recognition. |
 | Smith+Nephew | 50 | High | 2026-08-02 | gpt-5.6-terra | No | Smith & Nephew | Established global medical-technology company, but software engineering is a supporting function rather than its core employer brand. |
 | Steel Dynamics | 50 | High | 2026-08-02 | gpt-5.6-terra | No | SDI | Respected industrial company, but software engineering is not its primary external talent brand. |
+| University of St. Thomas | 50 | Medium | 2026-08-18 | gpt-5.6-terra | No | UST, University of St. Thomas (Minnesota) | Recognized regional university employer; technical roles can be credible but it has limited general software-engineering employer prestige. |
 | Valmont | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | Valmont Industries | Established industrial-infrastructure company, but software engineering is not a central or widely recognized employer strength. |
 | VaynerMedia | 50 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known marketing agency, but its core reputation is in media and advertising rather than software engineering. |
 | Voldex | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized in the user-generated gaming space, with relevant engineering work but limited broad prestige beyond that niche. |
@@ -2342,6 +2343,7 @@ Showing **2942** of **2942** cached companies (all cached companies).
 | Moss & Associates | 42 | Medium | 2026-07-21 | gpt-5.6-terra | No | Moss, Moss Construction | Established construction-management firm, but it has limited broad recognition or a distinct software-engineering brand. |
 | Naver U.Hub INC | 42 | Low | 2026-08-03 | gpt-5.6-terra | No | U.Hub INC | The name suggests an affiliation with the Naver ecosystem, but this specific entity has limited verifiable software-engineering brand recognition. |
 | Nikkiso | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial and medical-technology manufacturer, but limited recognition as a software-engineering employer. |
+| North American Construction Group | 42 | Medium | 2026-08-18 | gpt-5.6-terra | No | NACG | Established heavy-construction and mining-services employer, but with limited broad software-engineering brand or internship selectivity signal. |
 | nVent | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized industrial-electrical company, though not a prominent software-engineering destination. |
 | Ocean Optics | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialist scientific-instrument company, with software relevance mainly in a niche domain. |
 | OceanX | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable ocean-exploration organization with technical work, but limited conventional software-employer prestige. |

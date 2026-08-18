@@ -21646,6 +21646,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "north american construction group": {
+      "aliases": [
+        "NACG"
+      ],
+      "confidence": "medium",
+      "display_name": "North American Construction Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established heavy-construction and mining-services employer, but with limited broad software-engineering brand or internship selectivity signal.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "north cloud": {
       "aliases": [],
       "confidence": "low",
@@ -32322,6 +32335,20 @@
       "prestige_score": 63,
       "reason": "Respected research university with credible technical and academic work, though its software-employer signal is less prominent than top CS institutions.",
       "reviewed_at": "2026-07-30",
+      "rubric_version": "prestige-v1"
+    },
+    "university of st thomas": {
+      "aliases": [
+        "UST",
+        "University of St. Thomas (Minnesota)"
+      ],
+      "confidence": "medium",
+      "display_name": "University of St. Thomas",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 50,
+      "reason": "Recognized regional university employer; technical roles can be credible but it has limited general software-engineering employer prestige.",
+      "reviewed_at": "2026-08-18",
       "rubric_version": "prestige-v1"
     },
     "university of texas at austin": {
