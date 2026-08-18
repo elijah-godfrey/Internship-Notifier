@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2947** of **2947** cached companies (all cached companies).
+Showing **2948** of **2948** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2816,6 +2816,7 @@ Showing **2947** of **2947** cached companies (all cached companies).
 | Upstream USA | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Mission-driven nonprofit organization with little established software-engineering employer recognition. |
 | Yotta Labs | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable evidence of a broadly recognized or selective software-engineering employer brand; the name is ambiguous and does not carry a strong established internship signal. |
 | Zettabyte | 28 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer; the name provides a modest niche technology signal but an uncertain career-brand signal. |
+| Zuckerman Investment Group | 28 | Low | 2026-08-18 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering employer brand; appears primarily investment-focused rather than known for selective engineering internships. |
 | Adaption Labs | 27 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable recognition as a software-engineering employer; the name is not broadly established in the field. |
 | Boys Town | 27 | Medium | 2026-07-18 | gpt-5.6-terra | No | Boys Town National Research Hospital | Respected nonprofit institution, but it has limited relevance and recognition as a software-engineering employer. |
 | Brio Water Technology | 27 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited evidence of a recognized or selective software engineering brand; reputation appears primarily outside mainstream software. |

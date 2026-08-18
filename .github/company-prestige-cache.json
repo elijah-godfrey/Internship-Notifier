@@ -34989,6 +34989,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "zuckerman investment group": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Zuckerman Investment Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited broadly recognized software-engineering employer brand; appears primarily investment-focused rather than known for selective engineering internships.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "zurich insurance": {
       "aliases": [
         "Zurich",
