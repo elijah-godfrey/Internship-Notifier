@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2944** of **2944** cached companies (all cached companies).
+Showing **2947** of **2947** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1792,6 +1792,7 @@ Showing **2944** of **2944** cached companies (all cached companies).
 | Florida Atlantic University | 48 | High | 2026-08-02 | gpt-5.6-terra | No | FAU | Established university employer, but not generally a notable software-engineering internship brand outside academic and regional contexts. |
 | FluidAI Medical | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | NERv Technology Inc., NERv Technology Inc. D.B.A. FluidAI Medical | Recognized medtech/clinical-AI startup with meaningful technical work, though its software-engineering signal is mainly specialized to healthcare. |
 | FMC Corporation | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established agricultural-sciences company, but it has limited general software-engineering employer recognition. |
+| Foresters Financial | 48 | Medium | 2026-08-18 | gpt-5.6-terra | No | The Independent Order of Foresters, Foresters | Established insurance and financial-services organization, but it has limited visibility as a software-engineering employer relative to major technology or financial firms. |
 | Fortrea | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established clinical-research organization, but it has a limited standalone software-engineering brand. |
 | Fulton Bank | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Fulton Financial Corporation | Established regional bank, but its software engineering brand and internship selectivity have limited broad recognition. |
 | Graco | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial manufacturer, but its software-engineering reputation is secondary to its hardware and industrial business. |
@@ -2176,6 +2177,7 @@ Showing **2944** of **2944** cached companies (all cached companies).
 | Eurofins | 43 | High | 2026-07-18 | gpt-5.6-terra | No | Eurofins Scientific | Established scientific-testing company, but its reputation is primarily in laboratory services rather than software engineering. |
 | Evolver | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Government-focused IT services firm with limited broad software-engineering brand recognition. |
 | Federal Home Loan Bank of Indianapolis | 43 | High | 2026-08-02 | gpt-5.6-terra | No | FHLBank Indianapolis, FHLB Indianapolis | Stable specialized financial institution, but its engineering reputation is primarily enterprise and region-specific. |
+| Filtration Group | 43 | Medium | 2026-08-18 | gpt-5.6-terra | No | - | Established industrial filtration company with a primarily manufacturing-focused reputation; its software engineering brand is not broadly prominent. |
 | Financial Ombudsman Service | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | FOS | A recognized UK public-service institution, but not a prominent software-engineering brand. |
 | First Bank & Trust | 43 | Low | 2026-07-28 | gpt-5.6-terra | No | - | A conventional banking employer; the name is ambiguous and does not by itself indicate a broadly recognized or highly selective software-engineering brand. |
 | First National Bank | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | FNB | The name is shared by multiple banks; generally a conventional banking signal rather than a notable software-engineering brand. |
@@ -2648,6 +2650,7 @@ Showing **2944** of **2944** cached companies (all cached companies).
 | Empire State Realty Trust | 34 | High | 2026-08-02 | gpt-5.6-terra | No | ESRT | Recognized real-estate company but offers limited standalone software-engineering prestige. |
 | Faith Technologies | 34 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected electrical and energy-services company, but with limited broad software-engineering reputation. |
 | Flexion Robotics | 34 | Low | 2026-08-08 | gpt-5.6-terra | No | - | Robotics work can be technically relevant, but the company has limited broad recognition as a selective software-engineering internship employer. |
+| Foundation Finance | 34 | Low | 2026-08-18 | gpt-5.6-terra | No | - | Specialized consumer-finance brand with limited broadly recognized software-engineering reputation; available signal on technical selectivity is limited. |
 | Heron Power | 34 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited established evidence of a broadly recognized software-engineering employer; likely a specialized early-stage energy company. |
 | Hive Financial Systems | 34 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited public evidence of a broadly recognized or selective software-engineering brand. |
 | IKO | 34 | High | 2026-08-02 | gpt-5.6-terra | No | IKO Industries | Established building-materials company, but it has limited software-engineering prestige or broad technical employer recognition. |

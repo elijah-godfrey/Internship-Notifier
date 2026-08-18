@@ -12005,6 +12005,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "filtration group": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Filtration Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established industrial filtration company with a primarily manufacturing-focused reputation; its software engineering brand is not broadly prominent.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "financial ombudsman service": {
       "aliases": [
         "FOS"
@@ -12490,6 +12501,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "foresters financial": {
+      "aliases": [
+        "The Independent Order of Foresters",
+        "Foresters"
+      ],
+      "confidence": "medium",
+      "display_name": "Foresters Financial",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established insurance and financial-services organization, but it has limited visibility as a software-engineering employer relative to major technology or financial firms.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "formation bio": {
       "aliases": [],
       "confidence": "medium",
@@ -12598,6 +12623,17 @@
       "prestige_score": 35,
       "reason": "The name is too ambiguous to establish a specific employer or a strong software-engineering reputation.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "foundation finance": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Foundation Finance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 34,
+      "reason": "Specialized consumer-finance brand with limited broadly recognized software-engineering reputation; available signal on technical selectivity is limited.",
+      "reviewed_at": "2026-08-18",
       "rubric_version": "prestige-v1"
     },
     "four hands": {
