@@ -25900,6 +25900,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "riveron": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Riveron",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Riveron is a recognized advisory and consulting firm, but its brand is centered on finance, accounting, and business transformation rather than software engineering. An internship is a modest, industry-specific technical signal rather than a broadly elite engineering credential.",
+      "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
     "riverside research": {
       "aliases": [],
       "confidence": "medium",

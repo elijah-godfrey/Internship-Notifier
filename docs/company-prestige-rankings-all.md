@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2940** of **2940** cached companies (all cached companies).
+Showing **2941** of **2941** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2229,6 +2229,7 @@ Showing **2940** of **2940** cached companies (all cached companies).
 | Reworld | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established environmental-services business, but it has limited broad recognition as a software-engineering employer. |
 | Reyes Beverage Group | 43 | Medium | 2026-08-14 | gpt-5.6-terra | No | - | Large beverage distribution business, but its software engineering brand and technical selectivity are not widely distinguished. |
 | Rho | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous across companies and does not reliably indicate a broadly recognized, selective software-engineering employer. |
+| Riveron | 43 | Medium | 2026-08-18 | gpt-5.6-terra | No | - | Riveron is a recognized advisory and consulting firm, but its brand is centered on finance, accounting, and business transformation rather than software engineering. An internship is a modest, industry-specific technical signal rather than a broadly elite engineering credential. |
 | Robert Half | 43 | High | 2026-08-02 | gpt-5.6-terra | No | Robert Half International | Well-known professional staffing firm, but its brand is not a strong selective software-engineering employer signal. |
 | Rodan Energy Solutions Inc. | 43 | Medium | 2026-08-03 | gpt-5.6-terra | No | Rodan Energy | A specialized energy-services company with some technology relevance, but limited broad software-engineering recognition. |
 | RTW Investments | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | RTW | Recognized specialist investment firm, though it is not a notable software-engineering employer. |
