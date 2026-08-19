@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2951** of **2951** cached companies (all cached companies).
+Showing **2952** of **2952** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2880,6 +2880,7 @@ Showing **2951** of **2951** cached companies (all cached companies).
 | Mikata Health | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited available evidence of an established software-engineering employer brand or selectivity. |
 | Montenson | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of an established software-engineering employer under this exact name. |
 | MSM Inc. | 25 | Low | 2026-07-24 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a widely recognized or selective software-engineering employer brand. |
+| Navi AI | 25 | Low | 2026-08-19 | gpt-5.6-terra | No | - | The name is ambiguous and does not correspond to a clearly established, broadly recognized software-engineering employer; limited verifiable reputation warrants a conservative score. |
 | NAXO | 25 | Low | 2026-07-31 | gpt-5.6-terra | No | - | Limited identifiable evidence of a broadly recognized or selective software-engineering employer brand under this name. |
 | Newton Research | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Company identity is ambiguous and there is insufficient evidence of a recognized software-engineering employer brand. |
 | Nex | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; no clearly established, broadly recognized software-engineering employer signal can be inferred. |

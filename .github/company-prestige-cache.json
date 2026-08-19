@@ -21003,6 +21003,17 @@
       "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
+    "navi ai": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Navi AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "The name is ambiguous and does not correspond to a clearly established, broadly recognized software-engineering employer; limited verifiable reputation warrants a conservative score.",
+      "reviewed_at": "2026-08-19",
+      "rubric_version": "prestige-v1"
+    },
     "navy federal": {
       "aliases": [
         "Navy Federal Credit Union"
