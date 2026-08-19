@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2948** of **2948** cached companies (all cached companies).
+Showing **2949** of **2949** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2345,6 +2345,7 @@ Showing **2948** of **2948** cached companies (all cached companies).
 | Moss & Associates | 42 | Medium | 2026-07-21 | gpt-5.6-terra | No | Moss, Moss Construction | Established construction-management firm, but it has limited broad recognition or a distinct software-engineering brand. |
 | Naver U.Hub INC | 42 | Low | 2026-08-03 | gpt-5.6-terra | No | U.Hub INC | The name suggests an affiliation with the Naver ecosystem, but this specific entity has limited verifiable software-engineering brand recognition. |
 | Nikkiso | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial and medical-technology manufacturer, but limited recognition as a software-engineering employer. |
+| Normal Computing | 42 | Low | 2026-08-19 | gpt-5.6-terra | No | - | Early-stage, specialized computing company with limited broad recognition or established software-engineering hiring signal; technical niche may be respected by relevant audiences. |
 | North American Construction Group | 42 | Medium | 2026-08-18 | gpt-5.6-terra | No | NACG | Established heavy-construction and mining-services employer, but with limited broad software-engineering brand or internship selectivity signal. |
 | nVent | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized industrial-electrical company, though not a prominent software-engineering destination. |
 | Ocean Optics | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialist scientific-instrument company, with software relevance mainly in a niche domain. |
