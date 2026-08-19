@@ -8974,6 +8974,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "dedalus": {
+      "aliases": [
+        "Dedalus Group"
+      ],
+      "confidence": "medium",
+      "display_name": "Dedalus",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established healthcare IT company with meaningful domain relevance, but a comparatively limited global software-engineering brand and selectivity signal.",
+      "reviewed_at": "2026-08-19",
+      "rubric_version": "prestige-v1"
+    },
     "dedalus labs": {
       "aliases": [],
       "confidence": "low",
@@ -34131,6 +34144,19 @@
       "prestige_score": 65,
       "reason": "Recognized omnichannel retailer with meaningful e-commerce and technology operations.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "willkie farr and gallagher": {
+      "aliases": [
+        "Willkie"
+      ],
+      "confidence": "medium",
+      "display_name": "Willkie Farr & Gallagher",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Well-regarded law firm, but its employer reputation is principally legal rather than a recognized software-engineering internship signal.",
+      "reviewed_at": "2026-08-19",
       "rubric_version": "prestige-v1"
     },
     "windborne systems": {
