@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2960** of **2960** cached companies (all cached companies).
+Showing **2964** of **2964** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -931,6 +931,7 @@ Showing **2960** of **2960** cached companies (all cached companies).
 | Dematic | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial automation and warehouse-technology company with solid technical relevance, though not a broadly elite software brand. |
 | Dusty Robotics | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized robotics company with technically relevant engineering work, though its employer brand is relatively niche and small. |
 | Farallon Capital Management | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | Farallon | Highly regarded investment firm, but its prestige is primarily finance-focused rather than a broad software-engineering brand. |
+| Framatome | 61 | Medium | 2026-08-20 | gpt-5.6-terra | No | - | Well-regarded nuclear-energy engineering company; technical credibility is solid, but its software internship brand is specialized rather than broadly elite. |
 | GameChanger | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | GameChanger Media | Established sports-technology product company with a positive engineering signal, though its recognition is concentrated in its niche. |
 | General Atlantic | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded growth-equity firm, but it is not primarily known as a software-engineering employer. |
 | HCompany | 61 | Medium | 2026-07-18 | gpt-5.6-terra | No | H | AI startup with visible technical ambitions and early industry attention, but it is too new for a fully established prestige signal. |
@@ -1657,6 +1658,7 @@ Showing **2960** of **2960** cached companies (all cached companies).
 | Elevance Health | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large health-services employer with meaningful internal technology work, but not a broadly elite engineering signal. |
 | Empower | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established retirement-services and financial company; technology roles are credible but not broadly prestigious in software engineering. |
 | Entergy | 50 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, established utility with credible internal technology work, but limited prestige as a dedicated software-engineering employer. |
+| Excellus BCBS | 50 | Medium | 2026-08-20 | gpt-5.6-terra | No | Excellus BlueCross BlueShield | Recognized regional health insurer with meaningful enterprise technology work, though not a prominent software-engineering brand. |
 | EXL | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | EXL Service | Established analytics and digital-services employer, though its engineering signal is closer to consulting and outsourcing than top product engineering. |
 | Expedition Technology | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized government and defense technology contractor with credible technical work, but limited broad industry brand recognition. |
 | Fullscript | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible health-platform company, but with modest broad recognition among software engineering employers. |
@@ -2152,6 +2154,7 @@ Showing **2960** of **2960** cached companies (all cached companies).
 | BSE Global | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized sports and entertainment organization, but its software-engineering brand is not broadly distinguished. |
 | Cambia Health Solutions | 43 | High | 2026-08-02 | gpt-5.6-terra | No | Cambia | Established health-services organization with technology roles, but modest broad software-engineering prestige. |
 | Carpenter Technology | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialty-materials manufacturer, but it has limited software-engineering brand relevance. |
+| Catalist | 43 | Low | 2026-08-20 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself indicate a broadly recognized or selective software-engineering employer. |
 | Centerstone | 43 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Established name in behavioral health, but not broadly known for a selective or prominent software-engineering brand. |
 | Centific | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established AI data, localization, and digital-services provider, but its software engineering brand and internship selectivity are not broadly viewed as top-tier. |
 | Charge Robotics | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Small robotics company with limited widely established evidence of software-engineering selectivity or brand recognition. |
@@ -2345,6 +2348,7 @@ Showing **2960** of **2960** cached companies (all cached companies).
 | LivaNova | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-device company, but its engineering reputation is primarily clinical and hardware-oriented rather than software-focused. |
 | Lumos | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; likely regional or industry-specific recognition rather than a strong general software signal. |
 | McKinney | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous; the likely advertising-agency employer has limited software-engineering prestige. |
+| McWane | 42 | Medium | 2026-08-20 | gpt-5.6-terra | No | - | Established industrial manufacturer, but it has limited visibility and signaling strength for software-engineering internships. |
 | Menasha Corporation | 42 | High | 2026-07-18 | gpt-5.6-terra | No | - | Long-established packaging and supply-chain company, but not broadly recognized as a software-engineering destination. |
 | Moment Energy | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage energy-storage company with limited established software-engineering recognition. |
 | Moss & Associates | 42 | Medium | 2026-07-21 | gpt-5.6-terra | No | Moss, Moss Construction | Established construction-management firm, but it has limited broad recognition or a distinct software-engineering brand. |

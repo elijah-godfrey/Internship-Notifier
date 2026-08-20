@@ -6109,6 +6109,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "catalist": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Catalist",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "The name is ambiguous and does not by itself indicate a broadly recognized or selective software-engineering employer.",
+      "reviewed_at": "2026-08-20",
+      "rubric_version": "prestige-v1"
+    },
     "caterpillar": {
       "aliases": [
         "CAT"
@@ -11356,6 +11367,19 @@
       "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
+    "excellus bcbs": {
+      "aliases": [
+        "Excellus BlueCross BlueShield"
+      ],
+      "confidence": "medium",
+      "display_name": "Excellus BCBS",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 50,
+      "reason": "Recognized regional health insurer with meaningful enterprise technology work, though not a prominent software-engineering brand.",
+      "reviewed_at": "2026-08-20",
+      "rubric_version": "prestige-v1"
+    },
     "exclusive networks": {
       "aliases": [],
       "confidence": "medium",
@@ -12726,6 +12750,17 @@
       "prestige_score": 55,
       "reason": "Large, recognized industrial-internet and manufacturing technology company, but its software engineering brand is less prominent than its hardware and manufacturing reputation.",
       "reviewed_at": "2026-08-11",
+      "rubric_version": "prestige-v1"
+    },
+    "framatome": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Framatome",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Well-regarded nuclear-energy engineering company; technical credibility is solid, but its software internship brand is specialized rather than broadly elite.",
+      "reviewed_at": "2026-08-20",
       "rubric_version": "prestige-v1"
     },
     "franklin templeton": {
@@ -19730,6 +19765,17 @@
       "prestige_score": 68,
       "reason": "Highly regarded operational and e-commerce business with a reputation for strong internal technical talent, though not broadly branded as a software company.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "mcwane": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "McWane",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established industrial manufacturer, but it has limited visibility and signaling strength for software-engineering internships.",
+      "reviewed_at": "2026-08-20",
       "rubric_version": "prestige-v1"
     },
     "mechanize": {
