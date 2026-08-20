@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2958** of **2958** cached companies (all cached companies).
+Showing **2959** of **2959** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1855,6 +1855,7 @@ Showing **2958** of **2958** cached companies (all cached companies).
 | SMX | 48 | Low | 2026-08-02 | gpt-5.6-terra | No | SMX Tech | Likely a government-focused digital-services contractor; it has a modest, specialized engineering signal rather than broad software-industry prestige. |
 | Snap Finance | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialty-finance company, but it has limited broad recognition as a top software engineering employer. |
 | Société Générale de Surveillance (SGS) | 48 | High | 2026-08-02 | gpt-5.6-terra | No | SGS, SGS SA | Globally recognized testing and inspection company, but not broadly known as a standout software engineering employer. |
+| SOCOTEC UK & Ireland | 48 | Medium | 2026-08-20 | gpt-5.6-terra | No | SOCOTEC, SOCOTEC UK, SOCOTEC Ireland | Established testing, inspection, and certification firm with credible technical work, but a limited software-engineering brand and modest recognition as a selective SWE internship destination. |
 | Southern New Hampshire University | 48 | High | 2026-08-02 | gpt-5.6-terra | No | SNHU | Recognized education institution, but not a particularly strong or selective software-engineering signal. |
 | Spellman High Voltage Electronics | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Spellman | Established power-electronics manufacturer, but with limited broad software-engineering prestige. |
 | Starz | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized media brand with relevant streaming technology work, but a modest general software-engineering signal. |

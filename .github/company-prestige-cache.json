@@ -28260,6 +28260,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "socotec uk and ireland": {
+      "aliases": [
+        "SOCOTEC",
+        "SOCOTEC UK",
+        "SOCOTEC Ireland"
+      ],
+      "confidence": "medium",
+      "display_name": "SOCOTEC UK & Ireland",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established testing, inspection, and certification firm with credible technical work, but a limited software-engineering brand and modest recognition as a selective SWE internship destination.",
+      "reviewed_at": "2026-08-20",
+      "rubric_version": "prestige-v1"
+    },
     "socure": {
       "aliases": [],
       "confidence": "medium",
