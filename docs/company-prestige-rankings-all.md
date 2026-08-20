@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2952** of **2952** cached companies (all cached companies).
+Showing **2955** of **2955** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1821,6 +1821,7 @@ Showing **2952** of **2952** cached companies (all cached companies).
 | MCG Health | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare-technology company, though its software brand is mainly sector-specific. |
 | Medline | 48 | High | 2026-08-02 | gpt-5.6-terra | No | Medline Industries | Established medical-supply company, though it is not broadly recognized for software engineering or technical selectivity. |
 | MERGE | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known digital and marketing agency with relevant engineering work, but a modest and industry-specific technical signal. |
+| METECS | 48 | Medium | 2026-08-20 | gpt-5.6-terra | No | Management and Engineering Technologies International Corporation | Specialized aerospace engineering contractor with credible technical work, but limited broad software-engineering brand recognition. |
 | MGIC | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Mortgage Guaranty Insurance Corporation | Established mortgage insurer, but its software-engineering brand is primarily internal and industry-specific. |
 | MSA Safety | 48 | Medium | 2026-08-14 | gpt-5.6-terra | No | - | Respected industrial safety company, but it has limited broad recognition as a destination for software engineering careers. |
 | NBT Bank | 48 | Medium | 2026-08-04 | gpt-5.6-terra | No | NBT Bancorp | Established regional bank with credible enterprise technology work, but limited national visibility or selectivity as a software-engineering brand. |
@@ -2400,6 +2401,7 @@ Showing **2952** of **2952** cached companies (all cached companies).
 | System Automation | 41 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized government case-management software provider with a modest, niche engineering reputation. |
 | Yusen Logistics | 41 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established logistics provider, but its software engineering brand has limited recognition outside logistics. |
 | Alcami | 40 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established pharmaceutical-services firm, but it has limited standalone software engineering reputation. |
+| Ampersand | 40 | Low | 2026-08-20 | gpt-5.6-terra | No | - | The name is ambiguous across multiple companies; no specific, broadly recognized software-engineering employer signal can be established. |
 | Aramark | 40 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, established services company, but it has little distinct software engineering prestige. |
 | Beyondsoft | 40 | Medium | 2026-07-18 | gpt-5.6-terra | No | Beyondsoft Consulting | Large IT services and outsourcing firm; provides relevant experience but has limited selective or product-engineering prestige. |
 | Bild AI | 40 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Specialized construction-tech AI company with relevant applied engineering work, but limited broad industry prestige. |
@@ -2702,6 +2704,7 @@ Showing **2952** of **2952** cached companies (all cached companies).
 | Tilde Research | 32 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited broadly verifiable engineering-employer recognition under this name. |
 | Ultra | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer or a reliable software-engineering reputation. |
 | University of Pikeville | 32 | Medium | 2026-08-14 | gpt-5.6-terra | No | UPIKE, U-Pike | A small regional university with limited visibility as a software engineering employer; it provides some technical experience but is not a strong broadly recognized engineering-brand signal. |
+| Western Magnetics | 32 | Low | 2026-08-20 | gpt-5.6-terra | No | - | Appears to be a specialized magnetics/manufacturing business with limited visible software-engineering prestige. |
 | Westgate Resorts | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Hospitality company with limited recognition or selectivity as a software engineering employer. |
 | Agentis Capital | 31 | High | 2026-08-02 | gpt-5.6-terra | No | - | Investment banking and advisory firm with little meaningful software-engineering employer brand. |
 | Altom Transport | 31 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Transportation and logistics company with limited public software engineering brand recognition. |

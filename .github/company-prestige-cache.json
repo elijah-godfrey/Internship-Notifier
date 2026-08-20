@@ -1911,6 +1911,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "ampersand": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Ampersand",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 40,
+      "reason": "The name is ambiguous across multiple companies; no specific, broadly recognized software-engineering employer signal can be established.",
+      "reviewed_at": "2026-08-20",
+      "rubric_version": "prestige-v1"
+    },
     "amplify": {
       "aliases": [],
       "confidence": "low",
@@ -20034,6 +20045,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "metecs": {
+      "aliases": [
+        "Management and Engineering Technologies International Corporation"
+      ],
+      "confidence": "medium",
+      "display_name": "METECS",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Specialized aerospace engineering contractor with credible technical work, but limited broad software-engineering brand recognition.",
+      "reviewed_at": "2026-08-20",
+      "rubric_version": "prestige-v1"
+    },
     "method": {
       "aliases": [],
       "confidence": "low",
@@ -33986,6 +34010,17 @@
       "prestige_score": 70,
       "reason": "Established global storage and semiconductor company with respected low-level, firmware, and systems engineering work; a strong technical signal, though not viewed like a top software-first employer.",
       "reviewed_at": "2026-07-23",
+      "rubric_version": "prestige-v1"
+    },
+    "western magnetics": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Western Magnetics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Appears to be a specialized magnetics/manufacturing business with limited visible software-engineering prestige.",
+      "reviewed_at": "2026-08-20",
       "rubric_version": "prestige-v1"
     },
     "western union": {
