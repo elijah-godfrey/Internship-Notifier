@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2959** of **2959** cached companies (all cached companies).
+Showing **2960** of **2960** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2700,6 +2700,7 @@ Showing **2959** of **2959** cached companies (all cached companies).
 | Monogram | 32 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The company name is highly ambiguous; without a clear match to a known engineering employer, its software internship signal is limited. |
 | Noda | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; without a clear, widely recognized technology employer identity, the engineering signal is limited. |
 | Persona AI | 32 | Low | 2026-08-01 | gpt-5.6-terra | No | - | The name is ambiguous and there is limited clear evidence of a widely recognized, selective software engineering brand. |
+| Pivot Robotics | 32 | Low | 2026-08-20 | gpt-5.6-terra | No | - | Limited broadly verifiable evidence of a selective or widely recognized software-engineering employer brand; any signal is likely niche robotics-specific. |
 | Remedy Scientific | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly established evidence of a notable software-engineering brand; the name is not widely recognized as a selective engineering employer. |
 | SteerBridge | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | SteerBridge Strategies | Limited broadly established evidence of a strong or selective software-engineering employer brand. |
 | Tekton | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Ambiguous name with limited evidence of a broadly recognized software engineering employer brand. |
