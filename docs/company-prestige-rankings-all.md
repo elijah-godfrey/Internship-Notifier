@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2955** of **2955** cached companies (all cached companies).
+Showing **2956** of **2956** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2847,6 +2847,7 @@ Showing **2955** of **2955** cached companies (all cached companies).
 | Outmarket AI | 26 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited evidence of broad employer recognition or an established software engineering reputation. |
 | Professional Case Management | 26 | Medium | 2026-08-02 | gpt-5.6-terra | No | PCM | Healthcare services company with little visible software-engineering prestige or broad technical-employer recognition. |
 | 10a Labs | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verified public signal as a selective or widely recognized software engineering employer. |
+| Abundant | 25 | Low | 2026-08-20 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a widely recognized software-engineering employer; available signal is insufficient to establish notable internship prestige. |
 | Accel Learning | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly established evidence of a notable software engineering brand under this name. |
 | AG Technologies | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and not broadly established as a notable software-engineering employer. |
 | Akuna Capital University | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | This appears to be an educational or recruiting-program label rather than a distinct employer, providing limited independent employer signal. |
