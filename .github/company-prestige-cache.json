@@ -10016,6 +10016,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "e space": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "E-Space",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 34,
+      "reason": "A relatively lesser-known space technology company; its software engineering signal may be relevant in its niche, but broad recognition and demonstrated internship selectivity are limited.",
+      "reviewed_at": "2026-08-20",
+      "rubric_version": "prestige-v1"
+    },
     "e2 consulting engineers": {
       "aliases": [
         "E2"
@@ -29734,6 +29745,17 @@
       "prestige_score": 58,
       "reason": "Known in biotech automation and genome-engineering tools, with relevant technical work but limited broad software-brand recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "sysco": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Sysco",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Large, established foodservice distributor with credible enterprise technology work, but it is not broadly known for a selective or standout software engineering brand.",
+      "reviewed_at": "2026-08-20",
       "rubric_version": "prestige-v1"
     },
     "system automation": {

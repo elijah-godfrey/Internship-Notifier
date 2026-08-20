@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2956** of **2956** cached companies (all cached companies).
+Showing **2958** of **2958** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1127,6 +1127,7 @@ Showing **2956** of **2956** cached companies (all cached companies).
 | SS&C | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | SS&C Technologies | Established financial-services software provider with relevant enterprise engineering work but limited broad prestige among software candidates. |
 | STR | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Systems & Technology Research | Likely STR, a specialized research and engineering contractor; technically credible but not a broad software-engineering prestige signal. |
 | Synthego | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known in biotech automation and genome-engineering tools, with relevant technical work but limited broad software-brand recognition. |
+| Sysco | 58 | High | 2026-08-20 | gpt-5.6-terra | No | - | Large, established foodservice distributor with credible enterprise technology work, but it is not broadly known for a selective or standout software engineering brand. |
 | Terabase | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Terabase Energy | Respected climate-tech company applying software and automation to solar deployment, though not broadly elite in software. |
 | Terminal | 58 | Low | 2026-08-06 | gpt-5.6-terra | No | Terminal.io | Known in technology recruiting and distributed engineering-team services, but its employer brand and selectivity as a software internship destination are less broadly established. |
 | TMEIC Corporation Americas | 58 | Medium | 2026-08-08 | gpt-5.6-terra | No | TMEIC | Part of an established industrial electrical-systems organization, providing a solid engineering signal, though its software brand is specialized rather than broadly elite. |
@@ -2652,6 +2653,7 @@ Showing **2956** of **2956** cached companies (all cached companies).
 | Dexmate | 34 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Dexmate appears to be a specialized early-stage technical company, but it has limited broad software-engineering employer recognition. |
 | Digs | 34 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous and appears to have limited broadly established software-engineering recognition. |
 | Dordt University | 34 | High | 2026-08-02 | gpt-5.6-terra | No | - | A regional university whose employer brand carries limited software-engineering prestige. |
+| E-Space | 34 | Low | 2026-08-20 | gpt-5.6-terra | No | - | A relatively lesser-known space technology company; its software engineering signal may be relevant in its niche, but broad recognition and demonstrated internship selectivity are limited. |
 | Empire State Realty Trust | 34 | High | 2026-08-02 | gpt-5.6-terra | No | ESRT | Recognized real-estate company but offers limited standalone software-engineering prestige. |
 | Faith Technologies | 34 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected electrical and energy-services company, but with limited broad software-engineering reputation. |
 | Flexion Robotics | 34 | Low | 2026-08-08 | gpt-5.6-terra | No | - | Robotics work can be technically relevant, but the company has limited broad recognition as a selective software-engineering internship employer. |
