@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2964** of **2964** cached companies (all cached companies).
+Showing **2965** of **2965** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1044,6 +1044,7 @@ Showing **2964** of **2964** cached companies (all cached companies).
 | Becton Dickinson | 58 | High | 2026-08-02 | gpt-5.6-terra | No | BD, BD Biosciences | Established global medical-technology company with credible engineering work, though its software brand is secondary to its healthcare-device reputation. |
 | Berkshire Grey | 58 | Medium | 2026-07-28 | gpt-5.6-terra | No | - | A credible robotics and automation company with technically relevant work, but a more niche and less broadly recognized software-engineering brand. |
 | Blockchain.com | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Blockchain | Recognized crypto-native company with relevant engineering work, but its sector volatility and less consistent employer signal limit prestige. |
+| Blue Shield of California | 58 | Medium | 2026-08-20 | gpt-5.6-terra | No | - | Established regional health insurer with meaningful technology work, but its software engineering brand and internship selectivity are not broadly viewed as top-tier compared with major technology employers. |
 | Bread Financial | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Bread Financial Holdings, Alliance Data | Established consumer-finance company with relevant engineering work, but a moderate rather than top-tier software-employer signal. |
 | C.H. Robinson | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Widely known logistics company with meaningful technology operations, though not broadly viewed as a top software employer. |
 | California ISO | 58 | High | 2026-08-02 | gpt-5.6-terra | No | CAISO, California Independent System Operator | Important grid operator with technically sophisticated infrastructure work, though its recognition is concentrated in energy systems. |
