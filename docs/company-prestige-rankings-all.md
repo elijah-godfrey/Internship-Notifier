@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2972** of **2972** cached companies (all cached companies).
+Showing **2973** of **2973** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2324,6 +2324,7 @@ Showing **2972** of **2972** cached companies (all cached companies).
 | Dairyland Power Cooperative | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | Dairyland Power | Established regional utility, but it has limited recognition or selectivity as a software engineering employer. |
 | DC Water | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | District of Columbia Water and Sewer Authority | Prominent regional utility whose technology roles are primarily operational IT rather than a strong software engineering signal. |
 | Denver | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | City and County of Denver | Name is ambiguous; if referring to a municipal employer, it provides a modest public-sector engineering signal rather than a top technical brand. |
+| Eudia | 42 | Low | 2026-08-21 | gpt-5.6-terra | No | - | Emerging legal-technology company with some relevance to applied AI/software, but limited broad recognition or established selectivity as a software-engineering internship signal. |
 | EVERSANA | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Life-sciences services company whose employer reputation is not primarily centered on software engineering. |
 | EXP | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Likely an engineering and consulting brand rather than a widely recognized software-engineering employer; the exact entity is ambiguous. |
 | Fairstone Financial | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | Fairstone | Established regional financial-services employer, though its software engineering brand is not especially prominent. |
