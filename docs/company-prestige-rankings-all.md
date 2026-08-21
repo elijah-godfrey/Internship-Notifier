@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2965** of **2965** cached companies (all cached companies).
+Showing **2966** of **2966** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2906,6 +2906,7 @@ Showing **2965** of **2965** cached companies (all cached companies).
 | Parallel Web Systems | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable public software-engineering reputation under this exact name; score is conservative. |
 | Pendulum Intelligence | 25 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer. |
 | PHI Air Medical | 25 | Medium | 2026-08-02 | gpt-5.6-terra | No | PHI Air Medical Group | Established air-medical operator, but it has limited software-engineering brand recognition or technical hiring signal. |
+| Phoebe | 25 | Low | 2026-08-21 | gpt-5.6-terra | No | - | The name alone does not identify a clearly established software-engineering employer; available signal is too ambiguous to assign meaningful internship prestige. |
 | PLS | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearly established software employer identity, it offers limited identifiable engineering prestige. |
 | Polymath | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and lacks a clearly identifiable, broadly established software-engineering reputation. |
 | Remarcable | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited public evidence of an established, selective, or broadly recognized engineering employer brand. |
