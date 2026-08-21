@@ -5266,6 +5266,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "brg": {
+      "aliases": [
+        "Berkeley Research Group"
+      ],
+      "confidence": "medium",
+      "display_name": "BRG",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Likely Berkeley Research Group: a respected specialist consulting firm, but its software-engineering employer brand is not broadly prominent.",
+      "reviewed_at": "2026-08-21",
+      "rubric_version": "prestige-v1"
+    },
     "brigham young university": {
       "aliases": [
         "BYU"
@@ -12918,6 +12931,17 @@
       "prestige_score": 27,
       "reason": "Appears to be a specialized health-focused company, with limited established software-engineering prestige.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "frost": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Frost",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "The name is ambiguous; without a clearer entity, there is insufficient evidence of a strong, broadly recognized software-engineering internship signal.",
+      "reviewed_at": "2026-08-21",
       "rubric_version": "prestige-v1"
     },
     "fti consulting": {
@@ -29864,6 +29888,20 @@
       "prestige_score": 58,
       "reason": "Large, established foodservice distributor with credible enterprise technology work, but it is not broadly known for a selective or standout software engineering brand.",
       "reviewed_at": "2026-08-20",
+      "rubric_version": "prestige-v1"
+    },
+    "syska hennessy group": {
+      "aliases": [
+        "SH Group",
+        "Syska Hennessy"
+      ],
+      "confidence": "medium",
+      "display_name": "Syska Hennessy Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established engineering design consultancy with solid industry recognition, though limited prestige as a software-engineering internship brand.",
+      "reviewed_at": "2026-08-21",
       "rubric_version": "prestige-v1"
     },
     "system automation": {

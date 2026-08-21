@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2967** of **2967** cached companies (all cached companies).
+Showing **2970** of **2970** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1491,6 +1491,7 @@ Showing **2967** of **2967** cached companies (all cached companies).
 | Basis | 52 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and available evidence does not establish a broadly recognized software-engineering employer brand. |
 | Best Egg | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Marlette Funding | Established consumer-fintech brand with meaningful product engineering work, but modest prestige relative to leading fintech employers. |
 | Black Cape | 52 | Medium | 2026-08-03 | gpt-5.6-terra | No | - | Specialized national-security technology contractor with a credible technical niche, but limited broad software-engineering brand recognition. |
+| BRG | 52 | Medium | 2026-08-21 | gpt-5.6-terra | No | Berkeley Research Group | Likely Berkeley Research Group: a respected specialist consulting firm, but its software-engineering employer brand is not broadly prominent. |
 | Brookfield | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | Brookfield Asset Management | Major global asset manager, but its software engineering brand is not a primary industry signal. |
 | Brunswick | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established recreation and marine-products company, but not a broadly prominent software-engineering employer. |
 | Cambridge Associates | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded investment advisory firm, but it has a limited standalone software-engineering brand. |
@@ -1869,6 +1870,7 @@ Showing **2967** of **2967** cached companies (all cached companies).
 | Strand Therapeutics | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage biotech with technical work, but limited established recognition as a software-engineering employer. |
 | SWBC | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services firm with a credible but not broadly prominent software-engineering brand. |
 | Syneos Health | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized clinical-research organization, though software engineering is not its primary employer brand. |
+| Syska Hennessy Group | 48 | Medium | 2026-08-21 | gpt-5.6-terra | No | SH Group, Syska Hennessy | Established engineering design consultancy with solid industry recognition, though limited prestige as a software-engineering internship brand. |
 | Taiho Oncology | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible oncology-focused pharmaceutical employer, but with limited software-engineering brand prominence. |
 | Teleo | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Robotics and autonomous-vehicle technology is technically relevant, but the company has limited established market recognition. |
 | The Information Lab | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Information Lab | Recognized data and analytics consultancy, especially around Tableau, but not broadly prestigious for general software engineering. |
@@ -2607,6 +2609,7 @@ Showing **2967** of **2967** cached companies (all cached companies).
 | Fluxergy | 35 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized diagnostics startup with technical work, but limited general software-engineering recognition. |
 | Foley Hoag | 35 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected law firm, but it offers little relevant software-engineering employer signal. |
 | Foundation | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer or a strong software-engineering reputation. |
+| Frost | 35 | Low | 2026-08-21 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearer entity, there is insufficient evidence of a strong, broadly recognized software-engineering internship signal. |
 | Fundwell | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly recognized software engineering reputation; available signal suggests a smaller, specialized fintech employer. |
 | Giga AI | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is not sufficiently identifiable as an established, widely recognized software engineering employer. |
 | Grayce | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known primarily as a graduate talent and training provider rather than a selective software engineering employer. |
