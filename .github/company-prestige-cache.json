@@ -5862,6 +5862,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "capacity": {
+      "aliases": [
+        "Capacity AI"
+      ],
+      "confidence": "low",
+      "display_name": "Capacity",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 40,
+      "reason": "The name is ambiguous; assuming the AI-powered support-automation SaaS company, it has limited broad software-engineering prestige and visibility.",
+      "reviewed_at": "2026-08-21",
+      "rubric_version": "prestige-v1"
+    },
     "capella": {
       "aliases": [],
       "confidence": "low",
@@ -12953,6 +12966,17 @@
       "prestige_score": 53,
       "reason": "Well-known consulting firm with technical practices, though not a particularly strong software-engineering brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "fullbay": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Fullbay",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established vertical SaaS company in commercial-fleet repair, but its engineering brand and internship selectivity are not broadly prominent.",
+      "reviewed_at": "2026-08-21",
       "rubric_version": "prestige-v1"
     },
     "fullscript": {

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2970** of **2970** cached companies (all cached companies).
+Showing **2972** of **2972** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2194,6 +2194,7 @@ Showing **2970** of **2970** cached companies (all cached companies).
 | First National Bank | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | FNB | The name is shared by multiple banks; generally a conventional banking signal rather than a notable software-engineering brand. |
 | Focus Financial Partners | 43 | High | 2026-08-02 | gpt-5.6-terra | No | Focus | Recognized wealth-management organization, but not a notable software-engineering employer brand. |
 | Fresenius Kabi | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare-products company, but software engineering is not a central employer brand. |
+| Fullbay | 43 | Medium | 2026-08-21 | gpt-5.6-terra | No | - | Established vertical SaaS company in commercial-fleet repair, but its engineering brand and internship selectivity are not broadly prominent. |
 | Fullsteam | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Software-focused business, but its engineering reputation and selectivity are not broadly established. |
 | GAF | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | GAF Materials Corporation | Major building-materials company, but its software engineering organization has limited standalone industry prestige. |
 | Gensler | 43 | High | 2026-08-02 | gpt-5.6-terra | No | Gensler and Associates | Prestigious architecture and design firm, but software engineering is not central to its employer brand. |
@@ -2417,6 +2418,7 @@ Showing **2970** of **2970** cached companies (all cached companies).
 | Bild AI | 40 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Specialized construction-tech AI company with relevant applied engineering work, but limited broad industry prestige. |
 | Bree | 40 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Name is ambiguous; likely a smaller or regional company without a broadly established engineering prestige signal. |
 | ButcherBox | 40 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognizable direct-to-consumer business, but not a particularly strong or selective software-engineering signal. |
+| Capacity | 40 | Low | 2026-08-21 | gpt-5.6-terra | No | Capacity AI | The name is ambiguous; assuming the AI-powered support-automation SaaS company, it has limited broad software-engineering prestige and visibility. |
 | City of Philadelphia | 40 | High | 2026-08-02 | gpt-5.6-terra | No | Philadelphia City Government | Large public-sector employer with meaningful technology operations, but limited top-tier software brand signal. |
 | Concept Plus | 40 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Government-focused technology contractor with some technical relevance, but limited broad recognition as a selective software employer. |
 | CoxHealth | 40 | Medium | 2026-08-02 | gpt-5.6-terra | No | CoxHealth System | Established regional healthcare provider with IT opportunities, but limited software-engineering brand recognition. |
