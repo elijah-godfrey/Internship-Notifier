@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2973** of **2973** cached companies (all cached companies).
+Showing **2976** of **2976** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1033,6 +1033,7 @@ Showing **2973** of **2973** cached companies (all cached companies).
 | Age of Learning | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established education-technology company with consumer software products, though not broadly viewed as a highly selective engineering destination. |
 | AlayaCare | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized health-tech SaaS company with a credible engineering product, though not a broadly elite software brand. |
 | Alcon | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known global eye-care and medical-device company with credible technical work, though not a top software employer brand. |
+| Ambrook | 58 | Medium | 2026-08-21 | gpt-5.6-terra | No | - | Venture-backed agriculture-finance software company with a credible technical startup signal, but limited broad recognition and selectivity evidence versus top engineering brands. |
 | American Century Investments | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established investment firm with meaningful financial technology needs, but a more modest engineering signal than leading finance-tech employers. |
 | American Family Insurance Group | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | American Family Insurance, AmFam | Well-established insurer with meaningful technology work, though its engineering brand is primarily industry-specific. |
 | Ameriprise Financial | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ameriprise | Established financial-services firm with substantive enterprise technology work, but moderate engineering-market recognition. |
@@ -1391,6 +1392,7 @@ Showing **2973** of **2973** cached companies (all cached companies).
 | Transamerica | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services brand with meaningful technology work, though not a prominent software-engineering destination. |
 | Underwriters Laboratories | 55 | High | 2026-08-02 | gpt-5.6-terra | No | UL | Highly established safety-science institution with technical credibility, though it is not principally known as a software engineering employer. |
 | Volaris Group | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established software-focused acquirer with meaningful industry presence, though its engineering signal varies across portfolio companies. |
+| Weave | 55 | Medium | 2026-08-21 | gpt-5.6-terra | No | Weave Communications | Established vertical SaaS company with a legitimate engineering environment, but its software brand is primarily industry-specific rather than broadly elite or highly selective. |
 | WellSky | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare software company with relevant product engineering work, but modest broad-name recognition. |
 | Wheely | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized luxury ride-hailing company, but with a more limited global software-engineering brand. |
 | Worldly | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Sustainability-data software company with relevant technical work, but a comparatively niche employer signal. |
@@ -2831,6 +2833,7 @@ Showing **2973** of **2973** cached companies (all cached companies).
 | ProNexus | 28 | Low | 2026-08-08 | gpt-5.6-terra | No | - | The name does not indicate a widely established software-engineering employer brand; limited evidence supports a strong internship prestige signal. |
 | Rainmaker | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a recognized software-engineering employer brand. |
 | Samaya | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not have a broadly established software engineering reputation. |
+| SimIS | 28 | Low | 2026-08-21 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized software-engineering employer brand or highly selective internship program. |
 | SoloPulse | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer brand under this name. |
 | Stand Insurance | 28 | Low | 2026-08-07 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand and unclear evidence of selectivity; likely a niche insurance-focused employer rather than a strong general tech career signal. |
 | Sweatpals | 28 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Early-stage consumer fitness/community app with limited broad recognition as a software-engineering employer. |

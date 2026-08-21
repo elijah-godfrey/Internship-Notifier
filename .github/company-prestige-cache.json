@@ -1575,6 +1575,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "ambrook": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Ambrook",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Venture-backed agriculture-finance software company with a credible technical startup signal, but limited broad recognition and selectivity evidence versus top engineering brands.",
+      "reviewed_at": "2026-08-21",
+      "rubric_version": "prestige-v1"
+    },
     "amc networks": {
       "aliases": [],
       "confidence": "medium",
@@ -28062,6 +28073,17 @@
       "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
+    "simis": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "SimIS",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited reliable evidence of a broadly recognized software-engineering employer brand or highly selective internship program.",
+      "reviewed_at": "2026-08-21",
+      "rubric_version": "prestige-v1"
+    },
     "simmons bank": {
       "aliases": [],
       "confidence": "medium",
@@ -34051,6 +34073,19 @@
       "prestige_score": 52,
       "reason": "Established oilfield-services company, but its software engineering brand is industry-specific rather than broadly prestigious.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "weave": {
+      "aliases": [
+        "Weave Communications"
+      ],
+      "confidence": "medium",
+      "display_name": "Weave",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Established vertical SaaS company with a legitimate engineering environment, but its software brand is primarily industry-specific rather than broadly elite or highly selective.",
+      "reviewed_at": "2026-08-21",
       "rubric_version": "prestige-v1"
     },
     "webai": {
