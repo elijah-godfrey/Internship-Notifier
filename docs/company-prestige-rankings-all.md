@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2966** of **2966** cached companies (all cached companies).
+Showing **2967** of **2967** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -852,6 +852,7 @@ Showing **2966** of **2966** cached companies (all cached companies).
 | BorgWarner | 62 | Medium | 2026-07-22 | gpt-5.6-terra | No | - | Established global automotive supplier with credible embedded, vehicle, and industrial software exposure, though not a top-tier software engineering brand. |
 | Broadridge | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Broadridge Financial Solutions | Established financial-infrastructure company with substantial engineering work and a solid industry signal, though not an elite software brand. |
 | Caterpillar Inc. | 62 | High | 2026-08-01 | gpt-5.6-terra | No | CAT | Highly established industrial company with credible engineering work, though its software brand is not broadly viewed as top-tier. |
+| Cigna Group | 62 | High | 2026-08-21 | gpt-5.6-terra | No | Cigna, The Cigna Group | Large, established health-services and insurance employer with meaningful enterprise technology work. It is a solid internship signal, though its software engineering brand and selectivity are not generally viewed as top-tier compared with leading technology firms. |
 | ConductorOne | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | Conductor One | Security and identity-governance startup with a credible technical domain, though it remains less broadly established than leading security firms. |
 | Curtiss-Wright | 62 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected aerospace, defense, and industrial engineering company; software signal is solid but specialized. |
 | Delta Air Lines | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Delta | Major airline with substantial technology operations, but its software engineering brand is secondary to its core transportation business. |

@@ -6671,6 +6671,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "cigna group": {
+      "aliases": [
+        "Cigna",
+        "The Cigna Group"
+      ],
+      "confidence": "high",
+      "display_name": "Cigna Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Large, established health-services and insurance employer with meaningful enterprise technology work. It is a solid internship signal, though its software engineering brand and selectivity are not generally viewed as top-tier compared with leading technology firms.",
+      "reviewed_at": "2026-08-21",
+      "rubric_version": "prestige-v1"
+    },
     "cincinnati childrens hospital and medical center": {
       "aliases": [
         "Cincinnati Children's"
