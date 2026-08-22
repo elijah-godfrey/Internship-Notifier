@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2976** of **2976** cached companies (all cached companies).
+Showing **2977** of **2977** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2204,6 +2204,7 @@ Showing **2976** of **2976** cached companies (all cached companies).
 | GIA | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Gemological Institute of America | Strong name in gemology, but limited relevance and recognition as a software engineering employer. |
 | HF Sinclair | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established energy company, but it has limited broad recognition as a software-engineering employer. |
 | Hiebing | 43 | Medium | 2026-08-10 | gpt-5.6-terra | No | - | Regional independent marketing agency with some digital work, but limited broad recognition as a software-engineering employer. |
+| Hoffman Construction | 43 | Medium | 2026-08-22 | gpt-5.6-terra | No | - | Well-regarded construction contractor in its industry/region, but it has limited broad software-engineering brand recognition or selectivity signal versus established technology employers. |
 | Horace Mann | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established insurer with technology roles, but limited general recognition as a software-engineering employer. |
 | HyperLight | 43 | Low | 2026-08-08 | gpt-5.6-terra | No | - | Appears to be a niche technology company; limited evidence of a broadly recognized or highly selective software-engineering internship brand. |
 | IJM | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | IJM Corporation Berhad | Known primarily as an infrastructure and construction-oriented company rather than a recognized software-engineering employer. |
