@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2977** of **2977** cached companies (all cached companies).
+Showing **2978** of **2978** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1513,6 +1513,7 @@ Showing **2977** of **2977** cached companies (all cached companies).
 | Devon Energy | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Devon | Established energy company with solid enterprise technology exposure, but limited dedicated software-engineering prestige. |
 | DriveTime | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established automotive retail and finance business with meaningful technology operations, but not a broadly prestigious engineering brand. |
 | Echodyne | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Technically sophisticated radar company with a niche engineering signal, though limited broad software-brand recognition. |
+| Elevate Semiconductor | 52 | Low | 2026-08-22 | gpt-5.6-terra | No | - | Specialized semiconductor company with potentially relevant technical work, but limited broad visibility and an unclear software-engineering internship brand relative to major technology employers. |
 | Enovis | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-technology company with meaningful technical work, but limited broad recognition as a software-engineering destination. |
 | EVgo | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized EV-charging company with relevant platform work, but a modest software-engineering prestige signal. |
 | Exclusive Networks | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Established cybersecurity-focused technology distributor with recognizable industry presence, but not generally known as a highly selective or top-tier software-engineering employer. |
