@@ -5840,6 +5840,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "canadian solar": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Canadian Solar",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established global solar-energy company with a credible engineering environment, but it is not broadly recognized as a top software-engineering employer; its technical brand is primarily in renewable energy and manufacturing.",
+      "reviewed_at": "2026-08-24",
+      "rubric_version": "prestige-v1"
+    },
     "canadian tire": {
       "aliases": [],
       "confidence": "medium",

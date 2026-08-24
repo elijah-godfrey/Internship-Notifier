@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2979** of **2979** cached companies (all cached companies).
+Showing **2980** of **2980** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1497,6 +1497,7 @@ Showing **2979** of **2979** cached companies (all cached companies).
 | Brookfield | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | Brookfield Asset Management | Major global asset manager, but its software engineering brand is not a primary industry signal. |
 | Brunswick | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established recreation and marine-products company, but not a broadly prominent software-engineering employer. |
 | Cambridge Associates | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded investment advisory firm, but it has a limited standalone software-engineering brand. |
+| Canadian Solar | 52 | Medium | 2026-08-24 | gpt-5.6-terra | No | - | Established global solar-energy company with a credible engineering environment, but it is not broadly recognized as a top software-engineering employer; its technical brand is primarily in renewable energy and manufacturing. |
 | Cardinal Health | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, established healthcare company with solid enterprise technology work but limited elite software-employer recognition. |
 | Cenovus Energy | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Cenovus | Established energy company, but its software engineering signal is mainly industry-specific rather than broadly elite. |
 | Chanel | 52 | Medium | 2026-07-27 | gpt-5.6-terra | No | - | Globally prestigious luxury brand, but its recognition and selectivity do not translate into a particularly strong or widely visible software engineering signal. |
