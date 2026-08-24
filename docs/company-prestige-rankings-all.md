@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2978** of **2978** cached companies (all cached companies).
+Showing **2979** of **2979** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1548,6 +1548,7 @@ Showing **2978** of **2978** cached companies (all cached companies).
 | NEC Software Solutions | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | NEC Software Solutions UK | Recognized enterprise and public-sector software provider, with mainly regional and domain-specific engineering recognition. |
 | Nestle | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized consumer-goods company, but its software-engineering brand and technical selectivity are not especially prominent. |
 | Nidec | 52 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Large, established industrial motor and electronics manufacturer, but primarily known for hardware and manufacturing rather than a strong software-engineering signal. |
+| Nomagic | 52 | Medium | 2026-08-24 | gpt-5.6-terra | No | - | A credible robotics/AI startup with technically relevant engineering work, but it has limited broad recognition and a less established software-engineering hiring brand than major tech firms. |
 | Nordstrom | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized retailer with meaningful digital and e-commerce technology work, though not a leading software brand. |
 | Parachute Health | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible healthcare software company with relevant product engineering work, but modest recognition outside its niche. |
 | PBS | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Public Broadcasting Service | Recognized public-media institution, but it has a limited standalone software-engineering prestige signal. |
