@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2980** of **2980** cached companies (all cached companies).
+Showing **2981** of **2981** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1502,6 +1502,7 @@ Showing **2980** of **2980** cached companies (all cached companies).
 | Cenovus Energy | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Cenovus | Established energy company, but its software engineering signal is mainly industry-specific rather than broadly elite. |
 | Chanel | 52 | Medium | 2026-07-27 | gpt-5.6-terra | No | - | Globally prestigious luxury brand, but its recognition and selectivity do not translate into a particularly strong or widely visible software engineering signal. |
 | CHEP | 52 | Medium | 2026-07-19 | gpt-5.6-terra | No | Brambles | Established global supply-chain and pallet-pooling company, offering a credible enterprise technology signal but without a particularly prominent or selective software-engineering brand. |
+| Chick-fil-A | 52 | High | 2026-08-24 | gpt-5.6-terra | No | - | Highly recognizable, well-regarded consumer brand with meaningful technology operations, but it is not broadly viewed as a top-tier or especially selective software engineering employer. |
 | Clorox | 52 | High | 2026-08-02 | gpt-5.6-terra | No | The Clorox Company | Prominent consumer-goods company, but its software-engineering brand is not a central career signal. |
 | Conagra Brands | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Conagra | Well-known consumer-products employer, but software is primarily a supporting function rather than a prominent engineering brand. |
 | Copeland | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Copeland LP, Copeland Climate Technologies | Recognized HVAC and industrial-controls business with credible engineering work, though not a top software brand. |

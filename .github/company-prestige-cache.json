@@ -6647,6 +6647,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "chick fil a": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Chick-fil-A",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Highly recognizable, well-regarded consumer brand with meaningful technology operations, but it is not broadly viewed as a top-tier or especially selective software engineering employer.",
+      "reviewed_at": "2026-08-24",
+      "rubric_version": "prestige-v1"
+    },
     "chipotle mexican grill": {
       "aliases": [
         "Chipotle"
