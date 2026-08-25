@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2983** of **2983** cached companies (all cached companies).
+Showing **2984** of **2984** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2609,6 +2609,7 @@ Showing **2983** of **2983** cached companies (all cached companies).
 | Capella | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearly established software employer identity, the technical signal is limited. |
 | Civil & Environmental Consultants | 35 | High | 2026-08-02 | gpt-5.6-terra | No | CEC | Established engineering consultancy, but software engineering is not its primary employer brand. |
 | Commence | 35 | Low | 2026-08-11 | gpt-5.6-terra | No | - | The name is ambiguous and does not clearly identify a widely recognized software-engineering employer; available signal is limited. |
+| Concentric | 35 | Low | 2026-08-25 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearly identifiable, widely recognized software-engineering employer, it carries limited general internship signaling. |
 | Conner Strong & Buckelew | 35 | High | 2026-08-02 | gpt-5.6-terra | No | CSB, Conner Strong | Established insurance brokerage and consulting firm, but it has limited relevance and recognition as a software-engineering employer. |
 | Diversified Automation | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Appears to be a specialized automation business with limited broad recognition as a software-engineering employer. |
 | Dorsia | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage consumer/reservations brand with limited established recognition in software engineering. |
