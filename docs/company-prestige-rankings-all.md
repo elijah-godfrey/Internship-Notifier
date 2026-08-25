@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2981** of **2981** cached companies (all cached companies).
+Showing **2983** of **2983** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2063,6 +2063,7 @@ Showing **2981** of **2981** cached companies (all cached companies).
 | Method | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous; likely a services or design-oriented firm rather than a broadly recognized software-engineering brand. |
 | Mobilityware | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established mobile-game developer, but its engineering reputation is relatively narrow and not highly selective in the broader market. |
 | Mosaic | 45 | Low | 2026-07-22 | gpt-5.6-terra | No | - | Ambiguous company name; without a clear entity, it has limited identifiable software-engineering brand signal. |
+| Multnomah County | 45 | Medium | 2026-08-25 | gpt-5.6-terra | No | - | Established public-sector employer, but its software engineering reputation is primarily regional and not a broadly selective tech-career signal. |
 | Northspyre | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | A recognized but relatively small proptech software company; useful startup experience but limited broad software-engineering brand signal. |
 | NV5 Global | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | NV5 | Established engineering and consulting firm, but with limited software-engineering brand recognition. |
 | O'Reilly Auto Parts | 45 | High | 2026-08-02 | gpt-5.6-terra | No | OReilly Auto Parts | Large, established retailer with credible internal technology work but limited elite software-brand signal. |
@@ -2925,6 +2926,7 @@ Showing **2981** of **2981** cached companies (all cached companies).
 | PLS | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearly established software employer identity, it offers limited identifiable engineering prestige. |
 | Polymath | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and lacks a clearly identifiable, broadly established software-engineering reputation. |
 | Remarcable | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited public evidence of an established, selective, or broadly recognized engineering employer brand. |
+| Rivet Industries | 25 | Low | 2026-08-25 | gpt-5.6-terra | No | - | Limited identifiable evidence of a broadly recognized software-engineering brand or selective technical internship signal. |
 | Sajix | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited available evidence of broad employer recognition or a strong software-engineering brand. |
 | Sierra | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer's software engineering reputation; assessed conservatively. |
 | SimonComputing | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly established information about a distinctive or selective software-engineering employer brand. |
