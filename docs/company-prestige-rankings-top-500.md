@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **2984** cached companies (maximum 500).
+Showing **500** of **2985** cached companies (maximum 500).
 
-_The 2484 lowest-scored companies are omitted by the report cap._
+_The 2485 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -204,6 +204,7 @@ _The 2484 lowest-scored companies are omitted by the report cap._
 | Headlands Technologies | 78 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Selective quantitative trading firm with strong technical credibility, though it has lower general-name recognition than the largest quant firms. |
 | Insomniac | 78 | Medium | 2026-08-02 | gpt-5.6-terra | No | Insomniac Games | Assuming Insomniac Games, it is a highly respected game studio with a strong engineering and interactive-software signal. |
 | Intuitive Surgical | 78 | High | 2026-08-02 | gpt-5.6-terra | No | ISRG | Leading surgical-robotics company with an excellent engineering reputation, especially in medical devices and robotics. |
+| Johns Hopkins Applied Physics Laboratory | 78 | High | 2026-08-25 | gpt-5.6-terra | No | JHU Applied Physics Laboratory, Johns Hopkins APL, APL | Highly respected defense and national-security R&D laboratory with selective technical roles and strong engineering credibility, though its software brand is more specialized than major consumer-tech firms. |
 | Klaviyo | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Prominent public marketing-automation software company with a strong modern SaaS engineering reputation and meaningful selectivity. |
 | Larian Studios | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized game studio with a strong recent technical and creative reputation; a selective, respected signal for game-engineering roles. |
 | Linear | 78 | High | 2026-08-02 | gpt-5.6-terra | No | Linear.app | Highly respected product-focused software company with an unusually strong design and engineering reputation for its size. |
@@ -526,4 +527,3 @@ _The 2484 lowest-scored companies are omitted by the report cap._
 | WorldQuant | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized quantitative-research employer with solid technical relevance, but a less elite general software-engineering signal than top trading firms. |
 | 1X | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | 1X Technologies, 1X Technologies AS | Visible robotics and AI company with a growing technical reputation, but a less established internship signal than top AI labs. |
 | Agilent Technologies | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Agilent | Highly respected scientific-instrumentation company with solid technical credibility, though not primarily known for mainstream software engineering. |
-| AllTrails | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded consumer software product with a credible engineering brand, though not typically viewed as a top-tier global internship signal. |

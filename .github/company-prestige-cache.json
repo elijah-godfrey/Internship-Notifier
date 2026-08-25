@@ -17322,6 +17322,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "johns hopkins applied physics laboratory": {
+      "aliases": [
+        "JHU Applied Physics Laboratory",
+        "Johns Hopkins APL",
+        "APL"
+      ],
+      "confidence": "high",
+      "display_name": "Johns Hopkins Applied Physics Laboratory",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 78,
+      "reason": "Highly respected defense and national-security R&D laboratory with selective technical roles and strong engineering credibility, though its software brand is more specialized than major consumer-tech firms.",
+      "reviewed_at": "2026-08-25",
+      "rubric_version": "prestige-v1"
+    },
     "johns manville jm": {
       "aliases": [
         "Johns Manville",
