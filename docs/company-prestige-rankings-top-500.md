@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **2985** cached companies (maximum 500).
+Showing **500** of **2988** cached companies (maximum 500).
 
-_The 2485 lowest-scored companies are omitted by the report cap._
+_The 2488 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -356,6 +356,7 @@ _The 2485 lowest-scored companies are omitted by the report cap._
 | SpecterOps | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected specialist cybersecurity firm, particularly for offensive security and identity-security expertise. |
 | Squarespace | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized product-focused web platform with a solid engineering reputation and meaningful selectivity. |
 | Taara | 74 | Medium | 2026-08-02 | gpt-5.6-terra | No | Taara Connect | Advanced optical-connectivity venture with an unusually strong technical innovation signal, though its standalone employer brand is still developing. |
+| The Browser Company | 74 | Medium | 2026-08-26 | gpt-5.6-terra | No | The Browser Company of New York, Arc, Dia | Well-regarded consumer software startup with visible products and a strong design- and engineering-oriented reputation, though less proven than major established tech firms. |
 | The University of Edinburgh | 74 | High | 2026-07-18 | gpt-5.6-terra | No | University of Edinburgh | Globally respected research university with a strong computing reputation; a positive technical signal, though not a conventional elite software employer. |
 | Tradeweb | 74 | High | 2026-07-18 | gpt-5.6-terra | No | Tradeweb Markets | Well-regarded electronic-markets and financial-technology firm with substantial engineering relevance and strong industry recognition. |
 | Trend Micro | 74 | High | 2026-08-01 | gpt-5.6-terra | No | - | Well-recognized global cybersecurity company with a credible technical brand; a strong engineering signal, though below the most selective software employers. |
@@ -526,4 +527,3 @@ _The 2485 lowest-scored companies are omitted by the report cap._
 | Verkada | 69 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized security and physical-security technology company with a growing engineering reputation. |
 | WorldQuant | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized quantitative-research employer with solid technical relevance, but a less elite general software-engineering signal than top trading firms. |
 | 1X | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | 1X Technologies, 1X Technologies AS | Visible robotics and AI company with a growing technical reputation, but a less established internship signal than top AI labs. |
-| Agilent Technologies | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Agilent | Highly respected scientific-instrumentation company with solid technical credibility, though not primarily known for mainstream software engineering. |

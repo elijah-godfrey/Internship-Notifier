@@ -19829,6 +19829,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "maximor ai": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Maximor AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited broadly established evidence of a selective software-engineering brand; likely a niche early-stage signal.",
+      "reviewed_at": "2026-08-26",
+      "rubric_version": "prestige-v1"
+    },
     "maxisiq": {
       "aliases": [],
       "confidence": "medium",
@@ -22007,6 +22018,19 @@
       "prestige_score": 42,
       "reason": "Established heavy-construction and mining-services employer, but with limited broad software-engineering brand or internship selectivity signal.",
       "reviewed_at": "2026-08-18",
+      "rubric_version": "prestige-v1"
+    },
+    "north atlantic industries": {
+      "aliases": [
+        "NAI"
+      ],
+      "confidence": "medium",
+      "display_name": "North Atlantic Industries",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established specialized industrial and defense-electronics company, but not widely recognized for a top software-engineering internship brand.",
+      "reviewed_at": "2026-08-26",
       "rubric_version": "prestige-v1"
     },
     "north cloud": {
@@ -30971,6 +30995,21 @@
       "prestige_score": 43,
       "reason": "Established collision-repair operator, but it has limited visibility or selectivity as a software engineering employer.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "the browser": {
+      "aliases": [
+        "The Browser Company of New York",
+        "Arc",
+        "Dia"
+      ],
+      "confidence": "medium",
+      "display_name": "The Browser Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 74,
+      "reason": "Well-regarded consumer software startup with visible products and a strong design- and engineering-oriented reputation, though less proven than major established tech firms.",
+      "reviewed_at": "2026-08-26",
       "rubric_version": "prestige-v1"
     },
     "the campbell s": {

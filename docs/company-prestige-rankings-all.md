@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2985** of **2985** cached companies (all cached companies).
+Showing **2988** of **2988** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -354,6 +354,7 @@ Showing **2985** of **2985** cached companies (all cached companies).
 | SpecterOps | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected specialist cybersecurity firm, particularly for offensive security and identity-security expertise. |
 | Squarespace | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized product-focused web platform with a solid engineering reputation and meaningful selectivity. |
 | Taara | 74 | Medium | 2026-08-02 | gpt-5.6-terra | No | Taara Connect | Advanced optical-connectivity venture with an unusually strong technical innovation signal, though its standalone employer brand is still developing. |
+| The Browser Company | 74 | Medium | 2026-08-26 | gpt-5.6-terra | No | The Browser Company of New York, Arc, Dia | Well-regarded consumer software startup with visible products and a strong design- and engineering-oriented reputation, though less proven than major established tech firms. |
 | The University of Edinburgh | 74 | High | 2026-07-18 | gpt-5.6-terra | No | University of Edinburgh | Globally respected research university with a strong computing reputation; a positive technical signal, though not a conventional elite software employer. |
 | Tradeweb | 74 | High | 2026-07-18 | gpt-5.6-terra | No | Tradeweb Markets | Well-regarded electronic-markets and financial-technology firm with substantial engineering relevance and strong industry recognition. |
 | Trend Micro | 74 | High | 2026-08-01 | gpt-5.6-terra | No | - | Well-recognized global cybersecurity company with a credible technical brand; a strong engineering signal, though below the most selective software employers. |
@@ -2065,6 +2066,7 @@ Showing **2985** of **2985** cached companies (all cached companies).
 | Mobilityware | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established mobile-game developer, but its engineering reputation is relatively narrow and not highly selective in the broader market. |
 | Mosaic | 45 | Low | 2026-07-22 | gpt-5.6-terra | No | - | Ambiguous company name; without a clear entity, it has limited identifiable software-engineering brand signal. |
 | Multnomah County | 45 | Medium | 2026-08-25 | gpt-5.6-terra | No | - | Established public-sector employer, but its software engineering reputation is primarily regional and not a broadly selective tech-career signal. |
+| North Atlantic Industries | 45 | Medium | 2026-08-26 | gpt-5.6-terra | No | NAI | Established specialized industrial and defense-electronics company, but not widely recognized for a top software-engineering internship brand. |
 | Northspyre | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | A recognized but relatively small proptech software company; useful startup experience but limited broad software-engineering brand signal. |
 | NV5 Global | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | NV5 | Established engineering and consulting firm, but with limited software-engineering brand recognition. |
 | O'Reilly Auto Parts | 45 | High | 2026-08-02 | gpt-5.6-terra | No | OReilly Auto Parts | Large, established retailer with credible internal technology work but limited elite software-brand signal. |
@@ -2835,6 +2837,7 @@ Showing **2985** of **2985** cached companies (all cached companies).
 | Intropic | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly established evidence of a recognized software-engineering employer brand. |
 | Jobs for Humanity | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited evidence of a selective or broadly recognized software-engineering employer brand. |
 | Long Wall | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name does not establish a widely recognized software-engineering employer; available signal is limited. |
+| Maximor AI | 28 | Low | 2026-08-26 | gpt-5.6-terra | No | - | Limited broadly established evidence of a selective software-engineering brand; likely a niche early-stage signal. |
 | NeoCognition | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; appears to be a lesser-known technology company. |
 | New Jersey Innovation Authority | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The named organization is not clearly established as a software-engineering employer; evidence of a meaningful technical hiring signal is limited. |
 | Obsidian Solutions Group | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; the name is not strongly associated with selective technical internship recruiting. |
