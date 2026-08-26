@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2988** of **2988** cached companies (all cached companies).
+Showing **2989** of **2989** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1812,6 +1812,7 @@ Showing **2988** of **2988** cached companies (all cached companies).
 | Fulton Bank | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Fulton Financial Corporation | Established regional bank, but its software engineering brand and internship selectivity have limited broad recognition. |
 | Graco | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial manufacturer, but its software-engineering reputation is secondary to its hardware and industrial business. |
 | Grassroots Analytics | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established political-data and analytics niche, but limited broad software-engineering employer recognition. |
+| GrayMatter Robotics | 48 | Medium | 2026-08-26 | gpt-5.6-terra | No | - | A specialized robotics/industrial-automation company with relevant technical work, but limited broad recognition or established elite software-engineering recruiting signal compared with major technology and robotics employers. |
 | Haize Labs | 48 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Early-stage AI security company with some relevant technical positioning but limited established employer-brand evidence. |
 | Healthfirst | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established regional health insurer; likely solid enterprise software exposure but not a widely recognized software-engineering brand. |
 | HireVue | 48 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Recognized HR technology company, but it has a comparatively limited software-engineering prestige signal and broad selectivity reputation. |

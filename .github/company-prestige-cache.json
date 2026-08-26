@@ -14310,6 +14310,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "graymatter robotics": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "GrayMatter Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "A specialized robotics/industrial-automation company with relevant technical work, but limited broad recognition or established elite software-engineering recruiting signal compared with major technology and robotics employers.",
+      "reviewed_at": "2026-08-26",
+      "rubric_version": "prestige-v1"
+    },
     "great american insurance": {
       "aliases": [],
       "confidence": "high",
