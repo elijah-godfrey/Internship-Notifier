@@ -19851,6 +19851,19 @@
       "reviewed_at": "2026-08-26",
       "rubric_version": "prestige-v1"
     },
+    "maxinsights": {
+      "aliases": [
+        "Max Insights"
+      ],
+      "confidence": "low",
+      "display_name": "Maxinsights",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 22,
+      "reason": "Limited identifiable evidence of a broadly recognized software-engineering employer brand; likely a small or niche organization.",
+      "reviewed_at": "2026-08-26",
+      "rubric_version": "prestige-v1"
+    },
     "maxisiq": {
       "aliases": [],
       "confidence": "medium",
@@ -26942,6 +26955,17 @@
       "prestige_score": 70,
       "reason": "Globally respected aerospace and defense engineering company; software work carries a strong technical signal, particularly in embedded systems.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "sabre systems": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Sabre Systems",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established engineering and technology-services contractor with respectable niche recognition, but not a broadly top-tier software-engineering signal.",
+      "reviewed_at": "2026-08-26",
       "rubric_version": "prestige-v1"
     },
     "safran": {

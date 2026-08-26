@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2989** of **2989** cached companies (all cached companies).
+Showing **2991** of **2991** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1863,6 +1863,7 @@ Showing **2989** of **2989** cached companies (all cached companies).
 | Qualitest | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Qualitest Group | Established quality-engineering and testing services brand, but with limited prestige as a destination for broad software engineering. |
 | Reflect Orbital | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable ambitious space-technology startup, but its engineering-employer reputation is still unproven and niche. |
 | Revance | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Revance Therapeutics | Recognized primarily as a specialized biopharmaceutical company rather than for a strong software-engineering employer brand. |
+| Sabre Systems | 48 | Medium | 2026-08-26 | gpt-5.6-terra | No | - | Established engineering and technology-services contractor with respectable niche recognition, but not a broadly top-tier software-engineering signal. |
 | SBA Communications Corporation | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established telecommunications-infrastructure company, but not a prominent software-engineering employer brand. |
 | SchoolMint | 48 | Medium | 2026-08-13 | gpt-5.6-terra | No | - | Established education-technology software company with relevant product engineering work, but primarily niche/industry-specific rather than a broadly prestigious engineering signal. |
 | Sharecare | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established digital-health company with relevant technology work, though limited broad selectivity or engineering-brand recognition. |
@@ -2980,6 +2981,7 @@ Showing **2989** of **2989** cached companies (all cached companies).
 | Global Infrastructure | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a recognized software engineering employer reputation. |
 | Golden Pet Brands | 22 | Low | 2026-07-23 | gpt-5.6-terra | No | - | Consumer pet-products company with little evident software-engineering brand or broad technical-employer recognition. |
 | Inbulks | 22 | Low | 2026-08-13 | gpt-5.6-terra | No | - | Limited verifiable public recognition as a selective or notable software-engineering employer. |
+| Maxinsights | 22 | Low | 2026-08-26 | gpt-5.6-terra | No | Max Insights | Limited identifiable evidence of a broadly recognized software-engineering employer brand; likely a small or niche organization. |
 | Montgomery Investment Technology, Inc. | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited public software-engineering brand recognition and insufficient evidence of broad selectivity. |
 | Moon | 22 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Name is too ambiguous to establish a notable software-engineering employer brand; conservative assessment. |
 | Root Access | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable employer recognition and no established broad software-engineering brand signal. |
