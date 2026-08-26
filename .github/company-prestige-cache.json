@@ -3427,6 +3427,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "auto owners insurance": {
+      "aliases": [
+        "Auto-Owners"
+      ],
+      "confidence": "medium",
+      "display_name": "Auto-Owners Insurance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established insurer with a credible technology organization, but its software engineering brand and internship selectivity are not broadly viewed as top-tier outside the insurance sector.",
+      "reviewed_at": "2026-08-26",
+      "rubric_version": "prestige-v1"
+    },
     "autodesk": {
       "aliases": [],
       "confidence": "high",

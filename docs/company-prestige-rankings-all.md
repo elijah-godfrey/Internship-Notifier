@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2991** of **2991** cached companies (all cached companies).
+Showing **2992** of **2992** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1491,6 +1491,7 @@ Showing **2991** of **2991** cached companies (all cached companies).
 | ArteraAI | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Artera | Specialized healthcare AI company with relevant technical work, but limited broad employer recognition. |
 | Arvinas | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized biotech company, though its career signal is primarily in life sciences rather than software engineering. |
 | Ascensus | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services platform with meaningful technology operations, but only moderate software-engineering brand recognition. |
+| Auto-Owners Insurance | 52 | Medium | 2026-08-26 | gpt-5.6-terra | No | Auto-Owners | Established insurer with a credible technology organization, but its software engineering brand and internship selectivity are not broadly viewed as top-tier outside the insurance sector. |
 | Avis Budget Group | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Avis, Budget | Large established travel and mobility company, but it has a limited standalone software-engineering brand. |
 | Basis | 52 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and available evidence does not establish a broadly recognized software-engineering employer brand. |
 | Best Egg | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Marlette Funding | Established consumer-fintech brand with meaningful product engineering work, but modest prestige relative to leading fintech employers. |
