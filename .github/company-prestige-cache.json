@@ -1898,6 +1898,17 @@
       "reviewed_at": "2026-07-22",
       "rubric_version": "prestige-v1"
     },
+    "ami": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "AMI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "The name is too ambiguous to identify a specific employer; no clear, broadly recognized software-engineering prestige can be established.",
+      "reviewed_at": "2026-08-27",
+      "rubric_version": "prestige-v1"
+    },
     "amika": {
       "aliases": [],
       "confidence": "low",
@@ -9621,6 +9632,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "dimensional fund advisors": {
+      "aliases": [
+        "DFA",
+        "Dimensional"
+      ],
+      "confidence": "medium",
+      "display_name": "Dimensional Fund Advisors",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Well-regarded quantitative investment manager with meaningful technical work, but its software-engineering brand is strongest within finance rather than broadly elite tech.",
+      "reviewed_at": "2026-08-27",
+      "rubric_version": "prestige-v1"
+    },
     "direct supply": {
       "aliases": [],
       "confidence": "medium",
@@ -10573,6 +10598,19 @@
       "prestige_score": 67,
       "reason": "Highly respected global pharmaceutical company; software is important but not its primary engineering brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "elk valley resources": {
+      "aliases": [
+        "EVR"
+      ],
+      "confidence": "medium",
+      "display_name": "Elk Valley Resources",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Established resource-sector operator, but it has limited recognition as a software-engineering employer and little standalone technical-brand signal.",
+      "reviewed_at": "2026-08-27",
       "rubric_version": "prestige-v1"
     },
     "ellipsis labs": {

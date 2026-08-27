@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **2999** of **2999** cached companies (all cached companies).
+Showing **3002** of **3002** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -613,6 +613,7 @@ Showing **2999** of **2999** cached companies (all cached companies).
 | BenchSci | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected AI-driven biotech software company, though its engineering brand is less broadly recognized than top-tier software firms. |
 | Castleton Commodities International | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | CCI, Castleton Commodities | Well-regarded commodities trading firm; technical roles can be selective, but its engineering brand is primarily niche to trading. |
 | d-Matrix | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable AI-inference semiconductor startup with a strong technical focus; brand remains less established than leading chip or AI firms. |
+| Dimensional Fund Advisors | 67 | Medium | 2026-08-27 | gpt-5.6-terra | No | DFA, Dimensional | Well-regarded quantitative investment manager with meaningful technical work, but its software-engineering brand is strongest within finance rather than broadly elite tech. |
 | Duke University | 67 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected university whose research and technical environment provide a strong signal, though it is not primarily a software company. |
 | Eli Lilly and Company | 67 | High | 2026-08-02 | gpt-5.6-terra | No | Lilly | Highly respected global pharmaceutical company; software is important but not its primary engineering brand. |
 | Entrust | 67 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known identity, security, and payments technology company with a strong specialized engineering signal. |
@@ -2526,6 +2527,7 @@ Showing **2999** of **2999** cached companies (all cached companies).
 | Daniels Health | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare-services company, but it has limited broad recognition as a software engineering employer. |
 | E2 Consulting Engineers | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | E2 | Engineering consultancy with limited broad software-industry recognition and a primarily domain-specific employer signal. |
 | East Penn Manufacturing Company | 38 | Medium | 2026-07-27 | gpt-5.6-terra | No | East Penn, Deka Batteries | Respected battery manufacturer, but it has limited broad recognition as a software engineering employer. |
+| Elk Valley Resources | 38 | Medium | 2026-08-27 | gpt-5.6-terra | No | EVR | Established resource-sector operator, but it has limited recognition as a software-engineering employer and little standalone technical-brand signal. |
 | Excel Sports Management | 38 | Medium | 2026-07-22 | gpt-5.6-terra | No | Excel Sports | Recognized in sports representation, but has limited standalone reputation or selectivity as a software engineering employer. |
 | Facility Solutions Group | 38 | Medium | 2026-07-18 | gpt-5.6-terra | No | FSG | Established facilities and electrical-services provider, but not known for a strong software-engineering employer brand. |
 | Finning | 38 | High | 2026-08-02 | gpt-5.6-terra | No | Finning International | A major industrial-equipment dealer with technology needs, but little dedicated software-engineering prestige. |
@@ -2892,6 +2894,7 @@ Showing **2999** of **2999** cached companies (all cached companies).
 | Akuna Capital University | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | This appears to be an educational or recruiting-program label rather than a distinct employer, providing limited independent employer signal. |
 | Al Warren Oil Company | 25 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Regional oil and fuel business with little recognized software-engineering employer reputation. |
 | Albacore | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and has limited identifiable software-engineering employer recognition. |
+| AMI | 25 | Low | 2026-08-27 | gpt-5.6-terra | No | - | The name is too ambiguous to identify a specific employer; no clear, broadly recognized software-engineering prestige can be established. |
 | amika | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Consumer beauty brand with limited established reputation as a software-engineering employer. |
 | Apex | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer or a reliable software-engineering reputation. |
 | Aptura | 25 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly established software-engineering reputation under this name. |
