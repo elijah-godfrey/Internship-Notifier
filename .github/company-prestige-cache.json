@@ -4650,6 +4650,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "bland ai": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Bland AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Visible AI-focused startup with relevant modern engineering work, though its employer brand and selectivity are not yet broadly established.",
+      "reviewed_at": "2026-08-28",
+      "rubric_version": "prestige-v1"
+    },
     "blinqlabs": {
       "aliases": [],
       "confidence": "low",
@@ -26527,6 +26538,17 @@
       "prestige_score": 68,
       "reason": "A credible automotive-software and EV engineering signal, supported by Rivian\u2019s technology focus and Volkswagen Group affiliation. It is respected in mobility software but is less broadly selective or recognized than top general-purpose software employers.",
       "reviewed_at": "2026-07-30",
+      "rubric_version": "prestige-v1"
+    },
+    "rj lee group": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "RJ Lee Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established specialized scientific and analytical services firm, but it has limited broad recognition as a software-engineering employer.",
+      "reviewed_at": "2026-08-28",
       "rubric_version": "prestige-v1"
     },
     "rli": {

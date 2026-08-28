@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3002** of **3002** cached companies (all cached companies).
+Showing **3004** of **3004** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1048,6 +1048,7 @@ Showing **3002** of **3002** cached companies (all cached companies).
 | Baird | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Robert W. Baird | Respected financial-services firm, though its software engineering brand is less prominent than major technology-focused finance employers. |
 | Becton Dickinson | 58 | High | 2026-08-02 | gpt-5.6-terra | No | BD, BD Biosciences | Established global medical-technology company with credible engineering work, though its software brand is secondary to its healthcare-device reputation. |
 | Berkshire Grey | 58 | Medium | 2026-07-28 | gpt-5.6-terra | No | - | A credible robotics and automation company with technically relevant work, but a more niche and less broadly recognized software-engineering brand. |
+| Bland AI | 58 | Medium | 2026-08-28 | gpt-5.6-terra | No | - | Visible AI-focused startup with relevant modern engineering work, though its employer brand and selectivity are not yet broadly established. |
 | Blockchain.com | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Blockchain | Recognized crypto-native company with relevant engineering work, but its sector volatility and less consistent employer signal limit prestige. |
 | Blue Shield of California | 58 | Medium | 2026-08-20 | gpt-5.6-terra | No | - | Established regional health insurer with meaningful technology work, but its software engineering brand and internship selectivity are not broadly viewed as top-tier compared with major technology employers. |
 | Bread Financial | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Bread Financial Holdings, Alliance Data | Established consumer-finance company with relevant engineering work, but a moderate rather than top-tier software-employer signal. |
@@ -2393,6 +2394,7 @@ Showing **3002** of **3002** cached companies (all cached companies).
 | Reli | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage insurance technology company with relevant software work, but limited established engineering-employer recognition. |
 | Resolve Tech Solutions | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Appears to be a smaller technology-services firm with limited broad recognition or selectivity as a software-engineering signal. |
 | ResponsiveAds | 42 | Low | 2026-08-11 | gpt-5.6-terra | No | - | Niche advertising-technology company with limited broad recognition as a software engineering employer. |
+| RJ Lee Group | 42 | Medium | 2026-08-28 | gpt-5.6-terra | No | - | Established specialized scientific and analytical services firm, but it has limited broad recognition as a software-engineering employer. |
 | S&T Bank | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | S&T Bancorp | Regional banking employer with limited software-engineering recognition beyond its industry. |
 | Salt Lake County | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Government employer with stable regional recognition but limited software-engineering prestige. |
 | Saputo | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known food company, but not a notable destination for software-engineering prestige. |
