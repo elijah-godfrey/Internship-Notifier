@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3007** of **3007** cached companies (all cached companies).
+Showing **3008** of **3008** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2416,6 +2416,7 @@ Showing **3007** of **3007** cached companies (all cached companies).
 | tarte cosmetics | 42 | Medium | 2026-08-07 | gpt-5.6-terra | No | - | Recognizable consumer beauty brand, but not broadly regarded as a selective or high-prestige software-engineering employer. |
 | TC Energy | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large energy infrastructure employer with technology needs, but a modest software-engineering brand. |
 | The State Bar of California | 42 | High | 2026-08-02 | gpt-5.6-terra | No | State Bar of California, California State Bar | Prominent legal regulatory body, but its technology roles do not carry a strong general software-engineering brand. |
+| Thea Energy | 42 | Low | 2026-08-29 | gpt-5.6-terra | No | - | Early-stage fusion-energy company with technically ambitious work, but limited broad recognition or established software-engineering internship brand. |
 | Triumph | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The company name is ambiguous; absent a clearer entity, it offers only a limited software-engineering prestige signal. |
 | Tutor Perini Corporation | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established construction and civil-engineering firm, but it is not known for a strong software-engineering brand. |
 | UL Standards & Engagement | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Part of a respected standards ecosystem, but it has limited standalone visibility or prestige as a software engineering employer. |

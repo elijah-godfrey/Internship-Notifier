@@ -31590,6 +31590,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "thea energy": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Thea Energy",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Early-stage fusion-energy company with technically ambitious work, but limited broad recognition or established software-engineering internship brand.",
+      "reviewed_at": "2026-08-29",
+      "rubric_version": "prestige-v1"
+    },
     "theguarantors": {
       "aliases": [],
       "confidence": "medium",
