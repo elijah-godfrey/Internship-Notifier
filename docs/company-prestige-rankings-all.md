@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3008** of **3008** cached companies (all cached companies).
+Showing **3009** of **3009** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -879,6 +879,7 @@ Showing **3008** of **3008** cached companies (all cached companies).
 | Iowa State University | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | ISU | Respected research university with credible technical work, though not a conventional high-selectivity software-industry employer signal. |
 | Itron | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected smart-infrastructure and utility-technology employer; its engineering signal is solid but specialized. |
 | Kobo | 62 | Medium | 2026-07-25 | gpt-5.6-terra | No | Rakuten Kobo | Recognized consumer e-reader and digital-books company with credible product/software work, but a comparatively modest and less selective engineering brand than major global technology firms. |
+| Koch Industries | 62 | Medium | 2026-08-29 | gpt-5.6-terra | No | Koch | Large, established industrial conglomerate with credible technology roles, but its software engineering brand and internship selectivity are less broadly recognized than leading tech employers. |
 | Leonardo | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | Leonardo S.p.A. | Large aerospace and defense technology company with credible engineering work, though its software brand is less prominent than dedicated technology leaders. |
 | Locus Robotics | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded warehouse robotics company with technically relevant software and robotics work, though its reputation is specialized. |
 | Lowe's | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Lowe's Companies, Lowe's Home Improvement | Large established retailer with substantial internal technology work, though its engineering brand is not top-tier. |

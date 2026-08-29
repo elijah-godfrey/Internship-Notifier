@@ -18122,6 +18122,19 @@
       "reviewed_at": "2026-07-25",
       "rubric_version": "prestige-v1"
     },
+    "koch industries": {
+      "aliases": [
+        "Koch"
+      ],
+      "confidence": "medium",
+      "display_name": "Koch Industries",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Large, established industrial conglomerate with credible technology roles, but its software engineering brand and internship selectivity are less broadly recognized than leading tech employers.",
+      "reviewed_at": "2026-08-29",
+      "rubric_version": "prestige-v1"
+    },
     "kodak": {
       "aliases": [
         "Eastman Kodak"
