@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3004** of **3004** cached companies (all cached companies).
+Showing **3007** of **3007** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -906,6 +906,7 @@ Showing **3004** of **3004** cached companies (all cached companies).
 | TD Bank | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Toronto-Dominion Bank, TD | Major financial institution with substantial technology operations and a solid, recognizable engineering signal. |
 | Telesat | 62 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Established satellite communications company with technically relevant engineering work, though its software-employer brand is specialized rather than broadly elite. |
 | The Coca-Cola Company | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Coca-Cola, Coke | Globally recognized company with substantial technology needs, though its engineering brand is not a top-tier software signal. |
+| TIAA | 62 | Medium | 2026-08-29 | gpt-5.6-terra | No | Teachers Insurance and Annuity Association of America | Established financial-services institution with meaningful technology work; a solid engineering résumé signal, though not generally viewed as a top-tier software employer. |
 | tldraw | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Developer-tool company with a respected open-source product and strong relevance to modern frontend engineering, albeit small and niche. |
 | Truist Bank | 62 | High | 2026-08-11 | gpt-5.6-terra | No | Truist, Truist Financial | Large, established U.S. bank with credible enterprise technology and engineering opportunities, but its software-engineering brand and internship selectivity are not generally viewed at the level of leading technology firms or elite quantitative-finance employers. |
 | U.S. Bank | 62 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, respected financial institution with substantial technology work, though its engineering brand is not top-tier tech. |
@@ -1108,6 +1109,7 @@ Showing **3004** of **3004** cached companies (all cached companies).
 | National Information Solutions Cooperative (NISC) | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | NISC | Established vertical-software cooperative with meaningful engineering work, but primarily industry-specific recognition. |
 | NCR Voyix | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | NCR | Established enterprise commerce and payments-technology employer, but its software-engineering brand is not broadly top-tier. |
 | NewYork-Presbyterian | 58 | High | 2026-08-02 | gpt-5.6-terra | No | NYP | Highly regarded healthcare institution, with a solid health-tech signal but not broad top-tier software-engineering recognition. |
+| Northwood Space | 58 | Low | 2026-08-29 | gpt-5.6-terra | No | - | Early-stage space communications company with potentially interesting technical work, but limited established selectivity and broad software-engineering brand recognition. |
 | NPR | 58 | High | 2026-08-02 | gpt-5.6-terra | No | National Public Radio | Highly recognized public-media institution with meaningful digital-product work, but not generally a top-tier software-engineering destination. |
 | NRG Energy | 58 | High | 2026-08-02 | gpt-5.6-terra | No | NRG | Large, established energy company with relevant internal technology roles, but only moderate standalone software-engineering brand strength. |
 | Ontario Health | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Prominent public health technology organization in Ontario, but with primarily regional and public-sector engineering recognition. |
@@ -2910,6 +2912,7 @@ Showing **3004** of **3004** cached companies (all cached companies).
 | CWS | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself indicate a widely recognized software engineering brand. |
 | Droyd Robotics | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited evidence of broad recognition, selectivity, or an established software-engineering employer brand. |
 | Eloquent AI | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited established evidence of broad software-engineering reputation or internship selectivity. |
+| Emerging Tech | 25 | Low | 2026-08-29 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a recognized employer reputation, selectivity, or software-engineering brand; score is conservative. |
 | ENFOS | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited recognizable software-engineering brand; the name has ambiguous and limited broad employer recognition. |
 | Eridu AI | 25 | Low | 2026-08-05 | gpt-5.6-terra | No | Eridu | Limited verifiable evidence of a broadly recognized or selective software engineering employer brand. |
 | Exa Labs | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable recognition as a software-engineering employer under this exact name. |
