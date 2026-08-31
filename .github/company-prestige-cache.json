@@ -3147,6 +3147,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "astrion": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Astrion",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Specialized government and aerospace/defense services firm with relevant technical work, but limited broad software-engineering brand recognition.",
+      "reviewed_at": "2026-08-31",
+      "rubric_version": "prestige-v1"
+    },
     "astronomer": {
       "aliases": [
         "Astronomer.io"
@@ -21999,6 +22010,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "nike": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Nike",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Globally recognized brand with substantial digital and technology work; a solid engineering signal, though not primarily known as a top software employer.",
+      "reviewed_at": "2026-08-31",
+      "rubric_version": "prestige-v1"
+    },
     "nikkiso": {
       "aliases": [],
       "confidence": "medium",
@@ -33187,6 +33209,17 @@
       "prestige_score": 46,
       "reason": "Promising software startup profile, but limited tenure and broad recognition relative to established engineering employers.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "upbring": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Upbring",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Regional nonprofit human-services organization; meaningful mission work but limited selectivity and software-engineering employer recognition.",
+      "reviewed_at": "2026-08-31",
       "rubric_version": "prestige-v1"
     },
     "upstart": {

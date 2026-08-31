@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3009** of **3009** cached companies (all cached companies).
+Showing **3012** of **3012** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -568,6 +568,7 @@ Showing **3009** of **3009** cached companies (all cached companies).
 | McMaster-Carr | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded operational and e-commerce business with a reputation for strong internal technical talent, though not broadly branded as a software company. |
 | Navan | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | TripActions | Well-regarded enterprise travel and expense platform with a solid, though not top-tier, engineering signal. |
 | Nebius | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | Nebius Group | Emerging AI-cloud infrastructure company with a technically relevant brand, though its internship signal is still less proven than leading cloud employers. |
+| Nike | 68 | High | 2026-08-31 | gpt-5.6-terra | No | - | Globally recognized brand with substantial digital and technology work; a solid engineering signal, though not primarily known as a top software employer. |
 | Nio | 68 | High | 2026-07-18 | gpt-5.6-terra | No | - | Recognized EV maker with meaningful software and autonomous-vehicle engineering relevance, though not top-tier software prestige. |
 | Nokia | 68 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms. |
 | Novartis | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Novartis AG | Globally respected life-sciences employer with strong technical and data-oriented opportunities, though its primary reputation is pharmaceuticals rather than software engineering. |
@@ -2165,6 +2166,7 @@ Showing **3009** of **3009** cached companies (all cached companies).
 | Armada | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearly established software-engineering brand, prestige evidence is limited. |
 | ARRAY Technologies | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established solar-tracking equipment company, though it has limited recognition as a software-engineering destination. |
 | ASM Global | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Recognized live-entertainment venue operator, but has a limited software-engineering brand and internship signal. |
+| Astrion | 43 | Medium | 2026-08-31 | gpt-5.6-terra | No | - | Specialized government and aerospace/defense services firm with relevant technical work, but limited broad software-engineering brand recognition. |
 | ATCO | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established infrastructure and utilities group, but limited general recognition as a software-engineering employer. |
 | Atlantic Health System | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected regional healthcare system, but it has limited standalone software-engineering employer recognition. |
 | Atoms | 43 | Low | 2026-08-07 | gpt-5.6-terra | No | Atoms footwear, Atoms Shoes | Name is ambiguous; assuming the direct-to-consumer footwear company, it has some product/technology recognition but a limited software-engineering employer brand. |
@@ -2748,6 +2750,7 @@ Showing **3009** of **3009** cached companies (all cached companies).
 | Tilde Research | 32 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited broadly verifiable engineering-employer recognition under this name. |
 | Ultra | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer or a reliable software-engineering reputation. |
 | University of Pikeville | 32 | Medium | 2026-08-14 | gpt-5.6-terra | No | UPIKE, U-Pike | A small regional university with limited visibility as a software engineering employer; it provides some technical experience but is not a strong broadly recognized engineering-brand signal. |
+| Upbring | 32 | Medium | 2026-08-31 | gpt-5.6-terra | No | - | Regional nonprofit human-services organization; meaningful mission work but limited selectivity and software-engineering employer recognition. |
 | Western Magnetics | 32 | Low | 2026-08-20 | gpt-5.6-terra | No | - | Appears to be a specialized magnetics/manufacturing business with limited visible software-engineering prestige. |
 | Westgate Resorts | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Hospitality company with limited recognition or selectivity as a software engineering employer. |
 | Agentis Capital | 31 | High | 2026-08-02 | gpt-5.6-terra | No | - | Investment banking and advisory firm with little meaningful software-engineering employer brand. |
