@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3015** of **3015** cached companies (all cached companies).
+Showing **3016** of **3016** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -692,6 +692,7 @@ Showing **3015** of **3015** cached companies (all cached companies).
 | The Home Depot | 66 | High | 2026-07-30 | gpt-5.6-terra | No | Home Depot | Major retailer with meaningful internal technology operations and recognizable brand, though not generally viewed as a top software employer. |
 | True Anomaly | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded emerging space-and-defense technology startup; a positive but still niche engineering signal. |
 | University Corporation for Atmospheric Research | 66 | High | 2026-08-02 | gpt-5.6-terra | No | UCAR | Well-regarded atmospheric and computational-science research organization; a strong specialized technical signal but not a mainstream software employer. |
+| ZS | 66 | Medium | 2026-09-01 | gpt-5.6-terra | No | ZS Associates | Well-regarded global consulting and analytics firm with meaningful technology and data-focused work, especially in life sciences. It is a solid software-adjacent signal, though its engineering brand and selectivity are generally below top product-focused technology employers. |
 | AI Fund | 65 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized AI venture studio with meaningful AI-industry association, though it is not a large established engineering employer. |
 | Apptronik | 65 | Medium | 2026-07-27 | gpt-5.6-terra | No | - | Notable humanoid-robotics company with a technically compelling engineering brand, though its software-employer signal is still less established than leading robotics firms. |
 | Autostore | 65 | High | 2026-08-02 | gpt-5.6-terra | No | AutoStore Holdings Ltd. | Respected warehouse-automation and robotics company with meaningful systems and software engineering relevance. |

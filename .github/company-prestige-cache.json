@@ -35770,6 +35770,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "zs": {
+      "aliases": [
+        "ZS Associates"
+      ],
+      "confidence": "medium",
+      "display_name": "ZS",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Well-regarded global consulting and analytics firm with meaningful technology and data-focused work, especially in life sciences. It is a solid software-adjacent signal, though its engineering brand and selectivity are generally below top product-focused technology employers.",
+      "reviewed_at": "2026-09-01",
+      "rubric_version": "prestige-v1"
+    },
     "zscaler": {
       "aliases": [],
       "confidence": "high",
