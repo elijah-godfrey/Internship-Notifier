@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3012** of **3012** cached companies (all cached companies).
+Showing **3013** of **3013** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1873,6 +1873,7 @@ Showing **3012** of **3012** cached companies (all cached companies).
 | Pylon | 48 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; assuming the software startup, it has some technical relevance but limited established internship prestige. |
 | Qualitest | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Qualitest Group | Established quality-engineering and testing services brand, but with limited prestige as a destination for broad software engineering. |
 | Reflect Orbital | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable ambitious space-technology startup, but its engineering-employer reputation is still unproven and niche. |
+| Resonetics | 48 | Medium | 2026-09-01 | gpt-5.6-terra | No | - | Respected specialized medical-device manufacturing and engineering company, but it has limited broad recognition as a software-engineering employer and is not known for highly selective software internship hiring. |
 | Revance | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Revance Therapeutics | Recognized primarily as a specialized biopharmaceutical company rather than for a strong software-engineering employer brand. |
 | Sabre Systems | 48 | Medium | 2026-08-26 | gpt-5.6-terra | No | - | Established engineering and technology-services contractor with respectable niche recognition, but not a broadly top-tier software-engineering signal. |
 | SBA Communications Corporation | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established telecommunications-infrastructure company, but not a prominent software-engineering employer brand. |
