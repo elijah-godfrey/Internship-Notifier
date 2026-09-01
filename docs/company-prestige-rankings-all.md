@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3016** of **3016** cached companies (all cached companies).
+Showing **3017** of **3017** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1144,6 +1144,7 @@ Showing **3016** of **3016** cached companies (all cached companies).
 | Terabase | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Terabase Energy | Respected climate-tech company applying software and automation to solar deployment, though not broadly elite in software. |
 | Terminal | 58 | Low | 2026-08-06 | gpt-5.6-terra | No | Terminal.io | Known in technology recruiting and distributed engineering-team services, but its employer brand and selectivity as a software internship destination are less broadly established. |
 | TMEIC Corporation Americas | 58 | Medium | 2026-08-08 | gpt-5.6-terra | No | TMEIC | Part of an established industrial electrical-systems organization, providing a solid engineering signal, though its software brand is specialized rather than broadly elite. |
+| United Airlines | 58 | High | 2026-09-01 | gpt-5.6-terra | No | United, United Airlines Holdings | Major established airline with meaningful large-scale technology needs, but its software engineering brand and internship selectivity are not generally viewed as top-tier relative to leading technology employers. |
 | Voyager Technologies | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Space and defense technology positioning provides a potentially strong technical signal, but the engineering brand is still less established. |
 | Wabtec | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Westinghouse Air Brake Technologies Corporation | Established industrial technology company, though its software engineering brand is less prominent than its rail and manufacturing reputation. |
 | Waystar | 58 | Medium | 2026-07-27 | gpt-5.6-terra | No | Waystar Holding | Established healthcare revenue-cycle software company with a credible domain-specific engineering signal, but limited broad recognition as an elite software employer. |

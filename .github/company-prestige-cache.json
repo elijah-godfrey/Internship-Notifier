@@ -32884,6 +32884,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "united airlines": {
+      "aliases": [
+        "United",
+        "United Airlines Holdings"
+      ],
+      "confidence": "high",
+      "display_name": "United Airlines",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Major established airline with meaningful large-scale technology needs, but its software engineering brand and internship selectivity are not generally viewed as top-tier relative to leading technology employers.",
+      "reviewed_at": "2026-09-01",
+      "rubric_version": "prestige-v1"
+    },
     "united parcel service ups": {
       "aliases": [
         "UPS",
