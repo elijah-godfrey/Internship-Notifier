@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3021** of **3021** cached companies (all cached companies).
+Showing **3023** of **3023** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1291,6 +1291,7 @@ Showing **3021** of **3021** cached companies (all cached companies).
 | Southern Company | 56 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-established utility employer, but its software-engineering brand is primarily industry-specific. |
 | Tokamak Energy | 56 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable fusion-energy company with technically ambitious work, though its software engineering brand is specialized rather than broadly established. |
 | Ultra Intelligence and Communications | 56 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ultra I&C | Defense and communications technology work can provide solid technical experience, but the engineering brand is specialized rather than broadly prestigious. |
+| Valon | 56 | Medium | 2026-09-01 | gpt-5.6-terra | No | Valon Technologies | Venture-backed mortgage technology company with a more relevant software product focus, though its engineering prestige is not yet broadly established. |
 | Valsoft Corporation | 56 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established vertical-market software acquirer with relevant software operations, but modest standalone engineering prestige. |
 | Vertiv | 56 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized digital-infrastructure and power company, with a solid but not especially prominent software-engineering signal. |
 | Visier Solutions | 56 | Medium | 2026-08-02 | gpt-5.6-terra | No | Visier | Established people-analytics software company with a credible SaaS engineering signal, though not broadly elite. |
@@ -2113,6 +2114,7 @@ Showing **3021** of **3021** cached companies (all cached companies).
 | Shake Shack | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer brand, but software engineering is not a central or especially prominent employer brand. |
 | Shaw Industries Group | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Shaw Industries | Large, established manufacturing business, but software engineering is not a particularly visible career brand. |
 | Sikich | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized professional-services and technology consulting firm, with a modest rather than highly selective software-engineering signal. |
+| Southern Star Central Gas Pipeline | 45 | Medium | 2026-09-01 | gpt-5.6-terra | No | Southern Star | Established regional natural-gas pipeline operator, but it has limited broad software-engineering brand recognition or perceived technical selectivity. |
 | Spring Venture Group | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | SVG | Established insurance-distribution business with some technology work, but limited broad software-engineering prestige. |
 | Syntax | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Likely an enterprise IT-services provider; a solid but generally regional or services-oriented engineering signal. |
 | Talos | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous across several companies, preventing a reliable assessment of a specific engineering brand. |
