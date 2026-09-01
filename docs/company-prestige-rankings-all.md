@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3013** of **3013** cached companies (all cached companies).
+Showing **3015** of **3015** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2862,6 +2862,7 @@ Showing **3013** of **3013** cached companies (all cached companies).
 | NeoCognition | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; appears to be a lesser-known technology company. |
 | New Jersey Innovation Authority | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The named organization is not clearly established as a software-engineering employer; evidence of a meaningful technical hiring signal is limited. |
 | Obsidian Solutions Group | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; the name is not strongly associated with selective technical internship recruiting. |
+| Pluralis Research | 28 | Low | 2026-09-01 | gpt-5.6-terra | No | - | Appears to be a small or niche research organization with limited established software-engineering employer recognition. |
 | ProNexus | 28 | Low | 2026-08-08 | gpt-5.6-terra | No | - | The name does not indicate a widely established software-engineering employer brand; limited evidence supports a strong internship prestige signal. |
 | Rainmaker | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a recognized software-engineering employer brand. |
 | Samaya | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not have a broadly established software engineering reputation. |
@@ -3008,6 +3009,7 @@ Showing **3013** of **3013** cached companies (all cached companies).
 | Moon | 22 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Name is too ambiguous to establish a notable software-engineering employer brand; conservative assessment. |
 | Root Access | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable employer recognition and no established broad software-engineering brand signal. |
 | STEM Xpert | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | STEMXpert | Limited evidence of a broadly recognized or selective software-engineering employer reputation. |
+| Verdantas | 22 | Low | 2026-09-01 | gpt-5.6-terra | No | - | Limited broadly verifiable recognition as a software-engineering employer; likely a niche or lesser-known signal. |
 | Verne Robotics | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited evidence of broad employer recognition or an established software-engineering brand. |
 | Fab2 | 21 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited identifiable employer reputation and software-engineering signal. |
 | Harris Central Appraisal District | 21 | Medium | 2026-08-02 | gpt-5.6-terra | No | HCAD | Local public appraisal entity with little broader software engineering employer recognition. |
