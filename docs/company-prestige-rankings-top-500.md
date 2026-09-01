@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3017** cached companies (maximum 500).
+Showing **500** of **3021** cached companies (maximum 500).
 
-_The 2517 lowest-scored companies are omitted by the report cap._
+_The 2521 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -401,6 +401,7 @@ _The 2517 lowest-scored companies are omitted by the report cap._
 | Bugcrowd | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-recognized cybersecurity platform with a credible technical brand in crowdsourced security and vulnerability disclosure. |
 | Carta | 72 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-known venture-backed fintech with a solid engineering and startup-career signal. |
 | Circle | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Circle Internet Financial | Recognized fintech and digital-assets infrastructure company with a strong, though specialized, software-engineering signal. |
+| Clearwater Analytics | 72 | High | 2026-09-01 | gpt-5.6-terra | No | Clearwater Analytics Holdings, Inc. | Well-regarded financial software and analytics company with a strong technical product reputation and meaningful engineering-career signal. |
 | Clio | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known legal-tech company with a strong product-engineering reputation and meaningful selectivity. |
 | Cohesity | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise data-management company with a credible infrastructure engineering brand. |
 | Criteo | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known ad-tech company with substantial data, machine-learning, and software engineering work. |
@@ -526,4 +527,3 @@ _The 2517 lowest-scored companies are omitted by the report cap._
 | Upstart | 69 | High | 2026-08-02 | gpt-5.6-terra | No | Upstart Network | Recognized technology-focused lending company with a credible data, machine-learning, and engineering reputation. |
 | Verkada | 69 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized security and physical-security technology company with a growing engineering reputation. |
 | WorldQuant | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized quantitative-research employer with solid technical relevance, but a less elite general software-engineering signal than top trading firms. |
-| 1X | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | 1X Technologies, 1X Technologies AS | Visible robotics and AI company with a growing technical reputation, but a less established internship signal than top AI labs. |

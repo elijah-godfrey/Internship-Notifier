@@ -7219,6 +7219,19 @@
       "reviewed_at": "2026-07-31",
       "rubric_version": "prestige-v1"
     },
+    "clearwater analytics": {
+      "aliases": [
+        "Clearwater Analytics Holdings, Inc."
+      ],
+      "confidence": "high",
+      "display_name": "Clearwater Analytics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Well-regarded financial software and analytics company with a strong technical product reputation and meaningful engineering-career signal.",
+      "reviewed_at": "2026-09-01",
+      "rubric_version": "prestige-v1"
+    },
     "clearway energy": {
       "aliases": [],
       "confidence": "medium",
@@ -14396,6 +14409,19 @@
       "prestige_score": 76,
       "reason": "Recognized AI-chip company with a strong specialized technical brand in machine learning systems and hardware.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "grass valley": {
+      "aliases": [
+        "Grass Valley USA, LLC"
+      ],
+      "confidence": "medium",
+      "display_name": "Grass Valley",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Recognized broadcast-media technology company with relevant engineering work, though its software brand is specialized rather than broadly elite.",
+      "reviewed_at": "2026-09-01",
       "rubric_version": "prestige-v1"
     },
     "grassroots analytics": {
@@ -26570,6 +26596,19 @@
       "reviewed_at": "2026-08-18",
       "rubric_version": "prestige-v1"
     },
+    "riverside natural foods": {
+      "aliases": [
+        "MadeGood"
+      ],
+      "confidence": "low",
+      "display_name": "Riverside Natural Foods",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Established food manufacturer, but it has limited visibility and selectivity signal for software engineering.",
+      "reviewed_at": "2026-09-01",
+      "rubric_version": "prestige-v1"
+    },
     "riverside research": {
       "aliases": [],
       "confidence": "medium",
@@ -33339,6 +33378,19 @@
       "prestige_score": 62,
       "reason": "Large, respected financial institution with substantial technology work, though its engineering brand is not top-tier tech.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "us foods": {
+      "aliases": [
+        "US Foods Holding Corp."
+      ],
+      "confidence": "medium",
+      "display_name": "US Foods",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Large, established foodservice distributor; a credible enterprise-tech internship but not a prominent software-engineering brand.",
+      "reviewed_at": "2026-09-01",
       "rubric_version": "prestige-v1"
     },
     "us venture": {

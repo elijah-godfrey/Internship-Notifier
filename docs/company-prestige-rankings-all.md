@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3017** of **3017** cached companies (all cached companies).
+Showing **3021** of **3021** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -399,6 +399,7 @@ Showing **3017** of **3017** cached companies (all cached companies).
 | Bugcrowd | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-recognized cybersecurity platform with a credible technical brand in crowdsourced security and vulnerability disclosure. |
 | Carta | 72 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-known venture-backed fintech with a solid engineering and startup-career signal. |
 | Circle | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Circle Internet Financial | Recognized fintech and digital-assets infrastructure company with a strong, though specialized, software-engineering signal. |
+| Clearwater Analytics | 72 | High | 2026-09-01 | gpt-5.6-terra | No | Clearwater Analytics Holdings, Inc. | Well-regarded financial software and analytics company with a strong technical product reputation and meaningful engineering-career signal. |
 | Clio | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known legal-tech company with a strong product-engineering reputation and meaningful selectivity. |
 | Cohesity | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise data-management company with a credible infrastructure engineering brand. |
 | Criteo | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known ad-tech company with substantial data, machine-learning, and software engineering work. |
@@ -1347,6 +1348,7 @@ Showing **3017** of **3017** cached companies (all cached companies).
 | GenScript | 55 | Medium | 2026-07-18 | gpt-5.6-terra | No | GenScript Biotech | Recognized life-sciences company with credible technical operations, but software engineering is not its primary employer reputation. |
 | Globalization Partners | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | G-P, Globalization Partners International | Recognized HR technology and employer-of-record company, with a moderate but not elite engineering brand. |
 | Grant Thornton | 55 | High | 2026-08-02 | gpt-5.6-terra | No | Grant Thornton LLP | Recognized professional-services firm with technology roles, though its core reputation is accounting and advisory rather than software engineering. |
+| Grass Valley | 55 | Medium | 2026-09-01 | gpt-5.6-terra | No | Grass Valley USA, LLC | Recognized broadcast-media technology company with relevant engineering work, though its software brand is specialized rather than broadly elite. |
 | Guidehouse | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established consulting and advisory employer; software work can be solid, but its engineering brand is not broadly top-tier. |
 | Hiscox | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established international insurer with technology roles, though its engineering brand is primarily insurance-industry-specific. |
 | Hyundai AutoEver America | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Hyundai AutoEver | Provides substantial automotive enterprise technology work, but has a modest standalone software-engineering prestige signal. |
@@ -1597,6 +1599,7 @@ Showing **3017** of **3017** cached companies (all cached companies).
 | TribalScale | 52 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established digital-product consultancy, but consulting work carries a more modest software-engineering prestige signal. |
 | TriNet | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established HR technology and services company, but not widely considered a top software-engineering brand. |
 | University Health Network | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | UHN | Respected academic health network with technical work in healthcare and research, but a limited general software-engineering brand. |
+| US Foods | 52 | Medium | 2026-09-01 | gpt-5.6-terra | No | US Foods Holding Corp. | Large, established foodservice distributor; a credible enterprise-tech internship but not a prominent software-engineering brand. |
 | Veolia | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, respected environmental-services company, but software engineering is not its principal employer reputation. |
 | Voltus | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible energy-tech company with relevant software work, though not broadly considered a top engineering destination. |
 | Voya Financial | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Voya | Established financial-services company with solid enterprise technology work, but a modest software-specific prestige signal. |
@@ -2572,6 +2575,7 @@ Showing **3017** of **3017** cached companies (all cached companies).
 | Praytell | 38 | Low | 2026-08-18 | gpt-5.6-terra | No | - | Primarily known as a communications/PR agency rather than for a prominent software engineering organization; limited technical-brand signal for an engineering internship. |
 | RA Capital Management | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | RA Capital | Respected specialist investment firm, but it has limited relevance and visibility as a software engineering employer. |
 | RegDesk | 38 | Medium | 2026-08-18 | gpt-5.6-terra | No | - | A niche regulatory-technology company; relevant startup experience but limited recognition as a software-engineering brand. |
+| Riverside Natural Foods | 38 | Low | 2026-09-01 | gpt-5.6-terra | No | MadeGood | Established food manufacturer, but it has limited visibility and selectivity signal for software engineering. |
 | Salient Motion | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Niche motion-control technology company with limited broad software-engineering brand recognition. |
 | SanMar | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established apparel and promotional-products distributor with limited software-engineering brand recognition. |
 | SFMOMA | 38 | High | 2026-08-02 | gpt-5.6-terra | No | San Francisco Museum of Modern Art | Well-regarded cultural institution, but it has limited relevance or recognition as a software-engineering employer. |
