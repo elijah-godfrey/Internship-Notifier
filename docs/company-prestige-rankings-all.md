@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3025** of **3025** cached companies (all cached companies).
+Showing **3027** of **3027** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1796,6 +1796,7 @@ Showing **3025** of **3025** cached companies (all cached companies).
 | BJ's Wholesale Club | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | BJs Wholesale Club | Recognized retail employer with meaningful internal technology needs, but not a notably selective engineering brand. |
 | Breeze Airways | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Breeze | Recognizable newer airline, but it has limited reputation for software-engineering selectivity or technical brand strength. |
 | CalAmp | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Known in telematics and connected-device technology, with a modest and industry-specific engineering signal. |
+| Cheiron | 48 | Medium | 2026-09-02 | gpt-5.6-terra | No | - | Established actuarial consulting firm with credible quantitative/technical work, but a limited software-engineering brand and mainly niche industry recognition. |
 | Choice Hotels | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Choice Hotels International | Established hospitality company with ordinary software-engineering market recognition. |
 | CLEAResult | 48 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Established energy-efficiency and sustainability services firm, but its software engineering brand and internship selectivity have limited broad recognition outside its industry. |
 | CliftonLarsonAllen | 48 | High | 2026-08-02 | gpt-5.6-terra | No | CLA | Well-regarded professional-services firm, but not known as a major software-engineering employer. |
@@ -2919,6 +2920,7 @@ Showing **3025** of **3025** cached companies (all cached companies).
 | amika | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Consumer beauty brand with limited established reputation as a software-engineering employer. |
 | Apex | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a specific employer or a reliable software-engineering reputation. |
 | Aptura | 25 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly established software-engineering reputation under this name. |
+| Armadin | 25 | Low | 2026-09-02 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized employer brand or selective software-engineering internship signal; conservatively scored. |
 | Auctor | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Name is ambiguous and no broadly recognized software-engineering prestige signal is evident. |
 | AXQ Capital | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited broadly recognized software engineering brand; company identity and technical selectivity are unclear. |
 | Blockhouse | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and has limited broadly established recognition as a software-engineering employer. |

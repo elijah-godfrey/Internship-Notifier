@@ -2775,6 +2775,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "armadin": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Armadin",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Limited reliable evidence of a recognized employer brand or selective software-engineering internship signal; conservatively scored.",
+      "reviewed_at": "2026-09-02",
+      "rubric_version": "prestige-v1"
+    },
     "armanino": {
       "aliases": [
         "Armanino LLP"
@@ -6656,6 +6667,17 @@
       "prestige_score": 47,
       "reason": "Known consumer edtech company, but its software-engineering prestige is modest relative to stronger technology employers.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "cheiron": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Cheiron",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established actuarial consulting firm with credible quantitative/technical work, but a limited software-engineering brand and mainly niche industry recognition.",
+      "reviewed_at": "2026-09-02",
       "rubric_version": "prestige-v1"
     },
     "chemours": {
