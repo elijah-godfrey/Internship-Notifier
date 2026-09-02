@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3023** of **3023** cached companies (all cached companies).
+Showing **3024** of **3024** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1836,6 +1836,7 @@ Showing **3023** of **3023** cached companies (all cached companies).
 | HNTB | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected infrastructure and engineering firm, but software engineering is not its primary employer brand. |
 | Howden | 48 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial and engineering brand, but its software-engineering reputation is limited and the name may be ambiguous. |
 | Incident IQ | 48 | Medium | 2026-08-04 | gpt-5.6-terra | No | IncidentIQ | Established K-12-focused service-management software company; relevant SaaS engineering experience, but its brand recognition and selectivity are primarily niche rather than broadly prestigious in software engineering. |
+| Ingredion | 48 | Medium | 2026-09-02 | gpt-5.6-terra | No | - | Established global ingredients manufacturer with credible enterprise technology exposure, but it is not broadly recognized as a selective software-engineering employer or strong engineering-brand signal. |
 | Intertek | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Globally known testing and certification company, but with limited standalone software-engineering prestige. |
 | iPipeline | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established insurance-software provider with a domain-specific rather than broadly prominent engineering reputation. |
 | Jackson | 48 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; assuming the financial-services company, it offers a conventional enterprise technology signal rather than a strong software brand. |
