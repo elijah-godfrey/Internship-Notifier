@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3024** of **3024** cached companies (all cached companies).
+Showing **3025** of **3025** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2117,6 +2117,7 @@ Showing **3024** of **3024** cached companies (all cached companies).
 | Sikich | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized professional-services and technology consulting firm, with a modest rather than highly selective software-engineering signal. |
 | Southern Star Central Gas Pipeline | 45 | Medium | 2026-09-01 | gpt-5.6-terra | No | Southern Star | Established regional natural-gas pipeline operator, but it has limited broad software-engineering brand recognition or perceived technical selectivity. |
 | Spring Venture Group | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | SVG | Established insurance-distribution business with some technology work, but limited broad software-engineering prestige. |
+| STAG | 45 | Low | 2026-09-02 | gpt-5.6-terra | No | STAG Industrial | The name is ambiguous; assuming STAG Industrial, it is a recognized real-estate firm but has limited software-engineering brand visibility or selective technical hiring signal. |
 | Syntax | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Likely an enterprise IT-services provider; a solid but generally regional or services-oriented engineering signal. |
 | Talos | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous across several companies, preventing a reliable assessment of a specific engineering brand. |
 | Tarsus Pharamceuticals | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Tarsus Pharmaceuticals | Publicly known pharmaceutical company, though software engineering is not its primary or especially prominent career brand. |
