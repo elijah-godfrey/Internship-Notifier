@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3027** of **3027** cached companies (all cached companies).
+Showing **3029** of **3029** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1501,6 +1501,7 @@ Showing **3027** of **3027** cached companies (all cached companies).
 | Altice USA | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | Optimum | Established U.S. telecommunications provider with meaningful engineering work, but a modest software-engineering brand and limited prestige outside its industry. |
 | American Bureau of Shipping | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded maritime classification organization with specialized technical systems work, though not broadly prominent in software engineering. |
 | Analytic Partners | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established marketing analytics firm with relevant data work, though limited broad software-engineering prestige. |
+| Andersen Corporation | 52 | Medium | 2026-09-02 | gpt-5.6-terra | No | Andersen Windows & Doors | Established building-products manufacturer with a credible corporate technology environment, but limited broad recognition or selectivity as a software engineering brand. |
 | ArteraAI | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Artera | Specialized healthcare AI company with relevant technical work, but limited broad employer recognition. |
 | Arvinas | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized biotech company, though its career signal is primarily in life sciences rather than software engineering. |
 | Ascensus | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services platform with meaningful technology operations, but only moderate software-engineering brand recognition. |
@@ -2315,6 +2316,7 @@ Showing **3027** of **3027** cached companies (all cached companies).
 | Welocalize | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known in language services and localization, but has limited prestige as a software engineering employer. |
 | Westlake | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large chemicals and materials company, but software engineering is not a prominent employer brand strength. |
 | Willkie Farr & Gallagher | 43 | Medium | 2026-08-19 | gpt-5.6-terra | No | Willkie | Well-regarded law firm, but its employer reputation is principally legal rather than a recognized software-engineering internship signal. |
+| Winsupply | 43 | Medium | 2026-09-02 | gpt-5.6-terra | No | - | Established distribution company with relevant internal technology work, but its software engineering brand and broader technical career signal are relatively limited. |
 | Withum | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | WithumSmith+Brown | Established accounting and advisory firm, but not widely regarded as a software-engineering employer. |
 | World Kinect | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established energy and logistics company, but with limited software-engineering brand recognition. |
 | Zurn Elkay Water Solutions | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Zurn Elkay, Zurn Water Solutions | Established water-products manufacturer, but it has limited software-engineering brand recognition outside its industry. |

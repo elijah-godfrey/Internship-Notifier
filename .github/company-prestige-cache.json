@@ -2075,6 +2075,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "andersen": {
+      "aliases": [
+        "Andersen Windows & Doors"
+      ],
+      "confidence": "medium",
+      "display_name": "Andersen Corporation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established building-products manufacturer with a credible corporate technology environment, but limited broad recognition or selectivity as a software engineering brand.",
+      "reviewed_at": "2026-09-02",
+      "rubric_version": "prestige-v1"
+    },
     "anduril": {
       "aliases": [],
       "confidence": "high",
@@ -35076,6 +35089,17 @@
       "prestige_score": 75,
       "reason": "The Alphabet-affiliated drone-delivery company has a strong advanced-technology and engineering signal.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "winsupply": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Winsupply",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established distribution company with relevant internal technology work, but its software engineering brand and broader technical career signal are relatively limited.",
+      "reviewed_at": "2026-09-02",
       "rubric_version": "prestige-v1"
     },
     "wisk aero": {
