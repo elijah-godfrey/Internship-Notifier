@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3069** of **3069** cached companies (all cached companies).
+Showing **3071** of **3071** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2280,6 +2280,7 @@ Showing **3069** of **3069** cached companies (all cached companies).
 | Liberty University | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized university employer, but it has a limited software-engineering brand and is not generally a highly selective or prominent destination for SWE internships. |
 | Lynker | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Lynker Technologies | Specialized environmental and government-services contractor with limited broad software-engineering employer recognition. |
 | Maple Leaf Sports & Entertainment Partnership (MLSE) | 43 | High | 2026-08-02 | gpt-5.6-terra | No | MLSE, Maple Leaf Sports & Entertainment | Prominent sports organization, but its software engineering reputation is limited relative to dedicated technology employers. |
+| Marquee Brands | 43 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Recognized consumer-brand management company, but its technical employer brand and software-engineering selectivity appear limited. |
 | MEMIC | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Maine Employers' Mutual Insurance Company | Established regional insurance employer with limited broad software-engineering recognition. |
 | Midmark | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare equipment company, but limited broad recognition as a software-engineering employer. |
 | Mohawk | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; likely a non-software-focused company with limited general software-engineering brand recognition. |
@@ -2457,6 +2458,7 @@ Showing **3069** of **3069** cached companies (all cached companies).
 | T.D. Williamson | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established pipeline-infrastructure company, but software engineering is not a central or widely recognized brand strength. |
 | tarte cosmetics | 42 | Medium | 2026-08-07 | gpt-5.6-terra | No | - | Recognizable consumer beauty brand, but not broadly regarded as a selective or high-prestige software-engineering employer. |
 | TC Energy | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large energy infrastructure employer with technology needs, but a modest software-engineering brand. |
+| The Cary Company | 42 | Medium | 2026-09-03 | gpt-5.6-terra | No | Cary Company | Established packaging, containers, and industrial supplies business, but it has limited broad recognition as a software-engineering employer. |
 | The State Bar of California | 42 | High | 2026-08-02 | gpt-5.6-terra | No | State Bar of California, California State Bar | Prominent legal regulatory body, but its technology roles do not carry a strong general software-engineering brand. |
 | Thea Energy | 42 | Low | 2026-08-29 | gpt-5.6-terra | No | - | Early-stage fusion-energy company with technically ambitious work, but limited broad recognition or established software-engineering internship brand. |
 | Triumph | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The company name is ambiguous; absent a clearer entity, it offers only a limited software-engineering prestige signal. |

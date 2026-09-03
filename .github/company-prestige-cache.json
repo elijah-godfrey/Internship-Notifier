@@ -20081,6 +20081,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "marquee brands": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Marquee Brands",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Recognized consumer-brand management company, but its technical employer brand and software-engineering selectivity appear limited.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "marriott vacations worldwide": {
       "aliases": [
         "MVW"
@@ -31832,6 +31843,19 @@
       "prestige_score": 44,
       "reason": "Well-known consumer-goods employer, but not a notable software-engineering brand.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "the cary": {
+      "aliases": [
+        "Cary Company"
+      ],
+      "confidence": "medium",
+      "display_name": "The Cary Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established packaging, containers, and industrial supplies business, but it has limited broad recognition as a software-engineering employer.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "the coca cola": {
