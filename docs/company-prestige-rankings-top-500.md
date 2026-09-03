@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3033** cached companies (maximum 500).
+Showing **500** of **3061** cached companies (maximum 500).
 
-_The 2533 lowest-scored companies are omitted by the report cap._
+_The 2561 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -214,6 +214,7 @@ _The 2533 lowest-scored companies are omitted by the report cap._
 | Nasdaq | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized financial-markets institution with substantial technology systems and a strong engineering signal. |
 | Nutanix | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Widely respected enterprise cloud-infrastructure company with a strong systems and distributed-software engineering reputation. |
 | Point72 | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Point72 Asset Management | Highly selective investment firm with a strong quantitative and technology career signal. |
+| Quantinuum | 78 | High | 2026-09-03 | gpt-5.6-terra | No | - | Leading quantum-computing company with a strong deep-tech research and engineering reputation; highly respected in its specialty. |
 | Redis | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded database and infrastructure-software company with a strong developer-facing engineering brand. |
 | Robinhood | 78 | High | 2026-08-02 | gpt-5.6-terra | No | Robinhood Markets | Well-known consumer fintech with a selective engineering organization and meaningful large-scale product and infrastructure signal. |
 | S&P Global | 78 | High | 2026-08-02 | gpt-5.6-terra | No | Standard & Poor's Global | Highly respected financial-data and analytics employer with strong technical products and a recognized engineering signal. |
@@ -393,6 +394,7 @@ _The 2533 lowest-scored companies are omitted by the report cap._
 | Airbus | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Airbus SE | Globally respected aerospace and engineering employer with substantial technical work, though its software brand is less central than pure technology firms. |
 | Airwallex | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected global fintech with meaningful technical complexity and a solid engineering signal, particularly in payments. |
 | Alteryx | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized analytics software company with a meaningful data-platform engineering brand and a strong technical career signal. |
+| Ambi Robotics | 72 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Well-regarded robotics startup with a visible AI and warehouse-automation engineering focus; a strong specialized signal. |
 | Aptiv | 72 | High | 2026-07-21 | gpt-5.6-terra | No | - | Strong automotive technology and embedded/software reputation, particularly for mobility and systems engineering. |
 | Astranis | 72 | Medium | 2026-07-24 | gpt-5.6-terra | No | Astranis Space Technologies | Well-regarded, selective space-tech startup with technically demanding work; its software brand is strong in the aerospace/startup niche but less broadly established than major software firms. |
 | Attentive | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Attentive Mobile | Respected growth-stage marketing technology company with a credible product-engineering reputation and competitive hiring. |
@@ -461,6 +463,7 @@ _The 2533 lowest-scored companies are omitted by the report cap._
 | Kodiak Robotics | 71 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized autonomous-trucking company; robotics and autonomy work provides a strong specialized engineering signal. |
 | National Laboratory of the Rockies | 71 | Medium | 2026-07-18 | gpt-5.6-terra | No | NLR, National Renewable Energy Laboratory, NREL | Respected national-laboratory research signal with meaningful technical credibility, though less of a conventional software-engineering brand. |
 | Neon | 71 | Medium | 2026-08-02 | gpt-5.6-terra | No | Neon Database, Neon.tech | Assuming the serverless Postgres company: a respected developer-infrastructure startup with a strong technical product reputation. |
+| Niantic Spatial | 71 | Medium | 2026-09-03 | gpt-5.6-terra | No | Niantic | Carries meaningful recognition from Niantic's AR and geospatial technology lineage, though its standalone engineering brand is still developing. |
 | RELX | 71 | High | 2026-07-18 | gpt-5.6-terra | No | - | Globally respected information and analytics company with substantial technology products and a strong professional engineering signal. |
 | Stoke Space | 71 | Medium | 2026-08-02 | gpt-5.6-terra | No | Stoke Space Technologies | High-profile venture-backed space company with technically demanding engineering work; software brand is strong but still emerging. |
 | ABB | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected industrial automation and robotics company with strong technical credibility, though software is not its sole brand focus. |
@@ -524,6 +527,3 @@ _The 2533 lowest-scored companies are omitted by the report cap._
 | Sonos | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded consumer audio company with meaningful embedded, product, and platform engineering work. |
 | Starburst | 69 | Medium | 2026-08-02 | gpt-5.6-terra | No | Starburst Data | Recognized data-platform company with a credible technical reputation, particularly in data infrastructure. |
 | University of Chicago | 69 | High | 2026-08-02 | gpt-5.6-terra | No | UChicago | Elite research university with strong quantitative and computing credibility, though its software-employer brand is less prominent than top tech firms'. |
-| Upstart | 69 | High | 2026-08-02 | gpt-5.6-terra | No | Upstart Network | Recognized technology-focused lending company with a credible data, machine-learning, and engineering reputation. |
-| Verkada | 69 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized security and physical-security technology company with a growing engineering reputation. |
-| WorldQuant | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized quantitative-research employer with solid technical relevance, but a less elite general software-engineering signal than top trading firms. |

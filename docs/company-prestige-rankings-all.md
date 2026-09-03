@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3033** of **3033** cached companies (all cached companies).
+Showing **3061** of **3061** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -212,6 +212,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Nasdaq | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized financial-markets institution with substantial technology systems and a strong engineering signal. |
 | Nutanix | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Widely respected enterprise cloud-infrastructure company with a strong systems and distributed-software engineering reputation. |
 | Point72 | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Point72 Asset Management | Highly selective investment firm with a strong quantitative and technology career signal. |
+| Quantinuum | 78 | High | 2026-09-03 | gpt-5.6-terra | No | - | Leading quantum-computing company with a strong deep-tech research and engineering reputation; highly respected in its specialty. |
 | Redis | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded database and infrastructure-software company with a strong developer-facing engineering brand. |
 | Robinhood | 78 | High | 2026-08-02 | gpt-5.6-terra | No | Robinhood Markets | Well-known consumer fintech with a selective engineering organization and meaningful large-scale product and infrastructure signal. |
 | S&P Global | 78 | High | 2026-08-02 | gpt-5.6-terra | No | Standard & Poor's Global | Highly respected financial-data and analytics employer with strong technical products and a recognized engineering signal. |
@@ -391,6 +392,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Airbus | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Airbus SE | Globally respected aerospace and engineering employer with substantial technical work, though its software brand is less central than pure technology firms. |
 | Airwallex | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected global fintech with meaningful technical complexity and a solid engineering signal, particularly in payments. |
 | Alteryx | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized analytics software company with a meaningful data-platform engineering brand and a strong technical career signal. |
+| Ambi Robotics | 72 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Well-regarded robotics startup with a visible AI and warehouse-automation engineering focus; a strong specialized signal. |
 | Aptiv | 72 | High | 2026-07-21 | gpt-5.6-terra | No | - | Strong automotive technology and embedded/software reputation, particularly for mobility and systems engineering. |
 | Astranis | 72 | Medium | 2026-07-24 | gpt-5.6-terra | No | Astranis Space Technologies | Well-regarded, selective space-tech startup with technically demanding work; its software brand is strong in the aerospace/startup niche but less broadly established than major software firms. |
 | Attentive | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Attentive Mobile | Respected growth-stage marketing technology company with a credible product-engineering reputation and competitive hiring. |
@@ -459,6 +461,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Kodiak Robotics | 71 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized autonomous-trucking company; robotics and autonomy work provides a strong specialized engineering signal. |
 | National Laboratory of the Rockies | 71 | Medium | 2026-07-18 | gpt-5.6-terra | No | NLR, National Renewable Energy Laboratory, NREL | Respected national-laboratory research signal with meaningful technical credibility, though less of a conventional software-engineering brand. |
 | Neon | 71 | Medium | 2026-08-02 | gpt-5.6-terra | No | Neon Database, Neon.tech | Assuming the serverless Postgres company: a respected developer-infrastructure startup with a strong technical product reputation. |
+| Niantic Spatial | 71 | Medium | 2026-09-03 | gpt-5.6-terra | No | Niantic | Carries meaningful recognition from Niantic's AR and geospatial technology lineage, though its standalone engineering brand is still developing. |
 | RELX | 71 | High | 2026-07-18 | gpt-5.6-terra | No | - | Globally respected information and analytics company with substantial technology products and a strong professional engineering signal. |
 | Stoke Space | 71 | Medium | 2026-08-02 | gpt-5.6-terra | No | Stoke Space Technologies | High-profile venture-backed space company with technically demanding engineering work; software brand is strong but still emerging. |
 | ABB | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected industrial automation and robotics company with strong technical credibility, though software is not its sole brand focus. |
@@ -824,6 +827,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | MaintainX | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Growing industrial software company with a credible product-engineering profile, though not yet a broadly elite engineering signal. |
 | McKesson | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, established healthcare-technology and distribution company with a solid enterprise engineering signal. |
 | Metropolis | 63 | Low | 2026-08-02 | gpt-5.6-terra | No | Metropolis Technologies | Assuming the computer-vision parking company: a credible technical startup signal, though less broadly established than leading software brands. |
+| Mill | 63 | Medium | 2026-09-03 | gpt-5.6-terra | No | Mill Industries | Known consumer climate-tech startup with meaningful hardware and software engineering work, though not broadly top-tier in software recruiting. |
 | Navy Federal | 63 | High | 2026-08-02 | gpt-5.6-terra | No | Navy Federal Credit Union | Large, well-regarded credit union with meaningful technology needs, though its software-engineering brand is primarily financial-services specific. |
 | Neuberger Berman | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded investment manager whose technology roles carry a solid finance-tech signal, though not a leading software brand. |
 | OpenX | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | OpenX Technologies | Established ad-tech company with meaningful distributed-systems and advertising-platform engineering, though specialized. |
@@ -848,6 +852,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Vantage Data Centers | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized data-center infrastructure company with relevant technical work, but not a leading software-engineering brand. |
 | Western Union | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized payments company with meaningful technology and platform engineering relevance. |
 | Ada | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known conversational-AI software company with a relevant technical product, but a more limited and less proven prestige signal than major AI firms. |
+| Albedo | 62 | Medium | 2026-09-03 | gpt-5.6-terra | No | Albedo Space | Visible space-tech startup with technically demanding satellite and data products, offering a solid specialized engineering signal. |
 | Aledade | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized healthcare technology company with meaningful data and software work, but limited elite engineering-brand visibility. |
 | Anomali | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized cybersecurity vendor with relevant technical work, though below the field's top engineering brands. |
 | Arrcus | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Networking software startup with technically relevant products, but a less proven and less widely recognized signal than major networking leaders. |
@@ -972,6 +977,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Southwest Airlines | 61 | High | 2026-08-02 | gpt-5.6-terra | No | Southwest | Large, respected airline with meaningful technology operations, though not a top software-engineering brand. |
 | State of Wisconsin Investment Board | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | SWIB | Well-regarded institutional investment organization; technology work has a positive finance-domain signal but limited general software-brand recognition. |
 | Stifel | 61 | High | 2026-08-02 | gpt-5.6-terra | No | Stifel Financial, Stifel Nicolaus | Recognized investment bank and wealth-management firm; a positive finance-domain credential with a moderate general software signal. |
+| Techtronic Industries (TTI) | 61 | Medium | 2026-09-03 | gpt-5.6-terra | No | TTI, Techtronic Industries | Recognized global tools and technology manufacturer with credible embedded and product-engineering work, though not a premier software employer brand. |
 | The Hartford | 61 | High | 2026-08-02 | gpt-5.6-terra | No | The Hartford Financial Services Group, Hartford | Well-established insurer with credible enterprise technology work, but limited broad software-engineering prestige. |
 | TMX Group | 61 | Medium | 2026-08-01 | gpt-5.6-terra | No | - | Recognized financial-markets infrastructure employer with solid technical relevance, though less globally prominent as a software brand. |
 | Trumid | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected fixed-income fintech with meaningful technical work, though not a broadly elite software brand. |
@@ -1234,6 +1240,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Repsol | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large, established energy company with credible technical work, but it is not broadly a top software-engineering destination. |
 | Rise8 | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded mission-focused software consultancy in government modernization, with a solid but specialized engineering signal. |
 | Robust.ai | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | Robust AI | Technically credible robotics and AI startup, but its small scale and limited employer-brand track record constrain its broader signal. |
+| ROUSH | 57 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Well-regarded engineering and automotive-services firm with solid technical credibility, but limited top-tier software-industry recognition. |
 | S&C Electric Company | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected power-systems manufacturer with credible technical work, though its software brand is specialized rather than broadly elite. |
 | Sarepta | 57 | High | 2026-08-02 | gpt-5.6-terra | No | Sarepta Therapeutics | Recognized biotechnology company with a solid life-sciences reputation, but limited broad software-engineering brand strength. |
 | SCOR | 57 | High | 2026-08-02 | gpt-5.6-terra | No | SCOR SE | Well-regarded global reinsurance firm with technology opportunities, but limited standalone software-engineering prestige. |
@@ -1248,6 +1255,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Uncountable | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized software company with a credible technical product focus, but limited mainstream engineering-brand recognition. |
 | Unisys | 57 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established enterprise IT and technology-services company with relevant engineering roles, though its software brand is not top-tier. |
 | United Therapeutics Corporation | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected biotechnology company where software can support specialized scientific and operational work, but its engineering signal is niche. |
+| UnitX | 57 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Industrial computer-vision company with credible applied AI and automation work, though recognition remains specialized. |
 | Upvest | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible fintech infrastructure company, though its engineering signal is primarily regional and industry-specific. |
 | Viavi Solutions | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | VIAVI | Respected network-testing and communications technology company with a solid specialized engineering signal. |
 | Washington University in St. Louis | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | Wash U, WashU | Highly respected university, but its employer signal for a software engineering internship is more academic than software-industry focused. |
@@ -1309,6 +1317,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Aquabyte | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized computer-vision aquaculture startup with relevant technical work, though its brand is niche. |
 | Arch Capital Group | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Arch Capital | Respected insurance and reinsurance employer with solid institutional standing, though not a major engineering brand. |
 | Ardian | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Prominent private-markets firm with strong finance recognition, but a limited standalone software engineering brand. |
+| Arizona Public Service | 55 | High | 2026-09-03 | gpt-5.6-terra | No | APS | Major regulated utility with a credible technical organization, but limited broad software-engineering brand recognition. |
 | Arrowhead Pharmaceuticals | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Arrowhead | Respected biotech company, but its reputation is primarily scientific rather than software-engineering focused. |
 | Asahi Kasei Corporation | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large established materials and healthcare conglomerate, but not widely known for a strong software-engineering brand. |
 | Assent | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Assent Compliance | Established compliance-software employer, though its software-engineering brand has limited broad recognition. |
@@ -1498,6 +1507,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Zoetis | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Leading animal-health company with solid technical opportunities, but a limited standalone software-engineering brand. |
 | A Thinking Ape | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | ATA, A Thinking Ape Entertainment Ltd. | Established mobile-game studio with credible product engineering, though its reputation is mostly niche to gaming. |
 | ABC Fitness | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | ABC Fitness Solutions | Established fitness-industry software company, with a solid but relatively niche engineering signal. |
+| Advanced Robotics for Manufacturing | 52 | Medium | 2026-09-03 | gpt-5.6-terra | No | ARM Institute, ARM | Respected manufacturing-robotics organization with industry-specific technical relevance, but not a broadly elite software-engineering signal. |
 | Akima | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established government-services and contracting organization, but its software-engineering brand is not broadly elite or widely visible. |
 | Altice USA | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | Optimum | Established U.S. telecommunications provider with meaningful engineering work, but a modest software-engineering brand and limited prestige outside its industry. |
 | American Bureau of Shipping | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded maritime classification organization with specialized technical systems work, though not broadly prominent in software engineering. |
@@ -1603,6 +1613,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | TriNet | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established HR technology and services company, but not widely considered a top software-engineering brand. |
 | University Health Network | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | UHN | Respected academic health network with technical work in healthcare and research, but a limited general software-engineering brand. |
 | US Foods | 52 | Medium | 2026-09-01 | gpt-5.6-terra | No | US Foods Holding Corp. | Large, established foodservice distributor; a credible enterprise-tech internship but not a prominent software-engineering brand. |
+| V2X | 52 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Established defense and government-services contractor with substantial technical work, but not a particularly strong general software-engineering brand. |
 | Veolia | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, respected environmental-services company, but software engineering is not its principal employer reputation. |
 | Voltus | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible energy-tech company with relevant software work, though not broadly considered a top engineering destination. |
 | Voya Financial | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Voya | Established financial-services company with solid enterprise technology work, but a modest software-specific prestige signal. |
@@ -1695,6 +1706,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Great Question | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Product-focused research software company, but relatively limited broad recognition and demonstrated selectivity. |
 | Henry Schein | 50 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large healthcare distribution company with enterprise technology needs, but a limited software-engineering brand. |
 | Levi Strauss & Co. | 50 | High | 2026-08-02 | gpt-5.6-terra | No | Levi's | Highly recognized consumer brand, but not generally a strong or selective software-engineering career signal. |
+| Luxium Solutions | 50 | Medium | 2026-09-03 | gpt-5.6-terra | No | Luxium | Established photonics and optical-components business with credible niche technical relevance, but limited broad software-engineering brand recognition. |
 | MillerKnoll | 50 | High | 2026-08-02 | gpt-5.6-terra | No | Herman Miller, Knoll | Recognized furniture and design company, but it has limited broader software-engineering brand strength. |
 | Momentive | 50 | Low | 2026-08-02 | gpt-5.6-terra | No | Momentive Performance Materials, SurveyMonkey (former corporate name) | The name is ambiguous across companies; neither likely interpretation has a broadly top-tier software-engineering brand. |
 | Nelnet | 50 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established financial-services and education-technology employer with solid technology work but modest national engineering prestige. |
@@ -1702,6 +1714,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Oregon State Government | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | State of Oregon | Recognized public-sector employer, but its software engineering signal is typically government-specific rather than elite tech. |
 | Palmetto Clean Technology | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | Palmetto | Clean-energy technology company with a credible niche, but limited broad software-engineering prestige. |
 | PMG | 50 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Assuming the digital marketing and technology agency, it has a respectable services reputation but limited broad software-engineering prestige. |
+| Qualified Health | 50 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Healthcare AI startup with relevant technical positioning, but limited evidence of broad software-engineering brand recognition. |
 | Rhombus Power | 50 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Specialized AI and defense-oriented technology work can be technically relevant, but the company has limited broad engineering-market recognition. |
 | Smith+Nephew | 50 | High | 2026-08-02 | gpt-5.6-terra | No | Smith & Nephew | Established global medical-technology company, but software engineering is a supporting function rather than its core employer brand. |
 | Steel Dynamics | 50 | High | 2026-08-02 | gpt-5.6-terra | No | SDI | Respected industrial company, but software engineering is not its primary external talent brand. |
@@ -1808,6 +1821,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Commonwealth of Massachusetts | 48 | High | 2026-08-02 | gpt-5.6-terra | No | Massachusetts State Government, State of Massachusetts | Credible public-sector technology experience, but generally a moderate rather than elite software career signal. |
 | Compa | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Compa Technologies | Credible compensation-software startup, but with limited broad recognition and an emerging engineering brand. |
 | Comtech | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Comtech Telecommunications Corp. | Recognized communications-technology company, though its software-engineering signal is specialized and not broadly top-tier. |
+| Contoro | 48 | Medium | 2026-09-03 | gpt-5.6-terra | No | Contoro Robotics | Robotics startup with relevant technical work, but still a niche and relatively lightly established engineering signal. |
 | CooperSurgical | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-device company, but it has a limited standalone software-engineering brand. |
 | Corewell Health | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Corewell | Major regional health system with meaningful IT needs, but limited broad software-engineering prestige. |
 | Customers Bank | 48 | Medium | 2026-08-27 | gpt-5.6-terra | No | Customers Bancorp | Established regional banking employer, but it has limited broad recognition as a selective software-engineering destination. |
@@ -2120,6 +2134,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Shake Shack | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer brand, but software engineering is not a central or especially prominent employer brand. |
 | Shaw Industries Group | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Shaw Industries | Large, established manufacturing business, but software engineering is not a particularly visible career brand. |
 | Sikich | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized professional-services and technology consulting firm, with a modest rather than highly selective software-engineering signal. |
+| Sorting Robotics | 45 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Specialized robotics automation startup with relevant technical work, but limited evidence of broad software-engineering selectivity or recognition. |
 | Southern Star Central Gas Pipeline | 45 | Medium | 2026-09-01 | gpt-5.6-terra | No | Southern Star | Established regional natural-gas pipeline operator, but it has limited broad software-engineering brand recognition or perceived technical selectivity. |
 | Spring Venture Group | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | SVG | Established insurance-distribution business with some technology work, but limited broad software-engineering prestige. |
 | STAG | 45 | Low | 2026-09-02 | gpt-5.6-terra | No | STAG Industrial | The name is ambiguous; assuming STAG Industrial, it is a recognized real-estate firm but has limited software-engineering brand visibility or selective technical hiring signal. |
@@ -2244,6 +2259,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Hiebing | 43 | Medium | 2026-08-10 | gpt-5.6-terra | No | - | Regional independent marketing agency with some digital work, but limited broad recognition as a software-engineering employer. |
 | Hoffman Construction | 43 | Medium | 2026-08-22 | gpt-5.6-terra | No | - | Well-regarded construction contractor in its industry/region, but it has limited broad software-engineering brand recognition or selectivity signal versus established technology employers. |
 | Horace Mann | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established insurer with technology roles, but limited general recognition as a software-engineering employer. |
+| Humanscale | 43 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Established ergonomic-products company, but it is not broadly known as a software-engineering destination. |
 | HyperLight | 43 | Low | 2026-08-08 | gpt-5.6-terra | No | - | Appears to be a niche technology company; limited evidence of a broadly recognized or highly selective software-engineering internship brand. |
 | IJM | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | IJM Corporation Berhad | Known primarily as an infrastructure and construction-oriented company rather than a recognized software-engineering employer. |
 | Insperity | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established HR services company, but with limited prestige as a software-engineering destination. |
@@ -2268,6 +2284,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Neighbor | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Company name is ambiguous; assuming the peer-to-peer storage marketplace, it has limited broad software-engineering prestige. |
 | Nordson | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial manufacturer, but it has limited visibility and selectivity as a software-engineering employer. |
 | Northumbria University | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | University of Northumbria at Newcastle | Established university name, but it is not broadly regarded as a highly selective software-engineering employer. |
+| Odys Aviation | 43 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Technically ambitious aviation startup, but its software-engineering reputation and selectivity are not yet broadly established. |
 | Oleria Security | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | Oleria | Security-focused startup with relevant domain potential, but limited established evidence of broad engineering prestige. |
 | Olsson | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Olsson Associates | Established engineering design firm, though its software-engineering reputation is limited and domain-specific. |
 | Omnicom Group | 43 | Medium | 2026-09-03 | gpt-5.6-terra | No | Omnicom | Major advertising and marketing-services group, but it is not broadly recognized as a selective software-engineering employer. |
@@ -2430,6 +2447,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Specialisterne | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized specialized employment and consulting organization, but limited general software-engineering brand strength. |
 | Spot & Tango | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Consumer pet-food company with limited established software-engineering prestige. |
 | State Employees' Credit Union (SECU) | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | SECU, State Employees' Credit Union | Large regional credit-union employer with technology roles, but limited national software-engineering prestige. |
+| Strattec | 42 | Medium | 2026-09-03 | gpt-5.6-terra | No | STRATTEC Security Corporation | Established automotive security-components manufacturer with some embedded-technology relevance, but limited software brand strength. |
 | SuccessKPI | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Niche customer-experience analytics software vendor with limited broad recognition and engineering-employer signal. |
 | Sundt | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | Sundt Construction | Respected construction company, but software engineering is not its principal career brand. |
 | T.D. Williamson | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established pipeline-infrastructure company, but software engineering is not a central or widely recognized brand strength. |
@@ -2587,6 +2605,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | RA Capital Management | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | RA Capital | Respected specialist investment firm, but it has limited relevance and visibility as a software engineering employer. |
 | RegDesk | 38 | Medium | 2026-08-18 | gpt-5.6-terra | No | - | A niche regulatory-technology company; relevant startup experience but limited recognition as a software-engineering brand. |
 | Riverside Natural Foods | 38 | Low | 2026-09-01 | gpt-5.6-terra | No | MadeGood | Established food manufacturer, but it has limited visibility and selectivity signal for software engineering. |
+| Ruekert & Mielke | 38 | Medium | 2026-09-03 | gpt-5.6-terra | No | R/M | Established regional engineering consultancy, though its reputation is primarily in civil and municipal engineering rather than software. |
 | Salient Motion | 38 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Niche motion-control technology company with limited broad software-engineering brand recognition. |
 | SanMar | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established apparel and promotional-products distributor with limited software-engineering brand recognition. |
 | SFMOMA | 38 | High | 2026-08-02 | gpt-5.6-terra | No | San Francisco Museum of Modern Art | Well-regarded cultural institution, but it has limited relevance or recognition as a software-engineering employer. |
@@ -2650,6 +2669,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Commence | 35 | Low | 2026-08-11 | gpt-5.6-terra | No | - | The name is ambiguous and does not clearly identify a widely recognized software-engineering employer; available signal is limited. |
 | Concentric | 35 | Low | 2026-08-25 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearly identifiable, widely recognized software-engineering employer, it carries limited general internship signaling. |
 | Conner Strong & Buckelew | 35 | High | 2026-08-02 | gpt-5.6-terra | No | CSB, Conner Strong | Established insurance brokerage and consulting firm, but it has limited relevance and recognition as a software-engineering employer. |
+| Deft AI | 35 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Limited reliable evidence of broad market recognition or a proven, selective software-engineering reputation. |
 | Diversified Automation | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Appears to be a specialized automation business with limited broad recognition as a software-engineering employer. |
 | Dorsia | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage consumer/reservations brand with limited established recognition in software engineering. |
 | DuCharme, McMillen & Associates | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | DMA | Specialized tax-services firm with limited general recognition or demonstrated prestige as a software-engineering employer. |
@@ -2669,6 +2689,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Kastle AI | 35 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering employer brand; likely a niche or early-stage company signal rather than a widely selective name. |
 | Kensington | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous; known businesses using it do not generally carry strong software-engineering prestige. |
 | Keystone AI | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of an established, broadly recognized software-engineering employer brand. |
+| KIHOMAC | 35 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Specialized engineering and defense-services employer with limited widely recognized software-engineering brand. |
 | Kirin | 35 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The name is associated with several entities, but it is not a clear high-prestige software-engineering employer. |
 | Kodak | 35 | High | 2026-07-27 | gpt-5.6-terra | No | Eastman Kodak | Historically iconic brand, but it has limited current relevance as a software-engineering destination and a comparatively weak modern software employer signal. |
 | KPH Healthcare Services | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Regional healthcare and pharmacy organization with limited visible software engineering brand recognition. |
@@ -2704,6 +2725,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Vega Investment Technologies | 35 | Low | 2026-07-20 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; available name alone does not establish strong selectivity or industry-wide technical signal. |
 | Vera Bradley | 35 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer retail brand, but it offers limited software-engineering prestige relative to technology employers. |
 | Weisiger Group | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Primarily an industrial-equipment business with limited visible software engineering brand recognition. |
+| Western Aircraft | 35 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Established aviation maintenance and services business, but with limited software-engineering employer recognition. |
 | AfterQuery | 34 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Appears to be a small AI-focused company; relevant domain signal but limited established employer recognition. |
 | AngloGold Ashanti | 34 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large mining company with limited software-engineering-specific career signal. |
 | Cable One | 34 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Regional telecom and cable operator with limited software-engineering brand recognition. |
@@ -2749,6 +2771,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | e.l.f. Beauty | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer-beauty brand, but it has limited relevance as a software-engineering prestige signal. |
 | ENFRA | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Appears primarily associated with infrastructure or energy services rather than a notable software-engineering employer brand. |
 | Erickson Senior Living | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Primarily a senior-living operator; limited software-engineering reputation as an employer. |
+| Faraday Future | 32 | High | 2026-09-03 | gpt-5.6-terra | No | Faraday Future Intelligent Electric, FFIE | EV engineering work can be relevant, but the company's widely reported business instability weakens its employer and career signal. |
 | First West Credit Union | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | First West | A regional credit union with limited software-engineering visibility outside its local financial-services market. |
 | Geo Owl | 32 | Low | 2026-08-03 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; likely a niche or smaller employer, so its internship signal is not widely established. |
 | Interco | 32 | Low | 2026-08-13 | gpt-5.6-terra | No | - | The name is ambiguous and does not map clearly to a broadly recognized software-engineering employer; limited identifiable engineering-brand signal. |
@@ -2821,6 +2844,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Kelso Industries | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of a notable software-engineering employer brand; conservative assessment. |
 | LINQ | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a clearly established software-engineering employer brand; conservative score due to limited evidence. |
 | MetOx International | 30 | Medium | 2026-08-02 | gpt-5.6-terra | No | MetOx | Specialized materials company with little evident software-engineering brand recognition. |
+| Mind Robotics | 30 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized or selective software-engineering employer brand. |
 | Omnis | 30 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a broadly recognized software-engineering employer signal without further identification. |
 | Overview Energy | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited public evidence of a broadly recognized software engineering employer brand. |
 | Quadrillion | 30 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The supplied name is ambiguous and does not establish a broadly recognized software-engineering employer brand. |
@@ -2882,6 +2906,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Pluralis Research | 28 | Low | 2026-09-01 | gpt-5.6-terra | No | - | Appears to be a small or niche research organization with limited established software-engineering employer recognition. |
 | ProNexus | 28 | Low | 2026-08-08 | gpt-5.6-terra | No | - | The name does not indicate a widely established software-engineering employer brand; limited evidence supports a strong internship prestige signal. |
 | Rainmaker | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a recognized software-engineering employer brand. |
+| Red Rabbit Robotics | 28 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Limited reliable evidence of a widely recognized, selective software-engineering employer brand. |
 | Samaya | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not have a broadly established software engineering reputation. |
 | SimIS | 28 | Low | 2026-08-21 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized software-engineering employer brand or highly selective internship program. |
 | SoloPulse | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer brand under this name. |
@@ -2901,6 +2926,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Glimpse Engineering | 27 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited identifiable evidence of an established software engineering reputation or selective technical brand. |
 | Ibility | 27 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized software-engineering employer brand; conservative assessment. |
 | Mobius Renewables | 27 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Appears to be a specialized sustainability company with limited widely recognized software-engineering prestige. |
+| Oceanus Marine Technologies | 27 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer brand; marine specialization is niche. |
 | Odin Dynamics, Inc | 27 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable software-engineering brand recognition under this name. |
 | Oligo Space | 27 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Oligo Space has limited established recognition as a software-engineering employer, so its internship signal is currently modest. |
 | Phia | 27 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Ambiguous name and limited evidence of an established software engineering employer brand. |
@@ -2942,6 +2968,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | Eridu AI | 25 | Low | 2026-08-05 | gpt-5.6-terra | No | Eridu | Limited verifiable evidence of a broadly recognized or selective software engineering employer brand. |
 | Exa Labs | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited reliable recognition as a software-engineering employer under this exact name. |
 | Farsight | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and does not provide a clear, broadly established software-engineering prestige signal. |
+| Gritt | 25 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Limited reliable evidence of an established, recognizable software-engineering reputation. |
 | Heliux | 25 | Low | 2026-07-31 | gpt-5.6-terra | No | - | Limited verifiable recognition as a software-engineering employer under this exact name; it does not appear to carry a broadly established technical hiring signal. |
 | Hiverge | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized software-engineering brand. |
 | Horizon Technologies | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a broadly recognized software-engineering employer. |
@@ -2991,6 +3018,7 @@ Showing **3033** of **3033** cached companies (all cached companies).
 | YMCA of Metropolitan Atlanta | 25 | High | 2026-08-02 | gpt-5.6-terra | No | YMCA Metro Atlanta | Established nonprofit organization, but it has little relevant software engineering employer prestige. |
 | Alljoined | 24 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Appears to have limited broad recognition and an unestablished software-engineering employer brand. |
 | C.H. Guenther | 24 | Medium | 2026-08-02 | gpt-5.6-terra | No | C.H. Guenther & Son | Food manufacturing company with little established software-engineering employer recognition. |
+| Dynamic Catholic | 24 | Medium | 2026-09-03 | gpt-5.6-terra | No | Dynamic Catholic Institute | Recognized Catholic media and education nonprofit, but it has little established software-engineering employer signal. |
 | Espa AI | 24 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited public recognition and insufficient evidence of a mature software-engineering reputation. |
 | GenMD | 24 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer. |
 | Huck Adventures | 24 | Low | 2026-08-18 | gpt-5.6-terra | No | - | Appears to have limited visibility and no established software-engineering employer brand. |

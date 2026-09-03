@@ -683,6 +683,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "advanced robotics for manufacturing": {
+      "aliases": [
+        "ARM Institute",
+        "ARM"
+      ],
+      "confidence": "medium",
+      "display_name": "Advanced Robotics for Manufacturing",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Respected manufacturing-robotics organization with industry-specific technical relevance, but not a broadly elite software-engineering signal.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "advanced space": {
       "aliases": [],
       "confidence": "medium",
@@ -1168,6 +1182,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "albedo": {
+      "aliases": [
+        "Albedo Space"
+      ],
+      "confidence": "medium",
+      "display_name": "Albedo",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Visible space-tech startup with technically demanding satellite and data products, offering a solid specialized engineering signal.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "albemarle": {
       "aliases": [],
       "confidence": "medium",
@@ -1586,6 +1613,17 @@
       "prestige_score": 68,
       "reason": "Well-regarded semiconductor and edge-AI company with strong specialized engineering credibility.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "ambi robotics": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Ambi Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Well-regarded robotics startup with a visible AI and warehouse-automation engineering focus; a strong specialized signal.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "ambrook": {
@@ -2723,6 +2761,19 @@
       "prestige_score": 61,
       "reason": "Large, established gaming company with meaningful software work, though its engineering brand is less elite than leading tech firms.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "arizona public service": {
+      "aliases": [
+        "APS"
+      ],
+      "confidence": "high",
+      "display_name": "Arizona Public Service",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Major regulated utility with a credible technical organization, but limited broad software-engineering brand recognition.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "arizona state university": {
@@ -8197,6 +8248,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "contoro": {
+      "aliases": [
+        "Contoro Robotics"
+      ],
+      "confidence": "medium",
+      "display_name": "Contoro",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Robotics startup with relevant technical work, but still a niche and relatively lightly established engineering signal.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "cook group": {
       "aliases": [
         "Cook Medical"
@@ -9350,6 +9414,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "deft ai": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Deft AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "Limited reliable evidence of broad market recognition or a proven, selective software-engineering reputation.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "deka research and development": {
       "aliases": [
         "DEKA"
@@ -10281,6 +10356,19 @@
       "prestige_score": 50,
       "reason": "Large IT-services employer with broad enterprise experience, but generally not viewed as a highly selective software-engineering destination.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "dynamic catholic": {
+      "aliases": [
+        "Dynamic Catholic Institute"
+      ],
+      "confidence": "medium",
+      "display_name": "Dynamic Catholic",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "Recognized Catholic media and education nonprofit, but it has little established software-engineering employer signal.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "dyson": {
@@ -12087,6 +12175,20 @@
       "prestige_score": 45,
       "reason": "Specialized sports fan-engagement software company with relevant product experience but limited broad recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "faraday future": {
+      "aliases": [
+        "Faraday Future Intelligent Electric",
+        "FFIE"
+      ],
+      "confidence": "high",
+      "display_name": "Faraday Future",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "EV engineering work can be relevant, but the company's widely reported business instability weakens its employer and career signal.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "farallon capital management": {
@@ -14640,6 +14742,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "gritt": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Gritt",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Limited reliable evidence of an established, recognizable software-engineering reputation.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "gritt robotics": {
       "aliases": [],
       "confidence": "low",
@@ -15935,6 +16048,17 @@
       "prestige_score": 60,
       "reason": "Major healthcare company with solid enterprise technology opportunities, but not a broadly top-tier software-engineering brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "humanscale": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Humanscale",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established ergonomic-products company, but it is not broadly known as a software-engineering destination.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "humansignal": {
@@ -18079,6 +18203,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "kihomac": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "KIHOMAC",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "Specialized engineering and defense-services employer with limited widely recognized software-engineering brand.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "kikoff": {
       "aliases": [],
       "confidence": "medium",
@@ -19475,6 +19610,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "luxium solutions": {
+      "aliases": [
+        "Luxium"
+      ],
+      "confidence": "medium",
+      "display_name": "Luxium Solutions",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 50,
+      "reason": "Established photonics and optical-components business with credible niche technical relevance, but limited broad software-engineering brand recognition.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "luzco": {
       "aliases": [
         "Luzco Technologies"
@@ -20798,6 +20946,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "mill": {
+      "aliases": [
+        "Mill Industries"
+      ],
+      "confidence": "medium",
+      "display_name": "Mill",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Known consumer climate-tech startup with meaningful hardware and software engineering work, though not broadly top-tier in software recruiting.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "millennium management": {
       "aliases": [
         "Millennium"
@@ -20823,6 +20984,17 @@
       "prestige_score": 50,
       "reason": "Recognized furniture and design company, but it has limited broader software-engineering brand strength.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "mind robotics": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Mind Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 30,
+      "reason": "Limited reliable evidence of a broadly recognized or selective software-engineering employer brand.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "mindsmith": {
@@ -22046,6 +22218,19 @@
       "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
+    "niantic spatial": {
+      "aliases": [
+        "Niantic"
+      ],
+      "confidence": "medium",
+      "display_name": "Niantic Spatial",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 71,
+      "reason": "Carries meaningful recognition from Niantic's AR and geospatial technology lineage, though its standalone engineering brand is still developing.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "nice": {
       "aliases": [
         "NICE Systems"
@@ -22838,6 +23023,17 @@
       "reviewed_at": "2026-08-11",
       "rubric_version": "prestige-v1"
     },
+    "oceanus marine technologies": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Oceanus Marine Technologies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 27,
+      "reason": "Limited reliable evidence of a recognized software-engineering employer brand; marine specialization is niche.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "oceanx": {
       "aliases": [],
       "confidence": "medium",
@@ -22893,6 +23089,17 @@
       "prestige_score": 27,
       "reason": "Limited verifiable software-engineering brand recognition under this name.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "odys aviation": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Odys Aviation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Technically ambitious aviation startup, but its software-engineering reputation and selectivity are not yet broadly established.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "odyssey": {
@@ -25625,6 +25832,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "qualified health": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Qualified Health",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 50,
+      "reason": "Healthcare AI startup with relevant technical positioning, but limited evidence of broad software-engineering brand recognition.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "qualitest": {
       "aliases": [
         "Qualitest Group"
@@ -25671,6 +25889,17 @@
       "prestige_score": 75,
       "reason": "Well-regarded quantitative AI and data-science firm with a selective technical profile, though less broadly known than top trading firms.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "quantinuum": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Quantinuum",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 78,
+      "reason": "Leading quantum-computing company with a strong deep-tech research and engineering reputation; highly respected in its specialty.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "quantum workplace": {
@@ -26054,6 +26283,17 @@
       "prestige_score": 83,
       "reason": "Highly respected open-source and enterprise-software employer with a strong engineering reputation.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "red rabbit robotics": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Red Rabbit Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited reliable evidence of a widely recognized, selective software-engineering employer brand.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "red ventures": {
@@ -27053,6 +27293,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "roush": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "ROUSH",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Well-regarded engineering and automotive-services firm with solid technical credibility, but limited top-tier software-industry recognition.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "royal bank of canada": {
       "aliases": [
         "RBC",
@@ -27144,6 +27395,19 @@
       "prestige_score": 84,
       "reason": "Highly regarded cybersecurity and data-management company with a strong engineering-focused product reputation.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "ruekert and mielke": {
+      "aliases": [
+        "R/M"
+      ],
+      "confidence": "medium",
+      "display_name": "Ruekert & Mielke",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Established regional engineering consultancy, though its reputation is primarily in civil and municipal engineering rather than software.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "rugged robotics": {
@@ -29202,6 +29466,17 @@
       "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
+    "sorting robotics": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Sorting Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Specialized robotics automation startup with relevant technical work, but limited evidence of broad software-engineering selectivity or recognition.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "soti": {
       "aliases": [],
       "confidence": "medium",
@@ -30132,6 +30407,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "strattec": {
+      "aliases": [
+        "STRATTEC Security Corporation"
+      ],
+      "confidence": "medium",
+      "display_name": "Strattec",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established automotive security-components manufacturer with some embedded-technology relevance, but limited software brand strength.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "stride": {
       "aliases": [
         "K12 Inc."
@@ -30934,6 +31222,20 @@
       "prestige_score": 52,
       "reason": "Established power-tools and hardware company, but not widely known for a standout software-engineering employer brand.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "techtronic industries tti": {
+      "aliases": [
+        "TTI",
+        "Techtronic Industries"
+      ],
+      "confidence": "medium",
+      "display_name": "Techtronic Industries (TTI)",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Recognized global tools and technology manufacturer with credible embedded and product-engineering work, though not a premier software employer brand.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "tecovas": {
@@ -33111,6 +33413,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "unitx": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "UnitX",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Industrial computer-vision company with credible applied AI and automation work, though recognition remains specialized.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "unity": {
       "aliases": [
         "Unity Technologies"
@@ -33593,6 +33906,17 @@
       "prestige_score": 48,
       "reason": "Solid regional financial institution, but its software-engineering brand has limited national recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "v2x": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "V2X",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established defense and government-services contractor with substantial technical work, but not a particularly strong general software-engineering brand.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "valeo": {
@@ -34873,6 +35197,17 @@
       "prestige_score": 76,
       "reason": "Well-known autonomous-driving company with credible robotics and AI engineering work; selective technical signal.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "western aircraft": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Western Aircraft",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "Established aviation maintenance and services business, but with limited software-engineering employer recognition.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "western alliance": {
