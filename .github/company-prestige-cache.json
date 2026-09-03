@@ -544,6 +544,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "acumatica": {
+      "aliases": [
+        "Acumatica Cloud ERP"
+      ],
+      "confidence": "medium",
+      "display_name": "Acumatica",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Established cloud-ERP vendor with a credible engineering product, though it has limited broad recognition versus leading software firms.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "acushnet holdings": {
       "aliases": [],
       "confidence": "high",
@@ -7158,6 +7171,20 @@
       "prestige_score": 40,
       "reason": "Large public-sector employer with meaningful technology operations, but limited top-tier software brand signal.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "city of vancouver": {
+      "aliases": [
+        "City of Vancouver, British Columbia",
+        "Vancouver municipal government"
+      ],
+      "confidence": "medium",
+      "display_name": "City of Vancouver",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 49,
+      "reason": "Recognizable municipal employer with potentially meaningful civic-technology work, but its engineering brand is primarily regional and public-sector focused.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "citylogix": {
@@ -23028,6 +23055,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "omnicom group": {
+      "aliases": [
+        "Omnicom"
+      ],
+      "confidence": "medium",
+      "display_name": "Omnicom Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Major advertising and marketing-services group, but it is not broadly recognized as a selective software-engineering employer.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "omnicom health": {
       "aliases": [],
       "confidence": "medium",
@@ -35150,6 +35190,20 @@
       "prestige_score": 75,
       "reason": "Established and selective quantitative trading firm with strong technical signal, particularly for systems and performance-oriented engineering.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "wonder": {
+      "aliases": [
+        "Wonder Group",
+        "Wonder food delivery"
+      ],
+      "confidence": "low",
+      "display_name": "Wonder",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 51,
+      "reason": "The name is associated with a consumer food-tech company, but its software-engineering prestige and internship selectivity are not clearly established.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "woodward": {

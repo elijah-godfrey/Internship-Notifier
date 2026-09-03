@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3029** of **3029** cached companies (all cached companies).
+Showing **3033** of **3033** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -793,6 +793,7 @@ Showing **3029** of **3029** cached companies (all cached companies).
 | Varian | 64 | Medium | 2026-07-22 | gpt-5.6-terra | No | Varian Medical Systems, Varian Medical | Established medical-technology and scientific-instrumentation name with credible engineering work, though its software brand is not broadly elite or consumer-tech prominent. |
 | 8VC | 63 | High | 2026-08-02 | gpt-5.6-terra | No | 8VC Management, LLC | Well-regarded venture firm in technology, but it is not principally a software engineering employer. |
 | AbbVie | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded global biopharma employer, though its software engineering brand is secondary to its life-sciences reputation. |
+| Acumatica | 63 | Medium | 2026-09-03 | gpt-5.6-terra | No | Acumatica Cloud ERP | Established cloud-ERP vendor with a credible engineering product, though it has limited broad recognition versus leading software firms. |
 | Acxiom | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established data and marketing-technology company with a credible engineering signal, though not a top software-brand destination. |
 | Alberta Investment Management Corporation | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | AIMCo | Well-regarded institutional investment manager; technology roles carry a solid finance-sector signal but limited broad software-brand recognition. |
 | Allegro MicroSystems | 63 | High | 2026-08-02 | gpt-5.6-terra | No | Allegro | Respected semiconductor company; engineering credibility is solid, though primarily in hardware rather than software. |
@@ -1666,6 +1667,7 @@ Showing **3029** of **3029** cached companies (all cached companies).
 | Tonal | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognizable connected-fitness technology company with relevant product engineering, but a limited broad prestige signal. |
 | Universal Music Group Careers | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | Universal Music Group, UMG | Major global music company, though software engineering is not its primary public career brand. |
 | Vise | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known fintech startup with relevant engineering work, though its software brand is less established than major fintechs. |
+| Wonder | 51 | Low | 2026-09-03 | gpt-5.6-terra | No | Wonder Group, Wonder food delivery | The name is associated with a consumer food-tech company, but its software-engineering prestige and internship selectivity are not clearly established. |
 | Xylem | 51 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected water-technology company, though its software engineering reputation is primarily industry-specific. |
 | Zayo | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | Zayo Group | Recognized fiber-network and infrastructure provider with relevant technical work, but limited broad software-engineering prestige. |
 | Zions Bank | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | Zions Bancorporation, Zions Bankcorporation | Established regional bank offering credible enterprise technology experience, but limited broader software-engineering prestige. |
@@ -1715,6 +1717,7 @@ Showing **3029** of **3029** cached companies (all cached companies).
 | American University | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | AU | Recognized university, but an internship there generally carries a limited software-engineering employer signal. |
 | BECU | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | Boeing Employees' Credit Union | Respected regional credit union with solid internal technology roles, but modest broader software-engineering brand recognition. |
 | Blue Cross Blue Shield of Arizona | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | BCBSAZ, Blue Cross Blue Shield Arizona | Established regional health insurer; software work is credible but the engineering brand is primarily regional and industry-specific. |
+| City of Vancouver | 49 | Medium | 2026-09-03 | gpt-5.6-terra | No | City of Vancouver, British Columbia, Vancouver municipal government | Recognizable municipal employer with potentially meaningful civic-technology work, but its engineering brand is primarily regional and public-sector focused. |
 | Credit Acceptance Careers | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | Credit Acceptance | Established auto-finance employer with technology roles, but modest broad software-engineering prestige. |
 | CSAA Insurance Group | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | CSAA | Established insurer with technology roles, though its software-engineering reputation is primarily industry-specific. |
 | Deckers Brands | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | Deckers Outdoor Corporation | Recognized consumer-brand company, but software engineering is a supporting function rather than its core market reputation. |
@@ -2267,6 +2270,7 @@ Showing **3029** of **3029** cached companies (all cached companies).
 | Northumbria University | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | University of Northumbria at Newcastle | Established university name, but it is not broadly regarded as a highly selective software-engineering employer. |
 | Oleria Security | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | Oleria | Security-focused startup with relevant domain potential, but limited established evidence of broad engineering prestige. |
 | Olsson | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Olsson Associates | Established engineering design firm, though its software-engineering reputation is limited and domain-specific. |
+| Omnicom Group | 43 | Medium | 2026-09-03 | gpt-5.6-terra | No | Omnicom | Major advertising and marketing-services group, but it is not broadly recognized as a selective software-engineering employer. |
 | Open Road Integrated Media | 43 | Medium | 2026-08-06 | gpt-5.6-terra | No | Open Road Media | Established digital publishing and media business, but it has limited visibility and prestige as a software-engineering employer. |
 | Particle Measuring Systems | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialized instrumentation company, but not widely known as a software-engineering destination. |
 | Per Scholas | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded workforce-development nonprofit, but not primarily an established software-engineering employer. |
