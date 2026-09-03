@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3061** of **3061** cached companies (all cached companies).
+Showing **3064** of **3064** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1868,6 +1868,7 @@ Showing **3061** of **3061** cached companies (all cached companies).
 | Lightspeed Systems | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established education technology and security vendor, but with moderate and sector-specific software-engineering recognition. |
 | Live Oak Bank | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialized bank with a technology-oriented operating model, but limited broad software-engineering prestige. |
 | Lucid Bots | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Relevant robotics startup experience, but the company has limited established recognition in software engineering. |
+| M.C. Dean | 48 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Established engineering and systems-integration contractor, but its software-engineering brand is primarily specialized rather than broadly elite or highly visible. |
 | Mackenzie Investments | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established Canadian asset manager, though it has limited standalone prestige as a software engineering destination. |
 | Marriott Vacations Worldwide | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | MVW | Recognized travel and hospitality business, though not a notably selective or prominent software-engineering brand. |
 | MCG Health | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare-technology company, though its software brand is mainly sector-specific. |
@@ -2032,6 +2033,7 @@ Showing **3061** of **3061** cached companies (all cached companies).
 | Photon | 46 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; the commonly known software-services company has relevant engineering work but limited elite product-engineering prestige. |
 | Realty Income | 46 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected real-estate investment company, but not broadly recognized for software engineering. |
 | Rite Hite | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial safety and loading-dock equipment company, but it has limited broad software-engineering brand recognition. |
+| Rockefeller Capital Management | 46 | Medium | 2026-09-03 | gpt-5.6-terra | No | Rockefeller Capital, RCM | Recognized name in wealth management, but it has a limited broad software-engineering reputation compared with major technology or quantitatively oriented finance employers. |
 | ROCKWOOL Group | 46 | Medium | 2026-07-22 | gpt-5.6-terra | No | ROCKWOOL | Established industrial and building-materials company, but its employer reputation is primarily outside software engineering. |
 | SitusAMC | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established real-estate finance and technology-services firm, but with primarily industry-specific engineering recognition. |
 | skillz | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known mobile-gaming platform company, but its engineering reputation and selectivity are more modest than leading gaming or consumer-tech firms. |
@@ -2456,6 +2458,7 @@ Showing **3061** of **3061** cached companies (all cached companies).
 | The State Bar of California | 42 | High | 2026-08-02 | gpt-5.6-terra | No | State Bar of California, California State Bar | Prominent legal regulatory body, but its technology roles do not carry a strong general software-engineering brand. |
 | Thea Energy | 42 | Low | 2026-08-29 | gpt-5.6-terra | No | - | Early-stage fusion-energy company with technically ambitious work, but limited broad recognition or established software-engineering internship brand. |
 | Triumph | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The company name is ambiguous; absent a clearer entity, it offers only a limited software-engineering prestige signal. |
+| Tutor Intelligence | 42 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Appears to be a specialized early-stage technology company; limited evidence of broad selectivity or an established software-engineering brand. |
 | Tutor Perini Corporation | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established construction and civil-engineering firm, but it is not known for a strong software-engineering brand. |
 | UL Standards & Engagement | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Part of a respected standards ecosystem, but it has limited standalone visibility or prestige as a software engineering employer. |
 | VF | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | VFC | Large apparel company with limited distinct recognition for software engineering roles. |

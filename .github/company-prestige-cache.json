@@ -20306,6 +20306,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "mc dean": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "M.C. Dean",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established engineering and systems-integration contractor, but its software-engineering brand is primarily specialized rather than broadly elite or highly visible.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "mcafee": {
       "aliases": [],
       "confidence": "high",
@@ -27134,6 +27145,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "rockefeller capital management": {
+      "aliases": [
+        "Rockefeller Capital",
+        "RCM"
+      ],
+      "confidence": "medium",
+      "display_name": "Rockefeller Capital Management",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Recognized name in wealth management, but it has a limited broad software-engineering reputation compared with major technology or quantitatively oriented finance employers.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "rocket companies": {
       "aliases": [],
       "confidence": "high",
@@ -32989,6 +33014,17 @@
       "prestige_score": 68,
       "reason": "Technically credible database startup with developer and open-source visibility, but a comparatively emerging employer brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "tutor intelligence": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Tutor Intelligence",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Appears to be a specialized early-stage technology company; limited evidence of broad selectivity or an established software-engineering brand.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "tutor perini": {
