@@ -7446,6 +7446,19 @@
       "reviewed_at": "2026-08-18",
       "rubric_version": "prestige-v1"
     },
+    "clinton foundation": {
+      "aliases": [
+        "Clinton Global Initiative"
+      ],
+      "confidence": "high",
+      "display_name": "Clinton Foundation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 41,
+      "reason": "A recognizable nonprofit organization, but it is not generally regarded as a notable or selective software-engineering employer.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "clio": {
       "aliases": [],
       "confidence": "high",
@@ -11161,6 +11174,19 @@
       "prestige_score": 50,
       "reason": "Large, established utility with credible internal technology work, but limited prestige as a dedicated software-engineering employer.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "enterprise holdings": {
+      "aliases": [
+        "Enterprise Rent-A-Car"
+      ],
+      "confidence": "high",
+      "display_name": "Enterprise Holdings",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "Large, established mobility company with credible internal technology work, but not a broadly prestigious software-engineering destination.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "enterprise mobility": {
@@ -18426,6 +18452,17 @@
       "reviewed_at": "2026-07-28",
       "rubric_version": "prestige-v1"
     },
+    "kokosing": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Kokosing",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 40,
+      "reason": "Well-established construction and infrastructure employer, but its software-engineering reputation is primarily industry-specific.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "kong": {
       "aliases": [],
       "confidence": "high",
@@ -24028,6 +24065,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "parkdepot": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Parkdepot",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Recognized as a parking-technology company, but it has limited broad software-engineering brand recognition or elite-selectivity signal.",
+      "reviewed_at": "2026-09-03",
+      "rubric_version": "prestige-v1"
+    },
     "parkhill": {
       "aliases": [],
       "confidence": "medium",
@@ -26145,6 +26193,17 @@
       "prestige_score": 54,
       "reason": "Respected global engineering consultancy, but its primary reputation is outside mainstream software engineering.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "ramiel capital": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Ramiel Capital",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "Limited publicly recognizable software-engineering employer brand; available evidence is insufficient to support a stronger signal.",
+      "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
     "ramp": {
