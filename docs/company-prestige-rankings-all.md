@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3082** of **3082** cached companies (all cached companies).
+Showing **3083** of **3083** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1912,6 +1912,7 @@ Showing **3082** of **3082** cached companies (all cached companies).
 | SBA Communications Corporation | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established telecommunications-infrastructure company, but not a prominent software-engineering employer brand. |
 | SchoolMint | 48 | Medium | 2026-08-13 | gpt-5.6-terra | No | - | Established education-technology software company with relevant product engineering work, but primarily niche/industry-specific rather than a broadly prestigious engineering signal. |
 | Sharecare | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established digital-health company with relevant technology work, though limited broad selectivity or engineering-brand recognition. |
+| Simon Property Group | 48 | Medium | 2026-09-04 | gpt-5.6-terra | No | SPG, Simon | Well-known major real-estate operator with credible enterprise technology exposure, but it is not broadly recognized as a selective or top-tier software engineering employer. |
 | SMX | 48 | Low | 2026-08-02 | gpt-5.6-terra | No | SMX Tech | Likely a government-focused digital-services contractor; it has a modest, specialized engineering signal rather than broad software-industry prestige. |
 | Snap Finance | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialty-finance company, but it has limited broad recognition as a top software engineering employer. |
 | Société Générale de Surveillance (SGS) | 48 | High | 2026-08-02 | gpt-5.6-terra | No | SGS, SGS SA | Globally recognized testing and inspection company, but not broadly known as a standout software engineering employer. |
