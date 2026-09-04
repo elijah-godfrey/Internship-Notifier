@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3081** of **3081** cached companies (all cached companies).
+Showing **3082** of **3082** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2425,6 +2425,7 @@ Showing **3081** of **3081** cached companies (all cached companies).
 | Kinetic Systems | 42 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Established-sounding industrial technology name, but limited broad software-engineering prestige. |
 | LivaNova | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-device company, but its engineering reputation is primarily clinical and hardware-oriented rather than software-focused. |
 | Lumos | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; likely regional or industry-specific recognition rather than a strong general software signal. |
+| Mary Free Bed Rehabilitation Hospital | 42 | Medium | 2026-09-04 | gpt-5.6-terra | No | Mary Free Bed | A respected specialized rehabilitation healthcare institution, but it has limited broad recognition or selectivity as a software-engineering employer and no prominent engineering brand. |
 | McKinney | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous; the likely advertising-agency employer has limited software-engineering prestige. |
 | McWane | 42 | Medium | 2026-08-20 | gpt-5.6-terra | No | - | Established industrial manufacturer, but it has limited visibility and signaling strength for software-engineering internships. |
 | Menasha Corporation | 42 | High | 2026-07-18 | gpt-5.6-terra | No | - | Long-established packaging and supply-chain company, but not broadly recognized as a software-engineering destination. |
