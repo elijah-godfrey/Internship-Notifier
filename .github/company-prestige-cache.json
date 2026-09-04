@@ -12435,6 +12435,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "fgs global": {
+      "aliases": [
+        "Finsbury Glover Hering",
+        "FGS"
+      ],
+      "confidence": "medium",
+      "display_name": "FGS Global",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Well-regarded global strategic communications and public-affairs firm, but it has limited recognition and selectivity signal specifically for software engineering internships.",
+      "reviewed_at": "2026-09-04",
+      "rubric_version": "prestige-v1"
+    },
     "fhlbank atlanta": {
       "aliases": [
         "Federal Home Loan Bank of Atlanta"

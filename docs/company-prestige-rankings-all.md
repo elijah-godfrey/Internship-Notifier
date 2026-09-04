@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3080** of **3080** cached companies (all cached companies).
+Showing **3081** of **3081** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1842,6 +1842,7 @@ Showing **3080** of **3080** cached companies (all cached companies).
 | EverCommerce | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Vertical-market SaaS business with credible product engineering, but modest broad employer recognition. |
 | Expeditors | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Expeditors International | Established global logistics company, but it is not broadly recognized as a standout software-engineering destination. |
 | Farmers Insurance | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large established insurer offering credible enterprise engineering experience, but limited elite technical-brand signal. |
+| FGS Global | 48 | Medium | 2026-09-04 | gpt-5.6-terra | No | Finsbury Glover Hering, FGS | Well-regarded global strategic communications and public-affairs firm, but it has limited recognition and selectivity signal specifically for software engineering internships. |
 | FHLBank Topeka | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | Federal Home Loan Bank of Topeka, FHLB Topeka | Established regional financial institution with credible technology work, but limited broad recognition or selectivity as a software-engineering brand. |
 | Fidelity National Financial | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | FNF | An established financial-services and title-insurance company, though not broadly recognized for elite software engineering. |
 | Flagright | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Early-stage financial-crime technology company with relevant domain work, but limited broad recognition and established hiring signal. |
