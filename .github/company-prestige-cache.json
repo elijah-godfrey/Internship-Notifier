@@ -3783,6 +3783,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "axle": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Axle",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 30,
+      "reason": "The name is ambiguous and does not establish a broadly recognized software-engineering employer brand.",
+      "reviewed_at": "2026-09-04",
+      "rubric_version": "prestige-v1"
+    },
     "axogen": {
       "aliases": [],
       "confidence": "medium",
@@ -5250,6 +5261,17 @@
       "prestige_score": 42,
       "reason": "Prominent real-estate company, but its employer reputation is not centered on software engineering.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "boston scientific": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Boston Scientific",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Recognized medical-device employer with meaningful engineering rigor, but a comparatively modest software-engineering brand.",
+      "reviewed_at": "2026-09-04",
       "rubric_version": "prestige-v1"
     },
     "bot auto": {
@@ -8701,6 +8723,19 @@
       "prestige_score": 38,
       "reason": "Primarily known as a diversified industrial business rather than a notable software-engineering employer.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "crest nicholson": {
+      "aliases": [
+        "Crest Nicholson Holdings"
+      ],
+      "confidence": "medium",
+      "display_name": "Crest Nicholson",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Established UK housebuilder, but it has limited relevance or recognition as a software-engineering employer.",
+      "reviewed_at": "2026-09-04",
       "rubric_version": "prestige-v1"
     },
     "cresta": {
@@ -15562,6 +15597,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "hexagon ab": {
+      "aliases": [
+        "Hexagon"
+      ],
+      "confidence": "medium",
+      "display_name": "Hexagon AB",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded industrial technology and geospatial-software company; a solid technical signal, though not a top generalist software employer.",
+      "reviewed_at": "2026-09-04",
+      "rubric_version": "prestige-v1"
+    },
     "hexaware": {
       "aliases": [
         "Hexaware Technologies"
@@ -16718,6 +16766,17 @@
       "prestige_score": 30,
       "reason": "This name is ambiguous and does not by itself indicate a widely recognized or selective software-engineering employer.",
       "reviewed_at": "2026-08-03",
+      "rubric_version": "prestige-v1"
+    },
+    "innovative systems": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Innovative Systems",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Appears to be an established enterprise software provider, but has limited broad recognition as a selective software-engineering destination.",
+      "reviewed_at": "2026-09-04",
       "rubric_version": "prestige-v1"
     },
     "inogen": {
@@ -28666,6 +28725,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "shawbrook": {
+      "aliases": [
+        "Shawbrook Bank"
+      ],
+      "confidence": "medium",
+      "display_name": "Shawbrook",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 47,
+      "reason": "Established UK specialist bank with a credible technology environment, but limited broad software-engineering prestige.",
+      "reviewed_at": "2026-09-04",
+      "rubric_version": "prestige-v1"
+    },
     "shawmut design and construction": {
       "aliases": [
         "Shawmut"
@@ -30631,6 +30703,19 @@
       "prestige_score": 62,
       "reason": "Major financial-services and insurance employer with solid technology roles, but a moderate software-engineering brand relative to software-first firms.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "sunbird software": {
+      "aliases": [
+        "Sunbird DCIM"
+      ],
+      "confidence": "medium",
+      "display_name": "Sunbird Software",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 49,
+      "reason": "Recognized in the specialized data-center infrastructure-management software market, but its engineering brand is niche.",
+      "reviewed_at": "2026-09-04",
       "rubric_version": "prestige-v1"
     },
     "suncor": {
@@ -34316,6 +34401,19 @@
       "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
+    "venerable": {
+      "aliases": [
+        "Venerable Holdings"
+      ],
+      "confidence": "medium",
+      "display_name": "Venerable",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 40,
+      "reason": "Established financial-services company, but not broadly known for a strong or selective software-engineering brand.",
+      "reviewed_at": "2026-09-04",
+      "rubric_version": "prestige-v1"
+    },
     "veolia": {
       "aliases": [],
       "confidence": "high",
@@ -34689,6 +34787,17 @@
       "prestige_score": 56,
       "reason": "Established people-analytics software company with a credible SaaS engineering signal, though not broadly elite.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "visionist": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Visionist",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 56,
+      "reason": "Niche cybersecurity and government-focused technology work can be technically credible, though recognition is limited outside that market.",
+      "reviewed_at": "2026-09-04",
       "rubric_version": "prestige-v1"
     },
     "vistra": {
