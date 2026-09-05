@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3083** cached companies (maximum 500).
+Showing **500** of **3089** cached companies (maximum 500).
 
-_The 2583 lowest-scored companies are omitted by the report cap._
+_The 2589 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -208,6 +208,7 @@ _The 2583 lowest-scored companies are omitted by the report cap._
 | Klaviyo | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Prominent public marketing-automation software company with a strong modern SaaS engineering reputation and meaningful selectivity. |
 | Larian Studios | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized game studio with a strong recent technical and creative reputation; a selective, respected signal for game-engineering roles. |
 | Linear | 78 | High | 2026-08-02 | gpt-5.6-terra | No | Linear.app | Highly respected product-focused software company with an unusually strong design and engineering reputation for its size. |
+| Man Group | 78 | High | 2026-09-05 | gpt-5.6-terra | No | Man AHL | A globally respected investment manager with a selective technical and quantitative reputation; strong signal for engineering roles in finance. |
 | Marshall Wace | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded quantitative hedge fund, offering a strong selective signal for engineering in systematic finance. |
 | Marvell | 78 | High | 2026-07-21 | gpt-5.6-terra | No | Marvell Technology | Well-regarded semiconductor company with strong technical credibility in networking, silicon, and systems software. |
 | Micron Technology | 78 | High | 2026-08-02 | gpt-5.6-terra | No | Micron | Major, respected semiconductor company with strong technical selectivity and a valuable engineering signal, including software-adjacent systems work. |
@@ -400,6 +401,7 @@ _The 2583 lowest-scored companies are omitted by the report cap._
 | Attentive | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Attentive Mobile | Respected growth-stage marketing technology company with a credible product-engineering reputation and competitive hiring. |
 | Axon | 72 | High | 2026-07-27 | gpt-5.6-terra | No | Axon Enterprise | Recognized public-safety technology company with meaningful software products and a solid engineering signal, though not in the broad top tier of software employers. |
 | Blackstone | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Elite, highly selective finance brand; engineering roles benefit from its strong overall career signal, despite a less prominent software brand than major tech firms. |
+| Brave | 72 | Medium | 2026-09-05 | gpt-5.6-terra | No | Brave Software, Brave Browser | The privacy-focused browser company has a respected open-source and browser-engineering brand, though it is smaller and less selective than top platform firms. |
 | Bugcrowd | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-recognized cybersecurity platform with a credible technical brand in crowdsourced security and vulnerability disclosure. |
 | Carta | 72 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-known venture-backed fintech with a solid engineering and startup-career signal. |
 | Circle | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Circle Internet Financial | Recognized fintech and digital-assets infrastructure company with a strong, though specialized, software-engineering signal. |
@@ -525,5 +527,3 @@ _The 2583 lowest-scored companies are omitted by the report cap._
 | Rocket Lab USA | 69 | High | 2026-08-02 | gpt-5.6-terra | No | Rocket Lab | Highly regarded space company with strong aerospace and embedded/software engineering relevance, though less established than the very top technology employers. |
 | SoFi | 69 | High | 2026-08-02 | gpt-5.6-terra | No | SoFi Technologies, Social Finance | Prominent fintech with meaningful consumer-product and platform engineering work, though below the strongest technology brands. |
 | Sonos | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded consumer audio company with meaningful embedded, product, and platform engineering work. |
-| Starburst | 69 | Medium | 2026-08-02 | gpt-5.6-terra | No | Starburst Data | Recognized data-platform company with a credible technical reputation, particularly in data infrastructure. |
-| University of Chicago | 69 | High | 2026-08-02 | gpt-5.6-terra | No | UChicago | Elite research university with strong quantitative and computing credibility, though its software-employer brand is less prominent than top tech firms'. |

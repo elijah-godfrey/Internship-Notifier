@@ -5372,6 +5372,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "brave": {
+      "aliases": [
+        "Brave Software",
+        "Brave Browser"
+      ],
+      "confidence": "medium",
+      "display_name": "Brave",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "The privacy-focused browser company has a respected open-source and browser-engineering brand, though it is smaller and less selective than top platform firms.",
+      "reviewed_at": "2026-09-05",
+      "rubric_version": "prestige-v1"
+    },
     "bread financial": {
       "aliases": [
         "Bread Financial Holdings",
@@ -7657,6 +7671,20 @@
       "prestige_score": 46,
       "reason": "Established utility company whose technology roles are solid but not widely recognized as a software-engineering signal.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "cna insurance": {
+      "aliases": [
+        "CNA",
+        "CNA Financial"
+      ],
+      "confidence": "medium",
+      "display_name": "CNA Insurance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "A longstanding insurance employer with solid enterprise technology exposure, but limited prestige as a software-engineering destination.",
+      "reviewed_at": "2026-09-05",
       "rubric_version": "prestige-v1"
     },
     "cobalt": {
@@ -12422,6 +12450,19 @@
       "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
+    "fervo energy": {
+      "aliases": [
+        "Fervo"
+      ],
+      "confidence": "medium",
+      "display_name": "Fervo Energy",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "A well-regarded climate and geothermal technology startup with meaningful technical work, though limited broad software-engineering brand recognition.",
+      "reviewed_at": "2026-09-05",
+      "rubric_version": "prestige-v1"
+    },
     "fever up": {
       "aliases": [
         "Fever"
@@ -13624,6 +13665,19 @@
       "prestige_score": 69,
       "reason": "Well-regarded technology and embedded-systems employer with a credible engineering reputation, though not generally viewed as elite software prestige.",
       "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
+    "garner health": {
+      "aliases": [
+        "Garner"
+      ],
+      "confidence": "medium",
+      "display_name": "Garner Health",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "A credible, growing health-tech company, but its software-engineering brand and selectivity are not yet broadly established across the industry.",
+      "reviewed_at": "2026-09-05",
       "rubric_version": "prestige-v1"
     },
     "garrett motion": {
@@ -19495,6 +19549,20 @@
       "reviewed_at": "2026-07-29",
       "rubric_version": "prestige-v1"
     },
+    "loram": {
+      "aliases": [
+        "Loram Maintenance of Way",
+        "Loram Technologies"
+      ],
+      "confidence": "medium",
+      "display_name": "Loram",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "A recognized rail-infrastructure specialist, but its engineering reputation is primarily industry-specific rather than a strong general software signal.",
+      "reviewed_at": "2026-09-05",
+      "rubric_version": "prestige-v1"
+    },
     "louis dreyfus": {
       "aliases": [
         "LDC",
@@ -19985,6 +20053,19 @@
       "prestige_score": 58,
       "reason": "Highly recognizable organization with interesting sports, media, and data technology work, but a less established general software-employer brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "man group": {
+      "aliases": [
+        "Man AHL"
+      ],
+      "confidence": "high",
+      "display_name": "Man Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 78,
+      "reason": "A globally respected investment manager with a selective technical and quantitative reputation; strong signal for engineering roles in finance.",
+      "reviewed_at": "2026-09-05",
       "rubric_version": "prestige-v1"
     },
     "manhattan associates": {
