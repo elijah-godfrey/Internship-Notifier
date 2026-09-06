@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3089** of **3089** cached companies (all cached companies).
+Showing **3090** of **3090** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1627,6 +1627,7 @@ Showing **3089** of **3089** cached companies (all cached companies).
 | Voltus | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible energy-tech company with relevant software work, though not broadly considered a top engineering destination. |
 | Voya Financial | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Voya | Established financial-services company with solid enterprise technology work, but a modest software-specific prestige signal. |
 | VSP Vision | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | VSP | Established vision-care company with a credible but not especially prominent software engineering brand. |
+| Walgreens | 52 | High | 2026-09-06 | gpt-5.6-terra | No | Walgreens Boots Alliance | Well-known national retailer with meaningful enterprise technology work, but its software engineering brand and internship selectivity are not generally viewed as top-tier. |
 | Weatherford | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established oilfield-services company, but its software engineering brand is industry-specific rather than broadly prestigious. |
 | Werfen | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected diagnostics and medical-device company, though its software engineering reputation is specialized rather than broad. |
 | WGU | 52 | High | 2026-08-05 | gpt-5.6-terra | No | Western Governors University | Well-known online university with meaningful technology operations, though not broadly viewed as a top-tier software engineering brand. |
