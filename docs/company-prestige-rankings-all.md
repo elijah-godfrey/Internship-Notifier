@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3090** of **3090** cached companies (all cached companies).
+Showing **3091** of **3091** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1114,6 +1114,7 @@ Showing **3090** of **3090** cached companies (all cached companies).
 | John Lewis Partnership | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | John Lewis, Waitrose | Well-known UK retail brand with credible digital engineering work, though not a top-tier software employer signal. |
 | Kairos Power | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable advanced-nuclear company with a strong technical profile, though its software engineering brand is not broadly established. |
 | Kepler Communications | 58 | Medium | 2026-07-22 | gpt-5.6-terra | No | Kepler | Respected satellite-communications startup with technically relevant systems work, but a relatively niche and less broadly recognized software-engineering brand. |
+| Kite Pharma | 58 | Medium | 2026-09-08 | gpt-5.6-terra | No | Kite, a Gilead Company | Well-regarded cell-therapy biotech with a credible engineering signal in specialized life-sciences software, but it is not broadly viewed as a top-tier software engineering employer. |
 | Koddi | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded ad-tech and commerce-media platform, with a credible but relatively niche engineering brand. |
 | Loblaw Companies | 58 | Medium | 2026-07-29 | gpt-5.6-terra | No | Loblaw | Major Canadian retailer with credible large-scale digital, e-commerce, and enterprise engineering work, but its software-engineering brand is primarily regional and not broadly viewed as top-tier tech. |
 | Lonza | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Lonza Group | Well-regarded life-sciences manufacturer, but its primary employer brand is not software engineering. |
