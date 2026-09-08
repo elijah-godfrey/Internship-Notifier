@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3091** of **3091** cached companies (all cached companies).
+Showing **3095** of **3095** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1181,6 +1181,7 @@ Showing **3091** of **3091** cached companies (all cached companies).
 | BetterHelp | 57 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized digital-health product with substantial software operations, though its engineering reputation is not top-tier and brand concerns temper the signal. |
 | Bloomberg Philanthropies | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Strong Bloomberg-affiliated institutional name, but it is primarily a philanthropy organization rather than a recognized software-engineering employer. |
 | Bosch Home Comfort | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Benefits from the Bosch engineering association and connected-product work, but this division has a narrower software-employer profile. |
+| Buildertrend | 57 | Medium | 2026-09-08 | gpt-5.6-terra | No | Buildertrend Solutions, Inc. | Established construction-management SaaS company with a credible product engineering signal, though its recognition is mainly vertical-specific rather than broadly elite software engineering. |
 | Carbon Direct | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible climate-tech and carbon-management company with relevant data and software work, though still niche. |
 | Carrier Global | 57 | High | 2026-08-02 | gpt-5.6-terra | No | Carrier | Recognized industrial technology company with credible engineering work, though its reputation is centered outside software. |
 | Cerence | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized automotive conversational-AI and voice-software specialist, with a solid but niche engineering signal. |
@@ -1483,6 +1484,7 @@ Showing **3091** of **3091** cached companies (all cached companies).
 | Cohere Health | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Growing healthcare technology company with positive domain relevance but a more limited general engineering signal. |
 | CoLab Software | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | CoLab | Credible engineering-collaboration SaaS company, but still a relatively niche software brand. |
 | Cooper Companies | 53 | High | 2026-08-02 | gpt-5.6-terra | No | The Cooper Companies, CooperSurgical, CooperVision | Established medical-device company with credible technical roles, though software engineering is not its primary employer brand. |
+| Coretek Services | 53 | Medium | 2026-09-08 | gpt-5.6-terra | No | Coretek | Established cloud and IT consulting firm with relevant enterprise engineering work, but consulting-focused and not broadly viewed as a top-tier software engineering brand. |
 | Crunchtime | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established vertical SaaS provider with relevant product engineering, but limited broad industry prestige. |
 | Cushman & Wakefield | 53 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major commercial real-estate services firm, but its technology reputation is secondary to its core industry brand. |
 | Double Eleven | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected game-development studio within its niche, though its signal is narrower than leading game or general-tech employers. |
@@ -1882,6 +1884,7 @@ Showing **3091** of **3091** cached companies (all cached companies).
 | Live Oak Bank | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialized bank with a technology-oriented operating model, but limited broad software-engineering prestige. |
 | Lucid Bots | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Relevant robotics startup experience, but the company has limited established recognition in software engineering. |
 | M.C. Dean | 48 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Established engineering and systems-integration contractor, but its software-engineering brand is primarily specialized rather than broadly elite or highly visible. |
+| M3USA | 48 | Medium | 2026-09-08 | gpt-5.6-terra | No | M3 USA | Recognized healthcare and market-research business within the M3 group, but its software engineering brand is more industry-specific than a strong general technology career signal. |
 | Mackenzie Investments | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established Canadian asset manager, though it has limited standalone prestige as a software engineering destination. |
 | Marriott Vacations Worldwide | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | MVW | Recognized travel and hospitality business, though not a notably selective or prominent software-engineering brand. |
 | MCG Health | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare-technology company, though its software brand is mainly sector-specific. |
@@ -2829,6 +2832,7 @@ Showing **3091** of **3091** cached companies (all cached companies).
 | Brevium | 31 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Appears to be a niche company with limited broadly established visibility or prestige in software engineering. |
 | City of Amarillo | 31 | High | 2026-08-02 | gpt-5.6-terra | No | - | Local-government technology work is credible but carries limited software-industry recognition. |
 | City of Aurora | 31 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Municipal employer with limited broad software-engineering brand recognition. |
+| ConductorAI | 31 | Low | 2026-09-08 | gpt-5.6-terra | No | Conductor AI | Limited broadly verifiable evidence of a widely recognized or selective software engineering employer brand; the name may refer to a small or specialized organization. |
 | Construction Resources | 31 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Construction-products business with little software-engineering brand recognition. |
 | Double Good | 31 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Consumer fundraising and snack company with limited established software-engineering employer recognition. |
 | Faherty Brand | 31 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer apparel brand, but it has limited software-engineering prestige or technical hiring signal. |

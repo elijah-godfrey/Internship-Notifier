@@ -5700,6 +5700,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "buildertrend": {
+      "aliases": [
+        "Buildertrend Solutions, Inc."
+      ],
+      "confidence": "medium",
+      "display_name": "Buildertrend",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Established construction-management SaaS company with a credible product engineering signal, though its recognition is mainly vertical-specific rather than broadly elite software engineering.",
+      "reviewed_at": "2026-09-08",
+      "rubric_version": "prestige-v1"
+    },
     "businessolver": {
       "aliases": [],
       "confidence": "medium",
@@ -8144,6 +8157,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "conductorai": {
+      "aliases": [
+        "Conductor AI"
+      ],
+      "confidence": "low",
+      "display_name": "ConductorAI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 31,
+      "reason": "Limited broadly verifiable evidence of a widely recognized or selective software engineering employer brand; the name may refer to a small or specialized organization.",
+      "reviewed_at": "2026-09-08",
+      "rubric_version": "prestige-v1"
+    },
     "conductorone": {
       "aliases": [
         "Conductor One"
@@ -8460,6 +8486,19 @@
       "prestige_score": 52,
       "reason": "Large insurance and retirement-services firm with solid enterprise technology work but limited software-brand distinction.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "coretek services": {
+      "aliases": [
+        "Coretek"
+      ],
+      "confidence": "medium",
+      "display_name": "Coretek Services",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "Established cloud and IT consulting firm with relevant enterprise engineering work, but consulting-focused and not broadly viewed as a top-tier software engineering brand.",
+      "reviewed_at": "2026-09-08",
       "rubric_version": "prestige-v1"
     },
     "coreweave": {
@@ -19899,6 +19938,19 @@
       "prestige_score": 34,
       "reason": "Venture-capital firm with limited direct software-engineering employer signal.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "m3usa": {
+      "aliases": [
+        "M3 USA"
+      ],
+      "confidence": "medium",
+      "display_name": "M3USA",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Recognized healthcare and market-research business within the M3 group, but its software engineering brand is more industry-specific than a strong general technology career signal.",
+      "reviewed_at": "2026-09-08",
       "rubric_version": "prestige-v1"
     },
     "mach industries": {
