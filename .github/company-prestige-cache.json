@@ -6253,6 +6253,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "carmeuse": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Carmeuse",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 37,
+      "reason": "Established industrial materials company, but it has limited software engineering visibility or prestige.",
+      "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
     "carnegie mellon university": {
       "aliases": [
         "CMU",
@@ -15366,6 +15377,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "hb fuller": {
+      "aliases": [
+        "H. B. Fuller"
+      ],
+      "confidence": "high",
+      "display_name": "H.B. Fuller",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established specialty-chemicals manufacturer, but it has limited recognition or selectivity as a software engineering employer.",
+      "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
     "hbk capital management": {
       "aliases": [
         "HBK"
@@ -15662,6 +15686,19 @@
       "prestige_score": 34,
       "reason": "Limited established evidence of a broadly recognized software-engineering employer; likely a specialized early-stage energy company.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "herzog railroad services": {
+      "aliases": [
+        "Herzog"
+      ],
+      "confidence": "medium",
+      "display_name": "Herzog Railroad Services",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 39,
+      "reason": "Specialized railroad-services employer with potentially relevant operational software work, but limited broader software engineering recognition.",
+      "reviewed_at": "2026-09-09",
       "rubric_version": "prestige-v1"
     },
     "hewlett packard enterprise": {
@@ -26031,6 +26068,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "publicis groupe": {
+      "aliases": [
+        "Publicis"
+      ],
+      "confidence": "high",
+      "display_name": "Publicis Groupe",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Globally recognized advertising group with meaningful digital and technology work, but its core employer brand is not elite software engineering.",
+      "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
     "pure storage": {
       "aliases": [],
       "confidence": "high",
@@ -26931,6 +26981,19 @@
       "prestige_score": 42,
       "reason": "Niche advertising-technology company with limited broad recognition as a software engineering employer.",
       "reviewed_at": "2026-08-11",
+      "rubric_version": "prestige-v1"
+    },
+    "retell ai": {
+      "aliases": [
+        "Retell"
+      ],
+      "confidence": "medium",
+      "display_name": "Retell AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Visible AI voice-agent startup with a relevant engineering product, but its early-stage status limits established selectivity and long-term brand signal.",
+      "reviewed_at": "2026-09-09",
       "rubric_version": "prestige-v1"
     },
     "retool": {
@@ -31141,6 +31204,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "syntiant": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Syntiant",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Respected edge-AI and semiconductor startup niche with technically relevant engineering work, though less broadly recognized than leading AI or chip companies.",
+      "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
     "sysco": {
       "aliases": [],
       "confidence": "high",
@@ -34288,6 +34362,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "utah state university": {
+      "aliases": [
+        "USU"
+      ],
+      "confidence": "high",
+      "display_name": "Utah State University",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Recognized public research university that can offer credible technical and research experience, though it is not broadly a top software-engineering employer brand.",
+      "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
     "uw credit union": {
       "aliases": [],
       "confidence": "medium",
@@ -36452,6 +36539,19 @@
       "prestige_score": 41,
       "reason": "Established logistics provider, but its software engineering brand has limited recognition outside logistics.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "zaber technologies": {
+      "aliases": [
+        "Zaber"
+      ],
+      "confidence": "medium",
+      "display_name": "Zaber Technologies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Technically credible motion-control and laboratory-automation company, but its software engineering brand is primarily niche and regional.",
+      "reviewed_at": "2026-09-09",
       "rubric_version": "prestige-v1"
     },
     "zaimler": {
