@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3109** of **3109** cached companies (all cached companies).
+Showing **3112** of **3112** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -44,6 +44,7 @@ Showing **3109** of **3109** cached companies (all cached companies).
 
 | Company | Score | Confidence | Reviewed | Model | Manual | Aliases | Reason |
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
+| NASA Jet Propulsion Laboratory | 89 | High | 2026-09-09 | gpt-5.6-terra | No | JPL, Jet Propulsion Laboratory, NASA JPL | Globally recognized NASA-affiliated research laboratory with highly selective, technically demanding engineering work and an exceptional STEM career signal. |
 | Snowflake | 89 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded data-cloud company with a strong engineering brand, demanding technical work, and notable selectivity. |
 | Airbnb | 88 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly selective, globally recognized technology company with a strong consumer-product engineering reputation. |
 | ByteDance | 88 | High | 2026-07-18 | gpt-5.6-terra | No | - | Globally recognized, highly selective consumer-tech company with major engineering scale and strong systems/ML credibility. |
@@ -1248,6 +1249,7 @@ Showing **3109** of **3109** cached companies (all cached companies).
 | Perseus Group | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | Perseus Group, Constellation Software | Established vertical-market software operator, providing a solid software signal but limited broad name recognition. |
 | PGIM | 57 | High | 2026-08-02 | gpt-5.6-terra | No | Prudential Global Investment Management | Established global asset manager with relevant financial-technology work, but a moderate rather than elite engineering signal. |
 | Phoenix Contact | 57 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial automation company with credible embedded and industrial-software work, though its signal is industry-specific. |
+| Polar Semiconductor | 57 | Medium | 2026-09-09 | gpt-5.6-terra | No | - | Specialized semiconductor manufacturer with relevant technical work, though its software-engineering brand is less prominent than major chip firms. |
 | Prosper Funding | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | Prosper Marketplace | Recognized online lending fintech with relevant engineering work, though its software-employer prestige is not top tier. |
 | Reality Defender | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Visible deepfake-detection startup in a relevant technical area, but still an early-stage and less-established engineering signal. |
 | Repsol | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large, established energy company with credible technical work, but it is not broadly a top software-engineering destination. |
@@ -1871,6 +1873,7 @@ Showing **3109** of **3109** cached companies (all cached companies).
 | Graco | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial manufacturer, but its software-engineering reputation is secondary to its hardware and industrial business. |
 | Grassroots Analytics | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established political-data and analytics niche, but limited broad software-engineering employer recognition. |
 | GrayMatter Robotics | 48 | Medium | 2026-08-26 | gpt-5.6-terra | No | - | A specialized robotics/industrial-automation company with relevant technical work, but limited broad recognition or established elite software-engineering recruiting signal compared with major technology and robotics employers. |
+| GreatAmerica Financial Services | 48 | Medium | 2026-09-09 | gpt-5.6-terra | No | GreatAmerica | Established business-finance company, but it has limited broad recognition as a selective software-engineering employer. |
 | Haize Labs | 48 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Early-stage AI security company with some relevant technical positioning but limited established employer-brand evidence. |
 | Healthfirst | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established regional health insurer; likely solid enterprise software exposure but not a widely recognized software-engineering brand. |
 | HireVue | 48 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Recognized HR technology company, but it has a comparatively limited software-engineering prestige signal and broad selectivity reputation. |

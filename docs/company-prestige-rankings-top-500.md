@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3109** cached companies (maximum 500).
+Showing **500** of **3112** cached companies (maximum 500).
 
-_The 2609 lowest-scored companies are omitted by the report cap._
+_The 2612 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -46,6 +46,7 @@ _The 2609 lowest-scored companies are omitted by the report cap._
 
 | Company | Score | Confidence | Reviewed | Model | Manual | Aliases | Reason |
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
+| NASA Jet Propulsion Laboratory | 89 | High | 2026-09-09 | gpt-5.6-terra | No | JPL, Jet Propulsion Laboratory, NASA JPL | Globally recognized NASA-affiliated research laboratory with highly selective, technically demanding engineering work and an exceptional STEM career signal. |
 | Snowflake | 89 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded data-cloud company with a strong engineering brand, demanding technical work, and notable selectivity. |
 | Airbnb | 88 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly selective, globally recognized technology company with a strong consumer-product engineering reputation. |
 | ByteDance | 88 | High | 2026-07-18 | gpt-5.6-terra | No | - | Globally recognized, highly selective consumer-tech company with major engineering scale and strong systems/ML credibility. |
@@ -526,4 +527,3 @@ _The 2609 lowest-scored companies are omitted by the report cap._
 | Muon Space | 69 | Medium | 2026-08-02 | gpt-5.6-terra | No | Muon | Promising space-technology company with technically demanding work and a strong niche signal, though it is not yet a broadly established engineering brand. |
 | Rocket Lab USA | 69 | High | 2026-08-02 | gpt-5.6-terra | No | Rocket Lab | Highly regarded space company with strong aerospace and embedded/software engineering relevance, though less established than the very top technology employers. |
 | SoFi | 69 | High | 2026-08-02 | gpt-5.6-terra | No | SoFi Technologies, Social Finance | Prominent fintech with meaningful consumer-product and platform engineering work, though below the strongest technology brands. |
-| Sonos | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded consumer audio company with meaningful embedded, product, and platform engineering work. |

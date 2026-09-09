@@ -14883,6 +14883,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "greatamerica financial services": {
+      "aliases": [
+        "GreatAmerica"
+      ],
+      "confidence": "medium",
+      "display_name": "GreatAmerica Financial Services",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established business-finance company, but it has limited broad recognition as a selective software-engineering employer.",
+      "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
     "greene tweed": {
       "aliases": [],
       "confidence": "high",
@@ -21945,6 +21958,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "nasa jet propulsion laboratory": {
+      "aliases": [
+        "JPL",
+        "Jet Propulsion Laboratory",
+        "NASA JPL"
+      ],
+      "confidence": "high",
+      "display_name": "NASA Jet Propulsion Laboratory",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 89,
+      "reason": "Globally recognized NASA-affiliated research laboratory with highly selective, technically demanding engineering work and an exceptional STEM career signal.",
+      "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
     "nasdaq": {
       "aliases": [],
       "confidence": "high",
@@ -25440,6 +25468,17 @@
       "prestige_score": 78,
       "reason": "Highly selective investment firm with a strong quantitative and technology career signal.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "polar semiconductor": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Polar Semiconductor",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Specialized semiconductor manufacturer with relevant technical work, though its software-engineering brand is less prominent than major chip firms.",
+      "reviewed_at": "2026-09-09",
       "rubric_version": "prestige-v1"
     },
     "polaris": {
