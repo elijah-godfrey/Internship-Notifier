@@ -3259,6 +3259,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "asure": {
+      "aliases": [
+        "Asure Software"
+      ],
+      "confidence": "medium",
+      "display_name": "Asure",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Asure is a recognizable HR/payroll software company, but it has a limited broad software-engineering prestige signal compared with leading technology employers.",
+      "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
     "asus usa": {
       "aliases": [
         "ASUS",

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3103** of **3103** cached companies (all cached companies).
+Showing **3104** of **3104** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2385,6 +2385,7 @@ Showing **3103** of **3103** cached companies (all cached companies).
 | AriensCo | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ariens Company | Established outdoor power-equipment manufacturer, but it has limited software-engineering brand recognition. |
 | Arkema Global | 42 | Medium | 2026-07-29 | gpt-5.6-terra | No | Arkema | Recognized global materials and chemicals company, but it is not principally known as a software-engineering employer. |
 | Ascend Performance Materials | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ascend | Established materials manufacturer with limited software-engineering prestige outside its industry. |
+| Asure | 42 | Medium | 2026-09-09 | gpt-5.6-terra | No | Asure Software | Asure is a recognizable HR/payroll software company, but it has a limited broad software-engineering prestige signal compared with leading technology employers. |
 | Avaap | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Enterprise consulting and implementation firm with relevant technical roles, but limited broad software-engineering brand recognition. |
 | Axogen | 42 | Medium | 2026-07-23 | gpt-5.6-terra | No | - | Specialized medical-technology company with a credible niche reputation, but limited broad recognition or software-engineering prestige. |
 | Aypa Power | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Energy-storage developer with limited visibility and limited established reputation as a software engineering employer. |
