@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3105** of **3105** cached companies (all cached companies).
+Showing **3109** of **3109** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -902,6 +902,7 @@ Showing **3105** of **3105** cached companies (all cached companies).
 | Mizuho Securities USA | 62 | Medium | 2026-08-01 | gpt-5.6-terra | No | Mizuho Securities | Recognized global financial-services brand with selective technology roles, though its software engineering reputation is primarily finance-industry-specific rather than a broad tech signal. |
 | Motorola | 62 | Medium | 2026-07-24 | gpt-5.6-terra | No | Motorola Solutions, Motorola Mobility | Recognized technology brand with credible engineering heritage, though its current software-engineering signal is less elite and depends heavily on the specific Motorola entity and team. |
 | Mytra | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Robotics and automation startup with technically relevant engineering work, but limited established name recognition. |
+| Netcompany | 62 | Medium | 2026-09-09 | gpt-5.6-terra | No | Netcompany Group A/S | Well-known European IT consulting and digital-services employer with a solid but not elite engineering signal. |
 | Northern Trust | 62 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services institution with substantial technology operations and a solid engineering career signal. |
 | Notability | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ginger Labs | Well-known consumer productivity app with credible product engineering relevance, though the employer brand is smaller and less selective than leading software firms. |
 | Ntrepid Corporation | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized cybersecurity and national-security technology employer with a solid niche technical signal, though limited mainstream recognition. |
@@ -1649,6 +1650,7 @@ Showing **3105** of **3105** cached companies (all cached companies).
 | Allegion | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established security-products company with technical offerings, but modest broad recognition for software engineering. |
 | AMC Networks | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognizable media company, but engineering prestige is mainly tied to internal streaming and media technology rather than a leading software brand. |
 | Armanino | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | Armanino LLP | Established accounting and consulting firm with technology practices, but modest standalone software-engineering prestige. |
+| Ascension | 51 | Medium | 2026-09-09 | gpt-5.6-terra | No | Ascension Health | Large recognized healthcare system with technology roles, but not a particularly strong or selective software engineering brand. |
 | AssetMark | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | AssetMark Financial Holdings | Established financial-services platform, but a modest software-engineering prestige signal outside its niche. |
 | Atos | 51 | High | 2026-08-02 | gpt-5.6-terra | No | Atos SE | Large, established IT-services employer, though its software-engineering signal is more services-oriented than elite product engineering. |
 | Baker Tilly | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded accounting and advisory firm, but software engineering is not a core source of employer prestige. |
@@ -2150,6 +2152,7 @@ Showing **3105** of **3105** cached companies (all cached companies).
 | Pella Corporation | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established manufacturing brand, but software engineering is not a central source of employer prestige. |
 | Picton Mahoney Asset Management | 45 | Medium | 2026-08-13 | gpt-5.6-terra | No | Picton Mahoney | Respected Canadian asset manager, but its software-engineering reputation is primarily finance-specific rather than broadly prominent. |
 | Plug Power | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known in hydrogen and fuel-cell technology, but its reputation is principally industrial rather than software engineering. |
+| Pomerleau | 45 | Medium | 2026-09-09 | gpt-5.6-terra | No | - | Respected Canadian construction company, though its software engineering employer brand is relatively limited. |
 | Praxent | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services software consultancy, with a positive but niche engineering signal. |
 | Rackner | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Federal technology contractor with potentially relevant engineering work, but limited broad software industry recognition. |
 | RapDev | 45 | Low | 2026-07-30 | gpt-5.6-terra | No | - | Specialized cloud and DevOps consulting firm; relevant technical work is plausible, but it has limited broad recognition as a selective software engineering internship brand. |
@@ -2344,6 +2347,7 @@ Showing **3105** of **3105** cached companies (all cached companies).
 | SCS Engineers | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established environmental consulting firm, but it has limited software-engineering brand recognition. |
 | Sonoco | 43 | High | 2026-08-02 | gpt-5.6-terra | No | Sonoco Products Company | Large packaging manufacturer, but its software engineering organization is not a notable technical career signal. |
 | SonoThera | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage biotech with limited broadly established software-engineering brand. |
+| SpawGlass | 43 | Medium | 2026-09-09 | gpt-5.6-terra | No | SpawGlass Contractors | Established regional construction firm, but it has limited recognition as a software engineering employer. |
 | St. Louis University | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Saint Louis University, SLU | Recognized university employer, but software engineering is not its primary employer brand. |
 | Standard Insurance | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | The Standard | Established insurance employer with technology roles, but limited broad software-engineering brand recognition. |
 | State of Montana | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Montana state government | Recognizable state-government employer, but its software work is primarily public-sector and not a broad engineering prestige signal. |
