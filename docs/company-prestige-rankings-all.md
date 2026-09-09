@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3104** of **3104** cached companies (all cached companies).
+Showing **3105** of **3105** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1092,6 +1092,7 @@ Showing **3104** of **3104** cached companies (all cached companies).
 | Equifax | 58 | High | 2026-07-18 | gpt-5.6-terra | No | - | Large, established data and financial-services technology employer, but not generally viewed as top-tier software prestige. |
 | Ercot | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Electric Reliability Council of Texas | Important grid operator with technically consequential systems work, though not a top software-engineering brand. |
 | ezCater | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized marketplace startup with a credible product-engineering environment, though not a broadly top-tier signal. |
+| Fasanara | 58 | Medium | 2026-09-09 | gpt-5.6-terra | No | Fasanara Capital | Fasanara is a recognized alternative-investment firm with meaningful quantitative and technology work, but it has a more specialized finance-sector engineering brand than broadly elite software-employer recognition. |
 | FINRA | 58 | High | 2026-08-02 | gpt-5.6-terra | No | Financial Industry Regulatory Authority | A highly recognized financial-regulatory organization with credible technology work, though not a top software employer brand. |
 | Forerunner | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Forerunner Ventures | Well-known consumer-focused venture firm, but software-engineering roles are not its primary employer identity. |
 | Fortive | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial technology parent company with meaningful software-adjacent businesses, but a moderate rather than elite software-engineering signal. |

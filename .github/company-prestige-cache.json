@@ -12389,6 +12389,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "fasanara": {
+      "aliases": [
+        "Fasanara Capital"
+      ],
+      "confidence": "medium",
+      "display_name": "Fasanara",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Fasanara is a recognized alternative-investment firm with meaningful quantitative and technology work, but it has a more specialized finance-sector engineering brand than broadly elite software-employer recognition.",
+      "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
     "fast enterprises": {
       "aliases": [],
       "confidence": "medium",
