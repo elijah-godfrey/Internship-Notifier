@@ -2008,6 +2008,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "amperesand": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Amperesand",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Appears to be a relatively specialized, early-stage engineering company rather than a broadly recognized software employer; its signal is likely industry-specific.",
+      "reviewed_at": "2026-09-10",
+      "rubric_version": "prestige-v1"
+    },
     "ampersand": {
       "aliases": [],
       "confidence": "low",
@@ -17386,6 +17397,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "interplay": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Interplay",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "This is an ambiguous company name and is not, as stated, a broadly established software-engineering prestige signal.",
+      "reviewed_at": "2026-09-10",
+      "rubric_version": "prestige-v1"
+    },
     "interstates": {
       "aliases": [
         "Interstates Companies"
@@ -28901,6 +28923,17 @@
       "prestige_score": 52,
       "reason": "Established insurer with technology roles, but its reputation is primarily in insurance rather than software engineering.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "sequence holdings": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Sequence Holdings",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "The name does not unambiguously identify a widely recognized software-engineering employer; limited evidence supports a strong internship career signal.",
+      "reviewed_at": "2026-09-10",
       "rubric_version": "prestige-v1"
     },
     "sereact": {

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3112** of **3112** cached companies (all cached companies).
+Showing **3115** of **3115** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2812,6 +2812,7 @@ Showing **3112** of **3112** cached companies (all cached companies).
 | Suffolk County | 33 | High | 2026-08-02 | gpt-5.6-terra | No | Suffolk County Government | County government employer with primarily regional recognition and little software-engineering prestige. |
 | Wayne County | 33 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Government employer with limited software engineering brand and little selectivity signal for technical careers. |
 | American Cancer Society Cancer Action Network | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized advocacy affiliate, but it has limited standalone software engineering brand or selectivity signal. |
+| Amperesand | 32 | Low | 2026-09-10 | gpt-5.6-terra | No | - | Appears to be a relatively specialized, early-stage engineering company rather than a broadly recognized software employer; its signal is likely industry-specific. |
 | ATLAS SP | 32 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand under this exact name; technical career signal is unclear. |
 | BCforward | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Primarily known as a staffing and services firm rather than a selective software-product engineering employer. |
 | Bob's Discount Furniture | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | Bobs Discount Furniture | Recognized retail employer, but its software engineering reputation is limited and not a major technical career signal. |
@@ -2958,6 +2959,7 @@ Showing **3112** of **3112** cached companies (all cached companies).
 | Rainmaker | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a recognized software-engineering employer brand. |
 | Red Rabbit Robotics | 28 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Limited reliable evidence of a widely recognized, selective software-engineering employer brand. |
 | Samaya | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not have a broadly established software engineering reputation. |
+| Sequence Holdings | 28 | Low | 2026-09-10 | gpt-5.6-terra | No | - | The name does not unambiguously identify a widely recognized software-engineering employer; limited evidence supports a strong internship career signal. |
 | SimIS | 28 | Low | 2026-08-21 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized software-engineering employer brand or highly selective internship program. |
 | SoloPulse | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited reliable evidence of a recognized software-engineering employer brand under this name. |
 | Stand Insurance | 28 | Low | 2026-08-07 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand and unclear evidence of selectivity; likely a niche insurance-focused employer rather than a strong general tech career signal. |
@@ -3025,6 +3027,7 @@ Showing **3112** of **3112** cached companies (all cached companies).
 | Human Computer Lab | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a broadly recognized employer-level software-engineering brand. |
 | Huxley | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and is not clearly associated with a widely recognized software-engineering employer. |
 | Integrity | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a notable software-engineering employer reputation; scored conservatively. |
+| Interplay | 25 | Low | 2026-09-10 | gpt-5.6-terra | No | - | This is an ambiguous company name and is not, as stated, a broadly established software-engineering prestige signal. |
 | Judi Health | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | Judi | Limited evidence of a broadly established or selective software engineering employer brand. |
 | kos.ai | 25 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited verifiable public recognition as an established or selective software-engineering employer. |
 | Mariana Minerals | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Mining-focused company with little evident software-engineering employer recognition. |
