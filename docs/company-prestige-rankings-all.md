@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3116** of **3116** cached companies (all cached companies).
+Showing **3117** of **3117** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -817,6 +817,7 @@ Showing **3116** of **3116** cached companies (all cached companies).
 | Cubic | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected defense, transportation, and systems-engineering contractor; software roles have a solid but specialized signal. |
 | Danaher Corporation | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded industrial and life-sciences operator with meaningful technical work, though not a standout software engineering brand. |
 | Defense Unicorns | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected defense-software specialist with credible cloud-native engineering work, though its reputation is concentrated in government technology. |
+| Domino Data Lab | 63 | Medium | 2026-09-10 | gpt-5.6-terra | No | Domino | A respected enterprise MLOps/data-science platform with credible technical relevance, but it has less broad name recognition and software-engineering signaling power than top-tier infrastructure or AI employers. |
 | DoubleVerify | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established ad-tech company with credible data and platform engineering work, though less elite than top technology firms. |
 | Eaton Corporation | 63 | Medium | 2026-08-05 | gpt-5.6-terra | No | - | Established global industrial and power-management company with credible engineering work, but a less prominent and selective software-engineering brand than major technology employers. |
 | Flexera | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected enterprise software and IT-asset-management vendor, with solid but relatively niche recognition among software engineers. |
