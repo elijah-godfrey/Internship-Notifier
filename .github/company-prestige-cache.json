@@ -6999,6 +6999,17 @@
       "reviewed_at": "2026-08-21",
       "rubric_version": "prestige-v1"
     },
+    "cim group": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "CIM Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Established real-estate investment and development firm, but it is not broadly known for a selective or influential software-engineering brand; technical signal is mainly industry-specific.",
+      "reviewed_at": "2026-09-10",
+      "rubric_version": "prestige-v1"
+    },
     "cincinnati childrens hospital and medical center": {
       "aliases": [
         "Cincinnati Children's"

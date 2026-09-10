@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3115** of **3115** cached companies (all cached companies).
+Showing **3116** of **3116** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2038,6 +2038,7 @@ Showing **3115** of **3115** cached companies (all cached companies).
 | Blue Cross of Idaho | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | BCI, Blue Cross of Idaho Health Service | Established regional insurer with relevant internal technology work, but limited broader software-engineering prestige. |
 | Cart.com | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | E-commerce and logistics technology company, but with limited broad recognition or proven top-tier engineering signal. |
 | Carter's | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | Carter’s | Established consumer retail brand, but its software engineering reputation is not a major industry signal. |
+| CIM Group | 46 | Medium | 2026-09-10 | gpt-5.6-terra | No | - | Established real-estate investment and development firm, but it is not broadly known for a selective or influential software-engineering brand; technical signal is mainly industry-specific. |
 | CMS Energy | 46 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established utility company whose technology roles are solid but not widely recognized as a software-engineering signal. |
 | Cole Engineering Services | 46 | Medium | 2026-07-18 | gpt-5.6-terra | No | CESI | Specialized defense and training-systems engineering firm; relevant technical work but limited broad software-engineering brand recognition. |
 | COUNTRY Financial | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | COUNTRY Financial Insurance | Established regional insurance and financial-services employer, but with limited broader software-engineering recognition. |
