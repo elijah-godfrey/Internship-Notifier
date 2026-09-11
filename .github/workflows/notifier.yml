@@ -88,6 +88,11 @@ jobs:
             --cache .github/company-prestige-cache.json \
             --output docs/company-prestige-rankings-all.md \
             --all
+          python -m internship_notifier.prestige_report \
+            --cache .github/company-prestige-cache.json \
+            --companies data/waterlooworks-winter-2027-companies.txt \
+            --output docs/waterlooworks-winter-2027-companies.md \
+            --title "Winter 2027 WaterlooWorks Companies"
 
       - name: Commit notifier data if changed
         if: always()
@@ -99,7 +104,8 @@ jobs:
             .github/internship-notifier-state.json \
             .github/company-prestige-cache.json \
             docs/company-prestige-rankings-top-500.md \
-            docs/company-prestige-rankings-all.md
+            docs/company-prestige-rankings-all.md \
+            docs/waterlooworks-winter-2027-companies.md
           do
             if [ -f "$path" ]; then
               git add "$path"

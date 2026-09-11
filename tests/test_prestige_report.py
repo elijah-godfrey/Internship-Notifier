@@ -9,9 +9,12 @@ import pytest
 from internship_notifier.prestige import CompanyPrestige, PrestigeCache
 from internship_notifier.prestige_report import (
     MAX_REPORT_COMPANIES,
+    load_report_company_names,
     main,
     render_prestige_report,
+    render_scoped_prestige_report,
     write_prestige_report,
+    write_scoped_prestige_report,
 )
 
 
@@ -137,3 +140,64 @@ class TestWritePrestigeReport:
         )
 
         assert "all cached companies" in output.read_text(encoding="utf-8")
+
+
+class TestScopedPrestigeReport:
+    def test_reuses_cached_names_and_aliases_without_omitting_unknowns(self) -> None:
+        cache = PrestigeCache()
+        cache.put(_assessment("Apple", 98, aliases=("Apple Inc",)))
+        cache.put(_assessment("Snowflake", 90, aliases=("Snowflake Computing Inc",)))
+
+        report = render_scoped_prestige_report(
+            cache,
+            ["Snowflake Computing Inc", "New Startup Inc", "Apple Inc", "Apple"],
+            title="Winter 2027 WaterlooWorks Companies",
+            source_path="data/waterlooworks-winter-2027-companies.txt",
+        )
+
+        assert (
+            "Showing **3** unique organizations: **2 ranked** and **1 awaiting ranking**"
+            in report
+        )
+        assert report.index("| Apple | 98") < report.index("| Snowflake | 90")
+        assert report.count("| Apple | 98") == 1
+        assert "- New Startup Inc" in report
+
+    def test_loads_comments_blanks_and_normalized_duplicates_once(self, tmp_path) -> None:
+        source = tmp_path / "companies.txt"
+        source.write_text(
+            "# Winter companies\nApple Inc\n\napple incorporated\nSnowflake\n",
+            encoding="utf-8",
+        )
+
+        assert load_report_company_names(source) == ["Apple Inc", "Snowflake"]
+
+    def test_writes_scoped_report_and_cli_accepts_company_source(self, tmp_path) -> None:
+        cache_path = tmp_path / "cache.json"
+        companies_path = tmp_path / "companies.txt"
+        direct_output = tmp_path / "direct.md"
+        cli_output = tmp_path / "cli.md"
+        companies_path.write_text("Unknown Company\n", encoding="utf-8")
+
+        write_scoped_prestige_report(
+            cache_path,
+            companies_path,
+            direct_output,
+            title="Direct Report",
+        )
+        main(
+            [
+                "--cache",
+                str(cache_path),
+                "--companies",
+                str(companies_path),
+                "--output",
+                str(cli_output),
+                "--title",
+                "CLI Report",
+            ]
+        )
+
+        assert "# Direct Report" in direct_output.read_text(encoding="utf-8")
+        assert "# CLI Report" in cli_output.read_text(encoding="utf-8")
+        assert "- Unknown Company" in cli_output.read_text(encoding="utf-8")

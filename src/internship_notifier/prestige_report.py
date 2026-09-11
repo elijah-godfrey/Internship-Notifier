@@ -5,7 +5,12 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from internship_notifier.prestige import CompanyPrestige, PrestigeCache, load_prestige_cache
+from internship_notifier.prestige import (
+    CompanyPrestige,
+    PrestigeCache,
+    load_prestige_cache,
+    normalize_company_name,
+)
 
 MAX_REPORT_COMPANIES = 500
 DEFAULT_CACHE_PATH = Path(".github/company-prestige-cache.json")
@@ -92,6 +97,96 @@ def render_prestige_report(
     return "\n".join(lines)
 
 
+def load_report_company_names(path: Path) -> list[str]:
+    """Load and normalized-deduplicate a one-company-per-line report scope."""
+    companies: dict[str, str] = {}
+    for line_number, raw_line in enumerate(
+        path.read_text(encoding="utf-8").splitlines(),
+        start=1,
+    ):
+        company = raw_line.strip()
+        if not company or company.startswith("#"):
+            continue
+        try:
+            key = normalize_company_name(company)
+        except ValueError as error:
+            raise ValueError(f"{path}:{line_number}: {error}") from error
+        companies.setdefault(key, company)
+    return list(companies.values())
+
+
+def render_scoped_prestige_report(
+    cache: PrestigeCache,
+    company_names: list[str],
+    *,
+    title: str,
+    source_path: str,
+) -> str:
+    """Render cached rankings and unresolved names for one source collection."""
+    if not title.strip():
+        raise ValueError("title must be non-empty")
+
+    ranked_by_key: dict[str, CompanyPrestige] = {}
+    unresolved_by_key: dict[str, str] = {}
+    for company_name in company_names:
+        source_key = normalize_company_name(company_name)
+        assessment = cache.get(company_name)
+        if assessment is None:
+            unresolved_by_key.setdefault(source_key, company_name.strip())
+            continue
+        canonical_key = normalize_company_name(assessment.display_name)
+        ranked_by_key.setdefault(canonical_key, assessment)
+
+    ranked = sorted(
+        ranked_by_key.values(),
+        key=lambda assessment: (
+            -assessment.prestige_score,
+            assessment.display_name.casefold(),
+        ),
+    )
+    unresolved = sorted(unresolved_by_key.values(), key=str.casefold)
+    total = len(ranked) + len(unresolved)
+    lines = [
+        f"# {title.strip()}",
+        "",
+        f"> This file is generated from `{source_path}` and "
+        "`.github/company-prestige-cache.json`. Do not edit it manually.",
+        "",
+        "Scores measure software-engineering internship career prestige only: "
+        "technical reputation, selectivity, and career signal. They do not include "
+        "pay, work-life balance, location, role quality, or return-offer likelihood.",
+        "",
+        f"Showing **{total}** unique organizations: **{len(ranked)} ranked** and "
+        f"**{len(unresolved)} awaiting ranking**.",
+        "",
+    ]
+    if not ranked:
+        lines.extend(["_No companies in this collection have been ranked yet._", ""])
+    else:
+        for minimum, maximum, label in SCORE_BANDS:
+            entries = [
+                assessment
+                for assessment in ranked
+                if minimum <= assessment.prestige_score <= maximum
+            ]
+            if entries:
+                lines.extend(_render_band(label, minimum, maximum, entries))
+
+    if unresolved:
+        lines.extend(
+            [
+                "## Awaiting ranking",
+                "",
+                "These organizations are not yet in the prestige cache and are excluded "
+                "from the ordered rankings above.",
+                "",
+                *[f"- {_escape_markdown(company)}" for company in unresolved],
+                "",
+            ]
+        )
+    return "\n".join(lines)
+
+
 def _render_band(
     label: str,
     minimum: int,
@@ -154,6 +249,24 @@ def write_prestige_report(
     output_path.write_text(report, encoding="utf-8")
 
 
+def write_scoped_prestige_report(
+    cache_path: Path,
+    companies_path: Path,
+    output_path: Path,
+    *,
+    title: str,
+) -> None:
+    """Write a generated prestige report for companies from one source list."""
+    report = render_scoped_prestige_report(
+        load_prestige_cache(cache_path),
+        load_report_company_names(companies_path),
+        title=title,
+        source_path=companies_path.as_posix(),
+    )
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(report, encoding="utf-8")
+
+
 def main(argv: list[str] | None = None) -> None:
     """CLI entry point for report generation."""
     parser = argparse.ArgumentParser(
@@ -166,7 +279,27 @@ def main(argv: list[str] | None = None) -> None:
         action="store_true",
         help="Include every cached company instead of only the highest-scored 500.",
     )
+    parser.add_argument(
+        "--companies",
+        type=Path,
+        help="Generate a scoped report from a one-company-per-line source list.",
+    )
+    parser.add_argument(
+        "--title",
+        default="Company Prestige Rankings",
+        help="Heading for a scoped report. Default: %(default)s",
+    )
     args = parser.parse_args(argv)
+    if args.companies is not None:
+        if args.all:
+            parser.error("--all cannot be combined with --companies")
+        write_scoped_prestige_report(
+            args.cache,
+            args.companies,
+            args.output,
+            title=args.title,
+        )
+        return
     write_prestige_report(
         args.cache,
         args.output,

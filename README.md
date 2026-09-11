@@ -64,6 +64,9 @@ The workflow generates two human-readable reports, both sorted by score:
   contains the highest-scored 500 cached companies.
 - [`docs/company-prestige-rankings-all.md`](docs/company-prestige-rankings-all.md)
   contains every cached company, including entries omitted from the top-500 view.
+- [`docs/waterlooworks-winter-2027-companies.md`](docs/waterlooworks-winter-2027-companies.md)
+  contains only organizations seen on the Winter 2027 WaterlooWorks board, reusing
+  cached assessments and listing any names that are still awaiting ranking.
 
 The JSON cache remains the source of truth.
 
@@ -78,6 +81,9 @@ run. The repository provides two ordered seed queues:
 - [`data/uncached-upstream-companies.txt`](data/uncached-upstream-companies.txt):
   all currently uncached names found in upstream `listings.json`. Use this
   later, in bounded runs.
+- [`data/waterlooworks-winter-2027-companies.txt`](data/waterlooworks-winter-2027-companies.txt):
+  the normalized, deduplicated Winter 2027 WaterlooWorks organization list. Cached
+  names are skipped automatically; only missing names are sent for ranking.
 
 The seed command sends up to 20 names per OpenAI request, saves the cache after
 every completed batch, and never sends email:
