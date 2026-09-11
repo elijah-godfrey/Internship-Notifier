@@ -1374,6 +1374,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "alliancebernstein": {
+      "aliases": [
+        "AB",
+        "AllianceBernstein Holding L.P."
+      ],
+      "confidence": "medium",
+      "display_name": "AllianceBernstein",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Well-regarded global asset manager with meaningful technology work, though its software-engineering brand is secondary to finance.",
+      "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
     "allied solutions": {
       "aliases": [],
       "confidence": "medium",
@@ -9682,6 +9696,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "delta faucet": {
+      "aliases": [
+        "Delta"
+      ],
+      "confidence": "medium",
+      "display_name": "Delta Faucet",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 51,
+      "reason": "Recognized consumer-products manufacturer, but software engineering is not a central or broadly prestigious employer identity.",
+      "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
     "deluxe": {
       "aliases": [],
       "confidence": "medium",
@@ -11992,6 +12019,17 @@
       "reviewed_at": "2026-07-31",
       "rubric_version": "prestige-v1"
     },
+    "exegy": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Exegy",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Respected specialist in high-performance market-data technology; a strong niche signal for systems and low-latency engineering.",
+      "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
     "exiger": {
       "aliases": [],
       "confidence": "medium",
@@ -13651,6 +13689,20 @@
       "prestige_score": 67,
       "reason": "Well-known B2B software marketplace with a credible engineering brand, though not typically viewed as top-tier elite.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "gables residential": {
+      "aliases": [
+        "Gables",
+        "Gables Residential Services"
+      ],
+      "confidence": "medium",
+      "display_name": "Gables Residential",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established real-estate operator, but it has limited broad recognition as a software-engineering employer.",
+      "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
     "gaf": {
@@ -16898,6 +16950,17 @@
       "reviewed_at": "2026-08-04",
       "rubric_version": "prestige-v1"
     },
+    "inferact": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Inferact",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "Limited verifiable evidence of an established, selective software-engineering employer brand.",
+      "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
     "infinitequant": {
       "aliases": [],
       "confidence": "low",
@@ -18683,6 +18746,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "knobelsdorff enterprises": {
+      "aliases": [
+        "KE",
+        "Knobelsdorff"
+      ],
+      "confidence": "medium",
+      "display_name": "Knobelsdorff Enterprises",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 31,
+      "reason": "Primarily known in electrical and construction services rather than as a software-engineering employer.",
+      "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
     "knowbe4": {
       "aliases": [],
       "confidence": "high",
@@ -19232,6 +19309,20 @@
       "prestige_score": 43,
       "reason": "Established manufacturing company with limited software-engineering reputation beyond internal enterprise technology roles.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "lego": {
+      "aliases": [
+        "The LEGO Group",
+        "LEGO Group"
+      ],
+      "confidence": "high",
+      "display_name": "LEGO",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 73,
+      "reason": "Globally recognized product company with credible digital and software work, though its engineering brand is not among the most elite tech employers.",
+      "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
     "legrand": {
@@ -31273,6 +31364,17 @@
       "prestige_score": 88,
       "reason": "Elite quantitative trading firm with a highly selective reputation for technical, mathematical, and systems-oriented roles.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "swarm aero": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Swarm Aero",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 27,
+      "reason": "Appears to be a small, specialized aerospace company with limited broadly established software-engineering employer recognition.",
+      "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
     "swbc": {

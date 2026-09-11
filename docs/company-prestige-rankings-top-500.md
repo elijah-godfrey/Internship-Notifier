@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3118** cached companies (maximum 500).
+Showing **500** of **3126** cached companies (maximum 500).
 
-_The 2618 lowest-scored companies are omitted by the report cap._
+_The 2626 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -380,6 +380,7 @@ _The 2618 lowest-scored companies are omitted by the report cap._
 | HERE | 73 | High | 2026-08-02 | gpt-5.6-terra | No | HERE Technologies, HERE Global B.V. | Established mapping and location-intelligence company with strong technical credibility in geospatial data, navigation, and platform engineering. |
 | HERE Technologies | 73 | High | 2026-08-02 | gpt-5.6-terra | No | HERE, HERE Global B.V. | Established mapping and location-intelligence company with strong technical credibility in geospatial data, navigation, and platform engineering. |
 | Keysight Technologies | 73 | High | 2026-07-21 | gpt-5.6-terra | No | Keysight | Widely respected electronic-design, test, and measurement technology company with a strong technical engineering reputation and meaningful software relevance. |
+| LEGO | 73 | High | 2026-09-11 | gpt-5.6-terra | No | The LEGO Group, LEGO Group | Globally recognized product company with credible digital and software work, though its engineering brand is not among the most elite tech employers. |
 | Luma AI | 73 | Medium | 2026-08-02 | gpt-5.6-terra | No | Luma | Recognized generative-AI and 3D technology startup with a strong technical profile, though it is still comparatively early-stage. |
 | NICE | 73 | High | 2026-08-02 | gpt-5.6-terra | No | NICE Systems | Established enterprise software and CX/AI company with a strong, internationally recognized engineering product reputation. |
 | Ontario Teachers' Pension Plan | 73 | High | 2026-08-02 | gpt-5.6-terra | No | OTPP, Teachers' | Globally respected institutional investor with selective technology and investment-engineering opportunities, though not a pure software brand. |
@@ -526,4 +527,3 @@ _The 2618 lowest-scored companies are omitted by the report cap._
 | International Monetary Fund | 69 | High | 2026-08-02 | gpt-5.6-terra | No | IMF | Exceptional institutional name recognition and technically meaningful public-sector work, though not a leading software-engineering brand. |
 | Muon Space | 69 | Medium | 2026-08-02 | gpt-5.6-terra | No | Muon | Promising space-technology company with technically demanding work and a strong niche signal, though it is not yet a broadly established engineering brand. |
 | Rocket Lab USA | 69 | High | 2026-08-02 | gpt-5.6-terra | No | Rocket Lab | Highly regarded space company with strong aerospace and embedded/software engineering relevance, though less established than the very top technology employers. |
-| SoFi | 69 | High | 2026-08-02 | gpt-5.6-terra | No | SoFi Technologies, Social Finance | Prominent fintech with meaningful consumer-product and platform engineering work, though below the strongest technology brands. |

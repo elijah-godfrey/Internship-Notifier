@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3118** of **3118** cached companies (all cached companies).
+Showing **3126** of **3126** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -378,6 +378,7 @@ Showing **3118** of **3118** cached companies (all cached companies).
 | HERE | 73 | High | 2026-08-02 | gpt-5.6-terra | No | HERE Technologies, HERE Global B.V. | Established mapping and location-intelligence company with strong technical credibility in geospatial data, navigation, and platform engineering. |
 | HERE Technologies | 73 | High | 2026-08-02 | gpt-5.6-terra | No | HERE, HERE Global B.V. | Established mapping and location-intelligence company with strong technical credibility in geospatial data, navigation, and platform engineering. |
 | Keysight Technologies | 73 | High | 2026-07-21 | gpt-5.6-terra | No | Keysight | Widely respected electronic-design, test, and measurement technology company with a strong technical engineering reputation and meaningful software relevance. |
+| LEGO | 73 | High | 2026-09-11 | gpt-5.6-terra | No | The LEGO Group, LEGO Group | Globally recognized product company with credible digital and software work, though its engineering brand is not among the most elite tech employers. |
 | Luma AI | 73 | Medium | 2026-08-02 | gpt-5.6-terra | No | Luma | Recognized generative-AI and 3D technology startup with a strong technical profile, though it is still comparatively early-stage. |
 | NICE | 73 | High | 2026-08-02 | gpt-5.6-terra | No | NICE Systems | Established enterprise software and CX/AI company with a strong, internationally recognized engineering product reputation. |
 | Ontario Teachers' Pension Plan | 73 | High | 2026-08-02 | gpt-5.6-terra | No | OTPP, Teachers' | Globally respected institutional investor with selective technology and investment-engineering opportunities, though not a pure software brand. |
@@ -549,6 +550,7 @@ Showing **3118** of **3118** cached companies (all cached companies).
 | Dialpad | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized cloud communications and AI software company with a credible product-engineering reputation. |
 | DTCC | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Depository Trust & Clearing Corporation | Major financial-market infrastructure institution with substantial, respected engineering work, especially within financial technology. |
 | Everlaw | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded legal-tech SaaS company with a credible product-engineering reputation, though not broadly top-tier. |
+| Exegy | 68 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Respected specialist in high-performance market-data technology; a strong niche signal for systems and low-latency engineering. |
 | Fannie Mae | 68 | High | 2026-08-18 | gpt-5.6-terra | No | Federal National Mortgage Association | Well-recognized financial institution with substantial technology work, though not generally viewed as an elite software-engineering destination. |
 | Fiserv | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | A major payments and financial-technology provider with substantial engineering work and strong industry recognition. |
 | Five9 | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established cloud contact-center software company with a credible engineering brand, though not a top-tier general software signal. |
@@ -702,6 +704,7 @@ Showing **3118** of **3118** cached companies (all cached companies).
 | University Corporation for Atmospheric Research | 66 | High | 2026-08-02 | gpt-5.6-terra | No | UCAR | Well-regarded atmospheric and computational-science research organization; a strong specialized technical signal but not a mainstream software employer. |
 | ZS | 66 | Medium | 2026-09-01 | gpt-5.6-terra | No | ZS Associates | Well-regarded global consulting and analytics firm with meaningful technology and data-focused work, especially in life sciences. It is a solid software-adjacent signal, though its engineering brand and selectivity are generally below top product-focused technology employers. |
 | AI Fund | 65 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized AI venture studio with meaningful AI-industry association, though it is not a large established engineering employer. |
+| AllianceBernstein | 65 | Medium | 2026-09-11 | gpt-5.6-terra | No | AB, AllianceBernstein Holding L.P. | Well-regarded global asset manager with meaningful technology work, though its software-engineering brand is secondary to finance. |
 | Apptronik | 65 | Medium | 2026-07-27 | gpt-5.6-terra | No | - | Notable humanoid-robotics company with a technically compelling engineering brand, though its software-employer signal is still less established than leading robotics firms. |
 | Autostore | 65 | High | 2026-08-02 | gpt-5.6-terra | No | AutoStore Holdings Ltd. | Respected warehouse-automation and robotics company with meaningful systems and software engineering relevance. |
 | BambooHR | 65 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized HR SaaS company with a credible product-engineering reputation, though not in the top software-employer tier. |
@@ -1664,6 +1667,7 @@ Showing **3118** of **3118** cached companies (all cached companies).
 | Centene | 51 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large healthcare company with meaningful technology operations, but a modest general software engineering brand. |
 | Cook Group | 51 | High | 2026-08-02 | gpt-5.6-terra | No | Cook Medical | Respected medical-device organization with technical work, but a relatively limited general software-engineering reputation. |
 | Dallas Fort Worth International Airport | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | DFW Airport, DFW International Airport | Major infrastructure employer, but its software engineering brand is primarily enterprise IT rather than a recognized tech destination. |
+| Delta Faucet | 51 | Medium | 2026-09-11 | gpt-5.6-terra | No | Delta | Recognized consumer-products manufacturer, but software engineering is not a central or broadly prestigious employer identity. |
 | Dominion Energy | 51 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, respected utility with meaningful internal technology work, though limited software-industry prestige. |
 | Enbridge | 51 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major energy-infrastructure employer with solid technical roles, though its software brand is secondary. |
 | Enterprise Mobility | 51 | High | 2026-08-02 | gpt-5.6-terra | No | Enterprise Rent-A-Car | Widely recognized enterprise with substantial digital operations, but not broadly regarded as a leading software-engineering brand. |
@@ -2289,6 +2293,7 @@ Showing **3118** of **3118** cached companies (all cached companies).
 | Fresenius Kabi | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare-products company, but software engineering is not a central employer brand. |
 | Fullbay | 43 | Medium | 2026-08-21 | gpt-5.6-terra | No | - | Established vertical SaaS company in commercial-fleet repair, but its engineering brand and internship selectivity are not broadly prominent. |
 | Fullsteam | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Software-focused business, but its engineering reputation and selectivity are not broadly established. |
+| Gables Residential | 43 | Medium | 2026-09-11 | gpt-5.6-terra | No | Gables, Gables Residential Services | Established real-estate operator, but it has limited broad recognition as a software-engineering employer. |
 | GAF | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | GAF Materials Corporation | Major building-materials company, but its software engineering organization has limited standalone industry prestige. |
 | Gensler | 43 | High | 2026-08-02 | gpt-5.6-terra | No | Gensler and Associates | Prestigious architecture and design firm, but software engineering is not central to its employer brand. |
 | Georgian Partners Growth | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | Georgian Partners | Georgian Partners is a recognized growth-equity investor with a technology focus, but it is not chiefly known as a software-engineering employer. |
@@ -2864,6 +2869,7 @@ Showing **3118** of **3118** cached companies (all cached companies).
 | Hanna Andersson | 31 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Consumer retail brand with limited relevance or recognition for software engineering careers. |
 | IEM | 31 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a clearly broad, established software-engineering employer; conservative assessment. |
 | InstaLILY | 31 | Low | 2026-07-31 | gpt-5.6-terra | No | - | Appears to be a relatively lesser-known company; limited public evidence of a broadly recognized or selective software-engineering brand. |
+| Knobelsdorff Enterprises | 31 | Medium | 2026-09-11 | gpt-5.6-terra | No | KE, Knobelsdorff | Primarily known in electrical and construction services rather than as a software-engineering employer. |
 | Lexeo Therapeutics | 31 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage biotech with limited software-engineering employer recognition and a primarily life-sciences reputation. |
 | Melotech | 31 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited evidence of an established or widely recognized software-engineering brand; likely an early-stage niche company. |
 | RoboForce | 31 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage robotics company with limited established employer recognition and an unproven broad software-engineering signal. |
@@ -2988,6 +2994,7 @@ Showing **3118** of **3118** cached companies (all cached companies).
 | Pitt Ohio | 27 | High | 2026-08-02 | gpt-5.6-terra | No | - | Regional transportation and logistics company with limited distinct software-engineering reputation. |
 | Premier Truck Rental | 27 | Medium | 2026-08-02 | gpt-5.6-terra | No | PTR | Primarily a truck-rental business with little visible software-engineering employer prestige. |
 | Premium Merchant Funding | 27 | Low | 2026-08-07 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; known primarily as a specialized business-finance firm. |
+| Swarm Aero | 27 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Appears to be a small, specialized aerospace company with limited broadly established software-engineering employer recognition. |
 | Veeda AI | 27 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly established engineering reputation; appears to be a small AI-focused brand. |
 | VSC Fire & Security | 27 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialized contractor, but it has little recognized software engineering employer prestige. |
 | Zoomifier | 27 | Low | 2026-08-18 | gpt-5.6-terra | No | - | Limited public recognition and no clearly established software-engineering prestige signal. |
@@ -3078,6 +3085,7 @@ Showing **3118** of **3118** cached companies (all cached companies).
 | Espa AI | 24 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Limited public recognition and insufficient evidence of a mature software-engineering reputation. |
 | GenMD | 24 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer. |
 | Huck Adventures | 24 | Low | 2026-08-18 | gpt-5.6-terra | No | - | Appears to have limited visibility and no established software-engineering employer brand. |
+| Inferact | 24 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited verifiable evidence of an established, selective software-engineering employer brand. |
 | Junior AI | 24 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited established employer reputation and technical career signal. |
 | NationGraph | 24 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly verifiable reputation or recognition as a software-engineering employer. |
 | NeoSigma | 24 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited identifiable software-engineering reputation under this name. |
