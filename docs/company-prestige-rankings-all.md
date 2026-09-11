@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3460** of **3460** cached companies (all cached companies).
+Showing **3462** of **3462** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1979,6 +1979,7 @@ Showing **3460** of **3460** cached companies (all cached companies).
 | Corewell Health | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Corewell | Major regional health system with meaningful IT needs, but limited broad software-engineering prestige. |
 | Customers Bank | 48 | Medium | 2026-08-27 | gpt-5.6-terra | No | Customers Bancorp | Established regional banking employer, but it has limited broad recognition as a selective software-engineering destination. |
 | Cypress Creek Renewables | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | CCR | Established renewable-energy developer with relevant technology work, but limited broad software-engineering recognition. |
+| DiligenceVault | 48 | Medium | 2026-09-11 | gpt-5.6-terra | No | Diligence Vault | A niche enterprise software firm with relevant product-engineering experience, but limited broad recognition or selectivity signal in software engineering. |
 | Driscoll's | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Driscolls | Established agriculture and consumer-products company, but with limited broad recognition as a software-engineering employer. |
 | Duracell | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer-products brand, but it has limited broad reputation as a software-engineering employer. |
 | Elanco | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Elanco Animal Health | Recognized animal-health company with some technology roles, but software is not a core employer brand. |
@@ -2232,6 +2233,7 @@ Showing **3460** of **3460** cached companies (all cached companies).
 | Anywhere | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Anywhere Real Estate | Likely the real-estate technology and services company; it has some technology relevance but modest software-engineering prestige. |
 | Apogee Engineering | 45 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Engineering-services signal may be positive, but the name has limited broad software-industry recognition. |
 | Arlington County VA | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Arlington County, Virginia | Credible public-sector employer, but its software-engineering signal is mainly local-government and not broadly selective. |
+| Armstrong Fluid Technology | 45 | Medium | 2026-09-11 | gpt-5.6-terra | No | Armstrong Fluid, Armstrong | A respected engineering and building-systems company, but its software engineering brand and internship signal are primarily industry-specific rather than broadly prestigious. |
 | Atrium Health | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known healthcare system, but software work is primarily enterprise healthcare IT rather than a strong software-employer brand. |
 | Benjamin Moore | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established coatings manufacturer, but software engineering is primarily a supporting function rather than a notable employer brand. |
 | Blue Cross Blue Shield of Rhode Island | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | BCBSRI, Blue Cross & Blue Shield of Rhode Island | Recognized regional healthcare insurer, but it has limited visibility as a software engineering employer. |

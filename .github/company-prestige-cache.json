@@ -3140,6 +3140,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "armstrong fluid technology": {
+      "aliases": [
+        "Armstrong Fluid",
+        "Armstrong"
+      ],
+      "confidence": "medium",
+      "display_name": "Armstrong Fluid Technology",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "A respected engineering and building-systems company, but its software engineering brand and internship signal are primarily industry-specific rather than broadly prestigious.",
+      "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
     "array technologies": {
       "aliases": [],
       "confidence": "medium",
@@ -11072,6 +11086,19 @@
       "prestige_score": 34,
       "reason": "Name is ambiguous and appears to have limited broadly established software-engineering recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "diligencevault": {
+      "aliases": [
+        "Diligence Vault"
+      ],
+      "confidence": "medium",
+      "display_name": "DiligenceVault",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "A niche enterprise software firm with relevant product-engineering experience, but limited broad recognition or selectivity signal in software engineering.",
+      "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
     "diligent": {
