@@ -1,0 +1,398 @@
+# WaterlooWorks Winter 2027 organizations; normalized and deduplicated.
+2135060 Ontario Inc dba Oak Ridges Heart Clinic
+8090 Solutions Canada Inc
+A Friendlier Company Inc
+Abundant
+Achievers Inc
+Acronym Software Inc
+Actualize Consulting
+Advanced Building Innovation Company Inc
+AEC Daily Inc
+Aesopic Inc
+Agents & Allies
+AGF Investments Inc
+Agfa HealthCare Inc
+Agriculture and Agri-Food Canada
+Alectify Inc
+Algonquin Capital
+AlphaSense Inc
+AltaML Inc
+Altara Technologies Inc
+Altas Partners
+Altera Corporation
+AlumaPower Corporation
+Angstrom Engineering
+Apple Inc
+ArchES Computing Solutions
+Aria Networks Inc
+Arista Networks Inc
+Armadin Inc
+Ascendance Foundry Inc
+Assort Health
+Astera Labs Inc
+ATOMS
+Atomus Corporation
+ATS Corporation
+AUG Signals Ltd
+Augment
+Augmenta Inc
+Authentic Services Inc
+Auto Inference Inc
+Aven Financial Inc
+Avidrone Aerospace Incorporated
+AXL Labs Inc
+Axonify Inc
+AXQ Capital LP
+b(x) Theory Inc.
+BA Consulting Group Ltd
+Babylist Inc
+Bank of Montreal
+Base Power Inc
+Baycrest Health Science
+Beacon Acquisition Corp
+BetterUp
+BinSentry Inc
+BitGo
+Bits In Glass Inc
+Blake, Cassels & Graydon
+BLUESCAPE Construction Management
+Bolt Technologies Inc
+Boosted.ai
+BrainCo
+Bree Technologies Ltd
+BRI Research Inc.
+Brittle Fluid Inc
+Brookfield
+BRP Inc
+Bulk Barn Foods Limited
+BWXT Canada Ltd
+CampusGroup, Inc
+CanCrete Equipment Ltd.
+Canopy Technologies Corp
+Capston Inc
+Carbon Based Technology Corp
+Carta Maple Technologies Inc.
+Cascades Inc
+Cerebras Systems
+Charta Health
+Cherry Chan Professional Corporation
+Christie Digital Systems Innovations ULC
+Chronicle Wealth
+City from Naught Inc
+City of Ottawa
+ClassDojo Inc
+Clearway
+CloudAct CPA Professional Corporation
+CloudAscent Inc
+CoBrand Corp
+CodeRabbit Inc
+Cognichip Canada Inc
+CoLab Software Inc
+Common Approach to Impact Measurement
+Communitech Corporation
+Compass Group Canada
+Constant Contact CA Inc
+Core Avionics & Industrial Inc
+Cortico Health Technologies Inc
+Courtyard AI Inc.
+Creospark Consulting Services Inc
+Cresta Intelligence Inc
+Crypto4a
+Cuckoo Technologies Inc
+Curtiss-Wright Defense Solutions
+D2L
+Datadog Inc
+Davies Ward Phillips & Vineberg LLP
+Dawson Partners Inc
+Dealer-FX
+Deel
+Deep Breathe
+Deep Infra Inc
+Deephaven Data Labs
+Definity Financial Corporation
+DEMATIC
+Department of National Defence
+Descartes Systems Group Inc
+Digital Extremes
+Dominion Dynamics
+Doxel Inc
+Dream Technologies Inc
+Dynamic Needs Analysis Inc
+ecobee
+Ecostrat Inc
+EJ Tax Service Inc
+Electrical Safety Authority (ESA)
+EllisDon Construction
+EnCharge AI Inc
+Endex
+EnStream LP
+Environment and Climate Change Canada
+Eon Media Corp
+Essos Technologies Incorporated
+Etched.ai Inc
+ETHGlobal Inc
+Evertz Microsystems Ltd
+Extendicare Inc
+Fable Security Inc
+Faire
+Federal Economic Development Agency
+Federato Technologies Inc
+Fellow Insights Inc
+FINCAPES
+Finta Platform Inc
+FIS
+Ford Motor Company of Canada Limited
+Furcon Environmental Inc
+Future Lovers Inc
+Gastronomous Technologies Inc
+Genist Systems Inc
+Genius AI
+Geosource Energy Inc
+Geotab Inc
+German Aerospace Center (DLR)
+GFL Environmental Inc
+Glasslake Funding ULC
+Global X Investments Canada Inc
+Gore Mutual Insurance Company
+Granite Club
+GreaseTech
+Grow Care Inc.
+GTS
+Guspro Inc
+Halton Catholic District School Board
+Hamblin Watsa Investment Counsel Ltd (A Fairfax Company)
+Harbinger Motors Inc
+Health Canada
+Healthcare of Ontario Pension Plan
+HeyGen
+HRR Technologies Inc
+HTUO Biosciences Inc
+Huawei Technologies Co Ltd
+HubHead Corp
+Humber Polytechnic
+HVE Healthcare Assessments Inc
+IcePond Software Solutions Inc
+ICSPI Corp
+Ideogram AI Inc
+Illuminex AI
+Imbue Inc
+IMS - Part of Trak Global Group
+indie Semiconductor
+Indus AI, Inc
+Indwell
+Inferact Inc
+Inference Research Inc.
+Infosys Limited
+INIT Innovative Informatikanwendungen in Transport-, Verkehrs- und Leitsystemen GmbH dba INIT Group
+Intel Corporation
+Intrinsic Technologies Inc
+Irixion Corp
+Irradiant Technologies
+ISARA Corporation
+Ivo AI Inc
+Jasara Technology Inc.
+Jetson Home Inc
+June Health
+Junip Inc
+Keller Foundations Ltd
+Kikoff Inc
+Kiwi Charge Inc
+Kore Solutions Inc
+Lambda Surgical
+Leap Tools Inc
+LeapAP Inc.
+LIFTWERX
+Link Logistics Real Estate HoldCo LLC
+LlamaIndex
+Loblaw Companies Limited
+Low Power Futures
+Lumentum
+M E Andrews and Associates Limited
+Magical
+Magnet Forensics Inc
+Mammoet
+Manifold Data Mining Inc
+Mantecon Partners Inc
+Mantle
+Manulife Financial
+Maple Leaf Foods
+MappedIn Inc
+Mark My Work Inc
+Marketing Kitchen Inc
+Marsh And McLennan Companies Inc
+MARTINREA International Inc
+Marvell Technology Canada Inc
+MDA Space
+MedMe Health
+Mi Bowl Group Inc
+Microchip Technology Inc
+Micromart
+Mihafa Inc dba Nectar Social
+Mitchell Plastics
+MLNOW Inc
+Mobials Inc. (AutoVerify)
+Mobile Data Technologies
+Moody's
+Moss Robotics Inc
+Multimatic Inc
+MXL Engineering and Associates Inc
+National Research Council Canada
+National University of Singapore
+NeoSigma Inc
+NetNow Financial Inc
+Nexthop Systems Inc
+Northbridge (A Fairfax Company)
+Northern Digital Inc
+Novocol Pharmaceutical of Canada Inc
+Nuclear Promise X
+Null Studios Inc
+NVIDIA Corporation
+OffDeal Inc
+OLIX Canada Limited
+Omniscient Neurotechnology Canada Ltd
+onsemi
+Ontario Ministry of Finance
+Ontario Ministry of Public and Business Service Delivery and Procurement
+Ontario Ministry of the Attorney General
+Open Text Corporation
+Openlane
+OPSEU Pension Trust
+Orbifold AI Inc
+Orlando Corporation
+Owner Com Inc
+Palitronica
+Parkalytics Inc
+Parsons Corporation
+Paxos Health
+PCL Constructors Canada Inc
+PepsiCo Inc
+Peraso Technologies Inc
+Persona
+Phantom Photonics Inc
+Philer Inc
+Pillar To Post
+Plooto Inc
+Point72
+PointClickCare
+Polymath Robotics
+Potentia Renewables Inc.
+PPA Engineering Technologies Inc
+Purolator Inc
+QC Quality of Course Inc
+Qorsa
+Reactiv Technologies Inc
+Readwise Inc
+Recurrent Energy (a subsidiary of Canadian Solar)
+Rediron Technologies
+Region of Waterloo
+Relay Financial Technologies Inc
+Relling Corporation
+Replit
+Revolve Surgical Inc
+Revvity Health Sciences Canada Inc
+Ricoh Canada Inc
+Riders Plus Insurance Inc
+Rivian and Volkswagen Group Technologies
+RLB LLP
+Rocket Innovation Studio, ULC
+Roo Veterinary Inc
+Rosalind
+Rowan Insurance Brokerage Ltd
+Rundoo Inc.
+S Overduin Medicine Professional Corporation
+S&C Electric Canada Ltd
+SafetyKit Inc
+Sagicor Financial Company Ltd
+SAP Canada Inc
+Scispot.io
+Scribenote Inc
+Senpilot Inc
+Sequence AI Holdings Inc
+Sezzle Canada Corporation
+SGGG Fund Services Inc
+Sheridan College
+Shinwoo TNS Co Ltd
+Shoplogix Inc
+Side Effects Software Inc
+Sidian Inc
+Siemens Healthcare Limited
+Signal 1 AI Inc
+SKYGRiD Construction Inc
+Slash Financial Inc
+Slice Solutions, Inc.
+Snowflake Computing Inc
+Socomec Canada
+Solace Corporation
+Solinst Canada Ltd
+Sony Interactive Entertainment
+Spaulding Ridge LLC
+Spectra Scientific Inc
+Spellbook
+Spill The Code
+SPS Commerce Inc
+Squint Cognition Inc
+Squint Inc
+StackAdapt
+Standard Template Labs Inc
+Statistics Canada
+Statsyuk Analytics Inc
+Sun Life
+Sunday Robotics Inc
+Super.com
+SuperUltra Software Inc
+Systems With Intelligence Inc
+Tactic Studios Inc
+Tangam Systems Inc
+TD Bank Group
+Technische Universitaet Hamburg
+Teledyne DALSA
+Tennr
+Terrafirma Inc
+Terranox AI
+Texas Instruments Inc
+The Advantage Group International
+The Co-operators
+The Corporation of the City of Brantford
+The Global Alliance for Genomics and Health
+The Regional Municipality of York
+The Relationship Company
+The University of Western Ontario
+Titan Global Capital Management Inc
+Toyota Automated Logistics
+Toyota Motor Manufacturing Canada Inc (TMMC)
+Traba Inc
+Trajekt Sports
+TransForm Automotive Canada Ltd
+Trexo Robotics
+Triumf
+Trndzy Corp
+Twin Paradox Labs
+UBS
+ULTO Property Group Inc
+University of Toronto
+University of Waterloo
+Valkai Inc
+Vena Solutions
+Verily
+Versa Networks Inc
+VGen
+Vital Biosciences Inc
+Vivid Seats LLC
+Vooma Inc
+Waabi Innovation Inc
+Waddell Engineering Ltd
+Warp
+WarpEngine Canada Inc
+Wealthsimple
+Whova Inc
+Windsor-Detroit Bridge Authority
+WOLF Advanced Technology
+Workplace Safety and Insurance Board of Ontario 1
+Xiberlinc Inc
+YugaByte Inc
+Zanbato Group LLC
+ZeMind Game Studio Ltd
+Zip
+Ziyutec Inc
+Zoocasa - eXp Realty
+Zynga Inc
