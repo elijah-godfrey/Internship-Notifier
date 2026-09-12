@@ -4409,6 +4409,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "baidu usa": {
+      "aliases": [
+        "Baidu",
+        "Baidu Research USA"
+      ],
+      "confidence": "high",
+      "display_name": "Baidu USA",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 78,
+      "reason": "Benefits from Baidu's globally recognized AI, search, and autonomous-driving engineering reputation; a strong technical career signal.",
+      "reviewed_at": "2026-09-12",
+      "rubric_version": "prestige-v1"
+    },
     "baird": {
       "aliases": [
         "Robert W. Baird"
@@ -7318,6 +7332,19 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "central hudson": {
+      "aliases": [
+        "Central Hudson Gas & Electric"
+      ],
+      "confidence": "medium",
+      "display_name": "Central Hudson",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Recognized regional utility employer with stable technical roles, but not a strong or broadly known software-engineering brand.",
+      "reviewed_at": "2026-09-12",
+      "rubric_version": "prestige-v1"
+    },
     "centric brands": {
       "aliases": [],
       "confidence": "medium",
@@ -9160,6 +9187,19 @@
       "reviewed_at": "2026-08-27",
       "rubric_version": "prestige-v1"
     },
+    "cone health": {
+      "aliases": [
+        "Cone Health System"
+      ],
+      "confidence": "medium",
+      "display_name": "Cone Health",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 40,
+      "reason": "Respected regional healthcare system, though its employer reputation is centered on care delivery rather than software engineering.",
+      "reviewed_at": "2026-09-12",
+      "rubric_version": "prestige-v1"
+    },
     "confluent": {
       "aliases": [],
       "confidence": "high",
@@ -9723,6 +9763,19 @@
       "prestige_score": 40,
       "reason": "Established regional healthcare provider with IT opportunities, but limited software-engineering brand recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "cozey": {
+      "aliases": [
+        "Cozey Canada"
+      ],
+      "confidence": "low",
+      "display_name": "Cozey",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 34,
+      "reason": "Early-stage consumer furniture brand with limited established recognition or demonstrated selectivity in software engineering.",
+      "reviewed_at": "2026-09-12",
       "rubric_version": "prestige-v1"
     },
     "crane": {
@@ -10999,6 +11052,20 @@
       "prestige_score": 27,
       "reason": "Established building-products and services company, but with little recognized software-engineering employer brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "dialogue health technologies": {
+      "aliases": [
+        "Dialogue",
+        "Dialogue Health"
+      ],
+      "confidence": "medium",
+      "display_name": "Dialogue Health Technologies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "Recognized Canadian digital-health company with meaningful product engineering work, though its brand is primarily sector-specific.",
+      "reviewed_at": "2026-09-12",
       "rubric_version": "prestige-v1"
     },
     "dialpad": {
@@ -14770,6 +14837,20 @@
       "prestige_score": 48,
       "reason": "Established clinical-research organization, but it has a limited standalone software-engineering brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "fortune brands": {
+      "aliases": [
+        "Fortune Brands Innovations",
+        "Fortune Brands Home & Security"
+      ],
+      "confidence": "medium",
+      "display_name": "Fortune Brands",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established consumer-products company, but it is not widely recognized as a selective or technically prominent software-engineering employer.",
+      "reviewed_at": "2026-09-12",
       "rubric_version": "prestige-v1"
     },
     "forus": {
@@ -23244,6 +23325,19 @@
       "prestige_score": 66,
       "reason": "Globally respected medical-device company with substantial engineering credibility, though software is not its primary public brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "megazonecloud": {
+      "aliases": [
+        "Megazone Cloud"
+      ],
+      "confidence": "medium",
+      "display_name": "MegazoneCloud",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Known in cloud consulting and managed services, particularly in Asia, but has more industry-specific than broad software-engineering prestige.",
+      "reviewed_at": "2026-09-12",
       "rubric_version": "prestige-v1"
     },
     "melius": {
@@ -36050,6 +36144,19 @@
       "prestige_score": 68,
       "reason": "Highly respected public institution with meaningful technology and financial-systems work, but it is not broadly viewed as a top-tier software engineering brand in the way major technology firms are.",
       "reviewed_at": "2026-07-25",
+      "rubric_version": "prestige-v1"
+    },
+    "the friedkin group": {
+      "aliases": [
+        "Friedkin Group"
+      ],
+      "confidence": "medium",
+      "display_name": "The Friedkin Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 36,
+      "reason": "Established diversified holding company, but it has limited visibility or selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-09-12",
       "rubric_version": "prestige-v1"
     },
     "the global alliance for genomics and health": {

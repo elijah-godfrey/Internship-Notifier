@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3462** cached companies (maximum 500).
+Showing **500** of **3470** cached companies (maximum 500).
 
-_The 2962 lowest-scored companies are omitted by the report cap._
+_The 2970 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -192,6 +192,7 @@ _The 2962 lowest-scored companies are omitted by the report cap._
 | Aquatic Capital Management | 78 | Medium | 2026-08-02 | gpt-5.6-terra | No | Aquatic Capital | Quantitative investment firm with a likely strong technical-selectivity signal, though it is less broadly recognized than leading peers. |
 | ASM International | 78 | High | 2026-08-02 | gpt-5.6-terra | No | ASM, ASM International N.V. | Highly respected semiconductor-equipment company with strong technical selectivity and engineering relevance. |
 | Aurora Innovation | 78 | High | 2026-08-02 | gpt-5.6-terra | No | Aurora | Well-regarded autonomous-vehicle technology company with technically demanding engineering work and a strong specialized reputation. |
+| Baidu USA | 78 | High | 2026-09-12 | gpt-5.6-terra | No | Baidu, Baidu Research USA | Benefits from Baidu's globally recognized AI, search, and autonomous-driving engineering reputation; a strong technical career signal. |
 | Baseten | 78 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded AI infrastructure startup with a technically demanding product area and a strong emerging engineering signal. |
 | Benchling | 78 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded life-sciences software company with a strong engineering product brand and selective startup reputation. |
 | BlackRock | 78 | High | 2026-07-18 | gpt-5.6-terra | No | Aladdin by BlackRock | Globally recognized asset manager with a strong technology brand through Aladdin; a selective, respected engineering internship signal, especially in financial software, though below the most elite general-tech employers. |
@@ -521,4 +522,3 @@ _The 2962 lowest-scored companies are omitted by the report cap._
 | Integral Ad Science | 70 | Medium | 2026-08-02 | gpt-5.6-terra | No | IAS | Recognized ad-tech company with technically demanding data and measurement products and a solid engineering signal. |
 | Kinaxis | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise supply-chain software company with a credible engineering product brand and global customer base. |
 | LG Electronics | 70 | High | 2026-08-02 | gpt-5.6-terra | No | LG | Globally recognized electronics company with substantial technical products and a solid engineering signal, though not a top software-first employer. |
-| McAfee | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized cybersecurity company; a meaningful security-engineering signal despite a less dominant current profile than top security firms. |
