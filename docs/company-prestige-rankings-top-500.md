@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3473** cached companies (maximum 500).
+Showing **500** of **3478** cached companies (maximum 500).
 
-_The 2973 lowest-scored companies are omitted by the report cap._
+_The 2978 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -375,6 +375,7 @@ _The 2973 lowest-scored companies are omitted by the report cap._
 | Semgrep | 74 | High | 2026-08-02 | gpt-5.6-terra | No | r2c | Respected developer-security company with a strong code-analysis product and open-source-adjacent engineering reputation. |
 | Siemens Healthcare Limited | 74 | High | 2026-09-11 | gpt-5.6-terra | No | Siemens Healthineers | Part of a globally recognized healthcare-technology organization with substantial engineering credibility, though not primarily known as a software-first employer. |
 | Sigma Computing | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded cloud analytics company with a strong modern data-platform engineering signal and growing technical reputation. |
+| SingleStore | 74 | High | 2026-09-14 | gpt-5.6-terra | No | SingleStoreDB | Well-regarded database company with a credible engineering brand in distributed data systems, though below the most elite global signals. |
 | SpecterOps | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected specialist cybersecurity firm, particularly for offensive security and identity-security expertise. |
 | Squarespace | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized product-focused web platform with a solid engineering reputation and meaningful selectivity. |
 | Taara | 74 | Medium | 2026-08-02 | gpt-5.6-terra | No | Taara Connect | Advanced optical-connectivity venture with an unusually strong technical innovation signal, though its standalone employer brand is still developing. |
@@ -521,4 +522,3 @@ _The 2973 lowest-scored companies are omitted by the report cap._
 | Hitachi | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized technology and industrial engineering brand with substantial technical depth, though its software-employer signal varies by division. |
 | Integral Ad Science | 70 | Medium | 2026-08-02 | gpt-5.6-terra | No | IAS | Recognized ad-tech company with technically demanding data and measurement products and a solid engineering signal. |
 | Kinaxis | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise supply-chain software company with a credible engineering product brand and global customer base. |
-| LG Electronics | 70 | High | 2026-08-02 | gpt-5.6-terra | No | LG | Globally recognized electronics company with substantial technical products and a solid engineering signal, though not a top software-first employer. |

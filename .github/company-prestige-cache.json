@@ -10321,6 +10321,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "cyvl": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Cyvl",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "A recognizable early-stage infrastructure-technology company, but with a limited broad software-engineering prestige signal.",
+      "reviewed_at": "2026-09-14",
+      "rubric_version": "prestige-v1"
+    },
     "d e shaw": {
       "aliases": [],
       "confidence": "high",
@@ -24531,6 +24542,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "mvp health care": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "MVP Health Care",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "An established regional health-insurance employer, but not broadly known for a highly selective or prominent software-engineering brand.",
+      "reviewed_at": "2026-09-14",
+      "rubric_version": "prestige-v1"
+    },
     "mxl engineering and associates": {
       "aliases": [],
       "confidence": "low",
@@ -27117,6 +27139,17 @@
       "prestige_score": 58,
       "reason": "Well-regarded commercial-vehicle manufacturer with meaningful embedded and industrial technology work, but not a top software brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "pace": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Pace",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "The name is too ambiguous to establish a strong or widely recognized software-engineering employer brand.",
+      "reviewed_at": "2026-09-14",
       "rubric_version": "prestige-v1"
     },
     "pacific northwest national laboratory": {
@@ -32892,6 +32925,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "singlestore": {
+      "aliases": [
+        "SingleStoreDB"
+      ],
+      "confidence": "high",
+      "display_name": "SingleStore",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 74,
+      "reason": "Well-regarded database company with a credible engineering brand in distributed data systems, though below the most elite global signals.",
+      "reviewed_at": "2026-09-14",
+      "rubric_version": "prestige-v1"
+    },
     "situsamc": {
       "aliases": [],
       "confidence": "medium",
@@ -33647,6 +33693,17 @@
       "prestige_score": 31,
       "reason": "Limited widely recognized engineering reputation; name may refer to a small AI startup.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "spaice technology": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "SPAICE Technology",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "Limited verifiable recognition as a software-engineering employer; its technical career signal is unclear.",
+      "reviewed_at": "2026-09-14",
       "rubric_version": "prestige-v1"
     },
     "span": {
