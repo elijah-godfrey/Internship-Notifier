@@ -24840,6 +24840,19 @@
       "reviewed_at": "2026-08-04",
       "rubric_version": "prestige-v1"
     },
+    "ncr atleos": {
+      "aliases": [
+        "Atleos"
+      ],
+      "confidence": "medium",
+      "display_name": "NCR Atleos",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established ATM and financial-access technology company with credible enterprise engineering work, but a narrower and less broadly recognized software-engineering brand than top-tier technology employers.",
+      "reviewed_at": "2026-09-14",
+      "rubric_version": "prestige-v1"
+    },
     "ncr voyix": {
       "aliases": [
         "NCR"

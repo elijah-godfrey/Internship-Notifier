@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3472** of **3472** cached companies (all cached companies).
+Showing **3473** of **3473** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1204,6 +1204,7 @@ Showing **3472** of **3472** cached companies (all cached companies).
 | Mujin | 58 | Medium | 2026-08-10 | gpt-5.6-terra | No | - | Well-regarded robotics and industrial automation company with technically credible software work, especially in motion planning and warehouse automation, but it has a narrower and less broadly recognized software-engineering brand than major global tech employers. |
 | Myriad Genetics | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Myriad | Recognized genomics company with credible technical and data-intensive work, but a moderate general software-engineering signal. |
 | National Information Solutions Cooperative (NISC) | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | NISC | Established vertical-software cooperative with meaningful engineering work, but primarily industry-specific recognition. |
+| NCR Atleos | 58 | Medium | 2026-09-14 | gpt-5.6-terra | No | Atleos | Established ATM and financial-access technology company with credible enterprise engineering work, but a narrower and less broadly recognized software-engineering brand than top-tier technology employers. |
 | NCR Voyix | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | NCR | Established enterprise commerce and payments-technology employer, but its software-engineering brand is not broadly top-tier. |
 | NewYork-Presbyterian | 58 | High | 2026-08-02 | gpt-5.6-terra | No | NYP | Highly regarded healthcare institution, with a solid health-tech signal but not broad top-tier software-engineering recognition. |
 | Northwood Space | 58 | Low | 2026-08-29 | gpt-5.6-terra | No | - | Early-stage space communications company with potentially interesting technical work, but limited established selectivity and broad software-engineering brand recognition. |
