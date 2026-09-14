@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3471** of **3471** cached companies (all cached companies).
+Showing **3472** of **3472** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2913,6 +2913,7 @@ Showing **3471** of **3471** cached companies (all cached companies).
 | Taylor Corporation | 36 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established business-services and printing company, but not widely recognized for software engineering excellence. |
 | The Friedkin Group | 36 | Medium | 2026-09-12 | gpt-5.6-terra | No | Friedkin Group | Established diversified holding company, but it has limited visibility or selectivity as a software-engineering employer. |
 | Vixxo | 36 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Facilities-management services company with limited recognition as a software engineering employer. |
+| ABEC | 35 | Low | 2026-09-14 | gpt-5.6-terra | No | - | Likely a specialized engineering/manufacturing company rather than a broadly recognized software employer; limited software-engineering brand signal. |
 | Acuity | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The company name is ambiguous; without a specific entity, software engineering prestige cannot be assessed strongly. |
 | Advantmed | 35 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Healthcare-services company with limited visibility or selectivity as a software-engineering employer. |
 | Algonquin Capital | 35 | Low | 2026-09-11 | gpt-5.6-terra | No | - | A finance-focused organization with limited identifiable software-engineering employer signal. |
