@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3470** of **3470** cached companies (all cached companies).
+Showing **3471** of **3471** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3179,6 +3179,7 @@ Showing **3470** of **3470** cached companies (all cached companies).
 | Revise Robotics | 29 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Early-stage robotics identity may offer relevant work, but has limited established career signal. |
 | 10Beauty | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage beauty technology company with limited broad recognition in software engineering. |
 | ACLU Kentucky | 28 | High | 2026-08-02 | gpt-5.6-terra | No | American Civil Liberties Union of Kentucky | Recognized civil-liberties organization locally, but it has little software engineering employer signal. |
+| Acron Aviation | 28 | Low | 2026-09-14 | gpt-5.6-terra | No | - | Limited widely recognized software-engineering brand and unclear internship selectivity; likely a niche aviation-industry signal rather than a broadly strong SWE credential. |
 | Acronym Software Inc | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited evidence of broad industry recognition or a strong software-engineering talent signal. |
 | Anoka County Minnesota | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Local government employer with limited selectivity and little software-engineering brand recognition. |
 | Ask IT Consulting | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broad recognition as a software-engineering employer; consulting brand signal appears modest. |
