@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3479** of **3479** cached companies (all cached companies).
+Showing **3480** of **3480** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3225,6 +3225,7 @@ Showing **3479** of **3479** cached companies (all cached companies).
 | Mobile Data Technologies | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited evidence of broad market recognition or a strong, selective software-engineering employer brand. |
 | NeoCognition | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; appears to be a lesser-known technology company. |
 | New Jersey Innovation Authority | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The named organization is not clearly established as a software-engineering employer; evidence of a meaningful technical hiring signal is limited. |
+| Nexthop.ai | 28 | Low | 2026-09-15 | gpt-5.6-terra | No | NextHop AI | Limited broadly established evidence of a strong, selective software-engineering employer brand; likely a niche or early-stage signal rather than a widely recognized internship credential. |
 | Obsidian Solutions Group | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; the name is not strongly associated with selective technical internship recruiting. |
 | Orbifold AI Inc | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited evidence of broad recognition or selectivity as a software-engineering employer. |
 | Pluralis Research | 28 | Low | 2026-09-01 | gpt-5.6-terra | No | - | Appears to be a small or niche research organization with limited established software-engineering employer recognition. |
