@@ -19643,6 +19643,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "ionq": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "IonQ",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Recognized quantum-computing company with a technically ambitious brand and meaningful relevance to specialized software and systems work, but it has a narrower and less established software-engineering prestige signal than leading mainstream technology employers.",
+      "reviewed_at": "2026-09-15",
+      "rubric_version": "prestige-v1"
+    },
     "iovance biotherapeutics": {
       "aliases": [],
       "confidence": "medium",

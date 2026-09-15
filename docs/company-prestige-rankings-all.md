@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3480** of **3480** cached companies (all cached companies).
+Showing **3481** of **3481** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -598,6 +598,7 @@ Showing **3480** of **3480** cached companies (all cached companies).
 | impact.com | 68 | Medium | 2026-08-06 | gpt-5.6-terra | No | Impact | Well-regarded partnership-management SaaS company with a credible engineering product brand, though it lacks the broad selectivity and recognition of top-tier software employers. |
 | Impulse Space | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | Impulse Space Propulsion | Technically ambitious space company with a promising aerospace engineering signal, but it is young and has not yet built broad, established software-employer recognition. |
 | Intapp | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established vertical SaaS company for professional services with a credible engineering reputation, though limited broad recognition. |
+| IonQ | 68 | Medium | 2026-09-15 | gpt-5.6-terra | No | - | Recognized quantum-computing company with a technically ambitious brand and meaningful relevance to specialized software and systems work, but it has a narrower and less established software-engineering prestige signal than leading mainstream technology employers. |
 | Johnson & Johnson | 68 | High | 2026-08-02 | gpt-5.6-terra | No | J&J, JNJ | Globally respected healthcare company with strong selectivity and meaningful technology needs, though software is not its primary employer brand. |
 | Keyrock | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Technically oriented digital-asset market maker with a credible quantitative and engineering signal, though niche and less broadly recognized. |
 | KnowBe4 | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized cybersecurity company with a solid technical product reputation, though below the most elite security-engineering brands. |
