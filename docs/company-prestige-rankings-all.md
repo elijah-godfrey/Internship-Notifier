@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3478** of **3478** cached companies (all cached companies).
+Showing **3479** of **3479** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2613,6 +2613,7 @@ Showing **3478** of **3478** cached companies (all cached companies).
 | EVERSANA | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Life-sciences services company whose employer reputation is not primarily centered on software engineering. |
 | EXP | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Likely an engineering and consulting brand rather than a widely recognized software-engineering employer; the exact entity is ambiguous. |
 | Fairstone Financial | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | Fairstone | Established regional financial-services employer, though its software engineering brand is not especially prominent. |
+| Fanvue | 42 | Medium | 2026-09-15 | gpt-5.6-terra | No | - | A niche creator-platform startup with some relevant product-engineering exposure, but limited broad recognition or established selectivity as a software-engineering brand. |
 | FC Cincinnati | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | Fussball Club Cincinnati LLC, Football Club Cincinnati, Fussball Club Cincinnati LLC (“FC Cincinnati”) | Recognized professional sports organization, but not a widely recognized software engineering employer. |
 | Financial Technology Partners | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | FT Partners | A respected fintech-focused advisory firm, but its primary reputation is investment banking rather than software engineering. |
 | Freudenberg Group | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial group, though its software-engineering brand is limited and not broadly prominent. |
