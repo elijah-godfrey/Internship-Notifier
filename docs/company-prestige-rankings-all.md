@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3489** of **3489** cached companies (all cached companies).
+Showing **3490** of **3490** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3458,6 +3458,7 @@ Showing **3489** of **3489** cached companies (all cached companies).
 | Montgomery Investment Technology, Inc. | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited public software-engineering brand recognition and insufficient evidence of broad selectivity. |
 | Moon | 22 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Name is too ambiguous to establish a notable software-engineering employer brand; conservative assessment. |
 | MXL Engineering and Associates Inc | 22 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited evidence of a notable software-engineering employer reputation or broad technical selectivity. |
+| PressW | 22 | Low | 2026-09-16 | gpt-5.6-terra | No | - | Limited identifiable evidence of an established software-engineering employer brand or broadly recognized internship selectivity under this name. |
 | Root Access | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable employer recognition and no established broad software-engineering brand signal. |
 | STEM Xpert | 22 | Low | 2026-08-02 | gpt-5.6-terra | No | STEMXpert | Limited evidence of a broadly recognized or selective software-engineering employer reputation. |
 | Terranox AI | 22 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited evidence of an established reputation, selectivity, or recognized engineering brand. |
