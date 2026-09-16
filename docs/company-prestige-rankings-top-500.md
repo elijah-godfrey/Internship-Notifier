@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3490** cached companies (maximum 500).
+Showing **500** of **3500** cached companies (maximum 500).
 
-_The 2990 lowest-scored companies are omitted by the report cap._
+_The 3000 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -483,6 +483,7 @@ _The 2990 lowest-scored companies are omitted by the report cap._
 | Uber Freight | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Strong logistics-tech signal supported by the Uber brand, though less prestigious and more specialized than core Uber engineering. |
 | Ubisoft | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Ubisoft Entertainment | Globally recognized game developer with a credible engineering brand in large-scale game development and a competitive internship signal. |
 | Wealthsimple | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded Canadian fintech with a visible consumer technology brand and credible software engineering signal. |
+| Wellington Management | 72 | High | 2026-09-16 | gpt-5.6-terra | No | Wellington | Highly respected global investment manager with selective technology and quantitative engineering work. |
 | Workato | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise automation company with a strong modern SaaS engineering reputation. |
 | Writer | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Writer.com, Writer AI | Well-regarded enterprise generative-AI startup with a credible engineering signal, though less universally established or selective than the largest frontier AI labs. |
 | Beta Technologies | 71 | Medium | 2026-08-02 | gpt-5.6-terra | No | BETA | Prominent electric-aviation company with technically demanding work; its software brand is strong but less established than major technology firms. |
@@ -521,4 +522,3 @@ _The 2990 lowest-scored companies are omitted by the report cap._
 | HARMAN | 70 | High | 2026-07-18 | gpt-5.6-terra | No | HARMAN International, HARMAN International Industries | Well-regarded connected-car and consumer-audio technology company with a strong embedded, automotive, and systems software reputation. |
 | Hippocratic AI | 70 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Prominent emerging healthcare-AI startup with a potentially selective technical environment, but a still-developing employer brand. |
 | Hitachi | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized technology and industrial engineering brand with substantial technical depth, though its software-employer signal varies by division. |
-| Integral Ad Science | 70 | Medium | 2026-08-02 | gpt-5.6-terra | No | IAS | Recognized ad-tech company with technically demanding data and measurement products and a solid engineering signal. |

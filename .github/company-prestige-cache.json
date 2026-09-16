@@ -8197,6 +8197,20 @@
       "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
+    "city of virginia beach": {
+      "aliases": [
+        "Virginia Beach City Government",
+        "City of Virginia Beach Government"
+      ],
+      "confidence": "high",
+      "display_name": "City of Virginia Beach",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 39,
+      "reason": "A credible public-sector employer, but municipal technology work has limited broad software-engineering prestige.",
+      "reviewed_at": "2026-09-16",
+      "rubric_version": "prestige-v1"
+    },
     "citylogix": {
       "aliases": [],
       "confidence": "medium",
@@ -10378,6 +10392,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "d3 embedded": {
+      "aliases": [
+        "D3 Embedded Systems"
+      ],
+      "confidence": "medium",
+      "display_name": "D3 Embedded",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Specialized embedded-systems engineering firm with relevant technical work but limited broad market recognition.",
+      "reviewed_at": "2026-09-16",
+      "rubric_version": "prestige-v1"
+    },
     "daifuku": {
       "aliases": [],
       "confidence": "high",
@@ -10612,6 +10639,19 @@
       "prestige_score": 68,
       "reason": "Prominent emerging AI startup with a positive technical signal, but limited long-term employer-brand evidence.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "decisionpoint": {
+      "aliases": [
+        "Decision Point"
+      ],
+      "confidence": "low",
+      "display_name": "DecisionPoint",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "The name is ambiguous; likely a consulting or services employer with primarily regional or niche engineering recognition.",
+      "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
     "deckers brands": {
@@ -12402,6 +12442,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "emergent labs": {
+      "aliases": [
+        "Emergent Laboratories"
+      ],
+      "confidence": "low",
+      "display_name": "Emergent Labs",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Limited verifiable employer recognition; the name appears to represent a small or early-stage organization.",
+      "reviewed_at": "2026-09-16",
+      "rubric_version": "prestige-v1"
+    },
     "emerging tech": {
       "aliases": [],
       "confidence": "low",
@@ -12944,6 +12997,17 @@
       "prestige_score": 57,
       "reason": "Recognized Canadian digital-bank brand with relevant fintech engineering work, but limited global software-employer prestige.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "eqt": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "EQT Corporation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Established energy company with solid technical roles, but its software engineering brand is not broadly elite.",
+      "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
     "equativ": {
@@ -20865,6 +20929,17 @@
       "reviewed_at": "2026-09-08",
       "rubric_version": "prestige-v1"
     },
+    "kitware": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Kitware",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well regarded in scientific computing, visualization, and open-source engineering, with a strong specialized technical reputation.",
+      "reviewed_at": "2026-09-16",
+      "rubric_version": "prestige-v1"
+    },
     "kiwi charge": {
       "aliases": [],
       "confidence": "low",
@@ -22738,6 +22813,19 @@
       "prestige_score": 49,
       "reason": "Technically ambitious fusion startup, but too early and specialized to carry a well-established software engineering signal.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "marathon petroleum": {
+      "aliases": [
+        "MPC"
+      ],
+      "confidence": "high",
+      "display_name": "Marathon Petroleum",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 56,
+      "reason": "Major industrial employer with credible engineering work, though limited software-specific prestige.",
+      "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
     "mariana minerals": {
@@ -24655,6 +24743,17 @@
       "prestige_score": 62,
       "reason": "Robotics and automation startup with technically relevant engineering work, but limited established name recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "nanopath": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Nanopath",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 31,
+      "reason": "Early-stage or niche biotechnology company with limited established software-engineering brand recognition.",
+      "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
     "nasa jet propulsion laboratory": {
@@ -39758,6 +39857,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "vusion": {
+      "aliases": [
+        "VusionGroup",
+        "VusionGroup SA"
+      ],
+      "confidence": "medium",
+      "display_name": "Vusion",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "Recognized retail-technology business with relevant product engineering, but a modest broad software-industry signal.",
+      "reviewed_at": "2026-09-16",
+      "rubric_version": "prestige-v1"
+    },
     "vwh capital management": {
       "aliases": [],
       "confidence": "low",
@@ -40170,6 +40283,19 @@
       "prestige_score": 60,
       "reason": "Respected quantitative investment firm; technical roles can signal rigor, though its engineering brand is niche.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "wellington management": {
+      "aliases": [
+        "Wellington"
+      ],
+      "confidence": "high",
+      "display_name": "Wellington Management",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Highly respected global investment manager with selective technology and quantitative engineering work.",
+      "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
     "wellmark": {
