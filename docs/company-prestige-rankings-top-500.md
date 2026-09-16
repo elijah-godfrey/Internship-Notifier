@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3481** cached companies (maximum 500).
+Showing **500** of **3489** cached companies (maximum 500).
 
-_The 2981 lowest-scored companies are omitted by the report cap._
+_The 2989 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -71,6 +71,7 @@ _The 2981 lowest-scored companies are omitted by the report cap._
 | XTX Markets | 87 | High | 2026-07-28 | gpt-5.6-terra | No | XTX | Highly selective quantitative trading firm with a strong reputation for sophisticated engineering, data, and research work. |
 | Datadog | 86 | High | 2026-08-02 | gpt-5.6-terra | No | - | Top-tier cloud observability company with a widely respected engineering brand in distributed systems and infrastructure. |
 | Dropbox | 86 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognizable product-engineering company with a strong history of selective hiring and respected software systems work. |
+| Duolingo | 86 | High | 2026-09-16 | gpt-5.6-terra | No | - | Highly recognizable technology company with a strong product-engineering reputation and a selective software-engineering hiring signal. |
 | Figma | 86 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized product and engineering organization; its collaborative design platform is a strong, selective software career signal. |
 | Palo Alto Networks | 86 | High | 2026-07-18 | gpt-5.6-terra | No | PANW | Leading cybersecurity company with a strong global engineering reputation and highly credible technical career signal. |
 | Perplexity AI | 86 | High | 2026-07-18 | gpt-5.6-terra | No | Perplexity | Highly visible AI product company with a strong, selective engineering and research signal, though it is still young. |
@@ -521,4 +522,3 @@ _The 2981 lowest-scored companies are omitted by the report cap._
 | Hippocratic AI | 70 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Prominent emerging healthcare-AI startup with a potentially selective technical environment, but a still-developing employer brand. |
 | Hitachi | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized technology and industrial engineering brand with substantial technical depth, though its software-employer signal varies by division. |
 | Integral Ad Science | 70 | Medium | 2026-08-02 | gpt-5.6-terra | No | IAS | Recognized ad-tech company with technically demanding data and measurement products and a solid engineering signal. |
-| Kinaxis | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise supply-chain software company with a credible engineering product brand and global customer base. |

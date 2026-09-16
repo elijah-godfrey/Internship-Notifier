@@ -5192,6 +5192,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "biomerieux": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "bioM\u00e9rieux",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Well-regarded diagnostics company with strong scientific credibility, but a relatively limited standalone software-engineering brand.",
+      "reviewed_at": "2026-09-16",
+      "rubric_version": "prestige-v1"
+    },
     "bird construction": {
       "aliases": [],
       "confidence": "medium",
@@ -11768,6 +11779,17 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "duolingo": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Duolingo",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 86,
+      "reason": "Highly recognizable technology company with a strong product-engineering reputation and a selective software-engineering hiring signal.",
+      "reviewed_at": "2026-09-16",
+      "rubric_version": "prestige-v1"
+    },
     "duracell": {
       "aliases": [],
       "confidence": "high",
@@ -14139,6 +14161,20 @@
       "prestige_score": 54,
       "reason": "A respected financial institution with meaningful technology work, but a limited standalone software-engineering brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "fhlbank chicago": {
+      "aliases": [
+        "Federal Home Loan Bank of Chicago",
+        "FHLB Chicago"
+      ],
+      "confidence": "medium",
+      "display_name": "FHLBank Chicago",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Established financial institution with a credible technology environment, though its engineering brand is niche rather than broadly prestigious.",
+      "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
     "fhlbank topeka": {
@@ -26211,6 +26247,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "ocean spray": {
+      "aliases": [
+        "Ocean Spray Cranberries"
+      ],
+      "confidence": "medium",
+      "display_name": "Ocean Spray",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Recognized consumer-food brand, but it has limited distinct software-engineering prestige or selectivity signal.",
+      "reviewed_at": "2026-09-16",
+      "rubric_version": "prestige-v1"
+    },
     "oceancomm": {
       "aliases": [],
       "confidence": "low",
@@ -27807,6 +27856,17 @@
       "prestige_score": 72,
       "reason": "High-profile early-stage AI-for-science venture with an emerging, technically strong signal but limited operating history.",
       "reviewed_at": "2026-07-18",
+      "rubric_version": "prestige-v1"
+    },
+    "perkinelmer": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "PerkinElmer",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 60,
+      "reason": "Established scientific-instruments and life-sciences employer with credible technical work, though not a top-tier software-engineering brand.",
+      "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
     "perpay": {
@@ -30614,6 +30674,19 @@
       "prestige_score": 65,
       "reason": "Recognized quantum-computing company with technically demanding work, though its engineering signal is specialized and less established than leading technology firms.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "rilla": {
+      "aliases": [
+        "Rilla AI"
+      ],
+      "confidence": "medium",
+      "display_name": "Rilla",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 47,
+      "reason": "A visible venture-backed AI startup, but its software-engineering reputation and selectivity signal are still less established than major technology employers.",
+      "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
     "ripple": {
@@ -36835,6 +36908,17 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "titan materials group": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Titan Materials Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 27,
+      "reason": "Limited evidence of a broadly recognized software-engineering reputation; the name appears industry-specific rather than a strong technical career signal.",
+      "reviewed_at": "2026-09-16",
+      "rubric_version": "prestige-v1"
+    },
     "tive": {
       "aliases": [],
       "confidence": "medium",
@@ -39172,6 +39256,17 @@
       "prestige_score": 71,
       "reason": "Well-regarded networking and cybersecurity vendor with a strong specialized engineering reputation.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "versadesk": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "VersaDesk",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 26,
+      "reason": "Limited evidence of a broadly recognized or selective software-engineering employer brand.",
+      "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
     "vertex pharmaceuticals": {
