@@ -4179,6 +4179,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "axcelis technologies": {
+      "aliases": [
+        "Axcelis"
+      ],
+      "confidence": "medium",
+      "display_name": "Axcelis Technologies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established semiconductor-equipment company with credible specialized engineering work, but a comparatively limited mainstream software-engineering brand and internship signal versus top technology firms.",
+      "reviewed_at": "2026-09-17",
+      "rubric_version": "prestige-v1"
+    },
     "axiom space": {
       "aliases": [],
       "confidence": "medium",

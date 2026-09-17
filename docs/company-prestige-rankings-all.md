@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3500** of **3500** cached companies (all cached companies).
+Showing **3501** of **3501** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1139,6 +1139,7 @@ Showing **3500** of **3500** cached companies (all cached companies).
 | Arizona State University | 58 | Medium | 2026-07-31 | gpt-5.6-terra | No | ASU | A well-known major research university with credible technical opportunities, but its software-engineering employer brand is less selective and industry-signaling than leading technology companies. |
 | Artisan Partners | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Artisan Partners Asset Management | Established asset manager with credible technical roles, but limited software-engineering brand prominence. |
 | Availity | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare technology platform with solid domain-specific engineering credibility, though not broadly top-tier. |
+| Axcelis Technologies | 58 | Medium | 2026-09-17 | gpt-5.6-terra | No | Axcelis | Established semiconductor-equipment company with credible specialized engineering work, but a comparatively limited mainstream software-engineering brand and internship signal versus top technology firms. |
 | Axis Capital | 58 | Medium | 2026-07-28 | gpt-5.6-terra | No | AXIS Capital Holdings | Established specialty insurer/reinsurer with credible technical roles, but it has a modest software-engineering brand and limited broad recognition as a top engineering destination. |
 | Baird | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Robert W. Baird | Respected financial-services firm, though its software engineering brand is less prominent than major technology-focused finance employers. |
 | Becton Dickinson | 58 | High | 2026-08-02 | gpt-5.6-terra | No | BD, BD Biosciences | Established global medical-technology company with credible engineering work, though its software brand is secondary to its healthcare-device reputation. |
