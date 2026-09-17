@@ -129,6 +129,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "4ag robotics": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "4AG Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "A credible robotics company in an applied automation niche; the robotics focus is a positive technical signal, though recognition and selectivity appear specialized rather than broad.",
+      "reviewed_at": "2026-09-17",
+      "rubric_version": "prestige-v1"
+    },
     "60 decibels": {
       "aliases": [
         "60decibelsinc"
@@ -1561,6 +1572,17 @@
       "prestige_score": 63,
       "reason": "Respected semiconductor company; engineering credibility is solid, though primarily in hardware rather than software.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "allen lund": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Allen Lund Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "A known transportation and logistics business, but it is not broadly recognized as a high-prestige or highly selective software engineering employer.",
+      "reviewed_at": "2026-09-17",
       "rubric_version": "prestige-v1"
     },
     "alliancebernstein": {
@@ -19440,6 +19462,17 @@
       "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
+    "intelliguard": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Intelliguard",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Appears to be a specialized healthcare technology company with limited broadly visible software-engineering brand recognition.",
+      "reviewed_at": "2026-09-17",
+      "rubric_version": "prestige-v1"
+    },
     "interac": {
       "aliases": [],
       "confidence": "high",
@@ -20096,6 +20129,17 @@
       "prestige_score": 25,
       "reason": "Limited public recognition and no established broad software-engineering prestige signal evident.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "javelin global commodities": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Javelin Global Commodities",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "A respected specialist commodities trading firm with meaningful technical work potential, but a limited general software-engineering brand compared with leading technology employers.",
+      "reviewed_at": "2026-09-17",
       "rubric_version": "prestige-v1"
     },
     "jb and b": {
@@ -30438,6 +30482,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "republic airways": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Republic Airways",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "An established regional aviation employer, but its software engineering reputation is not a major or especially selective signal in the broader tech market.",
+      "reviewed_at": "2026-09-17",
+      "rubric_version": "prestige-v1"
+    },
     "resmed": {
       "aliases": [],
       "confidence": "medium",
@@ -30515,6 +30570,17 @@
       "prestige_score": 74,
       "reason": "Respected developer-tools company with a strong product and engineering reputation among software teams.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "rev robotics": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "REV Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "Well regarded within educational and competition robotics communities, providing a relevant hardware-software signal, though its engineering brand is niche rather than broadly elite.",
+      "reviewed_at": "2026-09-17",
       "rubric_version": "prestige-v1"
     },
     "revance": {
