@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3507** of **3507** cached companies (all cached companies).
+Showing **3509** of **3509** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1998,6 +1998,7 @@ Showing **3507** of **3507** cached companies (all cached companies).
 | Corewell Health | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Corewell | Major regional health system with meaningful IT needs, but limited broad software-engineering prestige. |
 | Customers Bank | 48 | Medium | 2026-08-27 | gpt-5.6-terra | No | Customers Bancorp | Established regional banking employer, but it has limited broad recognition as a selective software-engineering destination. |
 | Cypress Creek Renewables | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | CCR | Established renewable-energy developer with relevant technology work, but limited broad software-engineering recognition. |
+| Dayton Freight Lines | 48 | Medium | 2026-09-18 | gpt-5.6-terra | No | Dayton Freight | Established regional freight carrier; offers practical enterprise/operations software exposure but has limited broader software-engineering brand recognition. |
 | DiligenceVault | 48 | Medium | 2026-09-11 | gpt-5.6-terra | No | Diligence Vault | A niche enterprise software firm with relevant product-engineering experience, but limited broad recognition or selectivity signal in software engineering. |
 | Driscoll's | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Driscolls | Established agriculture and consumer-products company, but with limited broad recognition as a software-engineering employer. |
 | Duracell | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer-products brand, but it has limited broad reputation as a software-engineering employer. |
@@ -3175,6 +3176,7 @@ Showing **3507** of **3507** cached companies (all cached companies).
 | MetOx International | 30 | Medium | 2026-08-02 | gpt-5.6-terra | No | MetOx | Specialized materials company with little evident software-engineering brand recognition. |
 | Mihafa Inc dba Nectar Social | 30 | Low | 2026-09-11 | gpt-5.6-terra | No | Nectar Social, Mihafa Inc | Small social-media technology brand with limited broad recognition as a software-engineering employer. |
 | Mind Robotics | 30 | Low | 2026-09-03 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized or selective software-engineering employer brand. |
+| Newham | 30 | Low | 2026-09-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a widely recognized software-engineering employer; limited evidence supports a strong technical career signal. |
 | Omnis | 30 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a broadly recognized software-engineering employer signal without further identification. |
 | Overview Energy | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited public evidence of a broadly recognized software engineering employer brand. |
 | Quadrillion | 30 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The supplied name is ambiguous and does not establish a broadly recognized software-engineering employer brand. |

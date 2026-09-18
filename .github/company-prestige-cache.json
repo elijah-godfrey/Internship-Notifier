@@ -10639,6 +10639,19 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "dayton freight lines": {
+      "aliases": [
+        "Dayton Freight"
+      ],
+      "confidence": "medium",
+      "display_name": "Dayton Freight Lines",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established regional freight carrier; offers practical enterprise/operations software exposure but has limited broader software-engineering brand recognition.",
+      "reviewed_at": "2026-09-18",
+      "rubric_version": "prestige-v1"
+    },
     "dc water": {
       "aliases": [
         "District of Columbia Water and Sewer Authority"
@@ -25377,6 +25390,17 @@
       "prestige_score": 48,
       "reason": "Recognized media brand, but its software engineering organization is not broadly viewed as a top technical career signal.",
       "reviewed_at": "2026-08-01",
+      "rubric_version": "prestige-v1"
+    },
+    "newham": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Newham",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 30,
+      "reason": "The name is ambiguous and does not identify a widely recognized software-engineering employer; limited evidence supports a strong technical career signal.",
+      "reviewed_at": "2026-09-18",
       "rubric_version": "prestige-v1"
     },
     "newmark group": {
