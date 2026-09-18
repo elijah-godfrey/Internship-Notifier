@@ -6761,6 +6761,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "cambridge investment research": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Cambridge Investment Research",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established financial-services firm, but it has limited broad recognition or standout selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-09-18",
+      "rubric_version": "prestige-v1"
+    },
     "cambridge mobile telematics": {
       "aliases": [
         "CMT"
@@ -28200,6 +28211,17 @@
       "prestige_score": 27,
       "reason": "Appears to be a niche technology company with limited established software engineering brand recognition.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "phase 2": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Phase 2",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 30,
+      "reason": "The name is ambiguous and does not by itself establish a widely recognized or selective software-engineering employer brand.",
+      "reviewed_at": "2026-09-18",
       "rubric_version": "prestige-v1"
     },
     "phi air medical": {

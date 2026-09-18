@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3509** of **3509** cached companies (all cached companies).
+Showing **3511** of **3511** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1985,6 +1985,7 @@ Showing **3509** of **3509** cached companies (all cached companies).
 | BJ's Wholesale Club | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | BJs Wholesale Club | Recognized retail employer with meaningful internal technology needs, but not a notably selective engineering brand. |
 | Breeze Airways | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Breeze | Recognizable newer airline, but it has limited reputation for software-engineering selectivity or technical brand strength. |
 | CalAmp | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Known in telematics and connected-device technology, with a modest and industry-specific engineering signal. |
+| Cambridge Investment Research | 48 | Medium | 2026-09-18 | gpt-5.6-terra | No | - | Established financial-services firm, but it has limited broad recognition or standout selectivity as a software-engineering employer. |
 | Cheiron | 48 | Medium | 2026-09-02 | gpt-5.6-terra | No | - | Established actuarial consulting firm with credible quantitative/technical work, but a limited software-engineering brand and mainly niche industry recognition. |
 | Choice Hotels | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Choice Hotels International | Established hospitality company with ordinary software-engineering market recognition. |
 | CLEAResult | 48 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Established energy-efficiency and sustainability services firm, but its software engineering brand and internship selectivity have limited broad recognition outside its industry. |
@@ -3179,6 +3180,7 @@ Showing **3509** of **3509** cached companies (all cached companies).
 | Newham | 30 | Low | 2026-09-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a widely recognized software-engineering employer; limited evidence supports a strong technical career signal. |
 | Omnis | 30 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a broadly recognized software-engineering employer signal without further identification. |
 | Overview Energy | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited public evidence of a broadly recognized software engineering employer brand. |
+| Phase 2 | 30 | Low | 2026-09-18 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a widely recognized or selective software-engineering employer brand. |
 | Quadrillion | 30 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The supplied name is ambiguous and does not establish a broadly recognized software-engineering employer brand. |
 | Realm | 30 | Low | 2026-08-27 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself establish a broadly recognized software-engineering employer brand. |
 | Revolve Surgical Inc | 30 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Appears to be a specialized surgical/medical company with limited established software-engineering recognition. |
