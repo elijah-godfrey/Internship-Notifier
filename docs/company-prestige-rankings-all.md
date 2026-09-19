@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3511** of **3511** cached companies (all cached companies).
+Showing **3514** of **3514** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1696,6 +1696,7 @@ Showing **3511** of **3511** cached companies (all cached companies).
 | Enovis | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-technology company with meaningful technical work, but limited broad recognition as a software-engineering destination. |
 | EVgo | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized EV-charging company with relevant platform work, but a modest software-engineering prestige signal. |
 | Exclusive Networks | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Established cybersecurity-focused technology distributor with recognizable industry presence, but not generally known as a highly selective or top-tier software-engineering employer. |
+| Fable | 52 | Low | 2026-09-19 | gpt-5.6-terra | No | - | The name is ambiguous across multiple companies; no single clearly dominant, high-prestige software-engineering employer can be identified from the name alone. |
 | Fifth Third Bank | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Fifth Third, Fifth Third Bancorp, 53 Bank | A credible regional bank with technology roles, but a modest national software-engineering reputation. |
 | FNBO | 52 | High | 2026-08-02 | gpt-5.6-terra | No | First National Bank of Omaha | Established regional banking employer with ordinary positive technology experience, but limited national software-engineering brand strength. |
 | Frontier Economics | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected economics consultancy, but software roles are secondary to its core professional-services reputation. |
@@ -2346,6 +2347,7 @@ Showing **3511** of **3511** cached companies (all cached companies).
 | RapDev | 45 | Low | 2026-07-30 | gpt-5.6-terra | No | - | Specialized cloud and DevOps consulting firm; relevant technical work is plausible, but it has limited broad recognition as a selective software engineering internship brand. |
 | Republic Airways | 45 | Medium | 2026-09-17 | gpt-5.6-terra | No | - | An established regional aviation employer, but its software engineering reputation is not a major or especially selective signal in the broader tech market. |
 | Ribbon | 45 | Low | 2026-07-21 | gpt-5.6-terra | No | Ribbon Communications | The name is ambiguous; assuming Ribbon Communications, it has a credible telecom/software engineering presence but limited broad recognition as a selective software internship brand. |
+| Risepoint | 45 | Medium | 2026-09-19 | gpt-5.6-terra | No | Academic Partnerships | Established education-technology/services business, but not generally viewed as a highly selective or prominent software-engineering employer. |
 | Rugged Robotics | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage robotics company with potentially relevant technical work but limited broad employer recognition. |
 | Rundoo | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Small software company with limited established recognition or demonstrated selectivity in the broader engineering market. |
 | Saks Global | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Saks, Saks Fifth Avenue | Recognizable retail organization, but its software-engineering reputation is not a major general-market career signal. |
@@ -3230,6 +3232,7 @@ Showing **3511** of **3511** cached companies (all cached companies).
 | Dedalus Labs | 28 | Low | 2026-08-15 | gpt-5.6-terra | No | - | Limited broadly recognized evidence of an established, selective software-engineering employer brand; the name has modest career-signaling value absent clearer context. |
 | Denari | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Limited broadly recognizable software-engineering brand under this name. |
 | Dominion Dynamics | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited evidence of a broadly recognized or selective software-engineering employer. |
+| Echelon Insights | 28 | Low | 2026-09-19 | gpt-5.6-terra | No | - | Limited broadly verifiable software-engineering brand recognition; likely a niche or smaller organization. |
 | Elevations Credit Union | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Regional financial institution with limited software-engineering brand recognition. |
 | Eragon | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence supports a strong internship signal. |
 | Exploration Technology Corp. | 28 | Low | 2026-07-22 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized or selective software engineering employer brand under this exact name. |
