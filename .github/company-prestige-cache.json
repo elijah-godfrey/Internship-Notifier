@@ -8984,6 +8984,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "collinear ai": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Collinear AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited broadly established evidence of a selective or widely recognized software-engineering employer brand; the AI positioning may be relevant but is not by itself a strong internship signal.",
+      "reviewed_at": "2026-09-21",
+      "rubric_version": "prestige-v1"
+    },
     "colonial pipeline": {
       "aliases": [],
       "confidence": "high",

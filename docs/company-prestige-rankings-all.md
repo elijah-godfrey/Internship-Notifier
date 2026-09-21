@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3514** of **3514** cached companies (all cached companies).
+Showing **3515** of **3515** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3225,6 +3225,7 @@ Showing **3514** of **3514** cached companies (all cached companies).
 | Capital Automotive Group | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Automotive retail organization with limited recognized software-engineering brand. |
 | Cirque du Soleil | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized entertainment brand, but it has little software-engineering employer prestige. |
 | Clera | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | The name is ambiguous and there is limited evidence of a broadly recognized software-engineering reputation. |
+| Collinear AI | 28 | Low | 2026-09-21 | gpt-5.6-terra | No | - | Limited broadly established evidence of a selective or widely recognized software-engineering employer brand; the AI positioning may be relevant but is not by itself a strong internship signal. |
 | Compassion International | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established nonprofit, but not a notable or selective software-engineering employer signal. |
 | Courtyard AI Inc. | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited identifiable public evidence of a widely recognized or selective software-engineering employer brand. |
 | CTGT | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer; the company identity and scale are unclear. |
