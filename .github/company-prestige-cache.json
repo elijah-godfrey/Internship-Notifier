@@ -17501,6 +17501,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "headlands tech holdings": {
+      "aliases": [
+        "Headlands Technologies"
+      ],
+      "confidence": "medium",
+      "display_name": "Headlands Tech Holdings",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "Quantitative trading firm with a selective technical profile and strong signal for systems, data, and low-latency engineering, though less broadly recognized than the largest elite firms.",
+      "reviewed_at": "2026-09-22",
+      "rubric_version": "prestige-v1"
+    },
     "headlands technologies": {
       "aliases": [],
       "confidence": "medium",
@@ -19048,6 +19061,19 @@
       "prestige_score": 48,
       "reason": "Established K-12-focused service-management software company; relevant SaaS engineering experience, but its brand recognition and selectivity are primarily niche rather than broadly prestigious in software engineering.",
       "reviewed_at": "2026-08-04",
+      "rubric_version": "prestige-v1"
+    },
+    "incomm payments": {
+      "aliases": [
+        "InComm"
+      ],
+      "confidence": "medium",
+      "display_name": "InComm Payments",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established payments and prepaid-technology company; offers relevant production software experience, but has a more industry-specific engineering brand than top fintech firms.",
+      "reviewed_at": "2026-09-22",
       "rubric_version": "prestige-v1"
     },
     "indie semiconductor": {
@@ -40813,6 +40839,17 @@
       "prestige_score": 48,
       "reason": "Recognized public infrastructure organization, though software engineering is not its principal employer brand.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "windstar cruises": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Windstar Cruises",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Recognized niche travel and hospitality brand, but software engineering is not central to its external reputation and it carries limited technical prestige.",
+      "reviewed_at": "2026-09-22",
       "rubric_version": "prestige-v1"
     },
     "wing": {

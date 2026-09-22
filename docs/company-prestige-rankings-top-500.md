@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3515** cached companies (maximum 500).
+Showing **500** of **3518** cached companies (maximum 500).
 
-_The 3015 lowest-scored companies are omitted by the report cap._
+_The 3018 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -273,6 +273,7 @@ _The 3015 lowest-scored companies are omitted by the report cap._
 | GitLab | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Widely recognized DevOps platform with a strong open-source and developer-tools engineering signal. |
 | Graphcore | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized AI-chip company with a strong specialized technical brand in machine learning systems and hardware. |
 | Groq | 76 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable AI-infrastructure and inference-hardware company with a technically sophisticated reputation, but a narrower and newer employer brand. |
+| Headlands Tech Holdings | 76 | Medium | 2026-09-22 | gpt-5.6-terra | No | Headlands Technologies | Quantitative trading firm with a selective technical profile and strong signal for systems, data, and low-latency engineering, though less broadly recognized than the largest elite firms. |
 | JINGDONG | 76 | Medium | 2026-07-22 | gpt-5.6-terra | No | JD.com, Jingdong Group | Large, respected Chinese e-commerce and logistics technology company with meaningful engineering scale and a strong regional technical brand. |
 | King | 76 | High | 2026-08-02 | gpt-5.6-terra | No | King.com, King Digital Entertainment | Major mobile-game developer behind globally recognized products, with a strong game-engineering and consumer-software signal. |
 | KLA Corporation | 76 | High | 2026-07-18 | gpt-5.6-terra | No | - | Leading semiconductor-process-control company with strong deep-tech engineering credibility and a respected technical brand. |
@@ -521,4 +522,3 @@ _The 3015 lowest-scored companies are omitted by the report cap._
 | Handshake | 70 | High | 2026-08-02 | gpt-5.6-terra | No | Handshake America | Recognized college-career platform with a solid technology-company signal and a respected engineering-oriented product brand. |
 | HARMAN | 70 | High | 2026-07-18 | gpt-5.6-terra | No | HARMAN International, HARMAN International Industries | Well-regarded connected-car and consumer-audio technology company with a strong embedded, automotive, and systems software reputation. |
 | Hippocratic AI | 70 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Prominent emerging healthcare-AI startup with a potentially selective technical environment, but a still-developing employer brand. |
-| Hitachi | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized technology and industrial engineering brand with substantial technical depth, though its software-employer signal varies by division. |

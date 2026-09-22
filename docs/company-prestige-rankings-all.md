@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3515** of **3515** cached companies (all cached companies).
+Showing **3518** of **3518** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -271,6 +271,7 @@ Showing **3515** of **3515** cached companies (all cached companies).
 | GitLab | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Widely recognized DevOps platform with a strong open-source and developer-tools engineering signal. |
 | Graphcore | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized AI-chip company with a strong specialized technical brand in machine learning systems and hardware. |
 | Groq | 76 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable AI-infrastructure and inference-hardware company with a technically sophisticated reputation, but a narrower and newer employer brand. |
+| Headlands Tech Holdings | 76 | Medium | 2026-09-22 | gpt-5.6-terra | No | Headlands Technologies | Quantitative trading firm with a selective technical profile and strong signal for systems, data, and low-latency engineering, though less broadly recognized than the largest elite firms. |
 | JINGDONG | 76 | Medium | 2026-07-22 | gpt-5.6-terra | No | JD.com, Jingdong Group | Large, respected Chinese e-commerce and logistics technology company with meaningful engineering scale and a strong regional technical brand. |
 | King | 76 | High | 2026-08-02 | gpt-5.6-terra | No | King.com, King Digital Entertainment | Major mobile-game developer behind globally recognized products, with a strong game-engineering and consumer-software signal. |
 | KLA Corporation | 76 | High | 2026-07-18 | gpt-5.6-terra | No | - | Leading semiconductor-process-control company with strong deep-tech engineering credibility and a respected technical brand. |
@@ -1193,6 +1194,7 @@ Showing **3515** of **3515** cached companies (all cached companies).
 | Health Canada | 58 | High | 2026-09-11 | gpt-5.6-terra | No | - | Major federal institution with credible technical and public-service experience, though not generally a top-tier software engineering brand. |
 | Howard University | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-known university with a respectable technical and academic brand, but not a top-tier software-employer signal. |
 | HumanSignal | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Human Signal | Recognized in data labeling and AI tooling, offering relevant engineering exposure but with a more limited market-wide prestige signal. |
+| InComm Payments | 58 | Medium | 2026-09-22 | gpt-5.6-terra | No | InComm | Established payments and prepaid-technology company; offers relevant production software experience, but has a more industry-specific engineering brand than top fintech firms. |
 | Infleqtion | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | ColdQuanta | Quantum technology company with technically interesting work, but a still-specialized and less established software-employer signal. |
 | INIT Group | 58 | Medium | 2026-09-11 | gpt-5.6-terra | No | INIT, Innovative Informatikanwendungen in Transport-, Verkehrs- und Leitsystemen GmbH, INIT Innovative Informatikanwendungen in Transport-, Verkehrs- und Leitsystemen GmbH dba INIT Group | Respected specialized provider of intelligent transportation systems, with a solid but niche software-engineering signal. |
 | Intermountain Healthcare | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Intermountain Health | Respected healthcare system with substantial technology needs, but its brand is not primarily a software-engineering one. |
@@ -2725,6 +2727,7 @@ Showing **3515** of **3515** cached companies (all cached companies).
 | Waddell Engineering Ltd | 42 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Appears to be a specialized engineering firm; limited evidence of a broadly recognized software-engineering brand. |
 | Weyerhaeuser | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known forest-products company, but offers limited broad software engineering prestige. |
 | WhiteWater Midstream | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established midstream-energy operator, but not broadly known as a software-engineering destination. |
+| Windstar Cruises | 42 | Medium | 2026-09-22 | gpt-5.6-terra | No | - | Recognized niche travel and hospitality brand, but software engineering is not central to its external reputation and it carries limited technical prestige. |
 | Ankura Consulting Group | 41 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established advisory and consulting firm, but not broadly known for software engineering. |
 | AutoNation | 41 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large automotive retailer with internal technology needs, but not a notably prestigious software-engineering destination. |
 | Belk | 41 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established regional retailer with ordinary enterprise technology opportunities but limited software-engineering brand strength. |
