@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3519** of **3519** cached companies (all cached companies).
+Showing **3521** of **3521** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2379,6 +2379,7 @@ Showing **3519** of **3519** cached companies (all cached companies).
 | UMB | 45 | Low | 2026-07-21 | gpt-5.6-terra | No | UMB Financial | Ambiguous company name; if referring to UMB Financial, it is a respected regional financial-services employer but has limited broad software-engineering brand recognition. |
 | USA for UNHCR | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized nonprofit supporting UNHCR, but it has a limited software-engineering employer brand. |
 | Vermeer | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial equipment company, but software engineering is not its primary external career signal. |
+| Vialto Partners | 45 | Medium | 2026-09-22 | gpt-5.6-terra | No | - | Established global mobility and tax-services firm, but its brand is not a strong or widely recognized software-engineering career signal. |
 | Vooma Inc | 45 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Early-stage logistics AI startup with relevant technical work, but limited established prestige so far. |
 | Wellmark | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Wellmark Blue Cross and Blue Shield | Established regional health insurer, but not widely known as a selective software engineering destination. |
 | World Surf League | 45 | Medium | 2026-07-18 | gpt-5.6-terra | No | WSL | Recognized sports-media organization, but it has a limited software-engineering prestige signal relative to dedicated technology employers. |
@@ -2631,6 +2632,7 @@ Showing **3519** of **3519** cached companies (all cached companies).
 | Creatify Lab | 42 | Low | 2026-07-18 | gpt-5.6-terra | No | Creatify | Appears to be a smaller AI creative-tools company with limited broad recognition as a software-engineering employer. |
 | CSA Group | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-known in standards and certification, but not broadly recognized for software-engineering careers. |
 | CSC | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The acronym is ambiguous; likely entities using this name have limited broad software-engineering prestige. |
+| CSC Generation | 42 | Low | 2026-09-22 | gpt-5.6-terra | No | - | A niche commerce and technology operator with limited broad recognition or demonstrated selectivity as a software-engineering employer. |
 | Dairyland Power Cooperative | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | Dairyland Power | Established regional utility, but it has limited recognition or selectivity as a software engineering employer. |
 | DC Water | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | District of Columbia Water and Sewer Authority | Prominent regional utility whose technology roles are primarily operational IT rather than a strong software engineering signal. |
 | DecisionPoint | 42 | Low | 2026-09-16 | gpt-5.6-terra | No | Decision Point | The name is ambiguous; likely a consulting or services employer with primarily regional or niche engineering recognition. |

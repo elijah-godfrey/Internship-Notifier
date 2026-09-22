@@ -10169,6 +10169,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "csc generation": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "CSC Generation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "A niche commerce and technology operator with limited broad recognition or demonstrated selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-09-22",
+      "rubric_version": "prestige-v1"
+    },
     "csl": {
       "aliases": [],
       "confidence": "medium",
@@ -39692,6 +39703,17 @@
       "prestige_score": 43,
       "reason": "Recognizable niche online marketplace product, but it has limited broad software-engineering prestige.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "vialto partners": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Vialto Partners",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established global mobility and tax-services firm, but its brand is not a strong or widely recognized software-engineering career signal.",
+      "reviewed_at": "2026-09-22",
       "rubric_version": "prestige-v1"
     },
     "viatris": {
