@@ -12534,6 +12534,19 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "emc insurance": {
+      "aliases": [
+        "EMC Insurance Companies"
+      ],
+      "confidence": "medium",
+      "display_name": "EMC Insurance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established insurance employer with ordinary technology-career signaling; its software brand is primarily industry-specific rather than widely prestigious.",
+      "reviewed_at": "2026-09-23",
+      "rubric_version": "prestige-v1"
+    },
     "emergent holdings": {
       "aliases": [],
       "confidence": "medium",
@@ -16641,6 +16654,17 @@
       "prestige_score": 39,
       "reason": "Recognized insurance company, but its software-engineering brand is limited relative to dedicated technology employers.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "gorbel": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Gorbel",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Recognized industrial equipment company, but it has limited software-engineering employer-brand prominence outside its manufacturing domain.",
+      "reviewed_at": "2026-09-23",
       "rubric_version": "prestige-v1"
     },
     "gordon food service": {
@@ -21650,6 +21674,17 @@
       "prestige_score": 61,
       "reason": "Recognized health-tech platform with a credible engineering environment, though not broadly viewed as a top-tier software brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "lean techniques": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Lean TECHniques",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Specialized software consulting firm with a positive niche reputation, but limited broad recognition or selectivity signal compared with major technology employers.",
+      "reviewed_at": "2026-09-23",
       "rubric_version": "prestige-v1"
     },
     "leap tools": {
@@ -28706,6 +28741,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "planview": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Planview",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Established enterprise software vendor with a credible engineering signal in portfolio and work-management products, though not broadly viewed as top-tier tech.",
+      "reviewed_at": "2026-09-23",
+      "rubric_version": "prestige-v1"
+    },
     "playstation": {
       "aliases": [
         "Sony Interactive Entertainment",
@@ -30902,6 +30948,17 @@
       "prestige_score": 43,
       "reason": "The name is ambiguous across companies and does not reliably indicate a broadly recognized, selective software-engineering employer.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "rhoda ai": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Rhoda AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Limited verifiable public signal as a recognized or selective software-engineering employer; likely a small or early-stage AI brand.",
+      "reviewed_at": "2026-09-23",
       "rubric_version": "prestige-v1"
     },
     "rhombus power": {
@@ -39249,6 +39306,17 @@
       "prestige_score": 63,
       "reason": "Recognized data-center infrastructure company with relevant technical work, but not a leading software-engineering brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "vantor": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Vantor",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Limited independent employer-brand history under this name; potential specialized technical work does not yet translate to broad software-engineering prestige.",
+      "reviewed_at": "2026-09-23",
       "rubric_version": "prestige-v1"
     },
     "varda space": {
