@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3528** cached companies (maximum 500).
+Showing **500** of **3534** cached companies (maximum 500).
 
-_The 3028 lowest-scored companies are omitted by the report cap._
+_The 3034 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -106,6 +106,7 @@ _The 3028 lowest-scored companies are omitted by the report cap._
 | Cohere | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Cohere AI | Highly visible AI company with a strong technical brand and selective engineering reputation. |
 | Confluent | 84 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded data-streaming company with a strong engineering brand, widely recognized technology, and selective technical hiring. |
 | Epic Games | 84 | High | 2026-08-07 | gpt-5.6-terra | No | Epic | Highly recognized global game-tech company with strong engineering brands in Unreal Engine, large-scale online systems, and graphics; internships are competitively regarded. |
+| Goldman Sachs | 84 | High | 2026-09-24 | gpt-5.6-terra | No | GS | Highly selective global firm with a strong engineering presence and an exceptionally recognized career signal, especially in financial technology. |
 | Intuit | 84 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected financial-software company with selective engineering hiring and a strong, widely recognized technical brand. |
 | National University of Singapore | 84 | High | 2026-09-11 | gpt-5.6-terra | No | NUS | Globally respected, highly selective university with a strong computing and research reputation; internship signal depends on the specific lab or unit. |
 | PlayStation | 84 | High | 2026-08-02 | gpt-5.6-terra | No | Sony Interactive Entertainment, SIE | A globally recognized gaming platform with demanding consumer-scale engineering work and a strong software brand. |
@@ -521,4 +522,3 @@ _The 3028 lowest-scored companies are omitted by the report cap._
 | GoTo Group | 70 | High | 2026-08-02 | gpt-5.6-terra | No | GoTo, PT GoTo Gojek Tokopedia Tbk | Major Southeast Asian consumer-tech platform with a strong regional engineering reputation and recognizable technology brand. |
 | Handshake | 70 | High | 2026-08-02 | gpt-5.6-terra | No | Handshake America | Recognized college-career platform with a solid technology-company signal and a respected engineering-oriented product brand. |
 | HARMAN | 70 | High | 2026-07-18 | gpt-5.6-terra | No | HARMAN International, HARMAN International Industries | Well-regarded connected-car and consumer-audio technology company with a strong embedded, automotive, and systems software reputation. |
-| Hippocratic AI | 70 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Prominent emerging healthcare-AI startup with a potentially selective technical environment, but a still-developing employer brand. |

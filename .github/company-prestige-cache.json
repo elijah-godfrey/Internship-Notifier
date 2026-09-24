@@ -6034,6 +6034,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "bracket bot": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Bracket Bot",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Limited established visibility as a software-engineering employer, making its internship signal difficult to verify and likely niche.",
+      "reviewed_at": "2026-09-24",
+      "rubric_version": "prestige-v1"
+    },
     "brain": {
       "aliases": [
         "BrainCo"
@@ -9559,6 +9570,17 @@
       "prestige_score": 52,
       "reason": "Recognized HVAC and industrial-controls business with credible engineering work, though not a top software brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "coram ai": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Coram AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "An early-stage AI/security company with potentially relevant technical work, but limited established employer recognition or proven engineering prestige.",
+      "reviewed_at": "2026-09-24",
       "rubric_version": "prestige-v1"
     },
     "corcept therapeutics": {
@@ -16597,6 +16619,19 @@
       "reviewed_at": "2026-07-23",
       "rubric_version": "prestige-v1"
     },
+    "goldman sachs": {
+      "aliases": [
+        "GS"
+      ],
+      "confidence": "high",
+      "display_name": "Goldman Sachs",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 84,
+      "reason": "Highly selective global firm with a strong engineering presence and an exceptionally recognized career signal, especially in financial technology.",
+      "reviewed_at": "2026-09-24",
+      "rubric_version": "prestige-v1"
+    },
     "golinks": {
       "aliases": [],
       "confidence": "medium",
@@ -17493,6 +17528,17 @@
       "prestige_score": 58,
       "reason": "AI and computer-vision startup with relevant technical work, but a comparatively limited and less established employer brand.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "hays electrical services": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Hays Electrical Services",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 21,
+      "reason": "Appears primarily to be an electrical-services business, with limited evident software-engineering brand or internship signal.",
+      "reviewed_at": "2026-09-24",
       "rubric_version": "prestige-v1"
     },
     "hb fuller": {
@@ -20851,6 +20897,17 @@
       "prestige_score": 43,
       "reason": "Recognizable consumer brand, but not known as a selective or especially strong software-engineering employer.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "keenfinity": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Keenfinity",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 31,
+      "reason": "Limited broadly established recognition as a software-engineering employer; its technical career signal is still relatively unclear.",
+      "reviewed_at": "2026-09-24",
       "rubric_version": "prestige-v1"
     },
     "keller foundations": {
@@ -41811,6 +41868,17 @@
       "prestige_score": 78,
       "reason": "Highly regarded robotics, autonomy, and drone-delivery company; a strong engineering signal, particularly for embedded, distributed systems, and autonomy roles, though less universally recognized than top general-tech employers.",
       "reviewed_at": "2026-07-21",
+      "rubric_version": "prestige-v1"
+    },
+    "ziprecruiter": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "ZipRecruiter",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Established technology marketplace with a credible engineering organization, though its software brand is not generally viewed as top-tier.",
+      "reviewed_at": "2026-09-24",
       "rubric_version": "prestige-v1"
     },
     "ziyutec": {
