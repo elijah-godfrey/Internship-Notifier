@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3534** of **3534** cached companies (all cached companies).
+Showing **3535** of **3535** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3004,6 +3004,7 @@ Showing **3534** of **3534** cached companies (all cached companies).
 | Meridian Partners | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous and does not carry a clearly established software-engineering employer brand. |
 | Mindsmith | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Small, emerging AI/education technology company with limited established engineering-market recognition. |
 | Mitchell Plastics | 35 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Established automotive-parts manufacturer, but its employer signal is not centered on software engineering. |
+| NASCO | 35 | Low | 2026-09-24 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a broadly recognized, selective software-engineering employer; limited evidence supports a strong technical career signal. |
 | Nextech Systems | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Appears to be a smaller IT/services-oriented employer with limited broad software-engineering brand recognition. |
 | Niural | 35 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Early-stage company with limited established recognition or demonstrated selectivity in software engineering. |
 | Nobull | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Consumer apparel brand with limited established recognition as a software-engineering destination. |
