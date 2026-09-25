@@ -13052,6 +13052,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "envoy": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Envoy",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Ambiguous company name; likely a niche software company with some technical relevance, but not a broadly recognized or highly selective software-engineering brand.",
+      "reviewed_at": "2026-09-25",
+      "rubric_version": "prestige-v1"
+    },
     "eon media": {
       "aliases": [],
       "confidence": "low",

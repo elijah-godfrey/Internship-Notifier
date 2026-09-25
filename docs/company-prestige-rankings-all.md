@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3540** of **3540** cached companies (all cached companies).
+Showing **3541** of **3541** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1700,6 +1700,7 @@ Showing **3540** of **3540** cached companies (all cached companies).
 | Elevate Semiconductor | 52 | Low | 2026-08-22 | gpt-5.6-terra | No | - | Specialized semiconductor company with potentially relevant technical work, but limited broad visibility and an unclear software-engineering internship brand relative to major technology employers. |
 | EllisDon Construction | 52 | High | 2026-09-11 | gpt-5.6-terra | No | EllisDon | Well-regarded construction firm with some technology relevance, but not primarily recognized as a software-engineering employer. |
 | Enovis | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-technology company with meaningful technical work, but limited broad recognition as a software-engineering destination. |
+| Envoy | 52 | Low | 2026-09-25 | gpt-5.6-terra | No | - | Ambiguous company name; likely a niche software company with some technical relevance, but not a broadly recognized or highly selective software-engineering brand. |
 | EVgo | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized EV-charging company with relevant platform work, but a modest software-engineering prestige signal. |
 | Exclusive Networks | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Established cybersecurity-focused technology distributor with recognizable industry presence, but not generally known as a highly selective or top-tier software-engineering employer. |
 | Fable | 52 | Low | 2026-09-19 | gpt-5.6-terra | No | - | The name is ambiguous across multiple companies; no single clearly dominant, high-prestige software-engineering employer can be identified from the name alone. |
