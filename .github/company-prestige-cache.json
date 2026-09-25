@@ -6245,6 +6245,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "brightstarai": {
+      "aliases": [
+        "Brightstar AI"
+      ],
+      "confidence": "low",
+      "display_name": "Brightstar.AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "Limited verifiable evidence of an established, selective software-engineering employer brand.",
+      "reviewed_at": "2026-09-25",
+      "rubric_version": "prestige-v1"
+    },
     "brio water technology": {
       "aliases": [],
       "confidence": "low",
@@ -8861,6 +8874,17 @@
       "prestige_score": 47,
       "reason": "Recognized ad-tech specialist, though its software-engineering brand is not broadly prominent.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "cohen and steers": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Cohen & Steers",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Well-regarded specialized investment manager; offers a solid finance-tech signal but has a limited standalone software-engineering brand.",
+      "reviewed_at": "2026-09-25",
       "rubric_version": "prestige-v1"
     },
     "cohere": {
@@ -16233,6 +16257,20 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "geospatial consulting group international": {
+      "aliases": [
+        "GCGI",
+        "Geospatial Consulting Group Intl."
+      ],
+      "confidence": "low",
+      "display_name": "Geospatial Consulting Group International",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited evidence of broad employer recognition or a strong software-engineering hiring brand.",
+      "reviewed_at": "2026-09-25",
+      "rubric_version": "prestige-v1"
+    },
     "geosyntec consultants": {
       "aliases": [
         "Geosyntec"
@@ -17900,6 +17938,19 @@
       "prestige_score": 39,
       "reason": "Specialized railroad-services employer with potentially relevant operational software work, but limited broader software engineering recognition.",
       "reviewed_at": "2026-09-09",
+      "rubric_version": "prestige-v1"
+    },
+    "heven aerotech": {
+      "aliases": [
+        "HevenDrones"
+      ],
+      "confidence": "medium",
+      "display_name": "Heven AeroTech",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Aerospace and autonomous-systems work can be technically relevant, but the company has limited broad software-engineering prestige relative to major sector employers.",
+      "reviewed_at": "2026-09-25",
       "rubric_version": "prestige-v1"
     },
     "hewlett packard enterprise": {
@@ -37111,6 +37162,19 @@
       "prestige_score": 62,
       "reason": "A respected Canadian research university with credible technical and research roles, though not a top industry software-engineering signal.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "the us oncology network": {
+      "aliases": [
+        "US Oncology Network"
+      ],
+      "confidence": "medium",
+      "display_name": "The US Oncology Network",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 47,
+      "reason": "Established healthcare-services network, but not broadly recognized as a selective or prominent software-engineering employer.",
+      "reviewed_at": "2026-09-25",
       "rubric_version": "prestige-v1"
     },
     "the voleon group": {
