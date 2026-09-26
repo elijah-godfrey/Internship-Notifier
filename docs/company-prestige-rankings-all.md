@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3544** of **3544** cached companies (all cached companies).
+Showing **3545** of **3545** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3266,6 +3266,7 @@ Showing **3544** of **3544** cached companies (all cached companies).
 | Geosource Energy Inc | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Energy-sector employer with limited evident software-engineering prestige or broad technical recognition. |
 | Geospatial Consulting Group International | 28 | Low | 2026-09-25 | gpt-5.6-terra | No | GCGI, Geospatial Consulting Group Intl. | Limited evidence of broad employer recognition or a strong software-engineering hiring brand. |
 | Global Channel Management | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | GCM | Primarily associated with staffing and channel-management services rather than a strong software engineering brand. |
+| GovSignals | 28 | Low | 2026-09-26 | gpt-5.6-terra | No | - | Limited broadly known evidence of a selective or recognized software-engineering employer brand; appears niche or weakly established as a career signal. |
 | Group 1001 | 28 | Low | 2026-07-24 | gpt-5.6-terra | No | Grupo 1001 | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence of a strong technical recruiting signal. |
 | HELLBENDER | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name does not identify a clearly established software employer; available signal is insufficient for a higher score. |
 | HVE Healthcare Assessments Inc | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited broadly visible software-engineering brand; appears specialized in healthcare assessments. |
