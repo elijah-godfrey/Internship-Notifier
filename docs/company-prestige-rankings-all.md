@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3541** of **3541** cached companies (all cached companies).
+Showing **3544** of **3544** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1160,6 +1160,7 @@ Showing **3541** of **3541** cached companies (all cached companies).
 | California ISO | 58 | High | 2026-08-02 | gpt-5.6-terra | No | CAISO, California Independent System Operator | Important grid operator with technically sophisticated infrastructure work, though its recognition is concentrated in energy systems. |
 | Capital Group | 58 | High | 2026-08-02 | gpt-5.6-terra | No | Capital Group Companies | Highly respected asset manager, but its technology organization carries a more moderate standalone engineering signal. |
 | CCC Intelligent Solutions | 58 | Medium | 2026-07-27 | gpt-5.6-terra | No | CCC, CCC Intelligent Solutions Holdings | Established insurance-technology and automotive-claims software company, with a solid but primarily industry-specific engineering signal. |
+| Cencora | 58 | Medium | 2026-09-26 | gpt-5.6-terra | No | AmerisourceBergen | Large, established healthcare-pharmaceutical services company with solid enterprise technology relevance, but limited top-tier software-engineering brand strength. |
 | ChargePoint | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized EV-charging technology company with meaningful software work, though not a top-tier engineering signal. |
 | City of Ottawa | 58 | High | 2026-09-11 | gpt-5.6-terra | No | Ottawa municipal government | Recognized public-sector employer with meaningful civic technology work, but a moderate rather than elite software-engineering signal. |
 | CLEAR | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | CLEAR Secure | Recognizable identity-technology company with a relevant product-engineering brand, though not broadly elite. |
@@ -2272,6 +2273,7 @@ Showing **3541** of **3541** cached companies (all cached companies).
 | Armstrong Fluid Technology | 45 | Medium | 2026-09-11 | gpt-5.6-terra | No | Armstrong Fluid, Armstrong | A respected engineering and building-systems company, but its software engineering brand and internship signal are primarily industry-specific rather than broadly prestigious. |
 | Atrium Health | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known healthcare system, but software work is primarily enterprise healthcare IT rather than a strong software-employer brand. |
 | Benjamin Moore | 45 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established coatings manufacturer, but software engineering is primarily a supporting function rather than a notable employer brand. |
+| BGE | 45 | Medium | 2026-09-26 | gpt-5.6-terra | No | Baltimore Gas and Electric | Likely Baltimore Gas and Electric: a recognized regional utility, but not a notable software-engineering employer brand. |
 | Blue Cross Blue Shield of Rhode Island | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | BCBSRI, Blue Cross & Blue Shield of Rhode Island | Recognized regional healthcare insurer, but it has limited visibility as a software engineering employer. |
 | Cadent | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous; if referring to the advertising technology company, it has niche industry recognition but limited broad engineering prestige. |
 | CALSTART | 45 | Medium | 2026-07-30 | gpt-5.6-terra | No | - | Respected clean-transportation nonprofit in its niche, but offers limited broad software-engineering prestige. |
@@ -2681,6 +2683,7 @@ Showing **3541** of **3541** cached companies (all cached companies).
 | Kinetic Systems | 42 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Established-sounding industrial technology name, but limited broad software-engineering prestige. |
 | LivaNova | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-device company, but its engineering reputation is primarily clinical and hardware-oriented rather than software-focused. |
 | Lumos | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; likely regional or industry-specific recognition rather than a strong general software signal. |
+| Maricopa Association of Governments | 42 | Medium | 2026-09-26 | gpt-5.6-terra | No | MAG | Established regional public-sector planning organization, with limited broad software-engineering selectivity or employer-brand recognition. |
 | MARTINREA International Inc | 42 | Medium | 2026-09-11 | gpt-5.6-terra | No | Martinrea | Established automotive manufacturer, but it has limited broad recognition for software engineering relative to dedicated technology employers. |
 | Mary Free Bed Rehabilitation Hospital | 42 | Medium | 2026-09-04 | gpt-5.6-terra | No | Mary Free Bed | A respected specialized rehabilitation healthcare institution, but it has limited broad recognition or selectivity as a software-engineering employer and no prominent engineering brand. |
 | McKinney | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous; the likely advertising-agency employer has limited software-engineering prestige. |
