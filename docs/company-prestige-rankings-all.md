@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3545** of **3545** cached companies (all cached companies).
+Showing **3546** of **3546** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1709,6 +1709,7 @@ Showing **3545** of **3545** cached companies (all cached companies).
 | FNBO | 52 | High | 2026-08-02 | gpt-5.6-terra | No | First National Bank of Omaha | Established regional banking employer with ordinary positive technology experience, but limited national software-engineering brand strength. |
 | Frontier Economics | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected economics consultancy, but software roles are secondary to its core professional-services reputation. |
 | GEHA | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Government Employees Health Association | Established health-benefits organization, but it has limited broad recognition as a software-engineering destination. |
+| GITAI | 52 | Low | 2026-09-29 | gpt-5.6-terra | No | - | Space-robotics startup with technically interesting engineering work, but limited broad recognition and a less established software-engineering hiring signal than major aerospace or technology employers. |
 | Gitar, Inc. | 52 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Appears to be a smaller developer-tools company; relevant technical focus but limited broad prestige evidence. |
 | GoLinks | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible workplace-productivity SaaS company, though its engineering brand and selectivity are not broadly established. |
 | Greystar Worldwide | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, respected real-estate operator with enterprise technology opportunities but limited engineering-brand distinction. |

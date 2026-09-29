@@ -16418,6 +16418,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "gitai": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "GITAI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Space-robotics startup with technically interesting engineering work, but limited broad recognition and a less established software-engineering hiring signal than major aerospace or technology employers.",
+      "reviewed_at": "2026-09-29",
+      "rubric_version": "prestige-v1"
+    },
     "gitar": {
       "aliases": [],
       "confidence": "low",
