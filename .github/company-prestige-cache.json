@@ -8377,6 +8377,17 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "clay": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Clay",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded modern data-enrichment and go-to-market software startup with a visible product and growing technical reputation, though not yet a broadly established top-tier engineering signal.",
+      "reviewed_at": "2026-09-30",
+      "rubric_version": "prestige-v1"
+    },
     "clayton": {
       "aliases": [],
       "confidence": "low",
@@ -40905,6 +40916,17 @@
       "prestige_score": 43,
       "reason": "Known in language services and localization, but has limited prestige as a software engineering employer.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "wep clinical": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "WEP Clinical",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Specialized clinical-trial supply and technology company with relevant domain experience, but limited broad software-engineering brand recognition or selectivity signal.",
+      "reviewed_at": "2026-09-30",
       "rubric_version": "prestige-v1"
     },
     "werfen": {

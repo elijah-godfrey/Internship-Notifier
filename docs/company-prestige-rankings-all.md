@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3550** of **3550** cached companies (all cached companies).
+Showing **3552** of **3552** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -579,6 +579,7 @@ Showing **3550** of **3550** cached companies (all cached companies).
 | Bloomberg Industry Group | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Bloomberg BNA | Credible information-services and legal-tech employer associated with Bloomberg, with solid engineering relevance but a lower-profile brand than Bloomberg LP. |
 | Carbon Robotics | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded specialized robotics company; its autonomous-systems work provides a strong technical signal. |
 | Charles Schwab | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Schwab | Major financial-services brand with substantial technology operations and a solid engineering career signal. |
+| Clay | 68 | Medium | 2026-09-30 | gpt-5.6-terra | No | - | Well-regarded modern data-enrichment and go-to-market software startup with a visible product and growing technical reputation, though not yet a broadly established top-tier engineering signal. |
 | Cummins | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded global industrial and power-systems company with meaningful embedded, connected-product, and enterprise software work. |
 | Decagon | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Prominent emerging AI startup with a positive technical signal, but limited long-term employer-brand evidence. |
 | Dialpad | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized cloud communications and AI software company with a credible product-engineering reputation. |
@@ -2599,6 +2600,7 @@ Showing **3550** of **3550** cached companies (all cached companies).
 | VyStar Credit Union | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | VyStar | Regional financial-services employer; technology work is credible but has limited broad engineering-brand recognition. |
 | Watts Water Technologies | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Watts Water | Established industrial products company, with limited software-engineering-specific brand recognition. |
 | Welocalize | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known in language services and localization, but has limited prestige as a software engineering employer. |
+| WEP Clinical | 43 | Medium | 2026-09-30 | gpt-5.6-terra | No | - | Specialized clinical-trial supply and technology company with relevant domain experience, but limited broad software-engineering brand recognition or selectivity signal. |
 | Westlake | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large chemicals and materials company, but software engineering is not a prominent employer brand strength. |
 | Willkie Farr & Gallagher | 43 | Medium | 2026-08-19 | gpt-5.6-terra | No | Willkie | Well-regarded law firm, but its employer reputation is principally legal rather than a recognized software-engineering internship signal. |
 | Winsupply | 43 | Medium | 2026-09-02 | gpt-5.6-terra | No | - | Established distribution company with relevant internal technology work, but its software engineering brand and broader technical career signal are relatively limited. |
