@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3547** of **3547** cached companies (all cached companies).
+Showing **3548** of **3548** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1761,6 +1761,7 @@ Showing **3547** of **3547** cached companies (all cached companies).
 | SC Johnson | 52 | High | 2026-08-02 | gpt-5.6-terra | No | S. C. Johnson & Son | Well-regarded consumer-products employer with solid general reputation, but limited software-engineering brand strength. |
 | Sentry Insurance | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Sentry | Established insurer with technology roles, but its reputation is primarily in insurance rather than software engineering. |
 | SightCall | 52 | Medium | 2026-08-18 | gpt-5.6-terra | No | - | Recognized provider of visual-assistance software with a credible technical product, but primarily known within its niche. |
+| Solventum | 52 | Medium | 2026-09-30 | gpt-5.6-terra | No | - | Established healthcare technology company with credible engineering work, but a newer standalone brand with limited broad recognition or selectivity as a software-engineering employer. |
 | Squint Inc | 52 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | A visible industrial-workflow technology startup, but still a relatively niche and less established software-engineering signal. |
 | Stash | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Stash Financial | Recognized consumer fintech startup with relevant product engineering, though its employer signal is not broadly elite. |
 | Systems Planning and Analysis (SPA) | 52 | Medium | 2026-08-08 | gpt-5.6-terra | No | SPA, Systems Planning and Analysis | Established defense and national-security consulting firm with credible technical work, but its software-engineering brand and internship signal are comparatively niche rather than broadly elite. |

@@ -34127,6 +34127,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "solventum": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Solventum",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established healthcare technology company with credible engineering work, but a newer standalone brand with limited broad recognition or selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-09-30",
+      "rubric_version": "prestige-v1"
+    },
     "somerce": {
       "aliases": [],
       "confidence": "low",
