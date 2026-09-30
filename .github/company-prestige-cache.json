@@ -11770,6 +11770,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "dpd uk": {
+      "aliases": [
+        "DPD",
+        "DPDgroup UK"
+      ],
+      "confidence": "medium",
+      "display_name": "DPD UK",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Recognized UK parcel-delivery employer with meaningful operational technology, but not a prominent or highly selective software-engineering brand.",
+      "reviewed_at": "2026-09-30",
+      "rubric_version": "prestige-v1"
+    },
     "dpr family of companies": {
       "aliases": [
         "DPR Construction"
@@ -20438,6 +20452,19 @@
       "prestige_score": 43,
       "reason": "Respected building-systems engineering consultancy, but with limited relevance or recognition as a software-engineering employer.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "jcdecaux": {
+      "aliases": [
+        "JCDecaux Group"
+      ],
+      "confidence": "medium",
+      "display_name": "JCDecaux",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 50,
+      "reason": "Globally recognized out-of-home advertising company with established digital operations, but limited prominence as a selective software-engineering destination.",
+      "reviewed_at": "2026-09-30",
       "rubric_version": "prestige-v1"
     },
     "jefferson county colorado": {

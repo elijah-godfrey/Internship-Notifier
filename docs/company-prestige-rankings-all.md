@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3548** of **3548** cached companies (all cached companies).
+Showing **3550** of **3550** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1880,6 +1880,7 @@ Showing **3548** of **3548** cached companies (all cached companies).
 | GFL Environmental Inc | 50 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Recognized Canadian environmental-services company, but software engineering is not its primary reputation or selective brand. |
 | Great Question | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Product-focused research software company, but relatively limited broad recognition and demonstrated selectivity. |
 | Henry Schein | 50 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large healthcare distribution company with enterprise technology needs, but a limited software-engineering brand. |
+| JCDecaux | 50 | Medium | 2026-09-30 | gpt-5.6-terra | No | JCDecaux Group | Globally recognized out-of-home advertising company with established digital operations, but limited prominence as a selective software-engineering destination. |
 | Levi Strauss & Co. | 50 | High | 2026-08-02 | gpt-5.6-terra | No | Levi's | Highly recognized consumer brand, but not generally a strong or selective software-engineering career signal. |
 | Luxium Solutions | 50 | Medium | 2026-09-03 | gpt-5.6-terra | No | Luxium | Established photonics and optical-components business with credible niche technical relevance, but limited broad software-engineering brand recognition. |
 | MillerKnoll | 50 | High | 2026-08-02 | gpt-5.6-terra | No | Herman Miller, Knoll | Recognized furniture and design company, but it has limited broader software-engineering brand strength. |
@@ -2014,6 +2015,7 @@ Showing **3548** of **3548** cached companies (all cached companies).
 | Cypress Creek Renewables | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | CCR | Established renewable-energy developer with relevant technology work, but limited broad software-engineering recognition. |
 | Dayton Freight Lines | 48 | Medium | 2026-09-18 | gpt-5.6-terra | No | Dayton Freight | Established regional freight carrier; offers practical enterprise/operations software exposure but has limited broader software-engineering brand recognition. |
 | DiligenceVault | 48 | Medium | 2026-09-11 | gpt-5.6-terra | No | Diligence Vault | A niche enterprise software firm with relevant product-engineering experience, but limited broad recognition or selectivity signal in software engineering. |
+| DPD UK | 48 | Medium | 2026-09-30 | gpt-5.6-terra | No | DPD, DPDgroup UK | Recognized UK parcel-delivery employer with meaningful operational technology, but not a prominent or highly selective software-engineering brand. |
 | Driscoll's | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Driscolls | Established agriculture and consumer-products company, but with limited broad recognition as a software-engineering employer. |
 | Duracell | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer-products brand, but it has limited broad reputation as a software-engineering employer. |
 | Elanco | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Elanco Animal Health | Recognized animal-health company with some technology roles, but software is not a core employer brand. |
