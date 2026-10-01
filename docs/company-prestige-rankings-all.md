@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3552** of **3552** cached companies (all cached companies).
+Showing **3553** of **3553** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2716,6 +2716,7 @@ Showing **3552** of **3552** cached companies (all cached companies).
 | RJ Lee Group | 42 | Medium | 2026-08-28 | gpt-5.6-terra | No | - | Established specialized scientific and analytical services firm, but it has limited broad recognition as a software-engineering employer. |
 | S&T Bank | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | S&T Bancorp | Regional banking employer with limited software-engineering recognition beyond its industry. |
 | Salt Lake County | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Government employer with stable regional recognition but limited software-engineering prestige. |
+| Sandia Laboratory Federal Credit Union | 42 | Medium | 2026-10-01 | gpt-5.6-terra | No | SLFCU | A credible regional financial institution with an association to Sandia employees, but it has limited broad recognition or a notable software-engineering employer brand. |
 | Saputo | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known food company, but not a notable destination for software-engineering prestige. |
 | SCAN | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; likely an industry-specific organization with limited broadly recognized software-engineering prestige. |
 | Securitas | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known physical-security services company, but its employer brand is not centered on software engineering. |
