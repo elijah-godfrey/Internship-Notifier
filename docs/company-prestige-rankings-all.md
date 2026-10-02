@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3559** of **3559** cached companies (all cached companies).
+Showing **3561** of **3561** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -627,6 +627,7 @@ Showing **3559** of **3559** cached companies (all cached companies).
 | Pindrop | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Pindrop Security | Well-regarded voice-security company with a credible applied AI and security engineering reputation. |
 | Rad AI | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible healthcare-AI company with a solid specialized engineering signal, though less broadly established than top AI labs. |
 | Realtor.com | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer real-estate technology platform with meaningful product-engineering work and recognizable brand value. |
+| Regeneron Pharmaceuticals | 68 | High | 2026-10-02 | gpt-5.6-terra | No | Regeneron | Highly respected biotechnology company with strong scientific and technical credibility; a solid engineering signal, though less broadly elite in mainstream software recruiting than leading technology firms. |
 | Rivian | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | Rivian Automotive | Well-known EV technology company with meaningful software work in embedded systems, vehicle platforms, and connected products; a solid engineering signal, though less selective and less established as a software brand than top tech firms. |
 | Rivian and Volkswagen Group Technologies | 68 | Medium | 2026-07-30 | gpt-5.6-terra | No | RV Tech, Rivian Volkswagen Group Technologies | A credible automotive-software and EV engineering signal, supported by Rivian’s technology focus and Volkswagen Group affiliation. It is respected in mobility software but is less broadly selective or recognized than top general-purpose software employers. |
 | Rockwell Automation | 68 | High | 2026-07-29 | gpt-5.6-terra | No | Rockwell | Widely respected industrial-automation employer with substantial engineering depth, though its software brand is more industrial than broadly elite tech. |
@@ -3282,6 +3283,7 @@ Showing **3559** of **3559** cached companies (all cached companies).
 | GovSignals | 28 | Low | 2026-09-26 | gpt-5.6-terra | No | - | Limited broadly known evidence of a selective or recognized software-engineering employer brand; appears niche or weakly established as a career signal. |
 | Group 1001 | 28 | Low | 2026-07-24 | gpt-5.6-terra | No | Grupo 1001 | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence of a strong technical recruiting signal. |
 | HELLBENDER | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name does not identify a clearly established software employer; available signal is insufficient for a higher score. |
+| Humanoid | 28 | Low | 2026-10-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a strong, widely recognized software-engineering reputation or selectivity signal. |
 | HVE Healthcare Assessments Inc | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited broadly visible software-engineering brand; appears specialized in healthcare assessments. |
 | Hypercubic | 28 | Low | 2026-08-15 | gpt-5.6-terra | No | - | Limited broadly recognizable evidence of a selective or established software-engineering employer brand under this exact name. |
 | InfiniteQuant | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable employer recognition and software-engineering brand visibility. |
