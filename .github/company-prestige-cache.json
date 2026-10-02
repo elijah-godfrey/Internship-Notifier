@@ -7522,6 +7522,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "certara": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Certara",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Recognized life-sciences software and biosimulation company; relevant specialized technical work, but a narrower and less selective signal than leading software employers.",
+      "reviewed_at": "2026-10-02",
+      "rubric_version": "prestige-v1"
+    },
     "cesiumastro": {
       "aliases": [],
       "confidence": "medium",
@@ -15775,6 +15786,17 @@
       "prestige_score": 68,
       "reason": "Widely recognized research and advisory firm with a solid technology reputation, though not typically viewed as a top-tier software-engineering destination.",
       "reviewed_at": "2026-08-13",
+      "rubric_version": "prestige-v1"
+    },
+    "gas south": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Gas South",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established regional energy retailer, but it has limited broad recognition or selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-10-02",
       "rubric_version": "prestige-v1"
     },
     "gastronomous technologies": {
@@ -26446,6 +26468,17 @@
       "prestige_score": 68,
       "reason": "Globally respected life-sciences employer with strong technical and data-oriented opportunities, though its primary reputation is pharmaceuticals rather than software engineering.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "novelis": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Novelis",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "Well-regarded global aluminum manufacturer with meaningful industrial technology work, though not a prominent software-engineering brand.",
+      "reviewed_at": "2026-10-02",
       "rubric_version": "prestige-v1"
     },
     "novocol pharmaceutical of canada": {

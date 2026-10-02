@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3553** of **3553** cached companies (all cached companies).
+Showing **3556** of **3556** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1162,6 +1162,7 @@ Showing **3553** of **3553** cached companies (all cached companies).
 | Capital Group | 58 | High | 2026-08-02 | gpt-5.6-terra | No | Capital Group Companies | Highly respected asset manager, but its technology organization carries a more moderate standalone engineering signal. |
 | CCC Intelligent Solutions | 58 | Medium | 2026-07-27 | gpt-5.6-terra | No | CCC, CCC Intelligent Solutions Holdings | Established insurance-technology and automotive-claims software company, with a solid but primarily industry-specific engineering signal. |
 | Cencora | 58 | Medium | 2026-09-26 | gpt-5.6-terra | No | AmerisourceBergen | Large, established healthcare-pharmaceutical services company with solid enterprise technology relevance, but limited top-tier software-engineering brand strength. |
+| Certara | 58 | Medium | 2026-10-02 | gpt-5.6-terra | No | - | Recognized life-sciences software and biosimulation company; relevant specialized technical work, but a narrower and less selective signal than leading software employers. |
 | ChargePoint | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized EV-charging technology company with meaningful software work, though not a top-tier engineering signal. |
 | City of Ottawa | 58 | High | 2026-09-11 | gpt-5.6-terra | No | Ottawa municipal government | Recognized public-sector employer with meaningful civic technology work, but a moderate rather than elite software-engineering signal. |
 | CLEAR | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | CLEAR Secure | Recognizable identity-technology company with a relevant product-engineering brand, though not broadly elite. |
@@ -1642,6 +1643,7 @@ Showing **3553** of **3553** cached companies (all cached companies).
 | MerQube | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized financial-index technology firm with relevant quantitative engineering work, but limited broad recognition. |
 | MiTek | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known construction technology company with meaningful software work, but limited general software-engineering prestige. |
 | Newmont | 53 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major mining company with credible enterprise technology work, but little specialized software-engineering brand prestige. |
+| Novelis | 53 | Medium | 2026-10-02 | gpt-5.6-terra | No | - | Well-regarded global aluminum manufacturer with meaningful industrial technology work, though not a prominent software-engineering brand. |
 | NT Concepts | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established government technology contractor with credible engineering work, but its recognition is primarily within federal contracting. |
 | REV Robotics | 53 | Medium | 2026-09-17 | gpt-5.6-terra | No | - | Well regarded within educational and competition robotics communities, providing a relevant hardware-software signal, though its engineering brand is niche rather than broadly elite. |
 | Royal Caribbean Group | 53 | High | 2026-08-02 | gpt-5.6-terra | No | Royal Caribbean, RCL | Large, recognized travel company with some digital engineering relevance, but not widely viewed as a selective software-engineering destination. |
@@ -2664,6 +2666,7 @@ Showing **3553** of **3553** cached companies (all cached companies).
 | FC Cincinnati | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | Fussball Club Cincinnati LLC, Football Club Cincinnati, Fussball Club Cincinnati LLC (“FC Cincinnati”) | Recognized professional sports organization, but not a widely recognized software engineering employer. |
 | Financial Technology Partners | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | FT Partners | A respected fintech-focused advisory firm, but its primary reputation is investment banking rather than software engineering. |
 | Freudenberg Group | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial group, though its software-engineering brand is limited and not broadly prominent. |
+| Gas South | 42 | Medium | 2026-10-02 | gpt-5.6-terra | No | - | Established regional energy retailer, but it has limited broad recognition or selectivity as a software-engineering employer. |
 | Gastronomous Technologies Inc | 42 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Potentially technical food-technology work, but limited broad recognition as a software-engineering employer. |
 | GCI | 42 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Likely a regional telecommunications employer; it offers relevant technical work but limited broad software engineering prestige. |
 | Golden Hippo | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established consumer and e-commerce business, but it has limited broader recognition as a software-engineering destination. |
