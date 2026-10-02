@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3557** of **3557** cached companies (all cached companies).
+Showing **3559** of **3559** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -985,6 +985,7 @@ Showing **3557** of **3557** cached companies (all cached companies).
 | Sanofi | 62 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major global pharmaceutical company with solid technical credibility, but software engineering is not its primary employer brand. |
 | Sensata | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Sensata Technologies | Well-regarded industrial sensing and technology company with solid engineering credibility, but limited standalone software-brand prestige. |
 | SHEIN | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Large technology-driven commerce platform with meaningful engineering scale, but a less distinguished software-employer brand. |
+| ShopBack | 62 | Medium | 2026-10-02 | gpt-5.6-terra | No | ShopBack Group | Well-known Southeast Asian e-commerce rewards platform with a credible regional technology brand; a positive internship signal, though not broadly viewed as top-tier globally. |
 | Sila Nanotechnologies | 62 | Medium | 2026-07-18 | gpt-5.6-terra | No | Sila Nano, Sila | Notable battery-materials deep-tech company with a positive specialized engineering signal, but limited broad software recognition. |
 | SpotHero | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established consumer mobility marketplace with a solid product-engineering signal, though not broadly elite. |
 | Stevens Institute of Technology | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Stevens, Stevens Tech | Respected technology-focused university with credible research and technical work, though less selective as a software employer than leading industry firms. |
@@ -3272,6 +3273,7 @@ Showing **3557** of **3557** cached companies (all cached companies).
 | Eragon | 28 | Low | 2026-07-21 | gpt-5.6-terra | No | - | The name is ambiguous and does not map confidently to a broadly recognized software-engineering employer; limited evidence supports a strong internship signal. |
 | Exploration Technology Corp. | 28 | Low | 2026-07-22 | gpt-5.6-terra | No | - | Limited reliable evidence of a broadly recognized or selective software engineering employer brand under this exact name. |
 | Faculte | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; the name is ambiguous and evidence of selectivity is limited. |
+| FC Industries | 28 | Low | 2026-10-02 | gpt-5.6-terra | No | - | The name is not clearly associated with a widely recognized software-engineering employer; limited evidence of a strong technical prestige signal. |
 | Forus | 28 | Low | 2026-07-30 | gpt-5.6-terra | No | - | The name is ambiguous and does not identify a widely recognized software-engineering employer; limited evidence supports a strong internship career signal. |
 | Furcon Environmental Inc | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Environmental-services focus with limited evidence of a notable software-engineering employer brand. |
 | Geosource Energy Inc | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Energy-sector employer with limited evident software-engineering prestige or broad technical recognition. |

@@ -14298,6 +14298,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "fc industries": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "FC Industries",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "The name is not clearly associated with a widely recognized software-engineering employer; limited evidence of a strong technical prestige signal.",
+      "reviewed_at": "2026-10-02",
+      "rubric_version": "prestige-v1"
+    },
     "federal economic development agency": {
       "aliases": [],
       "confidence": "medium",
@@ -33354,6 +33365,19 @@
       "prestige_score": 25,
       "reason": "Limited identifiable evidence of a recognized software-engineering employer brand.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "shopback": {
+      "aliases": [
+        "ShopBack Group"
+      ],
+      "confidence": "medium",
+      "display_name": "ShopBack",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Well-known Southeast Asian e-commerce rewards platform with a credible regional technology brand; a positive internship signal, though not broadly viewed as top-tier globally.",
+      "reviewed_at": "2026-10-02",
       "rubric_version": "prestige-v1"
     },
     "shopify": {
