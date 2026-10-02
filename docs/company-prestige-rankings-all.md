@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3556** of **3556** cached companies (all cached companies).
+Showing **3557** of **3557** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3036,6 +3036,7 @@ Showing **3556** of **3556** cached companies (all cached companies).
 | Proxima | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and available evidence does not support broad software engineering prestige. |
 | PSA Airlines | 35 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established regional airline, but it has limited recognition or selectivity as a software engineering destination. |
 | Radius Limited | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous and has limited identifiable broad software engineering prestige. |
+| Range | 35 | Low | 2026-10-02 | gpt-5.6-terra | No | - | The name is ambiguous; without a clearly identifiable company, it offers limited verifiable software-engineering prestige signal. |
 | Rantec Power Systems Inc. | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Specialized power-systems company with limited identifiable software engineering brand or broad technical hiring signal. |
 | Rogers Behavioral Health | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized behavioral-health provider, but it has little established software-engineering employer reputation. |
 | SALT XC | 35 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited evidence of a widely recognized or selective software-engineering employer brand. |
