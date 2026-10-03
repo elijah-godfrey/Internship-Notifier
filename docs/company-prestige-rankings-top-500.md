@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3561** cached companies (maximum 500).
+Showing **500** of **3567** cached companies (maximum 500).
 
-_The 3061 lowest-scored companies are omitted by the report cap._
+_The 3067 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -146,6 +146,7 @@ _The 3061 lowest-scored companies are omitted by the report cap._
 | Marvell Technology Canada Inc | 82 | High | 2026-09-11 | gpt-5.6-terra | No | Marvell Technology, Marvell | Marvell is a well-recognized semiconductor company with a strong engineering reputation in networking, storage, and hardware-adjacent software. |
 | Mastercard | 82 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized payments technology company with strong engineering, systems, and fintech credibility. |
 | Millennium Management | 82 | High | 2026-08-02 | gpt-5.6-terra | No | Millennium | Major multi-strategy hedge fund with a strong quantitative engineering reputation and selective technical hiring. |
+| Montreal Institute for Learning Algorithms | 82 | High | 2026-10-03 | gpt-5.6-terra | No | Mila, Mila - Quebec AI Institute | Globally respected AI research institute with a strong machine-learning reputation and a highly credible technical signal. |
 | Neuralink | 82 | High | 2026-07-18 | gpt-5.6-terra | No | - | High-profile neurotechnology company with a selective, technically demanding engineering reputation. |
 | Oracle | 82 | High | 2026-07-18 | gpt-5.6-terra | No | - | Globally recognized enterprise software company with a strong technical legacy and a valuable engineering career signal. |
 | Physical Intelligence | 82 | Medium | 2026-08-02 | gpt-5.6-terra | No | PI | Highly visible AI robotics startup with a strong technical brand and likely selective engineering environment, despite its early-stage history. |
@@ -521,4 +522,3 @@ _The 3061 lowest-scored companies are omitted by the report cap._
 | GoFundMe | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognizable consumer internet platform with a solid software-product engineering signal. |
 | GoTo Group | 70 | High | 2026-08-02 | gpt-5.6-terra | No | GoTo, PT GoTo Gojek Tokopedia Tbk | Major Southeast Asian consumer-tech platform with a strong regional engineering reputation and recognizable technology brand. |
 | Handshake | 70 | High | 2026-08-02 | gpt-5.6-terra | No | Handshake America | Recognized college-career platform with a solid technology-company signal and a respected engineering-oriented product brand. |
-| HARMAN | 70 | High | 2026-07-18 | gpt-5.6-terra | No | HARMAN International, HARMAN International Industries | Well-regarded connected-car and consumer-audio technology company with a strong embedded, automotive, and systems software reputation. |

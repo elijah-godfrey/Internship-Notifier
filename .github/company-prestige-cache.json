@@ -4836,6 +4836,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "bedrock robotics": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Bedrock Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Early-stage robotics company with potentially technical work, but too newly established to carry a strong, proven employer-brand signal.",
+      "reviewed_at": "2026-10-03",
+      "rubric_version": "prestige-v1"
+    },
     "bee sweet citrus": {
       "aliases": [],
       "confidence": "medium",
@@ -11472,6 +11483,19 @@
       "prestige_score": 41,
       "reason": "Established senior-living supplier with internal technology needs, but limited broader software-engineering employer recognition.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "disa technologies": {
+      "aliases": [
+        "DISA"
+      ],
+      "confidence": "low",
+      "display_name": "DISA Technologies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Limited broadly recognizable software-engineering reputation; the name is ambiguous and available evidence does not support a stronger signal.",
+      "reviewed_at": "2026-10-03",
       "rubric_version": "prestige-v1"
     },
     "disney": {
@@ -23614,6 +23638,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "mastercontrol": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "MasterControl",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Established enterprise SaaS and quality-management software company; a solid engineering signal, especially in regulated-software domains.",
+      "reviewed_at": "2026-10-03",
+      "rubric_version": "prestige-v1"
+    },
     "mat holdings": {
       "aliases": [],
       "confidence": "medium",
@@ -24830,6 +24865,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "montreal institute for learning algorithms": {
+      "aliases": [
+        "Mila",
+        "Mila - Quebec AI Institute"
+      ],
+      "confidence": "high",
+      "display_name": "Montreal Institute for Learning Algorithms",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 82,
+      "reason": "Globally respected AI research institute with a strong machine-learning reputation and a highly credible technical signal.",
+      "reviewed_at": "2026-10-03",
+      "rubric_version": "prestige-v1"
+    },
     "moody s": {
       "aliases": [
         "Moody's Analytics"
@@ -25272,6 +25321,17 @@
       "prestige_score": 67,
       "reason": "Respected enterprise cloud-data platform with a solid infrastructure engineering signal, though less broadly known than top-tier peers.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "natera": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Natera",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Recognized molecular diagnostics company with meaningful technical work, though it is not broadly a top software-engineering destination.",
+      "reviewed_at": "2026-10-03",
       "rubric_version": "prestige-v1"
     },
     "national information solutions cooperative nisc": {
@@ -34588,6 +34648,17 @@
       "prestige_score": 38,
       "reason": "Limited broadly recognizable software-engineering employer signal; the name is associated with smaller, specialized technology services work.",
       "reviewed_at": "2026-07-30",
+      "rubric_version": "prestige-v1"
+    },
+    "spartannash": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "SpartanNash",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established grocery distribution and retail company, but it has limited software-engineering brand recognition outside its industry.",
+      "reviewed_at": "2026-10-03",
       "rubric_version": "prestige-v1"
     },
     "spaulding ridge": {
