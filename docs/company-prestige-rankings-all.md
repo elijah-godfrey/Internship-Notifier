@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3567** of **3567** cached companies (all cached companies).
+Showing **3568** of **3568** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3187,6 +3187,7 @@ Showing **3567** of **3567** cached companies (all cached companies).
 | Axle | 30 | Low | 2026-09-04 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a broadly recognized software-engineering employer brand. |
 | Blackbird Labs | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly verifiable reputation as a software-engineering employer; the name is ambiguous and appears niche. |
 | Bloxd | 30 | Low | 2026-07-21 | gpt-5.6-terra | No | - | Small game-platform brand with limited wider software-engineering recognition. |
+| BLP | 30 | Low | 2026-10-03 | gpt-5.6-terra | No | - | The name is ambiguous; without a clear company identity, there is limited evidence of a recognized software-engineering brand or selective internship signal. |
 | Camlin | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; no broadly established software-engineering prestige is evident from the supplied name alone. |
 | Chronicle Wealth | 30 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering or employer-brand signal based on the supplied name. |
 | City Of Olathe | 30 | High | 2026-08-02 | gpt-5.6-terra | No | - | Municipal technology experience is credible but has limited software-industry prestige. |
