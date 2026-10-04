@@ -10120,6 +10120,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "crg defense": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "CRG Defense",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Limited broadly recognizable software-engineering brand and unclear evidence of selectivity or technical reputation; likely a niche defense-sector signal rather than a widely portable one.",
+      "reviewed_at": "2026-10-04",
+      "rubric_version": "prestige-v1"
+    },
     "criteo": {
       "aliases": [],
       "confidence": "high",

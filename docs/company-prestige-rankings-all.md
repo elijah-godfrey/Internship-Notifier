@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3568** of **3568** cached companies (all cached companies).
+Showing **3569** of **3569** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3271,6 +3271,7 @@ Showing **3568** of **3568** cached companies (all cached companies).
 | Collinear AI | 28 | Low | 2026-09-21 | gpt-5.6-terra | No | - | Limited broadly established evidence of a selective or widely recognized software-engineering employer brand; the AI positioning may be relevant but is not by itself a strong internship signal. |
 | Compassion International | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established nonprofit, but not a notable or selective software-engineering employer signal. |
 | Courtyard AI Inc. | 28 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited identifiable public evidence of a widely recognized or selective software-engineering employer brand. |
+| CRG Defense | 28 | Low | 2026-10-04 | gpt-5.6-terra | No | - | Limited broadly recognizable software-engineering brand and unclear evidence of selectivity or technical reputation; likely a niche defense-sector signal rather than a widely portable one. |
 | CTGT | 28 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited verifiable broad recognition as a software-engineering employer; the company identity and scale are unclear. |
 | Cybernetic Labs | 28 | Low | 2026-07-18 | gpt-5.6-terra | No | - | Insufficient evidence of a widely established employer reputation or recognized software-engineering brand. |
 | Dedalus Labs | 28 | Low | 2026-08-15 | gpt-5.6-terra | No | - | Limited broadly recognized evidence of an established, selective software-engineering employer brand; the name has modest career-signaling value absent clearer context. |
