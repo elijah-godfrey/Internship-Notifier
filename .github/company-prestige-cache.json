@@ -31955,6 +31955,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "root insurance": {
+      "aliases": [
+        "Root, Inc."
+      ],
+      "confidence": "medium",
+      "display_name": "Root Insurance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Recognized insurance-technology company with meaningful software work, but its engineering brand and internship selectivity are not broadly viewed as top-tier in the wider software industry.",
+      "reviewed_at": "2026-10-06",
+      "rubric_version": "prestige-v1"
+    },
     "rosalind": {
       "aliases": [],
       "confidence": "low",

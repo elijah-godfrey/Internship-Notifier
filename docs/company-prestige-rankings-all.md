@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3569** of **3569** cached companies (all cached companies).
+Showing **3570** of **3570** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1762,6 +1762,7 @@ Showing **3569** of **3569** cached companies (all cached companies).
 | Red Bull | 52 | Medium | 2026-07-23 | gpt-5.6-terra | No | Red Bull GmbH | Globally recognizable consumer brand, but its software engineering organization is not broadly known as a selective or top-tier engineering career signal. |
 | RLI Corp. | 52 | Medium | 2026-08-10 | gpt-5.6-terra | No | RLI Insurance | Established specialty insurer with a credible technology environment, but it is not broadly recognized as a selective or top-tier software engineering employer. |
 | Rolls-Royce Motorcars | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Rolls-Royce Motor Cars | Prestigious luxury automotive brand, but its software-engineering employer signal is narrower and less prominent than its product reputation. |
+| Root Insurance | 52 | Medium | 2026-10-06 | gpt-5.6-terra | No | Root, Inc. | Recognized insurance-technology company with meaningful software work, but its engineering brand and internship selectivity are not broadly viewed as top-tier in the wider software industry. |
 | Ryan Specialty | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ryan Specialty Holdings, Ryan Specialty Group | Established specialty-insurance company, with a software signal that is mainly tied to its industry rather than a broad engineering brand. |
 | Ryder System | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ryder | Large, established transportation and logistics employer, but not broadly recognized for software-engineering selectivity. |
 | Sallie Mae | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized U.S. student-lending company, but not a particularly selective or prominent software-engineering destination. |
