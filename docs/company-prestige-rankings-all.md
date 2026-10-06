@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3570** of **3570** cached companies (all cached companies).
+Showing **3571** of **3571** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2082,6 +2082,7 @@ Showing **3570** of **3570** cached companies (all cached companies).
 | MERGE | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known digital and marketing agency with relevant engineering work, but a modest and industry-specific technical signal. |
 | METECS | 48 | Medium | 2026-08-20 | gpt-5.6-terra | No | Management and Engineering Technologies International Corporation | Specialized aerospace engineering contractor with credible technical work, but limited broad software-engineering brand recognition. |
 | MGIC | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Mortgage Guaranty Insurance Corporation | Established mortgage insurer, but its software-engineering brand is primarily internal and industry-specific. |
+| MistyWest | 48 | Medium | 2026-10-06 | gpt-5.6-terra | No | - | Respected boutique engineering and product-development firm, but its software-engineering brand and internship signal are primarily niche rather than broadly recognized or highly selective. |
 | MSA Safety | 48 | Medium | 2026-08-14 | gpt-5.6-terra | No | - | Respected industrial safety company, but it has limited broad recognition as a destination for software engineering careers. |
 | MVP Health Care | 48 | Medium | 2026-09-14 | gpt-5.6-terra | No | - | An established regional health-insurance employer, but not broadly known for a highly selective or prominent software-engineering brand. |
 | NBT Bank | 48 | Medium | 2026-08-04 | gpt-5.6-terra | No | NBT Bancorp | Established regional bank with credible enterprise technology work, but limited national visibility or selectivity as a software-engineering brand. |

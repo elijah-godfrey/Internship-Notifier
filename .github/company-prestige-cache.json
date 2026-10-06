@@ -24620,6 +24620,17 @@
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
     },
+    "mistywest": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "MistyWest",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Respected boutique engineering and product-development firm, but its software-engineering brand and internship signal are primarily niche rather than broadly recognized or highly selective.",
+      "reviewed_at": "2026-10-06",
+      "rubric_version": "prestige-v1"
+    },
     "mitchell plastics": {
       "aliases": [],
       "confidence": "medium",
