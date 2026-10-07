@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3574** of **3574** cached companies (all cached companies).
+Showing **3575** of **3575** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2023,6 +2023,7 @@ Showing **3574** of **3574** cached companies (all cached companies).
 | Contoro | 48 | Medium | 2026-09-03 | gpt-5.6-terra | No | Contoro Robotics | Robotics startup with relevant technical work, but still a niche and relatively lightly established engineering signal. |
 | CooperSurgical | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-device company, but it has a limited standalone software-engineering brand. |
 | Corewell Health | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Corewell | Major regional health system with meaningful IT needs, but limited broad software-engineering prestige. |
+| Create Music Group | 48 | Medium | 2026-10-07 | gpt-5.6-terra | No | - | Recognized music-rights and digital media company with relevant technology work, but it has limited broad recognition or selectivity signal as a software engineering employer compared with major consumer-tech or infrastructure firms. |
 | Customers Bank | 48 | Medium | 2026-08-27 | gpt-5.6-terra | No | Customers Bancorp | Established regional banking employer, but it has limited broad recognition as a selective software-engineering destination. |
 | Cypress Creek Renewables | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | CCR | Established renewable-energy developer with relevant technology work, but limited broad software-engineering recognition. |
 | Dayton Freight Lines | 48 | Medium | 2026-09-18 | gpt-5.6-terra | No | Dayton Freight | Established regional freight carrier; offers practical enterprise/operations software exposure but has limited broader software-engineering brand recognition. |
