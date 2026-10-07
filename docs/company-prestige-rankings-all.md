@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3571** of **3571** cached companies (all cached companies).
+Showing **3574** of **3574** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1509,6 +1509,7 @@ Showing **3571** of **3571** cached companies (all cached companies).
 | Ivo AI Inc | 55 | Medium | 2026-09-11 | gpt-5.6-terra | No | Ivo | Emerging legal-AI company with relevant product engineering work, but still a relatively young and less proven brand. |
 | Kestra | 55 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Name is ambiguous; likely a specialized software company with some technical credibility but limited broad recognition. |
 | KeyBank | 55 | High | 2026-08-02 | gpt-5.6-terra | No | KeyCorp | Established national bank with meaningful technology work, but not generally viewed as a top-tier software-engineering brand. |
+| KQED | 55 | Medium | 2026-10-07 | gpt-5.6-terra | No | KQED Public Media | Well-known public media organization with credible digital-product work, but limited broad software-engineering prestige or selectivity relative to major technology employers. |
 | Kraft Heinz | 55 | High | 2026-08-02 | gpt-5.6-terra | No | The Kraft Heinz Company | Highly recognized consumer-goods employer, but not broadly known as a top software engineering destination. |
 | Kulicke & Soffa | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | K&S | Respected semiconductor-equipment company; technical hardware reputation exceeds its general software engineering brand. |
 | Legend Biotech | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected biotechnology company, but software engineering is not its primary employer brand or principal source of recognition. |
@@ -1961,6 +1962,7 @@ Showing **3571** of **3571** cached companies (all cached companies).
 | Sunbird Software | 49 | Medium | 2026-09-04 | gpt-5.6-terra | No | Sunbird DCIM | Recognized in the specialized data-center infrastructure-management software market, but its engineering brand is niche. |
 | SupplyHouse.com | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | SupplyHouse | Established e-commerce company with relevant engineering work, but limited broad prestige or selectivity in software hiring. |
 | TechInsights | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized technology and semiconductor intelligence firm, with a specialized rather than broadly prestigious engineering brand. |
+| The Semios Group | 49 | Low | 2026-10-07 | gpt-5.6-terra | No | Semios | Specialized agriculture-technology company; likely relevant domain engineering experience, but its software brand and hiring selectivity have limited broad recognition. |
 | The Wonderful Company | 49 | Medium | 2026-07-18 | gpt-5.6-terra | No | Wonderful | Well-known consumer and agriculture business, but its software-engineering employer reputation is not especially prominent. |
 | Tive | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible supply-chain visibility and IoT startup, though its engineering reputation remains relatively niche. |
 | Uhaul | 49 | High | 2026-08-02 | gpt-5.6-terra | No | U-Haul | Well-known consumer company with internal technology roles, but a modest software-engineering reputation relative to dedicated tech firms. |
@@ -2298,6 +2300,7 @@ Showing **3571** of **3571** cached companies (all cached companies).
 | Cincinnati Financial | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established regional insurance employer, but with limited software-engineering prestige beyond its industry. |
 | Circleback | 45 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Small software startup with some technical relevance, but limited broad employer-brand recognition. |
 | Clinical Ink | 45 | Medium | 2026-08-18 | gpt-5.6-terra | No | - | Established clinical-trial technology specialist with credible domain relevance, but limited broad software-engineering prestige. |
+| Clēnera | 45 | Low | 2026-10-07 | gpt-5.6-terra | No | - | Renewable-energy developer with a limited standalone software-engineering brand; technical work may be valuable but is not widely recognized as a software career signal. |
 | Connection | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | PC Connection | Known IT solutions and reseller business, but it has a modest software-engineering brand relative to product-focused technology companies. |
 | Creospark Consulting Services Inc | 45 | Medium | 2026-09-11 | gpt-5.6-terra | No | Creospark | Established technology consulting firm with relevant implementation work, but modest broad prestige relative to leading software employers. |
 | Crum & Forster Insurance | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Crum & Forster, C&F | Established insurance company, but it has limited broader prestige as a software-engineering destination. |
