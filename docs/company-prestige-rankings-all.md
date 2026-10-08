@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3575** of **3575** cached companies (all cached companies).
+Showing **3577** of **3577** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1773,6 +1773,7 @@ Showing **3575** of **3575** cached companies (all cached companies).
 | SightCall | 52 | Medium | 2026-08-18 | gpt-5.6-terra | No | - | Recognized provider of visual-assistance software with a credible technical product, but primarily known within its niche. |
 | Solventum | 52 | Medium | 2026-09-30 | gpt-5.6-terra | No | - | Established healthcare technology company with credible engineering work, but a newer standalone brand with limited broad recognition or selectivity as a software-engineering employer. |
 | Squint Inc | 52 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | A visible industrial-workflow technology startup, but still a relatively niche and less established software-engineering signal. |
+| Staples | 52 | Medium | 2026-10-08 | gpt-5.6-terra | No | - | Recognizable national retailer with legitimate enterprise technology work, but it is not a notably selective or influential software-engineering brand. |
 | Stash | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Stash Financial | Recognized consumer fintech startup with relevant product engineering, though its employer signal is not broadly elite. |
 | Systems Planning and Analysis (SPA) | 52 | Medium | 2026-08-08 | gpt-5.6-terra | No | SPA, Systems Planning and Analysis | Established defense and national-security consulting firm with credible technical work, but its software-engineering brand and internship signal are comparatively niche rather than broadly elite. |
 | Talkspace | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognizable digital-health company with relevant product engineering, but not a top-tier engineering signal. |
@@ -2556,6 +2557,7 @@ Showing **3575** of **3575** cached companies (all cached companies).
 | MPR Associates | 43 | Low | 2026-08-14 | gpt-5.6-terra | No | - | Established technical consulting and engineering firm, but with limited broad recognition as a software engineering internship brand. |
 | mthree | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known for early-career technology talent and training, but carries a weaker engineering-employer signal than established product companies. |
 | Neighbor | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Company name is ambiguous; assuming the peer-to-peer storage marketplace, it has limited broad software-engineering prestige. |
+| NJ Department of Environmental Protection | 43 | Medium | 2026-10-08 | gpt-5.6-terra | No | New Jersey Department of Environmental Protection, NJDEP | Credible public-sector employer with domain-specific technical work, but it has limited broad recognition or selectivity as a software-engineering signal. |
 | Nordson | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial manufacturer, but it has limited visibility and selectivity as a software-engineering employer. |
 | Northumbria University | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | University of Northumbria at Newcastle | Established university name, but it is not broadly regarded as a highly selective software-engineering employer. |
 | Novocol Pharmaceutical of Canada Inc | 43 | Medium | 2026-09-11 | gpt-5.6-terra | No | Novocol, Novocol Pharma | Established pharmaceutical manufacturing company, but software engineering is not its primary employer brand. |

@@ -26267,6 +26267,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "nj department of environmental protection": {
+      "aliases": [
+        "New Jersey Department of Environmental Protection",
+        "NJDEP"
+      ],
+      "confidence": "medium",
+      "display_name": "NJ Department of Environmental Protection",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Credible public-sector employer with domain-specific technical work, but it has limited broad recognition or selectivity as a software-engineering signal.",
+      "reviewed_at": "2026-10-08",
+      "rubric_version": "prestige-v1"
+    },
     "noblis": {
       "aliases": [],
       "confidence": "medium",
@@ -35241,6 +35255,17 @@
       "prestige_score": 47,
       "reason": "Widely respected engineering consultancy, though its strongest reputation is outside software engineering.",
       "reviewed_at": "2026-08-02",
+      "rubric_version": "prestige-v1"
+    },
+    "staples": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Staples",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Recognizable national retailer with legitimate enterprise technology work, but it is not a notably selective or influential software-engineering brand.",
+      "reviewed_at": "2026-10-08",
       "rubric_version": "prestige-v1"
     },
     "starburst": {
