@@ -36779,6 +36779,17 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "tenet3": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Tenet3",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Limited verifiable recognition as a software-engineering employer; its technical brand and internship selectivity are not broadly established.",
+      "reviewed_at": "2026-10-10",
+      "rubric_version": "prestige-v1"
+    },
     "tenexai": {
       "aliases": [
         "Tenex AI"

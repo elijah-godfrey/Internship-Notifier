@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3577** of **3577** cached companies (all cached companies).
+Showing **3578** of **3578** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3463,6 +3463,7 @@ Showing **3577** of **3577** cached companies (all cached companies).
 | System Canada Technologies | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited recognizable evidence of a substantial or widely respected software-engineering employer brand. |
 | Tacit | 25 | Low | 2026-08-05 | gpt-5.6-terra | No | - | The name is ambiguous and does not by itself indicate a broadly recognized or selective software-engineering employer. |
 | TALON | 25 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is too ambiguous to establish a reliable software-engineering reputation; score is conservative. |
+| Tenet3 | 25 | Low | 2026-10-10 | gpt-5.6-terra | No | - | Limited verifiable recognition as a software-engineering employer; its technical brand and internship selectivity are not broadly established. |
 | Terrafirma Inc | 25 | Low | 2026-09-11 | gpt-5.6-terra | No | - | The name is ambiguous and there is insufficient evidence of a broadly recognized software-engineering employer brand. |
 | Tessera Labs | 25 | Low | 2026-08-01 | gpt-5.6-terra | No | - | Limited verifiable public signal as a selective or broadly recognized software-engineering employer. |
 | Treehouse Strategy and Communications | 25 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Strategy and communications focus provides little clear software-engineering employer signal. |
