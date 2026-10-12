@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3579** of **3579** cached companies (all cached companies).
+Showing **3580** of **3580** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -928,6 +928,7 @@ Showing **3579** of **3579** cached companies (all cached companies).
 | Albedo | 62 | Medium | 2026-09-03 | gpt-5.6-terra | No | Albedo Space | Visible space-tech startup with technically demanding satellite and data products, offering a solid specialized engineering signal. |
 | Aledade | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized healthcare technology company with meaningful data and software work, but limited elite engineering-brand visibility. |
 | Anomali | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized cybersecurity vendor with relevant technical work, though below the field's top engineering brands. |
+| Aon | 62 | High | 2026-10-12 | gpt-5.6-terra | No | - | Well-known global professional-services and insurance-brokerage firm; an internship is a solid enterprise-tech signal, though its software engineering brand is not viewed as top-tier relative to dedicated technology companies. |
 | Arrcus | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Networking software startup with technically relevant products, but a less proven and less widely recognized signal than major networking leaders. |
 | ASSA ABLOY | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected access-control company; software work is credible but its engineering brand is not primarily software-led. |
 | AvePoint | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise SaaS company in Microsoft 365 data management; a solid but specialized engineering signal. |
