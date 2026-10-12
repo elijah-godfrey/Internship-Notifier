@@ -29914,6 +29914,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "prologis": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Prologis",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Well-regarded global logistics real-estate company with meaningful technology needs, but it has a limited software-engineering brand and is not a standard highly selective engineering destination.",
+      "reviewed_at": "2026-10-12",
+      "rubric_version": "prestige-v1"
+    },
     "pronexus": {
       "aliases": [],
       "confidence": "low",
@@ -33661,6 +33672,19 @@
       "prestige_score": 28,
       "reason": "Limited reliable evidence of a recognized software-engineering employer brand; score is conservative.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "siemens": {
+      "aliases": [
+        "Siemens AG"
+      ],
+      "confidence": "high",
+      "display_name": "Siemens",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Globally recognized industrial and technology company with substantial software, automation, and engineering operations; a strong technical signal, though less software-centric than elite tech employers.",
+      "reviewed_at": "2026-10-12",
       "rubric_version": "prestige-v1"
     },
     "siemens healthcare": {

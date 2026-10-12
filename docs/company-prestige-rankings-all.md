@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3580** of **3580** cached companies (all cached companies).
+Showing **3582** of **3582** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -472,6 +472,7 @@ Showing **3580** of **3580** cached companies (all cached companies).
 | Robert Bosch | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Bosch, Robert Bosch GmbH | Bosch is a globally respected engineering company with substantial automotive, embedded, and industrial software work. |
 | Schneider Electric | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected industrial technology and energy-management company with meaningful engineering software work and a strong technical reputation. |
 | Sentry | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Sentry.io | Assuming Sentry the developer-observability company, its widely used engineering product creates a strong software-relevant signal. |
+| Siemens | 72 | High | 2026-10-12 | gpt-5.6-terra | No | Siemens AG | Globally recognized industrial and technology company with substantial software, automation, and engineering operations; a strong technical signal, though less software-centric than elite tech employers. |
 | Silicon Laboratories | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Silicon Labs | Respected semiconductor company with a strong embedded-systems and IoT engineering reputation. |
 | Skyscanner | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known global travel-tech company with a strong product-engineering reputation and meaningful hiring signal. |
 | Solace Corporation | 72 | High | 2026-09-11 | gpt-5.6-terra | No | Solace PubSub+ | Well-regarded enterprise messaging and event-streaming company with a credible specialized engineering reputation. |
@@ -1541,6 +1542,7 @@ Showing **3580** of **3580** cached companies (all cached companies).
 | Phil | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Digital-health and pharmacy technology company with relevant product engineering work, but a modest broader engineering reputation. |
 | Picarro | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected scientific-instrumentation company with relevant data and embedded software work, but limited mainstream software-engineering recognition. |
 | PrizePicks | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognizable consumer sports-gaming company with relevant product engineering, but a comparatively narrow and less established prestige signal. |
+| Prologis | 55 | Medium | 2026-10-12 | gpt-5.6-terra | No | - | Well-regarded global logistics real-estate company with meaningful technology needs, but it has a limited software-engineering brand and is not a standard highly selective engineering destination. |
 | Protiviti | 55 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consulting firm with technology practices, but its primary career signal is consulting rather than elite software engineering. |
 | Quest Global | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Quest Global Services | Large engineering-services firm with credible technical work, though consulting-services roles carry a moderate software prestige signal. |
 | RGA Reinsurance Company | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | RGA, Reinsurance Group of America | Well-established global reinsurance firm with technical opportunities, but not broadly viewed as a leading software-engineering employer. |

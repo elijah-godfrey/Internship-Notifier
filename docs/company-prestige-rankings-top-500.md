@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3580** cached companies (maximum 500).
+Showing **500** of **3582** cached companies (maximum 500).
 
-_The 3080 lowest-scored companies are omitted by the report cap._
+_The 3082 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -474,6 +474,7 @@ _The 3080 lowest-scored companies are omitted by the report cap._
 | Robert Bosch | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Bosch, Robert Bosch GmbH | Bosch is a globally respected engineering company with substantial automotive, embedded, and industrial software work. |
 | Schneider Electric | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected industrial technology and energy-management company with meaningful engineering software work and a strong technical reputation. |
 | Sentry | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Sentry.io | Assuming Sentry the developer-observability company, its widely used engineering product creates a strong software-relevant signal. |
+| Siemens | 72 | High | 2026-10-12 | gpt-5.6-terra | No | Siemens AG | Globally recognized industrial and technology company with substantial software, automation, and engineering operations; a strong technical signal, though less software-centric than elite tech employers. |
 | Silicon Laboratories | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Silicon Labs | Respected semiconductor company with a strong embedded-systems and IoT engineering reputation. |
 | Skyscanner | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known global travel-tech company with a strong product-engineering reputation and meaningful hiring signal. |
 | Solace Corporation | 72 | High | 2026-09-11 | gpt-5.6-terra | No | Solace PubSub+ | Well-regarded enterprise messaging and event-streaming company with a credible specialized engineering reputation. |
@@ -521,4 +522,3 @@ _The 3080 lowest-scored companies are omitted by the report cap._
 | GeoComply | 70 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded specialist in geolocation and anti-fraud technology with a meaningful engineering-focused reputation. |
 | GoFundMe | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognizable consumer internet platform with a solid software-product engineering signal. |
 | GoTo Group | 70 | High | 2026-08-02 | gpt-5.6-terra | No | GoTo, PT GoTo Gojek Tokopedia Tbk | Major Southeast Asian consumer-tech platform with a strong regional engineering reputation and recognizable technology brand. |
-| Handshake | 70 | High | 2026-08-02 | gpt-5.6-terra | No | Handshake America | Recognized college-career platform with a solid technology-company signal and a respected engineering-oriented product brand. |
