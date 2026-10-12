@@ -31160,6 +31160,17 @@
       "reviewed_at": "2026-09-01",
       "rubric_version": "prestige-v1"
     },
+    "resource innovations": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Resource Innovations",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "A credible energy-efficiency and decarbonization services firm, but it has limited broad recognition or selectivity as a software-engineering employer compared with major technology companies.",
+      "reviewed_at": "2026-10-12",
+      "rubric_version": "prestige-v1"
+    },
     "respec": {
       "aliases": [],
       "confidence": "medium",

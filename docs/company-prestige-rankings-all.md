@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3578** of **3578** cached companies (all cached companies).
+Showing **3579** of **3579** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2577,6 +2577,7 @@ Showing **3578** of **3578** cached companies (all cached companies).
 | QuidelOrtho | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established diagnostics company, but it is not broadly recognized for a strong software engineering brand. |
 | RaceTrac | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | RaceTrac Petroleum | Well-known regional retail and convenience business, but not broadly regarded as a notable software engineering employer. |
 | Regal Rexnord | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial manufacturer with limited recognition for software engineering specifically. |
+| Resource Innovations | 43 | Medium | 2026-10-12 | gpt-5.6-terra | No | - | A credible energy-efficiency and decarbonization services firm, but it has limited broad recognition or selectivity as a software-engineering employer compared with major technology companies. |
 | Reworld | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established environmental-services business, but it has limited broad recognition as a software-engineering employer. |
 | Reyes Beverage Group | 43 | Medium | 2026-08-14 | gpt-5.6-terra | No | - | Large beverage distribution business, but its software engineering brand and technical selectivity are not widely distinguished. |
 | Rho | 43 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous across companies and does not reliably indicate a broadly recognized, selective software-engineering employer. |
