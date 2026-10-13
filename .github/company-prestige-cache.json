@@ -40342,6 +40342,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "vestmark": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Vestmark",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established fintech software company with relevant engineering work in wealth-management platforms, but its employer brand and internship selectivity are primarily industry-specific rather than broadly elite.",
+      "reviewed_at": "2026-10-13",
+      "rubric_version": "prestige-v1"
+    },
     "vestwell": {
       "aliases": [],
       "confidence": "medium",

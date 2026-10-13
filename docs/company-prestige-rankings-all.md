@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3582** of **3582** cached companies (all cached companies).
+Showing **3583** of **3583** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1796,6 +1796,7 @@ Showing **3582** of **3582** cached companies (all cached companies).
 | V2X | 52 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Established defense and government-services contractor with substantial technical work, but not a particularly strong general software-engineering brand. |
 | Vantor | 52 | Low | 2026-09-23 | gpt-5.6-terra | No | - | Limited independent employer-brand history under this name; potential specialized technical work does not yet translate to broad software-engineering prestige. |
 | Veolia | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, respected environmental-services company, but software engineering is not its principal employer reputation. |
+| Vestmark | 52 | Medium | 2026-10-13 | gpt-5.6-terra | No | - | Established fintech software company with relevant engineering work in wealth-management platforms, but its employer brand and internship selectivity are primarily industry-specific rather than broadly elite. |
 | Voltus | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible energy-tech company with relevant software work, though not broadly considered a top engineering destination. |
 | Voya Financial | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Voya | Established financial-services company with solid enterprise technology work, but a modest software-specific prestige signal. |
 | VSP Vision | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | VSP | Established vision-care company with a credible but not especially prominent software engineering brand. |
