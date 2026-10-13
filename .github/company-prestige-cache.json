@@ -35824,6 +35824,17 @@
       "reviewed_at": "2026-08-03",
       "rubric_version": "prestige-v1"
     },
+    "stv": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "STV",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "The name is ambiguous; assuming STV is the engineering/design consulting firm, it is a credible sector-specific employer but has limited broad software-engineering brand recognition or selectivity signal.",
+      "reviewed_at": "2026-10-13",
+      "rubric_version": "prestige-v1"
+    },
     "successkpi": {
       "aliases": [],
       "confidence": "medium",

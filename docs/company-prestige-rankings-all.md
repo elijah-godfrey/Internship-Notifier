@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3583** of **3583** cached companies (all cached companies).
+Showing **3584** of **3584** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2139,6 +2139,7 @@ Showing **3583** of **3583** cached companies (all cached companies).
 | Stewart | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Stewart Title, Stewart Information Services | Established real-estate and title-services company, but it has limited broad software-engineering brand recognition. |
 | Stoneridge | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established automotive technology supplier, but its software reputation is specialized and not broadly prestigious. |
 | Strand Therapeutics | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage biotech with technical work, but limited established recognition as a software-engineering employer. |
+| STV | 48 | Low | 2026-10-13 | gpt-5.6-terra | No | - | The name is ambiguous; assuming STV is the engineering/design consulting firm, it is a credible sector-specific employer but has limited broad software-engineering brand recognition or selectivity signal. |
 | SWBC | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services firm with a credible but not broadly prominent software-engineering brand. |
 | Syneos Health | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized clinical-research organization, though software engineering is not its primary employer brand. |
 | Syska Hennessy Group | 48 | Medium | 2026-08-21 | gpt-5.6-terra | No | SH Group, Syska Hennessy | Established engineering design consultancy with solid industry recognition, though limited prestige as a software-engineering internship brand. |
