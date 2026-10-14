@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3585** of **3585** cached companies (all cached companies).
+Showing **3586** of **3586** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1151,6 +1151,7 @@ Showing **3585** of **3585** cached companies (all cached companies).
 | Antora Energy | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded climate-tech startup with meaningful technical work, but a still-developing software engineering brand. |
 | Arizona State University | 58 | Medium | 2026-07-31 | gpt-5.6-terra | No | ASU | A well-known major research university with credible technical opportunities, but its software-engineering employer brand is less selective and industry-signaling than leading technology companies. |
 | Artisan Partners | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Artisan Partners Asset Management | Established asset manager with credible technical roles, but limited software-engineering brand prominence. |
+| Athene | 58 | Medium | 2026-10-14 | gpt-5.6-terra | No | Athene Holding, Athene Life Re | Established retirement-services and insurance company with meaningful technology work, but its software engineering brand and internship selectivity are less broadly recognized than leading tech or finance employers. |
 | Availity | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare technology platform with solid domain-specific engineering credibility, though not broadly top-tier. |
 | Axcelis Technologies | 58 | Medium | 2026-09-17 | gpt-5.6-terra | No | Axcelis | Established semiconductor-equipment company with credible specialized engineering work, but a comparatively limited mainstream software-engineering brand and internship signal versus top technology firms. |
 | Axis Capital | 58 | Medium | 2026-07-28 | gpt-5.6-terra | No | AXIS Capital Holdings | Established specialty insurer/reinsurer with credible technical roles, but it has a modest software-engineering brand and limited broad recognition as a top engineering destination. |

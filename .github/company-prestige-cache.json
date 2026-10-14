@@ -3689,6 +3689,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "athene": {
+      "aliases": [
+        "Athene Holding",
+        "Athene Life Re"
+      ],
+      "confidence": "medium",
+      "display_name": "Athene",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established retirement-services and insurance company with meaningful technology work, but its software engineering brand and internship selectivity are less broadly recognized than leading tech or finance employers.",
+      "reviewed_at": "2026-10-14",
+      "rubric_version": "prestige-v1"
+    },
     "atkinsrealis": {
       "aliases": [
         "SNC-Lavalin"
