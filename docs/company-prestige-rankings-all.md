@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3586** of **3586** cached companies (all cached companies).
+Showing **3587** of **3587** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -661,6 +661,7 @@ Showing **3586** of **3586** cached companies (all cached companies).
 | Alarm.com | 67 | High | 2026-08-02 | gpt-5.6-terra | No | Alarm.com Holdings | Well-regarded connected-home and security technology company with a solid product-engineering reputation. |
 | Ancestry | 67 | High | 2026-07-18 | gpt-5.6-terra | No | - | Recognized consumer-data and genealogy technology company with mature engineering work and a solid brand. |
 | Astronomer | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | Astronomer.io | Well known in the data-engineering and Apache Airflow ecosystem, with a credible specialist software brand. |
+| Atom Computing | 67 | Medium | 2026-10-15 | gpt-5.6-terra | No | - | Well-regarded quantum-computing startup with meaningful technical credibility, but its software-engineering brand and internship signal are niche rather than broadly established. |
 | Augment | 67 | Medium | 2026-09-11 | gpt-5.6-terra | No | Augment Code | Visible AI developer-tools company with a technically strong product area, though still an early-stage brand. |
 | Avride | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Autonomous-mobility work provides a promising technical signal, though the brand is relatively new and less established. |
 | BenchSci | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected AI-driven biotech software company, though its engineering brand is less broadly recognized than top-tier software firms. |
