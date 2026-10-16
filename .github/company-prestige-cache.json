@@ -20751,6 +20751,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "jm smucker": {
+      "aliases": [
+        "The J.M. Smucker Company",
+        "Smucker's"
+      ],
+      "confidence": "high",
+      "display_name": "J.M. Smucker",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established consumer packaged-goods company with credible corporate technology work, but it is not a major software employer and carries limited software-engineering prestige relative to technology-focused firms.",
+      "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v1"
+    },
     "jmp statistical discovery": {
       "aliases": [
         "JMP"

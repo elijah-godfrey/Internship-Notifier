@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3590** of **3590** cached companies (all cached companies).
+Showing **3591** of **3591** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1738,6 +1738,7 @@ Showing **3590** of **3590** cached companies (all cached companies).
 | IMO Health | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Intelligent Medical Objects | Known in healthcare data and clinical terminology, offering a solid but specialized software and data signal. |
 | Ingram Micro | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major technology distributor with recognizable IT-industry standing, though not especially selective or known for software engineering. |
 | Integration Innovation (i3) | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | i3, Integration Innovation, Inc. | Credible defense and government technology contractor, but with limited broad recognition as a software employer. |
+| J.M. Smucker | 52 | High | 2026-10-16 | gpt-5.6-terra | No | The J.M. Smucker Company, Smucker's | Established consumer packaged-goods company with credible corporate technology work, but it is not a major software employer and carries limited software-engineering prestige relative to technology-focused firms. |
 | Johnson Electric | 52 | Medium | 2026-08-27 | gpt-5.6-terra | No | Johnson Electric Holdings | Respected global industrial engineering company, though its software-engineering employer brand is not especially prominent. |
 | Kognitos | 52 | Medium | 2026-07-28 | gpt-5.6-terra | No | - | A smaller AI automation company with relevant technical work, but limited broad recognition and a less established software-engineering prestige signal. |
 | Legrand | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded global electrical-infrastructure company, but only moderate software-engineering brand recognition. |
