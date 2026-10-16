@@ -55,12 +55,14 @@ def _apply_source(
 def _merge_filter_options(
     ns: argparse.Namespace,
     file_cfg: NotifierTomlConfig | None,
-) -> tuple[str, bool, list[str]]:
+) -> tuple[str, bool, list[str], list[str]]:
     """Combine TOML defaults with optional CLI overrides.
 
     CLI flags override the file when supplied: ``--source``, ``--all-categories``,
     or any ``--category`` (including an empty override list, which is invalid).
+    ``exclude_categories`` always comes from the TOML file.
     """
+    excluded = list(file_cfg.exclude_categories) if file_cfg is not None else []
     if file_cfg is None:
         if ns.source is None:
             raise ValueError(
@@ -70,25 +72,25 @@ def _merge_filter_options(
             )
         source = ns.source
         if ns.all_categories:
-            return source, True, []
+            return source, True, [], excluded
         cats = list(ns.categories) if ns.categories else []
         if not cats:
             raise ValueError(
                 "Pass --category (repeatable) or --all-categories when no notifier.toml is used."
             )
-        return source, False, cats
+        return source, False, cats, excluded
 
     source = ns.source if ns.source is not None else file_cfg.source
     if ns.all_categories:
-        return source, True, []
+        return source, True, [], excluded
     if ns.categories is not None:
         cats = list(ns.categories)
         if not cats:
             raise ValueError("When using --category, pass at least one category name.")
-        return source, False, cats
+        return source, False, cats, excluded
     if file_cfg.all_categories:
-        return source, True, []
-    return source, False, list(file_cfg.categories)
+        return source, True, [], excluded
+    return source, False, list(file_cfg.categories), excluded
 
 
 def _seen_id_strings(listings: list[dict[str, Any]]) -> set[str]:
@@ -285,7 +287,9 @@ def run(argv: list[str] | None = None) -> int:
         print(f"Using notifier config: {cfg_path.resolve()}", file=sys.stderr)
 
     try:
-        source, all_categories, categories = _merge_filter_options(ns, file_cfg)
+        source, all_categories, categories, exclude_categories = _merge_filter_options(
+            ns, file_cfg
+        )
     except ValueError as e:
         print(f"error: {e}", file=sys.stderr)
         return 1
@@ -325,6 +329,8 @@ def run(argv: list[str] | None = None) -> int:
     filtered = _apply_source(raw, source)
     if not all_categories:
         filtered = filters.filter_by_categories(filtered, set(categories))
+    if exclude_categories:
+        filtered = filters.filter_excluding_categories(filtered, set(exclude_categories))
 
     if ns.bootstrap:
         ids = _seen_id_strings(filtered)

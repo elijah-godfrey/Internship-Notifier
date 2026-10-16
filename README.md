@@ -27,6 +27,7 @@ Set what you want to track:
 - `source = "summer2026"`, `"offseason"`, or `"all"` for both
 - `all_categories = true` to include all categories for that source
 - `categories = [...]` only matters when `all_categories = false`
+- `exclude_categories = [...]` drops those categories after the allow-list. Use the exact upstream name, such as `"Hardware Engineering"`
 
 If you change filters later, run bootstrap again once.
 

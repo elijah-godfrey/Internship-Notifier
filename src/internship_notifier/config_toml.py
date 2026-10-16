@@ -36,15 +36,25 @@ class NotifierTomlConfig:
 
     Attributes:
         source: ``summer2026``, ``offseason``, or ``all`` (both sources).
-        all_categories: When ``True``, do not filter by category.
+        all_categories: When ``True``, do not restrict to an allow-list of categories.
         categories: Canonical category names when ``all_categories`` is ``False``.
+        exclude_categories: Canonical category names to drop after the allow-list.
         prestige: Optional company-prestige threshold settings.
     """
 
     source: str
     all_categories: bool
     categories: list[str]
+    exclude_categories: list[str] = field(default_factory=list)
     prestige: PrestigeTomlConfig = field(default_factory=PrestigeTomlConfig)
+
+
+def _load_string_list(data: dict[str, Any], key: str) -> list[str]:
+    """Parse an optional array of category names."""
+    raw = data.get(key, [])
+    if not isinstance(raw, list) or not all(isinstance(item, str) for item in raw):
+        raise ValueError(f"notifier.toml: '{key}' must be an array of strings")
+    return [item.strip() for item in raw if item.strip()]
 
 
 def _load_prestige_config(data: dict[str, Any]) -> PrestigeTomlConfig:
@@ -116,19 +126,10 @@ def load_notifier_toml(path: Path) -> NotifierTomlConfig:
     if not isinstance(all_categories, bool):
         raise ValueError("notifier.toml: 'all_categories' must be a boolean")
 
-    categories_raw = data.get("categories", [])
     if all_categories:
         categories: list[str] = []
     else:
-        cats_ok = isinstance(categories_raw, list) and all(
-            isinstance(x, str) for x in categories_raw
-        )
-        if not cats_ok:
-            raise ValueError(
-                "notifier.toml: 'categories' must be an array of strings when "
-                "all_categories is false"
-            )
-        categories = [str(x).strip() for x in categories_raw if str(x).strip()]
+        categories = _load_string_list(data, "categories")
         if not categories:
             raise ValueError(
                 "notifier.toml: 'categories' must be non-empty when all_categories is false "
@@ -138,6 +139,7 @@ def load_notifier_toml(path: Path) -> NotifierTomlConfig:
         source=source,
         all_categories=all_categories,
         categories=categories,
+        exclude_categories=_load_string_list(data, "exclude_categories"),
         prestige=_load_prestige_config(data),
     )
 

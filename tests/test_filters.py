@@ -7,6 +7,7 @@ import pytest
 from internship_notifier.filters import (
     DEFAULT_SUMMER_EARLIEST_DATE_POSTED,
     filter_by_categories,
+    filter_excluding_categories,
     filter_off_season,
     filter_summer,
 )
@@ -127,3 +128,17 @@ class TestFilterByCategories:
     def test_drops_missing_category(self) -> None:
         rows = [{"id": "1"}]
         assert filter_by_categories(rows, {"Software Engineering"}) == []
+
+
+class TestFilterExcludingCategories:
+    def test_empty_exclusion_keeps_every_listing(self) -> None:
+        rows = [{"id": "1", "category": "Hardware Engineering"}]
+        assert filter_excluding_categories(rows, set()) == rows
+
+    def test_drops_only_named_categories(self) -> None:
+        rows = [
+            {"id": "1", "category": "Hardware Engineering"},
+            {"id": "2", "category": "Software Engineering"},
+            {"id": "3"},
+        ]
+        assert filter_excluding_categories(rows, {"Hardware Engineering"}) == rows[1:]

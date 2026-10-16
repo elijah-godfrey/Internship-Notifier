@@ -114,3 +114,24 @@ def filter_by_categories(
         raise ValueError("categories must be non-empty")
     allowed = frozenset(categories)
     return [L for L in listings if L.get("category") in allowed]
+
+
+def filter_excluding_categories(
+    listings: list[Listing],
+    categories: set[str] | frozenset[str],
+) -> list[Listing]:
+    """Drop listings whose ``category`` is in ``categories``.
+
+    Args:
+        listings: Already source-filtered listings.
+        categories: Canonical category names to remove. An empty set keeps
+            every listing.
+
+    Returns:
+        Listings whose ``category`` is not excluded. Listings missing
+        ``category`` are kept.
+    """
+    if not categories:
+        return list(listings)
+    excluded = frozenset(categories)
+    return [listing for listing in listings if listing.get("category") not in excluded]

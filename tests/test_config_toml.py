@@ -119,6 +119,33 @@ class TestLoadNotifierToml:
         with pytest.raises(ValueError, match="categories"):
             load_notifier_toml(p)
 
+    def test_loads_and_strips_excluded_categories(self, tmp_path) -> None:
+        p = tmp_path / "notifier.toml"
+        _write_toml(
+            p,
+            """
+            source = "all"
+            all_categories = true
+            exclude_categories = ["  Hardware Engineering  ", "", "  "]
+            """,
+        )
+        cfg = load_notifier_toml(p)
+        assert cfg.all_categories is True
+        assert cfg.exclude_categories == ["Hardware Engineering"]
+
+    def test_exclude_categories_must_be_strings(self, tmp_path) -> None:
+        p = tmp_path / "notifier.toml"
+        _write_toml(
+            p,
+            """
+            source = "all"
+            all_categories = true
+            exclude_categories = [1]
+            """,
+        )
+        with pytest.raises(ValueError, match="exclude_categories"):
+            load_notifier_toml(p)
+
     def test_categories_non_empty_when_not_all(self, tmp_path) -> None:
         p = tmp_path / "notifier.toml"
         _write_toml(

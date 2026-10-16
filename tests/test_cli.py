@@ -42,10 +42,15 @@ def _write_notifier(
     all_categories: bool = True,
     minimum_score: int | None = None,
     benchmark_company: str | None = None,
+    exclude_categories: list[str] | None = None,
 ) -> Path:
     path = tmp / "notifier.toml"
     ac = "true" if all_categories else "false"
     cats = "" if all_categories else 'categories = ["Software Engineering"]'
+    excluded = ""
+    if exclude_categories:
+        names = ", ".join(f'"{name}"' for name in exclude_categories)
+        excluded = f"exclude_categories = [{names}]"
     prestige = ""
     if minimum_score is not None:
         prestige = f"[prestige]\nminimum_score = {minimum_score}"
@@ -60,6 +65,7 @@ def _write_notifier(
             source = "offseason"
             all_categories = {ac}
             {cats}
+            {excluded}
             {prestige}
             """
         ).lstrip(),
@@ -303,6 +309,46 @@ class TestRunNewRows:
         loaded = load_state(state_path)
         assert loaded.listings_sha == "fresh-sha"
         assert loaded.seen_ids >= {"1", "2"}
+
+    def test_excluded_category_is_not_notified_or_marked_seen(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path, exclude_categories=["Hardware Engineering"])
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(listings_sha="old-sha", seen_ids={"1"}),
+        )
+        rows = [
+            _offseason_row(id="2", company_name="Beta"),
+            _offseason_row(
+                id="3",
+                company_name="ChipCo",
+                category="Hardware Engineering",
+            ),
+        ]
+        meta = {"sha": "fresh-sha", "size": 3, "download_url": "https://example.com/raw"}
+
+        with patch("internship_notifier.github_listings.get_listings_metadata", return_value=meta):
+            with patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=rows,
+            ):
+                code = run(
+                    [
+                        "--config",
+                        str(cfg),
+                        "--state-path",
+                        str(state_path),
+                    ]
+                )
+        assert code == 0
+        out = capsys.readouterr().out
+        assert "Beta" in out
+        assert "ChipCo" not in out
+        loaded = load_state(state_path)
+        assert "2" in loaded.seen_ids
+        assert "3" not in loaded.seen_ids
 
     def test_sends_email_when_smtp_configured(
         self, tmp_path, monkeypatch: pytest.MonkeyPatch, capsys
