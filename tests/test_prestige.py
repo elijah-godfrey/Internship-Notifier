@@ -10,6 +10,7 @@ import pytest
 from internship_notifier.config_toml import PrestigeTomlConfig
 from internship_notifier.prestige import (
     CACHE_SCHEMA_VERSION,
+    PRESTIGE_RUBRIC_VERSION,
     CompanyPrestige,
     PrestigeCache,
     load_prestige_cache,
@@ -28,6 +29,7 @@ def _assessment(
     aliases: tuple[str, ...] = ("Microsoft", "MSFT"),
     manual_override: bool = False,
     reviewed_at: date = date(2026, 7, 17),
+    rubric_version: str = PRESTIGE_RUBRIC_VERSION,
 ) -> CompanyPrestige:
     return CompanyPrestige(
         display_name=display_name,
@@ -38,6 +40,7 @@ def _assessment(
         model="test-model",
         aliases=aliases,
         manual_override=manual_override,
+        rubric_version=rubric_version,
     )
 
 
@@ -167,6 +170,18 @@ class TestPrestigeCache:
                 aliases=(),
                 reviewed_at=date(2020, 1, 1),
                 manual_override=True,
+            )
+        )
+        assert cache.stale_assessments(as_of=date(2026, 7, 17)) == []
+
+    def test_stale_assessments_skip_previous_rubric(self) -> None:
+        cache = PrestigeCache()
+        cache.put(
+            _assessment(
+                display_name="Old Rubric",
+                aliases=(),
+                reviewed_at=date(2020, 1, 1),
+                rubric_version="prestige-v1",
             )
         )
         assert cache.stale_assessments(as_of=date(2026, 7, 17)) == []

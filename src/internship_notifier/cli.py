@@ -28,7 +28,6 @@ from internship_notifier.prestige import (
     save_prestige_cache,
 )
 from internship_notifier.prestige_ranker import (
-    DEFAULT_RANKING_BATCH_SIZE,
     OpenAIPrestigeRanker,
     get_or_rank_companies,
     refresh_stale_companies,
@@ -135,12 +134,9 @@ def _filter_new_rows_by_prestige(
         if cache.get(company) is None
     }
     if unknown:
-        batch_count = (
-            len(unknown) + DEFAULT_RANKING_BATCH_SIZE - 1
-        ) // DEFAULT_RANKING_BATCH_SIZE
         print(
-            f"Prestige ranking: {len(unknown)} uncached company or companies "
-            f"in {batch_count} batch(es).",
+            f"Prestige ranking: {len(unknown)} uncached company or companies, "
+            "one company per request.",
             file=sys.stderr,
         )
     assessments, cache_changed = get_or_rank_companies(

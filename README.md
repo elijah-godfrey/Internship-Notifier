@@ -53,11 +53,22 @@ Scores range from 1 to 100 and measure only software-engineering career
 prestige: technical reputation, selectivity, and career signal. Pay, work-life
 balance, location, and return-offer odds are deliberately excluded.
 
-The first time an unknown company appears, GPT-5.6 Terra ranks it and writes the
-result to `.github/company-prestige-cache.json`. Unknown companies are grouped
-into API requests of up to 20; later listings reuse the cached score.
-Automatic scores are refreshed after four months, at most 25 per workflow run.
-Entries with `"manual_override": true` are never refreshed automatically.
+The first time an unknown company appears, GPT-5.6 Terra searches the company's
+site and public coverage, then ranks that one company and writes the result to
+`.github/company-prestige-cache.json`. Later listings reuse the cached score.
+Automatic scores already on the current rubric are refreshed after four months,
+at most 25 per workflow run. Entries with `"manual_override": true` are never
+refreshed automatically.
+
+To rescore companies ranked before web search, run the low-confidence pass until
+it selects nothing, then the medium-confidence pass. High-confidence scores are
+left as they are. Each company is one request, and the cache is saved after
+every success, so you can stop and continue:
+
+```bash
+python -m internship_notifier.rerank_prestige --confidence low --limit 20
+python -m internship_notifier.rerank_prestige --confidence medium --limit 20
+```
 
 The workflow generates two human-readable reports, both sorted by score:
 
@@ -86,8 +97,8 @@ run. The repository provides two ordered seed queues:
   the normalized, deduplicated Winter 2027 WaterlooWorks organization list. Cached
   names are skipped automatically; only missing names are sent for ranking.
 
-The seed command sends up to 20 names per OpenAI request, saves the cache after
-every completed batch, and never sends email:
+The seed command sends one company per OpenAI request, saves the cache after
+every completed company, and never sends email:
 
 ```bash
 python -m internship_notifier.seed_prestige_cache \
@@ -198,10 +209,11 @@ notifier for the first time or after widening source/category filters.
 Bootstrap marks all current matching listings as seen without ranking or
 emailing the existing backlog.
 
-The polling step times out after 15 minutes. Company rankings are saved after
-each completed batch of 20, and the workflow commits the partial cache even if a
-later batch fails or times out. Run the workflow again to continue: cached
-companies are skipped and only unresolved companies are sent to OpenAI.
+The polling step times out after 15 minutes. Each new company is ranked in its
+own request and saved before the next one, and the workflow commits the partial
+cache even if a later company fails or the step times out. Run the workflow
+again to continue: cached companies are skipped and only unresolved companies
+are sent to OpenAI.
 
 Listings are emailed only after a complete successful poll. Only active,
 visible listings are eligible.
@@ -212,7 +224,7 @@ If logs say `No upstream change (listings.json blob sha unchanged).`,
 upstream data has not changed since your saved SHA.
 
 - `Prestige ranking: ... uncached ...` shows how many companies need OpenAI
-  assessment and how many batches will run.
+  assessment. Each one is a separate request.
 - `Prestige filter: ... met minimum score ...` shows how many new listings
   cleared the configured threshold.
 - A failed ranking does not mark its listing as seen, so a later run can retry.

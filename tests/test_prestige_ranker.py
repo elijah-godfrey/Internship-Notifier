@@ -161,31 +161,38 @@ class TestOpenAIPrestigeRanker:
         assert "Facebook" in result.aliases
         kwargs = client.responses.parse.call_args.kwargs
         assert kwargs["text_format"] is PrestigeBatchOutput
+        assert kwargs["tools"] == [{"type": "web_search"}]
         assert "Facebook" in kwargs["input"]
+        assert "identify the real company" in kwargs["instructions"]
 
-    def test_multiple_companies_use_one_api_call(self) -> None:
+    def test_each_company_uses_its_own_api_call(self) -> None:
         client = MagicMock()
-        client.responses.parse.return_value = SimpleNamespace(
-            output_parsed=PrestigeBatchOutput(
-                assessments=[
-                    PrestigeAssessmentOutput(
-                        request_id=f"company_{index}",
-                        display_name=name,
-                        prestige_score=80 + index,
-                        confidence="high",
-                        reason="Strong software engineering career signal.",
-                        aliases=[],
-                    )
-                    for index, name in enumerate(["Acme", "Beta"])
-                ]
-            )
-        )
         ranker = OpenAIPrestigeRanker(client=client)
 
-        results = ranker.rank_companies(["Acme", "Beta"])
+        with pytest.raises(ValueError, match="at most 1"):
+            ranker.rank_companies(["Acme", "Beta"])
+        client.responses.parse.assert_not_called()
 
-        assert [result.display_name for result in results] == ["Acme", "Beta"]
-        client.responses.parse.assert_called_once()
+        client.responses.parse.side_effect = [
+            SimpleNamespace(
+                output_parsed=PrestigeBatchOutput(
+                    assessments=[
+                        PrestigeAssessmentOutput(
+                            request_id="company_0",
+                            display_name=name,
+                            prestige_score=80,
+                            confidence="high",
+                            reason="Strong software engineering career signal.",
+                            aliases=[],
+                        )
+                    ]
+                )
+            )
+            for name in ("Acme", "Beta")
+        ]
+        assert ranker.rank_company("Acme").display_name == "Acme"
+        assert ranker.rank_company("Beta").display_name == "Beta"
+        assert client.responses.parse.call_count == 2
 
     def test_request_id_mapping_tolerates_malformed_echoed_unicode(self) -> None:
         client = MagicMock()
@@ -227,8 +234,9 @@ class TestOpenAIPrestigeRanker:
         )
         ranker = OpenAIPrestigeRanker(client=client)
 
-        with pytest.raises(PrestigeRankingError, match="omitted"):
+        with pytest.raises(ValueError, match="at most 1"):
             ranker.rank_companies(["Acme", "Beta"])
+        client.responses.parse.assert_not_called()
 
     def test_model_can_be_overridden(self) -> None:
         client = MagicMock()
@@ -272,7 +280,7 @@ class TestCachedRanking:
         assert changed is False
         assert ranker.calls == []
 
-    def test_unknown_companies_are_split_into_batches_of_20(self) -> None:
+    def test_unknown_companies_are_ranked_one_at_a_time(self) -> None:
         companies = [f"Company {index}" for index in range(45)]
         ranker = EchoRanker()
 
@@ -284,23 +292,15 @@ class TestCachedRanking:
 
         assert changed is True
         assert len(results) == 45
-        assert [len(batch) for batch in ranker.batch_calls] == [20, 20, 5]
+        assert [len(batch) for batch in ranker.batch_calls] == [1] * 45
 
-    def test_successful_fallback_results_are_cached_before_later_failure(
-        self,
-    ) -> None:
+    def test_successful_company_is_cached_before_later_failure(self) -> None:
         cache = PrestigeCache()
         ranker = MagicMock()
-        ranker.rank_companies.side_effect = PrestigeRankingError(
-            "batch validation failed"
-        )
-
-        def rank_one(company_name: str, **_: object) -> CompanyPrestige:
-            if company_name == "Bad Company":
-                raise PrestigeRankingError("invalid result")
-            return _assessment(display_name=company_name, aliases=())
-
-        ranker.rank_company.side_effect = rank_one
+        ranker.rank_companies.side_effect = [
+            [_assessment(display_name="Acme", aliases=())],
+            PrestigeRankingError("invalid result"),
+        ]
         on_change = MagicMock()
 
         with pytest.raises(PrestigeRankingError, match="Bad Company"):
@@ -380,19 +380,18 @@ class TestStaleRefresh:
         cache.put(first)
         cache.put(second)
         ranker = MagicMock()
-        ranker.rank_companies.side_effect = PrestigeRankingError(
-            "batch validation failed"
-        )
-        ranker.rank_company.side_effect = [
+        ranker.rank_companies.side_effect = [
             PrestigeRankingError("temporary API failure"),
-            CompanyPrestige(
-                display_name="Second",
-                prestige_score=75,
-                confidence="high",
-                reason="Refreshed assessment.",
-                reviewed_at=date(2026, 7, 17),
-                model="new-model",
-            ),
+            [
+                CompanyPrestige(
+                    display_name="Second",
+                    prestige_score=75,
+                    confidence="high",
+                    reason="Refreshed assessment.",
+                    reviewed_at=date(2026, 7, 17),
+                    model="new-model",
+                )
+            ],
         ]
 
         result = refresh_stale_companies(

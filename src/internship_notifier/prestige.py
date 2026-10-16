@@ -19,7 +19,7 @@ from internship_notifier.config_toml import (
 from internship_notifier.state import default_state_path
 
 CACHE_SCHEMA_VERSION = 1
-PRESTIGE_RUBRIC_VERSION = "prestige-v1"
+PRESTIGE_RUBRIC_VERSION = "prestige-v2"
 DEFAULT_REFRESH_AFTER_MONTHS = 4
 DEFAULT_MAX_REFRESHES_PER_RUN = 25
 Confidence = Literal["low", "medium", "high"]
@@ -227,7 +227,11 @@ class PrestigeCache:
         refresh_after_months: int = DEFAULT_REFRESH_AFTER_MONTHS,
         limit: int = DEFAULT_MAX_REFRESHES_PER_RUN,
     ) -> list[CompanyPrestige]:
-        """Return oldest stale automatic assessments, capped per run."""
+        """Return oldest stale current-rubric assessments, capped per run.
+
+        Scores from an older rubric are left for the manual rerank command so a
+        scheduled poll does not migrate the whole cache.
+        """
         if refresh_after_months < 1:
             raise ValueError("refresh_after_months must be at least 1")
         if limit < 0:
@@ -236,7 +240,11 @@ class PrestigeCache:
         stale = [
             assessment
             for assessment in self.companies.values()
-            if not assessment.manual_override and assessment.reviewed_at <= cutoff
+            if (
+                not assessment.manual_override
+                and assessment.rubric_version == PRESTIGE_RUBRIC_VERSION
+                and assessment.reviewed_at <= cutoff
+            )
         ]
         return sorted(stale, key=lambda assessment: assessment.reviewed_at)[:limit]
 

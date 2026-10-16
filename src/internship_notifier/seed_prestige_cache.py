@@ -97,17 +97,17 @@ def seed_cache(
     limit: int = DEFAULT_MAX_COMPANIES,
     on_cache_change: Callable[[PrestigeCache], None] | None = None,
 ) -> tuple[list[str], bool]:
-    """Rank a bounded ordered slice of uncached candidates and checkpoint batches.
+    """Rank a bounded ordered slice of uncached candidates and checkpoint each one.
 
-    ``get_or_rank_companies`` sends at most 20 names per request and invokes
-    ``on_cache_change`` after each successful batch. Therefore a later failed
-    batch does not discard earlier completed work.
+    ``get_or_rank_companies`` sends one company per request and invokes
+    ``on_cache_change`` after each successful company. Therefore a later failure
+    does not discard earlier completed work.
 
     Args:
         candidates: Ordered candidate company names.
         cache: Cache to update in place.
         limit: Maximum candidates to rank in this run; defaults to 100.
-        on_cache_change: Optional checkpoint callback after each changed batch.
+        on_cache_change: Optional checkpoint callback after each changed company.
 
     Returns:
         The selected uncached names and whether the cache changed.
@@ -175,10 +175,9 @@ def run(argv: list[str] | None = None) -> int:
         cache,
         limit=ns.max_companies,
     )
-    batch_count = (len(selected) + DEFAULT_RANKING_BATCH_SIZE - 1) // DEFAULT_RANKING_BATCH_SIZE
     print(
         f"Selected {len(selected)} uncached company or companies from "
-        f"{len(candidates)} candidate(s) in {batch_count} batch(es).",
+        f"{len(candidates)} candidate(s), one company per request.",
         file=sys.stderr,
     )
     if ns.dry_run:
