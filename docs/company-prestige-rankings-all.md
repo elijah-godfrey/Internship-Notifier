@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3561** of **3561** cached companies (all cached companies).
+Showing **3562** of **3562** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1526,6 +1526,7 @@ Showing **3561** of **3561** cached companies (all cached companies).
 | Technology Service Corporation | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | TSC, Falcata, TSC, now branded Falcata | Substantive software work in radar, simulation, embedded systems, and electronic warfare, giving it a solid niche defense-engineering signal, but it has limited broad software-industry recognition versus top technology employers. |
 | Terabase | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Terabase Energy | Respected climate-tech company applying software and automation to solar deployment, though not broadly elite in software. |
 | Terranox AI | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Y Combinator admission and a technically relevant AI/ML-focused founding team provide a positive early-career signal, but it is a very new, small company with no established software-engineering or internship brand yet. |
+| Tesco | 58 | High | 2026-10-16 | gpt-5.6-terra | No | Tesco Technology, tesco.com, tescoplc.com | Major UK retailer with a substantial in-house technology organization and dedicated software-engineering internship, offering credible large-scale consumer and retail-systems experience. Its employer name is widely recognized, but its software-engineering brand and selectivity are not generally viewed as top-tier tech. |
 | TMEIC Corporation Americas | 58 | Medium | 2026-08-08 | gpt-5.6-terra | No | TMEIC | Part of an established industrial electrical-systems organization, providing a solid engineering signal, though its software brand is specialized rather than broadly elite. |
 | Triumph Labs | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | Triumph, Triumph Arcade, Rips by Triumph, Triumph Arcade/Rips | A real software engineering internship and externally reported venture funding, giving it a solid early-stage technical signal, but its engineering brand and broad employer recognition are still limited compared with established top-tier technology firms. |
 | TWG Global | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | TWG AI | Visible AI/technology investments and engineering internships, but its software-engineering employer brand and demonstrated technical selectivity are still emerging rather than broadly established. |
