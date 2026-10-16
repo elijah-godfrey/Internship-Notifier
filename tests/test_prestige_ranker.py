@@ -164,6 +164,8 @@ class TestOpenAIPrestigeRanker:
         assert kwargs["tools"] == [{"type": "web_search"}]
         assert "Facebook" in kwargs["input"]
         assert "identify the real company" in kwargs["instructions"]
+        assert "display_name must be only the company's common name" in kwargs["instructions"]
+        assert "The reason must be concise and must not claim facts you do not know." in kwargs["instructions"]
 
     def test_each_company_uses_its_own_api_call(self) -> None:
         client = MagicMock()
