@@ -76,6 +76,25 @@ class TestRenderPrestigeReport:
         assert "Example\\\\Labs" in report
         assert "| Yes |" in report
 
+    def test_company_name_stays_plain_when_website_is_known(self) -> None:
+        cache = PrestigeCache()
+        cache.put(
+            CompanyPrestige(
+                display_name="Sierra",
+                prestige_score=84,
+                confidence="high",
+                reason="Strong but still-young AI engineering signal.",
+                reviewed_at=date(2026, 10, 16),
+                model="test-model",
+                website="https://sierra.ai",
+            )
+        )
+
+        report = render_prestige_report(cache)
+
+        assert "| Sierra |" in report
+        assert "https://sierra.ai" not in report
+
     def test_report_is_capped_at_500_companies(self) -> None:
         cache = PrestigeCache()
         for index in range(MAX_REPORT_COMPANIES + 1):

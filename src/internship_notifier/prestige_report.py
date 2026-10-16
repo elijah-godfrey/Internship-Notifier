@@ -203,11 +203,12 @@ def _render_band(
     for assessment in entries:
         aliases = ", ".join(assessment.aliases) or "-"
         manual = "Yes" if assessment.manual_override else "No"
+        company = _escape_markdown(assessment.display_name)
         lines.append(
             "| "
             + " | ".join(
                 (
-                    _escape_markdown(assessment.display_name),
+                    company,
                     str(assessment.prestige_score),
                     assessment.confidence.title(),
                     assessment.reviewed_at.isoformat(),

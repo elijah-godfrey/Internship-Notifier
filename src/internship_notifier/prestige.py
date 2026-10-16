@@ -88,6 +88,7 @@ class CompanyPrestige:
     rubric_version: str = PRESTIGE_RUBRIC_VERSION
     aliases: tuple[str, ...] = ()
     manual_override: bool = False
+    website: str | None = None
 
     def __post_init__(self) -> None:
         normalize_company_name(self.display_name)
@@ -102,10 +103,15 @@ class CompanyPrestige:
             raise ValueError("rubric_version must be a non-empty string")
         for alias in self.aliases:
             normalize_company_name(alias)
+        if self.website is not None:
+            website = self.website.strip()
+            if not website.startswith(("http://", "https://")):
+                raise ValueError("company website must be an http(s) URL")
+            object.__setattr__(self, "website", website)
 
     def to_json_dict(self) -> dict[str, Any]:
         """Serialize this assessment for the on-disk cache."""
-        return {
+        payload = {
             "aliases": list(self.aliases),
             "confidence": self.confidence,
             "display_name": self.display_name,
@@ -116,6 +122,9 @@ class CompanyPrestige:
             "reviewed_at": self.reviewed_at.isoformat(),
             "rubric_version": self.rubric_version,
         }
+        if self.website is not None:
+            payload["website"] = self.website
+        return payload
 
     @classmethod
     def from_json_dict(cls, data: dict[str, Any]) -> CompanyPrestige:
@@ -149,6 +158,10 @@ class CompanyPrestige:
             if not isinstance(data.get(key), str):
                 raise ValueError(f"company prestige {key} must be a string")
 
+        website = data.get("website")
+        if website is not None and not isinstance(website, str):
+            raise ValueError("company prestige website must be a string")
+
         return cls(
             display_name=data["display_name"],
             prestige_score=validate_prestige_score(data.get("prestige_score")),
@@ -159,6 +172,7 @@ class CompanyPrestige:
             rubric_version=data["rubric_version"],
             aliases=tuple(aliases),
             manual_override=manual_override,
+            website=website,
         )
 
 
