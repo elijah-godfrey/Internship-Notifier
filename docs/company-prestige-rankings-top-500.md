@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3587** cached companies (maximum 500).
+Showing **500** of **3590** cached companies (maximum 500).
 
-_The 3087 lowest-scored companies are omitted by the report cap._
+_The 3090 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -488,6 +488,7 @@ _The 3087 lowest-scored companies are omitted by the report cap._
 | Ubisoft | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Ubisoft Entertainment | Globally recognized game developer with a credible engineering brand in large-scale game development and a competitive internship signal. |
 | Wealthsimple | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded Canadian fintech with a visible consumer technology brand and credible software engineering signal. |
 | Wellington Management | 72 | High | 2026-09-16 | gpt-5.6-terra | No | Wellington | Highly respected global investment manager with selective technology and quantitative engineering work. |
+| Wikimedia Foundation | 72 | High | 2026-10-16 | gpt-5.6-terra | No | WMF, Wikimedia | Globally recognized steward of Wikipedia with meaningful large-scale open-source and internet infrastructure work; a strong software signal, though less selective-brand-driven than top technology firms. |
 | Workato | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise automation company with a strong modern SaaS engineering reputation. |
 | Writer | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Writer.com, Writer AI | Well-regarded enterprise generative-AI startup with a credible engineering signal, though less universally established or selective than the largest frontier AI labs. |
 | Beta Technologies | 71 | Medium | 2026-08-02 | gpt-5.6-terra | No | BETA | Prominent electric-aviation company with technically demanding work; its software brand is strong but less established than major technology firms. |
@@ -521,4 +522,3 @@ _The 3087 lowest-scored companies are omitted by the report cap._
 | Galileo Financial Technologies | 70 | High | 2026-08-02 | gpt-5.6-terra | No | Galileo, Galileo Financial | Recognized fintech infrastructure provider with meaningful payments-platform engineering work and a solid technical career signal. |
 | GeoComply | 70 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded specialist in geolocation and anti-fraud technology with a meaningful engineering-focused reputation. |
 | GoFundMe | 70 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognizable consumer internet platform with a solid software-product engineering signal. |
-| GoTo Group | 70 | High | 2026-08-02 | gpt-5.6-terra | No | GoTo, PT GoTo Gojek Tokopedia Tbk | Major Southeast Asian consumer-tech platform with a strong regional engineering reputation and recognizable technology brand. |

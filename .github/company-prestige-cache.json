@@ -2421,6 +2421,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "angel city": {
+      "aliases": [
+        "Angel City FC"
+      ],
+      "confidence": "low",
+      "display_name": "Angel City",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 30,
+      "reason": "The name is ambiguous; assuming Angel City FC, it has limited relevance and recognition as a software engineering employer.",
+      "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v1"
+    },
     "anglian water": {
       "aliases": [],
       "confidence": "medium",
@@ -9228,6 +9241,19 @@
       "prestige_score": 34,
       "reason": "Recognized in the social-impact measurement niche, but offers limited general software-engineering prestige.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "commonwealth fusion systems": {
+      "aliases": [
+        "CFS"
+      ],
+      "confidence": "medium",
+      "display_name": "Commonwealth Fusion Systems",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded, high-profile fusion-energy startup with challenging technical work, but its software engineering brand is specialized rather than broadly elite.",
+      "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v1"
     },
     "commonwealth of massachusetts": {
@@ -41565,6 +41591,20 @@
       "prestige_score": 59,
       "reason": "Established event-management software company with a credible product-engineering environment, but limited broad elite-tech recognition.",
       "reviewed_at": "2026-09-11",
+      "rubric_version": "prestige-v1"
+    },
+    "wikimedia foundation": {
+      "aliases": [
+        "WMF",
+        "Wikimedia"
+      ],
+      "confidence": "high",
+      "display_name": "Wikimedia Foundation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Globally recognized steward of Wikipedia with meaningful large-scale open-source and internet infrastructure work; a strong software signal, though less selective-brand-driven than top technology firms.",
+      "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v1"
     },
     "wilbur ellis": {

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3587** of **3587** cached companies (all cached companies).
+Showing **3590** of **3590** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -486,6 +486,7 @@ Showing **3587** of **3587** cached companies (all cached companies).
 | Ubisoft | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Ubisoft Entertainment | Globally recognized game developer with a credible engineering brand in large-scale game development and a competitive internship signal. |
 | Wealthsimple | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded Canadian fintech with a visible consumer technology brand and credible software engineering signal. |
 | Wellington Management | 72 | High | 2026-09-16 | gpt-5.6-terra | No | Wellington | Highly respected global investment manager with selective technology and quantitative engineering work. |
+| Wikimedia Foundation | 72 | High | 2026-10-16 | gpt-5.6-terra | No | WMF, Wikimedia | Globally recognized steward of Wikipedia with meaningful large-scale open-source and internet infrastructure work; a strong software signal, though less selective-brand-driven than top technology firms. |
 | Workato | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise automation company with a strong modern SaaS engineering reputation. |
 | Writer | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Writer.com, Writer AI | Well-regarded enterprise generative-AI startup with a credible engineering signal, though less universally established or selective than the largest frontier AI labs. |
 | Beta Technologies | 71 | Medium | 2026-08-02 | gpt-5.6-terra | No | BETA | Prominent electric-aviation company with technically demanding work; its software brand is strong but less established than major technology firms. |
@@ -582,6 +583,7 @@ Showing **3587** of **3587** cached companies (all cached companies).
 | Carbon Robotics | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded specialized robotics company; its autonomous-systems work provides a strong technical signal. |
 | Charles Schwab | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Schwab | Major financial-services brand with substantial technology operations and a solid engineering career signal. |
 | Clay | 68 | Medium | 2026-09-30 | gpt-5.6-terra | No | - | Well-regarded modern data-enrichment and go-to-market software startup with a visible product and growing technical reputation, though not yet a broadly established top-tier engineering signal. |
+| Commonwealth Fusion Systems | 68 | Medium | 2026-10-16 | gpt-5.6-terra | No | CFS | Well-regarded, high-profile fusion-energy startup with challenging technical work, but its software engineering brand is specialized rather than broadly elite. |
 | Cummins | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded global industrial and power-systems company with meaningful embedded, connected-product, and enterprise software work. |
 | Decagon | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Prominent emerging AI startup with a positive technical signal, but limited long-term employer-brand evidence. |
 | Dialpad | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized cloud communications and AI software company with a credible product-engineering reputation. |
@@ -3198,6 +3200,7 @@ Showing **3587** of **3587** cached companies (all cached companies).
 | USM Business Systems | 31 | Low | 2026-08-02 | gpt-5.6-terra | No | - | Limited broadly recognized software-engineering brand; available evidence suggests a smaller services-oriented employer. |
 | Aberdeen | 30 | Low | 2026-08-02 | gpt-5.6-terra | No | - | The name is ambiguous; without a specific entity, it offers limited assessable software-engineering prestige. |
 | American Association of People With Disabilities | 30 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected advocacy nonprofit, but it has little established software engineering employer reputation. |
+| Angel City | 30 | Low | 2026-10-16 | gpt-5.6-terra | No | Angel City FC | The name is ambiguous; assuming Angel City FC, it has limited relevance and recognition as a software engineering employer. |
 | Audax Group | 30 | High | 2026-08-02 | gpt-5.6-terra | No | - | Investment firm rather than a software company; software-engineering prestige is limited. |
 | AUG Signals Ltd | 30 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Specialized signals-focused company; limited evidence of broad software-engineering prestige. |
 | Axle | 30 | Low | 2026-09-04 | gpt-5.6-terra | No | - | The name is ambiguous and does not establish a broadly recognized software-engineering employer brand. |
