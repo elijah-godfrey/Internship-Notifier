@@ -1124,6 +1124,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "agzen": {
+      "aliases": [
+        "agzen.com"
+      ],
+      "confidence": "medium",
+      "display_name": "AgZen",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "MIT-originated, venture-backed precision-agriculture startup with technically substantive real-time sensing, computer vision, and AI products. Its engineering work appears credible and challenging, but the company remains small and its software-employer brand is primarily niche rather than broadly recognized.",
+      "reviewed_at": "2026-10-17",
+      "rubric_version": "prestige-v2"
+    },
     "ahead": {
       "aliases": [],
       "confidence": "medium",
@@ -1482,6 +1495,21 @@
       "prestige_score": 28,
       "reason": "A small, finance-focused team and only limited public evidence of a software-engineering organization (including a quantitative developer role), so it offers limited broader software-engineering brand signal.",
       "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v2"
+    },
+    "aliaxis": {
+      "aliases": [
+        "Alliaxis",
+        "Aliaxis SA",
+        "aliaxis.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Aliaxis",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established global water and piping-systems manufacturer with meaningful engineering operations, but limited recognition, selectivity, or brand strength specifically for software engineering internships.",
+      "reviewed_at": "2026-10-17",
       "rubric_version": "prestige-v2"
     },
     "alixpartners": {
@@ -23008,6 +23036,20 @@
       "rubric_version": "prestige-v2",
       "website": "https://lindy.ai"
     },
+    "linea energy": {
+      "aliases": [
+        "Linea",
+        "lineaenergy.com"
+      ],
+      "confidence": "high",
+      "display_name": "Linea Energy",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "A credible, EnCap-sponsored U.S. renewable-energy developer and independent power producer with substantial utility-scale projects and financing activity. However, it has limited public software-engineering brand recognition or evidence of a selective, established SWE internship pipeline, so the career signal is mainly industry-specific.",
+      "reviewed_at": "2026-10-17",
+      "rubric_version": "prestige-v2"
+    },
     "linear": {
       "aliases": [],
       "confidence": "high",
@@ -43664,15 +43706,18 @@
       "rubric_version": "prestige-v1"
     },
     "zoetis": {
-      "aliases": [],
-      "confidence": "medium",
+      "aliases": [
+        "Zoetis Services",
+        "ZTS"
+      ],
+      "confidence": "high",
       "display_name": "Zoetis",
       "manual_override": false,
       "model": "gpt-5.6-terra",
-      "prestige_score": 53,
-      "reason": "Leading animal-health company with solid technical opportunities, but a limited standalone software-engineering brand.",
-      "reviewed_at": "2026-08-02",
-      "rubric_version": "prestige-v1"
+      "prestige_score": 62,
+      "reason": "A globally recognized public leader in animal health with meaningful digital, diagnostics, and data-driven product work. It is a solid engineering signal, though its employer brand and selectivity are centered on animal-health science rather than elite software engineering.",
+      "reviewed_at": "2026-10-17",
+      "rubric_version": "prestige-v2"
     },
     "zola": {
       "aliases": [],

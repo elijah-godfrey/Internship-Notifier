@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3562** of **3562** cached companies (all cached companies).
+Showing **3565** of **3565** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1231,6 +1231,7 @@ Showing **3562** of **3562** cached companies (all cached companies).
 | Workstream | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible workforce-management software startup, though less broadly recognized than leading SaaS employers. |
 | Xebia | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected technology consultancy with a recognizable engineering and cloud/software-delivery brand, especially in consulting. |
 | YOU.com | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized AI search startup with a credible modern AI/product-engineering signal, though less established than leading AI labs. |
+| Zoetis | 62 | High | 2026-10-17 | gpt-5.6-terra | No | Zoetis Services, ZTS | A globally recognized public leader in animal health with meaningful digital, diagnostics, and data-driven product work. It is a solid engineering signal, though its employer brand and selectivity are centered on animal-health science rather than elite software engineering. |
 | Acceldata | 61 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized data-observability startup with directly relevant data-infrastructure engineering, but limited scale and broad name recognition. |
 | AeroVironment | 61 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-regarded aerospace and defense technology company; software signal is solid but specialized. |
 | American Tower | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | ATC | Major communications-infrastructure company with credible technical scale, though not a top software-engineering brand. |
@@ -1376,6 +1377,7 @@ Showing **3562** of **3562** cached companies (all cached companies).
 | Abundant | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | YC backing, an AI-focused engineering role, and publicly visible technical research provide a positive early-career signal, but it remains a very small, early-stage company with limited broad software-engineering brand recognition. |
 | Acuity Inc. | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | Acuity Brands, Acuity Intelligent Spaces, AYI | Credible software, controls, IoT, and smart-building engineering work plus a formal technical internship presence, but its employer recognition is primarily in lighting/building technology rather than as a broadly elite software-engineering brand. |
 | Age of Learning | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established education-technology company with consumer software products, though not broadly viewed as a highly selective engineering destination. |
+| AgZen | 58 | Medium | 2026-10-17 | gpt-5.6-terra | No | agzen.com | MIT-originated, venture-backed precision-agriculture startup with technically substantive real-time sensing, computer vision, and AI products. Its engineering work appears credible and challenging, but the company remains small and its software-employer brand is primarily niche rather than broadly recognized. |
 | AlayaCare | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized health-tech SaaS company with a credible engineering product, though not a broadly elite software brand. |
 | Albacore Inc. | 58 | High | 2026-10-16 | gpt-5.6-terra | No | - | Software internship involves substantive robotics/autonomy systems work (ROS and C/C++/Rust/Python), and YC backing plus a reported $6.5M seed round are positive signals; however, it was founded in 2025 and has limited established, broad software-engineering employer recognition so far. |
 | Alcon | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known global eye-care and medical-device company with credible technical work, though not a top software employer brand. |
@@ -2007,7 +2009,6 @@ Showing **3562** of **3562** cached companies (all cached companies).
 | Veracyte | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established diagnostics company with technical work, though not a major software-engineering destination. |
 | Vusion | 53 | Medium | 2026-09-16 | gpt-5.6-terra | No | VusionGroup, VusionGroup SA | Recognized retail-technology business with relevant product engineering, but a modest broad software-industry signal. |
 | X-energy | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable advanced-nuclear company with meaningful technical work, but limited established software-engineering employer recognition. |
-| Zoetis | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Leading animal-health company with solid technical opportunities, but a limited standalone software-engineering brand. |
 | 10a Labs | 52 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Work is technically relevant to AI/security engineering, but it remains a small, relatively little-known firm with limited independent funding or major-publication coverage, so its software-engineering internship signal is positive but industry-specific rather than broadly top-tier. |
 | 4AG Robotics | 52 | Medium | 2026-09-17 | gpt-5.6-terra | No | - | A credible robotics company in an applied automation niche; the robotics focus is a positive technical signal, though recognition and selectivity appear specialized rather than broad. |
 | A Thinking Ape | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | ATA, A Thinking Ape Entertainment Ltd. | Established mobile-game studio with credible product engineering, though its reputation is mostly niche to gaming. |
@@ -2947,6 +2948,7 @@ Showing **3562** of **3562** cached companies (all cached companies).
 | LeapAP Inc. | 43 | High | 2026-10-16 | gpt-5.6-terra | No | CondoWorks | A real software product and North American customers, but limited broader engineering-industry recognition or evidence of unusually selective technical hiring. |
 | Leggett & Platt | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established manufacturing company with limited software-engineering reputation beyond internal enterprise technology roles. |
 | Liberty University | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized university employer, but it has a limited software-engineering brand and is not generally a highly selective or prominent destination for SWE internships. |
+| Linea Energy | 43 | High | 2026-10-17 | gpt-5.6-terra | No | Linea, lineaenergy.com | A credible, EnCap-sponsored U.S. renewable-energy developer and independent power producer with substantial utility-scale projects and financing activity. However, it has limited public software-engineering brand recognition or evidence of a selective, established SWE internship pipeline, so the career signal is mainly industry-specific. |
 | Lynker | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Lynker Technologies | Specialized environmental and government-services contractor with limited broad software-engineering employer recognition. |
 | Maple Leaf Sports & Entertainment Partnership (MLSE) | 43 | High | 2026-08-02 | gpt-5.6-terra | No | MLSE, Maple Leaf Sports & Entertainment | Prominent sports organization, but its software engineering reputation is limited relative to dedicated technology employers. |
 | Marquee Brands | 43 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Recognized consumer-brand management company, but its technical employer brand and software-engineering selectivity appear limited. |
@@ -3020,6 +3022,7 @@ Showing **3562** of **3562** cached companies (all cached companies).
 | AAA Club Alliance | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large regional services organization, but its engineering brand has limited visibility beyond its industry. |
 | Acushnet Holdings | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized golf-products company, but it has limited software engineering employer prestige. |
 | AEC Daily Inc | 42 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | An established architecture and construction education platform, but with a niche rather than broadly elite engineering brand. |
+| Aliaxis | 42 | Medium | 2026-10-17 | gpt-5.6-terra | No | Alliaxis, Aliaxis SA, aliaxis.com | Established global water and piping-systems manufacturer with meaningful engineering operations, but limited recognition, selectivity, or brand strength specifically for software engineering internships. |
 | ALKU | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known staffing and consulting firm, but it offers limited direct software-product engineering prestige. |
 | Allegis Global Solutions | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | AGS | Recognized workforce-solutions provider, but not a notable software engineering destination or product-tech brand. |
 | Altasciences | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established life-sciences services company, though not widely known for a top software-engineering brand. |
