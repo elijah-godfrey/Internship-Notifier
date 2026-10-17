@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3565** of **3565** cached companies (all cached companies).
+Showing **3566** of **3566** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2064,6 +2064,7 @@ Showing **3565** of **3565** cached companies (all cached companies).
 | Fifth Third Bank | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Fifth Third, Fifth Third Bancorp, 53 Bank | A credible regional bank with technology roles, but a modest national software-engineering reputation. |
 | First National Bank | 52 | Medium | 2026-10-16 | gpt-5.6-terra | No | FNB, First National Bank of Pennsylvania | Established IT/software-engineering and student internship programs, giving it a credible regional financial-services signal, but it is not broadly regarded as a top-tier or especially selective software-engineering employer. |
 | FNBO | 52 | High | 2026-08-02 | gpt-5.6-terra | No | First National Bank of Omaha | Established regional banking employer with ordinary positive technology experience, but limited national software-engineering brand strength. |
+| Focusrite | 52 | Medium | 2026-10-17 | gpt-5.6-terra | No | The Focusrite Group, Focusrite Group, Focusrite Pro, Novation | Established public audio-technology group with recognized pro-audio brands and substantive embedded/software product engineering, but its employer signal is chiefly niche to music and audio hardware rather than broadly prestigious in software engineering. |
 | Frontier Economics | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected economics consultancy, but software roles are secondary to its core professional-services reputation. |
 | Fullsteam | 52 | High | 2026-10-16 | gpt-5.6-terra | No | Fullsteam Holdings, Fullsteam Operations | A substantial, credible operator of niche SaaS and payments products, but its software-engineering brand and demonstrated internship selectivity are primarily industry-specific rather than broadly top-tier. |
 | GEHA | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established health-benefits organization, but it has limited broad recognition as a software-engineering destination. |

@@ -15509,6 +15509,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "focusrite": {
+      "aliases": [
+        "The Focusrite Group",
+        "Focusrite Group",
+        "Focusrite Pro",
+        "Novation"
+      ],
+      "confidence": "medium",
+      "display_name": "Focusrite",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established public audio-technology group with recognized pro-audio brands and substantive embedded/software product engineering, but its employer signal is chiefly niche to music and audio hardware rather than broadly prestigious in software engineering.",
+      "reviewed_at": "2026-10-17",
+      "rubric_version": "prestige-v2"
+    },
     "foley hoag": {
       "aliases": [],
       "confidence": "high",
