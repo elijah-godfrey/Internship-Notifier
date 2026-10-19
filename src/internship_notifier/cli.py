@@ -125,7 +125,11 @@ def _format_listing_line(listing: dict[str, Any]) -> str:
     title = listing.get("title", "?")
     cat = listing.get("category", "?")
     url = listing.get("url", "")
-    return f"{company} | {title} | {cat} | {url}"
+    line = f"{company} | {title} | {cat} | {url}"
+    degree_label = email_format.graduate_degree_label(listing)
+    if degree_label:
+        return f"{line} | {degree_label}"
+    return line
 
 
 def _company_name(row: dict[str, Any]) -> str:

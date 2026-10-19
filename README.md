@@ -11,6 +11,7 @@ and emails you only when new listing IDs appear.
 - Optionally ranks company prestige and alerts only above your threshold
 - Keeps state (`seen_ids` + `listings_sha`) so you do not get duplicates
 - Optionally sends formatted HTML email via SMTP, with a plain-text fallback
+- Labels a posting when it requires a master's, PhD, or MBA and does not accept a bachelor's or associate's degree
 
 ## 1) Install
 

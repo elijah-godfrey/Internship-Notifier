@@ -3,11 +3,26 @@
 from __future__ import annotations
 
 import html
+import re
 from dataclasses import dataclass
 from typing import Any
 from urllib.parse import urlparse
 
 from internship_notifier.prestige import CompanyPrestige
+
+# Upstream ``degrees`` values. A bachelor's or associate's entry means an
+# undergraduate can apply, so those listings stay unmarked.
+_UNDERGRAD_DEGREES = frozenset({"bachelor's", "associate's"})
+_MASTERS_DEGREES = frozenset({"master's"})
+_PHD_DEGREES = frozenset({"phd"})
+_MBA_DEGREES = frozenset({"mba"})
+_APOSTROPHES = str.maketrans({"’": "'", "‘": "'", "`": "'"})
+_TITLE_PHD = re.compile(r"\b(?:ph\.?\s*d\.?|doctorate|doctoral)\b", re.IGNORECASE)
+_TITLE_MBA = re.compile(r"\bmba\b", re.IGNORECASE)
+_TITLE_MASTERS = re.compile(
+    r"\b(?:master's|masters|m\.s\.?|m\.sc\.?|ms)\b",
+    re.IGNORECASE,
+)
 
 
 @dataclass(frozen=True)
@@ -23,6 +38,7 @@ class NotificationListing:
     prestige_score: int | None = None
     prestige_confidence: str | None = None
     prestige_reason: str | None = None
+    degree_label: str | None = None
 
     @classmethod
     def from_listing(
@@ -47,6 +63,7 @@ class NotificationListing:
             prestige_reason=(
                 assessment.reason if assessment is not None else None
             ),
+            degree_label=graduate_degree_label(listing),
         )
 
 
@@ -78,6 +95,8 @@ def render_plaintext_email(
 
     for listing in listings:
         lines.append(f"{listing.company} — {listing.title}")
+        if listing.degree_label:
+            lines.append(listing.degree_label)
         details = [listing.category]
         if listing.locations:
             details.append(", ".join(listing.locations))
@@ -138,11 +157,101 @@ def render_html_email(
 </html>"""
 
 
+def graduate_degree_label(listing: dict[str, Any]) -> str | None:
+    """Return a graduate-only label, or None when an undergraduate can apply.
+
+    The upstream ``degrees`` list wins when it is present. A title is checked
+    only when that list is missing or empty, and only for an explicit degree
+    phrase such as ``PhD`` or ``MS/PhD``. ``Master Data`` does not match.
+    """
+    degrees = listing.get("degrees")
+    if isinstance(degrees, list) and any(
+        isinstance(item, str) and item.strip() for item in degrees
+    ):
+        kinds = _degree_kinds(degrees)
+        if "undergrad" in kinds or "unknown" in kinds:
+            return None
+        return _label_for_kinds(kinds)
+    return _label_for_kinds(_kinds_from_title(str(listing.get("title") or "")))
+
+
+def _degree_kinds(degrees: list[object]) -> set[str]:
+    """Classify recognized upstream degree names."""
+    kinds: set[str] = set()
+    for item in degrees:
+        if not isinstance(item, str) or not item.strip():
+            continue
+        token = " ".join(item.translate(_APOSTROPHES).casefold().split())
+        if token in _UNDERGRAD_DEGREES:
+            kinds.add("undergrad")
+        elif token in _MASTERS_DEGREES:
+            kinds.add("masters")
+        elif token in _PHD_DEGREES:
+            kinds.add("phd")
+        elif token in _MBA_DEGREES:
+            kinds.add("mba")
+        else:
+            kinds.add("unknown")
+    return kinds
+
+
+def _kinds_from_title(title: str) -> set[str]:
+    """Find explicit graduate-degree phrases in a job title."""
+    title = title.translate(_APOSTROPHES)
+    kinds: set[str] = set()
+    if _TITLE_PHD.search(title):
+        kinds.add("phd")
+    if _TITLE_MASTERS.search(title):
+        kinds.add("masters")
+    if _TITLE_MBA.search(title):
+        kinds.add("mba")
+    return kinds
+
+
+def _label_for_kinds(kinds: set[str]) -> str | None:
+    """Turn recognized graduate degrees into one short status label."""
+    masters = "masters" in kinds
+    mba = "mba" in kinds
+    phd = "phd" in kinds
+    if (masters or mba) and phd:
+        return "Master's or PhD required"
+    if phd:
+        return "PhD required"
+    if mba and not masters:
+        return "MBA required"
+    if masters:
+        return "Master's required"
+    return None
+
+
+def _render_degree_label(label: str) -> str:
+    """Render the one-line graduate-degree status used in the email card."""
+    safe_label = html.escape(label)
+    return (
+        '<div style="margin-top:10px;">'
+        '<span style="display:inline-block;white-space:nowrap;background:#fff7ed;'
+        "color:#9a3412;border:1px solid #fdba74;border-radius:999px;"
+        'padding:3px 10px 3px 4px;font-size:13px;font-weight:bold;line-height:18px;">'
+        '<span aria-hidden="true" style="display:inline-block;width:18px;height:18px;'
+        "margin-right:6px;border-radius:999px;background:#9a3412;color:#fff7ed;"
+        'font-size:12px;line-height:18px;text-align:center;vertical-align:middle;">!</span>'
+        f'<span style="vertical-align:middle;">{safe_label}</span>'
+        "</span></div>"
+    )
+
+
 def _render_listing_card(listing: NotificationListing) -> str:
     company = html.escape(listing.company)
     title = html.escape(listing.title)
     metadata = [listing.category, *listing.locations, *listing.terms]
     metadata_html = " &bull; ".join(html.escape(value) for value in metadata)
+    degree_html = ""
+    title_margin = "5px 0 8px"
+    metadata_margin = ""
+    if listing.degree_label:
+        degree_html = _render_degree_label(listing.degree_label)
+        title_margin = "5px 0 0"
+        metadata_margin = "margin-top:8px;"
     prestige = ""
     if listing.prestige_score is not None:
         confidence = html.escape(listing.prestige_confidence or "unknown")
@@ -173,8 +282,9 @@ def _render_listing_card(listing: NotificationListing) -> str:
     return f"""<tr><td style="background:#ffffff;border:1px solid #e2e8f0;
 border-radius:12px;padding:20px;">
   <div style="color:#2563eb;font-size:14px;font-weight:bold;">{company}</div>
-  <h2 style="margin:5px 0 8px;font-size:20px;line-height:1.35;">{title}</h2>
-  <div style="color:#64748b;font-size:14px;line-height:1.5;">{metadata_html}</div>
+  <h2 style="margin:{title_margin};font-size:20px;line-height:1.35;">{title}</h2>
+  {degree_html}
+  <div style="color:#64748b;font-size:14px;line-height:1.5;{metadata_margin}">{metadata_html}</div>
   {prestige}
   {apply_button}
 </td></tr>
