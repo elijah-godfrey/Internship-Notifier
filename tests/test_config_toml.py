@@ -52,13 +52,13 @@ class TestLoadNotifierToml:
         _write_toml(
             p,
             """
-            source = "summer2026"
+            source = "summer2027"
             all_categories = true
             categories = ["ignored when all true"]
             """,
         )
         cfg = load_notifier_toml(p)
-        assert cfg.source == "summer2026"
+        assert cfg.source == "summer2027"
         assert cfg.all_categories is True
         assert cfg.categories == []
         assert cfg.prestige == PrestigeTomlConfig()

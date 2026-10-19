@@ -1,7 +1,7 @@
 # Edit this file to change which listings you track (no secrets here).
 # Run from the repo root (or pass --config / set NOTIFIER_CONFIG).
 
-source = "all" # summer2026 | offseason | all
+source = "all" # summer2027 | offseason | all
 
 # Include every category, then drop the names listed below.
 all_categories = true

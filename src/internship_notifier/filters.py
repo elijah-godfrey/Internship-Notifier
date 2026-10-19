@@ -1,7 +1,7 @@
 """Filter raw listings the same way upstream READMEs do (summer vs off-season).
 
 Constants and logic mirror ``list_updater/listings.py`` and ``commands.py`` in
-https://github.com/SimplifyJobs/Summer2026-Internships (``dev`` branch).
+https://github.com/SimplifyJobs/Summer2027-Internships (``dev`` branch).
 """
 
 from __future__ import annotations
@@ -17,12 +17,49 @@ BLOCKED_COMPANIES: frozenset[str] = frozenset(
     }
 )
 
-# Upstream: list_updater/commands.py ``cmd_readme_update`` for Summer 2026 README
-DEFAULT_SUMMER_YEAR = "2026"
-DEFAULT_SUMMER_EARLIEST_DATE_POSTED = 1748761200
+# Upstream: list_updater/commands.py ``cmd_readme_update`` for the Summer 2027 README.
+# earliest_date is 2026-05-01 00:00 Pacific.
+DEFAULT_SUMMER_YEAR = "2027"
+DEFAULT_SUMMER_EARLIEST_DATE_POSTED = 1777618800
 
 # Substrings matched in ``terms`` entries (mirrors upstream off-season README).
 _OFF_SEASON_SEASON_MARKERS: tuple[str, ...] = ("Fall", "Winter", "Spring")
+
+# listings.json mostly stores the short tag. A few rows, and the README, use the long name.
+_CATEGORY_ALIASES: dict[str, str] = {
+    "hardware": "Hardware Engineering",
+    "hardware engineering": "Hardware Engineering",
+    "product": "Product Management",
+    "product management": "Product Management",
+    "software": "Software Engineering",
+    "software engineering": "Software Engineering",
+    "ai/ml/data": "Data Science, AI & Machine Learning",
+    "data science, ai & machine learning": "Data Science, AI & Machine Learning",
+    "quant": "Quantitative Finance",
+    "quantitative finance": "Quantitative Finance",
+}
+
+
+def _canonical_category(name: object) -> str | None:
+    """Map a short or README category name to one canonical name.
+
+    Unknown names keep their stripped spelling and match only that spelling.
+    """
+    if not isinstance(name, str):
+        return None
+    stripped = name.strip()
+    if not stripped:
+        return None
+    return _CATEGORY_ALIASES.get(stripped.casefold(), stripped)
+
+
+def _canonical_category_set(categories: set[str] | frozenset[str]) -> frozenset[str]:
+    """Return the canonical names for a configured category list."""
+    return frozenset(
+        category
+        for category in (_canonical_category(name) for name in categories)
+        if category is not None
+    )
 
 
 def filter_summer(
@@ -96,24 +133,29 @@ def filter_by_categories(
 ) -> list[Listing]:
     """Keep listings whose ``category`` is in ``categories``.
 
-    Listing JSON uses full names (e.g. ``\"Software Engineering\"``). Unknown
-    names in ``categories`` are ignored for matching but do not widen the set.
+    Short tags and README names for the same category match each other.
+    An unknown name matches only that same spelling.
 
     Args:
         listings: Already source-filtered listings (summer or off-season).
-        categories: Non-empty set of canonical category names to allow.
+        categories: Non-empty set of category names to allow. Either the short
+            tag or the README name is accepted.
 
     Returns:
-        Listings whose ``category`` value is in ``categories``. Listings
-        missing ``category`` are dropped.
+        Listings whose category is allowed. Listings missing ``category``
+        are dropped.
 
     Raises:
         ValueError: If ``categories`` is empty.
     """
     if not categories:
         raise ValueError("categories must be non-empty")
-    allowed = frozenset(categories)
-    return [L for L in listings if L.get("category") in allowed]
+    allowed = _canonical_category_set(categories)
+    return [
+        listing
+        for listing in listings
+        if _canonical_category(listing.get("category")) in allowed
+    ]
 
 
 def filter_excluding_categories(
@@ -122,16 +164,23 @@ def filter_excluding_categories(
 ) -> list[Listing]:
     """Drop listings whose ``category`` is in ``categories``.
 
+    Short tags and README names for the same category match each other.
+    An unknown name matches only that same spelling.
+
     Args:
         listings: Already source-filtered listings.
-        categories: Canonical category names to remove. An empty set keeps
-            every listing.
+        categories: Category names to remove. Either the short tag or the
+            README name is accepted. An empty set keeps every listing.
 
     Returns:
-        Listings whose ``category`` is not excluded. Listings missing
+        Listings whose category is not excluded. Listings missing
         ``category`` are kept.
     """
     if not categories:
         return list(listings)
-    excluded = frozenset(categories)
-    return [listing for listing in listings if listing.get("category") not in excluded]
+    excluded = _canonical_category_set(categories)
+    return [
+        listing
+        for listing in listings
+        if _canonical_category(listing.get("category")) not in excluded
+    ]

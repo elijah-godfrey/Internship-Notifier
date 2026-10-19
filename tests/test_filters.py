@@ -26,7 +26,7 @@ def _summer_listing(
         "id": listing_id,
         "is_visible": visible,
         "active": active,
-        "terms": terms or ["Summer 2026"],
+        "terms": terms or ["Summer 2027"],
         "date_posted": date_posted,
         "company_url": company_url,
         "category": "Software Engineering",
@@ -48,6 +48,10 @@ class TestFilterSummer:
 
     def test_drops_without_summer_year_term(self) -> None:
         row = _summer_listing(terms=["Fall 2025"])
+        assert filter_summer([row]) == []
+
+    def test_drops_previous_summer_year(self) -> None:
+        row = _summer_listing(terms=["Summer 2026"])
         assert filter_summer([row]) == []
 
     def test_drops_on_or_before_earliest_date(self) -> None:
@@ -125,6 +129,16 @@ class TestFilterByCategories:
         out = filter_by_categories(rows, {"Software Engineering"})
         assert out == [rows[0]]
 
+    def test_short_tag_matches_readme_name(self) -> None:
+        rows = [
+            {"id": "1", "category": "Software"},
+            {"id": "2", "category": "Software Engineering"},
+            {"id": "3", "category": "Hardware"},
+        ]
+        out = filter_by_categories(rows, {"Software Engineering"})
+        assert out == rows[:2]
+        assert filter_by_categories(rows, {"Software"}) == rows[:2]
+
     def test_drops_missing_category(self) -> None:
         rows = [{"id": "1"}]
         assert filter_by_categories(rows, {"Software Engineering"}) == []
@@ -142,3 +156,17 @@ class TestFilterExcludingCategories:
             {"id": "3"},
         ]
         assert filter_excluding_categories(rows, {"Hardware Engineering"}) == rows[1:]
+
+    def test_readme_name_also_drops_short_tag(self) -> None:
+        rows = [
+            {"id": "1", "category": "Hardware"},
+            {"id": "2", "category": "hardware engineering"},
+            {"id": "3", "category": "Software"},
+            {"id": "4", "category": "Product Management"},
+            {"id": "5"},
+        ]
+        kept = filter_excluding_categories(
+            rows,
+            {"Hardware Engineering", "Product"},
+        )
+        assert kept == [rows[2], rows[4]]

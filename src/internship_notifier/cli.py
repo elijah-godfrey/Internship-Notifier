@@ -39,7 +39,7 @@ def _apply_source(
     listings: list[dict[str, Any]],
     source: str,
 ) -> list[dict[str, Any]]:
-    if source == "summer2026":
+    if source == "summer2027":
         return filters.filter_summer(listings)
     if source == "offseason":
         return filters.filter_off_season(listings)
@@ -202,7 +202,7 @@ def run(argv: list[str] | None = None) -> int:
         run ``--bootstrap`` first.
     """
     parser = argparse.ArgumentParser(
-        description="Poll SimplifyJobs Summer2026-Internships listings.json, "
+        description="Poll SimplifyJobs Summer2027-Internships listings.json, "
         "filter by README rules, and track new IDs in local state.",
         epilog="Filter defaults: notifier.toml in the current directory, or "
         "NOTIFIER_CONFIG, unless --no-config-file. Override with --source / "
@@ -224,7 +224,7 @@ def run(argv: list[str] | None = None) -> int:
     )
     parser.add_argument(
         "--source",
-        choices=("summer2026", "offseason", "all"),
+        choices=("summer2027", "offseason", "all"),
         default=None,
         help="Which upstream README logic to mirror (overrides notifier.toml).",
     )

@@ -11,7 +11,7 @@ import urllib.request
 from typing import Any, TypedDict
 
 UPSTREAM_OWNER = "SimplifyJobs"
-UPSTREAM_REPO = "Summer2026-Internships"
+UPSTREAM_REPO = "Summer2027-Internships"
 LISTINGS_PATH = ".github/scripts/listings.json"
 DEFAULT_REF = "dev"
 USER_AGENT = "internship-notifier/0.1"

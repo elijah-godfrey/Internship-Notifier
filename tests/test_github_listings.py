@@ -21,7 +21,7 @@ from internship_notifier.github_listings import (
 class TestListingsContentsUrl:
     def test_default_ref_dev(self) -> None:
         url = listings_contents_url()
-        assert url.startswith("https://api.github.com/repos/SimplifyJobs/Summer2026-Internships/contents/")
+        assert url.startswith("https://api.github.com/repos/SimplifyJobs/Summer2027-Internships/contents/")
         assert "ref=dev" in url
         encoded = urllib.parse.quote(LISTINGS_PATH)
         assert f"contents/{encoded}" in url

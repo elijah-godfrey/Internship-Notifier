@@ -125,7 +125,7 @@ class TestApplySource:
             "id": "summer",
             "is_visible": True,
             "active": True,
-            "terms": ["Summer 2026"],
+            "terms": ["Summer 2027"],
             "date_posted": 9_999_999_999,
             "company_url": "https://example.com",
         }
@@ -326,6 +326,11 @@ class TestRunNewRows:
                 company_name="ChipCo",
                 category="Hardware Engineering",
             ),
+            _offseason_row(
+                id="4",
+                company_name="ChipShort",
+                category="Hardware",
+            ),
         ]
         meta = {"sha": "fresh-sha", "size": 3, "download_url": "https://example.com/raw"}
 
@@ -346,9 +351,11 @@ class TestRunNewRows:
         out = capsys.readouterr().out
         assert "Beta" in out
         assert "ChipCo" not in out
+        assert "ChipShort" not in out
         loaded = load_state(state_path)
         assert "2" in loaded.seen_ids
         assert "3" not in loaded.seen_ids
+        assert "4" not in loaded.seen_ids
 
     def test_sends_email_when_smtp_configured(
         self, tmp_path, monkeypatch: pytest.MonkeyPatch, capsys

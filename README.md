@@ -1,7 +1,7 @@
 ﻿# internship-notifier
 
 A small notifier that watches new internships from
-[`SimplifyJobs/Summer2026-Internships`](https://github.com/SimplifyJobs/Summer2026-Internships)
+[`SimplifyJobs/Summer2027-Internships`](https://github.com/SimplifyJobs/Summer2027-Internships)
 and emails you only when new listing IDs appear.
 
 ## What this does
@@ -24,10 +24,10 @@ python -m pip install -e .
 
 Set what you want to track:
 
-- `source = "summer2026"`, `"offseason"`, or `"all"` for both
+- `source = "summer2027"`, `"offseason"`, or `"all"` for both
 - `all_categories = true` to include all categories for that source
 - `categories = [...]` only matters when `all_categories = false`
-- `exclude_categories = [...]` drops those categories after the allow-list. Use the exact upstream name, such as `"Hardware Engineering"`
+- `exclude_categories = [...]` drops those categories after the allow-list. A README name such as `"Hardware Engineering"` also matches the short tag stored on most listings, such as `"Hardware"`
 
 If you change filters later, run bootstrap again once.
 
