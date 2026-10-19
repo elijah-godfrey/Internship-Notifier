@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3682** cached companies (maximum 500).
+Showing **500** of **3718** cached companies (maximum 500).
 
-_The 3182 lowest-scored companies are omitted by the report cap._
+_The 3218 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -402,6 +402,7 @@ _The 3182 lowest-scored companies are omitted by the report cap._
 | Renesas Electronics | 74 | High | 2026-08-17 | gpt-5.6-terra | No | Renesas, Renesas Technology | Globally recognized semiconductor and embedded-systems company with a strong technical reputation; especially valuable for low-level, firmware, and hardware-adjacent software, though less of a general software prestige signal than elite software firms. |
 | Retool | 74 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected developer-tools company with a strong product and engineering reputation among software teams. |
 | Revel | 74 | Medium | 2026-10-19 | gpt-5.6-terra | No | Revel Software Corporation, revel.io | Well-funded, fast-growing developer of specialized hardware test and control software, with a notably technical engineering focus and strong investor backing. Its early-stage status and limited broad name recognition keep it below established top-tier engineering brands. |
+| Riot Games | 74 | Medium | 2026-10-19 | gpt-5.6-terra | No | Riot Game Studios | Globally recognized game developer with a substantial engineering organization supporting major live-service games and developer platforms. A strong software internship signal, especially for game, backend, and consumer-product engineering, though its engineering brand is less broadly elite than the most selective general-purpose technology firms. |
 | SandboxAQ | 74 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Prominent quantum-and-AI startup with a specialized, technically strong reputation, though less established than leading large tech firms. |
 | Semgrep | 74 | High | 2026-08-02 | gpt-5.6-terra | No | r2c | Respected developer-security company with a strong code-analysis product and open-source-adjacent engineering reputation. |
 | Siemens Healthcare Limited | 74 | High | 2026-09-11 | gpt-5.6-terra | No | Siemens Healthineers | Part of a globally recognized healthcare-technology organization with substantial engineering credibility, though not primarily known as a software-first employer. |
@@ -474,6 +475,7 @@ _The 3182 lowest-scored companies are omitted by the report cap._
 | Blackstone | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Elite, highly selective finance brand; engineering roles benefit from its strong overall career signal, despite a less prominent software brand than major tech firms. |
 | Brave | 72 | Medium | 2026-09-05 | gpt-5.6-terra | No | Brave Software, Brave Browser | The privacy-focused browser company has a respected open-source and browser-engineering brand, though it is smaller and less selective than top platform firms. |
 | Bugcrowd | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-recognized cybersecurity platform with a credible technical brand in crowdsourced security and vulnerability disclosure. |
+| Cadence | 72 | Medium | 2026-10-19 | gpt-5.6-terra | No | Cadence Solutions, Inc., cadence.care | Well-funded clinical-AI health-tech company with meaningful software work in LLMs, voice agents, distributed systems, and healthcare integrations. A strong emerging startup signal, though its engineering brand is still more sector-specific than broadly established. |
 | Carta | 72 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-known venture-backed fintech with a solid engineering and startup-career signal. |
 | Circle | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Circle Internet Financial | Recognized fintech and digital-assets infrastructure company with a strong, though specialized, software-engineering signal. |
 | Clio | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known legal-tech company with a strong product-engineering reputation and meaningful selectivity. |
@@ -495,6 +497,7 @@ _The 3182 lowest-scored companies are omitted by the report cap._
 | German Aerospace Center (DLR) | 72 | High | 2026-09-11 | gpt-5.6-terra | No | DLR, Deutsches Zentrum für Luft- und Raumfahrt | Highly respected national aerospace research institution with strong technical and scientific signaling, though not primarily a commercial software brand. |
 | Giga AI Inc. | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Giga, GigaML | $61M Series A led by Redpoint and reported DoorDash deployment create a strong, selective startup signal, but it remains an early-stage company with a still-developing engineering brand. |
 | GoDaddy | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Widely recognized internet infrastructure and web-services company with a substantial, established engineering organization. |
+| Graviton | 72 | Low | 2026-10-19 | gpt-5.6-terra | No | Graviton Research Capital, Graviton Research Capital LLP, GRC, gravitontrading.com | Likely Graviton Research Capital, a quantitative trading firm with technically demanding engineering work and selective early-career recruiting; it is a strong signal in quant and low-latency engineering, though less broadly recognized than the top global firms. |
 | Greenlight | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer-fintech company with a credible product engineering brand and meaningful startup signal. |
 | Grow Therapy | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Grow Care, Inc. | A credible, scaled software-enabled healthcare brand and strong venture backing (including Sequoia, TCV, Goldman Sachs Alternatives, SignalFire, and Transformation Capital), but its engineering signal is more healthtech-specific than broadly elite across software. |
 | HBK Capital Management | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | HBK | Respected investment firm with selective quantitative and engineering-adjacent roles, though its software brand is primarily finance-specific. |
@@ -519,6 +522,3 @@ _The 3182 lowest-scored companies are omitted by the report cap._
 | Octopus Energy | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded technology-forward energy company with a strong and visible engineering-led product reputation. |
 | Open Text Corporation | 72 | High | 2026-09-11 | gpt-5.6-terra | No | OpenText | Established global enterprise software company with a strong, widely recognized engineering and product brand. |
 | OpenTable | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer internet and marketplace company with a strong, established software-engineering signal. |
-| Patreon | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer internet platform with a strong product-engineering signal and meaningful technical recognition. |
-| Periodic Labs | 72 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | High-profile early-stage AI-for-science venture with an emerging, technically strong signal but limited operating history. |
-| Pika | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Pika Labs | Visible generative-video AI startup with a strong contemporary technical brand, though its employer reputation is still developing. |
