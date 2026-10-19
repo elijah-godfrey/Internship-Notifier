@@ -600,9 +600,8 @@ class TestRunPrestigeFiltering:
                 "internship_notifier.cli.OpenAIPrestigeRanker",
                 return_value=ranker,
             ),
-            pytest.raises(PrestigeRankingError, match="API unavailable"),
         ):
-            run(
+            code = run(
                 [
                     "--config",
                     str(cfg),
@@ -611,8 +610,159 @@ class TestRunPrestigeFiltering:
                 ]
             )
 
+        assert code == 0
         assert load_state(state_path) == original
         assert not cache_path.exists()
+
+    def test_known_company_is_emailed_while_an_unscored_one_waits(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path, minimum_score=75)
+        state_path = tmp_path / "state.json"
+        cache_path = tmp_path / "company-prestige-cache.json"
+        _write_state(state_path, NotifierState(listings_sha="old", seen_ids={"old"}))
+        _write_prestige_cache(cache_path, _prestige_assessment("Acme", 90))
+        rows = [
+            _offseason_row(id="1", company_name="Acme"),
+            _offseason_row(id="2", company_name="NewCo"),
+        ]
+        meta = {"sha": "new", "size": 2, "download_url": "https://example.com/raw"}
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=rows,
+            ),
+            patch("internship_notifier.cli.OpenAIPrestigeRanker") as ranker_class,
+        ):
+            code = run(
+                [
+                    "--config",
+                    str(cfg),
+                    "--state-path",
+                    str(state_path),
+                    "--ranking-budget-seconds",
+                    "0",
+                ]
+            )
+
+        assert code == 0
+        ranker_class.assert_not_called()
+        output = capsys.readouterr().out
+        assert "Acme" in output
+        assert "NewCo" not in output
+        loaded = load_state(state_path)
+        assert "1" in loaded.seen_ids
+        assert "2" not in loaded.seen_ids
+        assert loaded.listings_sha == "old"
+
+    def test_failed_lookup_does_not_block_the_next_company(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path, minimum_score=75)
+        state_path = tmp_path / "state.json"
+        cache_path = tmp_path / "company-prestige-cache.json"
+        _write_state(state_path, NotifierState(listings_sha="old", seen_ids={"old"}))
+        meta = {"sha": "new", "size": 2, "download_url": "https://example.com/raw"}
+        ranker = MagicMock()
+
+        def rank_companies(names: list[str], reviewed_at: object = None) -> list:
+            if names == ["Acme"]:
+                raise PrestigeRankingError("API unavailable")
+            return [_prestige_assessment(names[0], 85)]
+
+        ranker.rank_companies.side_effect = rank_companies
+        rows = [
+            _offseason_row(id="1", company_name="Acme"),
+            _offseason_row(id="2", company_name="Beta"),
+        ]
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=rows,
+            ),
+            patch(
+                "internship_notifier.cli.OpenAIPrestigeRanker",
+                return_value=ranker,
+            ),
+        ):
+            code = run(
+                [
+                    "--config",
+                    str(cfg),
+                    "--state-path",
+                    str(state_path),
+                ]
+            )
+
+        assert code == 0
+        assert "Beta" in capsys.readouterr().out
+        loaded = load_state(state_path)
+        assert "1" not in loaded.seen_ids
+        assert "2" in loaded.seen_ids
+        assert loaded.listings_sha == "old"
+        assert load_prestige_cache(cache_path).get("Beta") is not None
+
+    def test_idle_poll_refreshes_only_one_stale_company(
+        self, tmp_path, clear_smtp_env
+    ) -> None:
+        cfg = _write_notifier(tmp_path, minimum_score=75)
+        state_path = tmp_path / "state.json"
+        cache_path = tmp_path / "company-prestige-cache.json"
+        _write_state(
+            state_path,
+            NotifierState(listings_sha="same-sha", seen_ids={"1"}),
+        )
+        _write_prestige_cache(
+            cache_path,
+            _prestige_assessment("Older", 10, reviewed_at=date(2024, 1, 1)),
+            _prestige_assessment("Newer", 10, reviewed_at=date(2025, 6, 1)),
+        )
+        meta = {"sha": "same-sha", "size": 1, "download_url": "https://example.com/raw"}
+        ranker = MagicMock()
+
+        def rank_companies(names: list[str], reviewed_at: object = None) -> list:
+            assert names == ["Older"]
+            return [_prestige_assessment("Older", 80)]
+
+        ranker.rank_companies.side_effect = rank_companies
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch("internship_notifier.github_listings.fetch_listings_json") as fetch,
+            patch(
+                "internship_notifier.cli.OpenAIPrestigeRanker",
+                return_value=ranker,
+            ),
+        ):
+            code = run(
+                [
+                    "--config",
+                    str(cfg),
+                    "--state-path",
+                    str(state_path),
+                ]
+            )
+
+        assert code == 0
+        fetch.assert_not_called()
+        cache = load_prestige_cache(cache_path)
+        assert cache.get("Older") is not None
+        assert cache.get("Older").prestige_score == 80
+        assert cache.get("Newer") is not None
+        assert cache.get("Newer").prestige_score == 10
 
     def test_only_eligible_rows_are_emailed(
         self, tmp_path, monkeypatch: pytest.MonkeyPatch

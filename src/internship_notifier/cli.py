@@ -6,7 +6,7 @@ import argparse
 import os
 import smtplib
 import sys
-from collections.abc import Callable
+import time
 from pathlib import Path
 from typing import Any
 
@@ -29,10 +29,15 @@ from internship_notifier.prestige import (
 )
 from internship_notifier.prestige_ranker import (
     OpenAIPrestigeRanker,
+    PrestigeRankingError,
     get_or_rank_companies,
     refresh_stale_companies,
 )
-from internship_notifier.state import load_state, save_state
+from internship_notifier.state import NotifierState, load_state, save_state
+
+# Leave room in the 10-minute poll gap for the email and the state commit.
+DEFAULT_RANKING_BUDGET_SECONDS = 480
+IDLE_PRESTIGE_REFRESH_LIMIT = 1
 
 
 def _apply_source(
@@ -105,57 +110,105 @@ def _format_listing_line(listing: dict[str, Any]) -> str:
     return f"{company} | {title} | {cat} | {url}"
 
 
-def _filter_new_rows_by_prestige(
+def _company_name(row: dict[str, Any]) -> str:
+    """Return a listing's company name, or raise when it is missing."""
+    company = row.get("company_name")
+    if not isinstance(company, str) or not company.strip():
+        raise RuntimeError("new listing is missing a company_name for prestige ranking")
+    return company.strip()
+
+
+def _group_rows_by_company(
     rows: list[dict[str, Any]],
-    config: PrestigeTomlConfig,
-    cache: PrestigeCache,
-    *,
-    on_cache_change: Callable[[PrestigeCache], None] | None = None,
-) -> tuple[list[dict[str, Any]], bool, int | None]:
-    """Rank unknown companies and keep rows meeting the prestige threshold."""
-    if not config.enabled or not rows:
-        return rows, False, None
-
-    row_companies: list[str] = []
+) -> tuple[list[str], dict[str, list[dict[str, Any]]]]:
+    """Group listings by normalized company name, preserving first-seen order."""
+    order: list[str] = []
+    groups: dict[str, list[dict[str, Any]]] = {}
     for row in rows:
-        company = row.get("company_name")
-        if not isinstance(company, str) or not company.strip():
-            raise RuntimeError("new listing is missing a company_name for prestige ranking")
-        row_companies.append(company)
+        key = normalize_company_name(_company_name(row))
+        if key not in groups:
+            order.append(key)
+            groups[key] = []
+        groups[key].append(row)
+    return order, groups
 
-    requested_companies = (
-        [config.benchmark_company, *row_companies]
-        if config.benchmark_company is not None
-        else row_companies
-    )
-    unknown = {
-        normalize_company_name(company)
-        for company in requested_companies
-        if cache.get(company) is None
-    }
-    if unknown:
-        print(
-            f"Prestige ranking: {len(unknown)} uncached company or companies, "
-            "one company per request.",
-            file=sys.stderr,
-        )
-    assessments, cache_changed = get_or_rank_companies(
-        requested_companies,
-        cache,
-        OpenAIPrestigeRanker() if unknown else None,
-        on_cache_change=on_cache_change,
-    )
-    threshold = resolve_minimum_score(config, cache)
-    if threshold is None:
-        raise RuntimeError("prestige filtering is enabled but has no score threshold")
 
-    row_assessments = assessments[-len(rows) :]
+def _eligible_rows(
+    rows: list[dict[str, Any]],
+    cache: PrestigeCache,
+    threshold: int,
+) -> list[dict[str, Any]]:
+    """Keep rows whose cached company score meets ``threshold``."""
     eligible: list[dict[str, Any]] = []
-    for row, assessment in zip(rows, row_assessments, strict=True):
+    for row in rows:
+        assessment = cache.get(_company_name(row))
+        if assessment is None:
+            continue
         if meets_prestige_threshold(assessment.prestige_score, threshold):
             eligible.append(row)
+    return eligible
 
-    return eligible, cache_changed, threshold
+
+def _deliver_notifications(
+    notify_rows: list[dict[str, Any]],
+    *,
+    prestige_config: PrestigeTomlConfig,
+    prestige_cache: PrestigeCache,
+    prestige_threshold: int | None,
+    dry_run: bool,
+) -> None:
+    """Print eligible listings and email them when SMTP is configured."""
+    for row in notify_rows:
+        print(_format_listing_line(row))
+    if not notify_rows:
+        return
+
+    settings = smtp_notify.settings_from_env()
+    if not settings:
+        return
+    email_listings = email_format.sort_notification_listings(
+        [
+            email_format.NotificationListing.from_listing(
+                row,
+                prestige_cache.get(_company_name(row)) if prestige_config.enabled else None,
+            )
+            for row in notify_rows
+        ]
+    )
+    threshold_label = None
+    if prestige_threshold is not None:
+        threshold_label = (
+            f"{prestige_config.benchmark_company} benchmark "
+            f"({prestige_threshold}/100)"
+            if prestige_config.benchmark_company
+            else f"{prestige_threshold}/100"
+        )
+    prefix = (
+        os.environ.get("SMTP_SUBJECT_PREFIX") or smtp_notify.DEFAULT_SUBJECT_PREFIX
+    ).strip()
+    subject = f"{prefix}: {len(notify_rows)} new listing(s)"
+    plain_body = email_format.render_plaintext_email(
+        email_listings,
+        threshold_label=threshold_label,
+    )
+    html_body = email_format.render_html_email(
+        email_listings,
+        threshold_label=threshold_label,
+    )
+    if dry_run:
+        print(
+            f"Dry-run: would email {settings.mail_to} "
+            f"({len(notify_rows)} listing(s)).",
+            file=sys.stderr,
+        )
+        return
+    smtp_notify.send_email(
+        subject=subject,
+        plain_body=plain_body,
+        html_body=html_body,
+        settings=settings,
+    )
+    print(f"Sent email to {settings.mail_to}.", file=sys.stderr)
 
 
 def _refresh_prestige_cache(
@@ -164,9 +217,10 @@ def _refresh_prestige_cache(
     cache_path: Path | None,
     *,
     dry_run: bool,
+    limit: int,
 ) -> None:
-    """Refresh a bounded stale-cache batch without blocking normal polling."""
-    if not config.enabled or dry_run or not cache.stale_assessments():
+    """Refresh a few stale scores on a poll that has nothing new to rank."""
+    if not config.enabled or dry_run or limit < 1 or not cache.stale_assessments(limit=limit):
         return
     try:
         ranker = OpenAIPrestigeRanker()
@@ -177,6 +231,7 @@ def _refresh_prestige_cache(
     result = refresh_stale_companies(
         cache,
         ranker,
+        limit=limit,
         on_cache_change=lambda changed_cache: save_prestige_cache(
             changed_cache,
             cache_path,
@@ -189,6 +244,109 @@ def _refresh_prestige_cache(
     )
     for failure in result.failures:
         print(f"Warning: prestige refresh failed for {failure}", file=sys.stderr)
+
+
+def _rank_until_budget(
+    order: list[str],
+    groups: dict[str, list[dict[str, Any]]],
+    cache: PrestigeCache,
+    *,
+    budget_seconds: float,
+    dry_run: bool,
+    cache_path: Path | None,
+) -> tuple[list[str], list[str]]:
+    """Score unknown companies until the budget runs out.
+
+    Returns the companies that now have a score, and the companies left unseen.
+    A failed lookup stays in the deferred list so the next poll can retry it.
+    """
+    if not order or budget_seconds <= 0:
+        return [], list(order)
+    ranker = OpenAIPrestigeRanker()
+    deadline = time.monotonic() + budget_seconds
+    ranked: list[str] = []
+    deferred: list[str] = []
+    for index, key in enumerate(order):
+        if time.monotonic() >= deadline:
+            deferred.extend(order[index:])
+            break
+        company = _company_name(groups[key][0])
+        try:
+            get_or_rank_companies(
+                [company],
+                cache,
+                ranker,
+                on_cache_change=(
+                    None
+                    if dry_run
+                    else lambda changed_cache: save_prestige_cache(
+                        changed_cache,
+                        cache_path,
+                    )
+                ),
+            )
+        except PrestigeRankingError as exc:
+            print(f"Warning: prestige ranking failed for {company}: {exc}", file=sys.stderr)
+            deferred.append(key)
+            continue
+        ranked.append(key)
+    return ranked, deferred
+
+
+def _ensure_prestige_threshold(
+    config: PrestigeTomlConfig,
+    cache: PrestigeCache,
+    cache_path: Path | None,
+    *,
+    dry_run: bool,
+) -> int | None:
+    """Return the prestige cutoff, ranking the benchmark company when it is new."""
+    benchmark = config.benchmark_company
+    if benchmark is not None and cache.get(benchmark) is None:
+        try:
+            get_or_rank_companies(
+                [benchmark],
+                cache,
+                OpenAIPrestigeRanker(),
+                on_cache_change=(
+                    None
+                    if dry_run
+                    else lambda changed_cache: save_prestige_cache(changed_cache, cache_path)
+                ),
+            )
+        except (PrestigeRankingError, RuntimeError) as exc:
+            print(f"Warning: could not rank benchmark company: {exc}", file=sys.stderr)
+            return None
+    threshold = resolve_minimum_score(config, cache)
+    if threshold is None:
+        print(
+            "Warning: prestige filtering is enabled but has no score threshold",
+            file=sys.stderr,
+        )
+    return threshold
+
+
+def _finish_poll(
+    state: NotifierState,
+    state_path: Path | None,
+    *,
+    new_sha: str,
+    decided_rows: list[dict[str, Any]],
+    dry_run: bool,
+    complete: bool,
+) -> int:
+    """Save decided listing ids. The upstream SHA changes only when none remain."""
+    if dry_run:
+        return 0
+    state.seen_ids |= _seen_id_strings(decided_rows)
+    if complete:
+        state.listings_sha = new_sha
+    save_state(state, state_path)
+    print(
+        f"Saved state ({len(decided_rows)} new id(s), sha={state.listings_sha[:12]}...).",
+        file=sys.stderr,
+    )
+    return 0
 
 
 def run(argv: list[str] | None = None) -> int:
@@ -269,7 +427,17 @@ def run(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Print actions but do not write state.",
     )
+    parser.add_argument(
+        "--ranking-budget-seconds",
+        type=float,
+        default=DEFAULT_RANKING_BUDGET_SECONDS,
+        help="Stop starting new company lookups after this many seconds "
+        "(default: %(default)s). Companies that already have a score are still emailed.",
+    )
     ns = parser.parse_args(argv)
+    if ns.ranking_budget_seconds < 0:
+        print("error: --ranking-budget-seconds must be zero or greater", file=sys.stderr)
+        return 1
 
     try:
         cfg_path = None if ns.no_config_file else resolve_config_path(ns.config)
@@ -303,12 +471,6 @@ def run(argv: list[str] | None = None) -> int:
         if prestige_config.enabled
         else PrestigeCache()
     )
-    _refresh_prestige_cache(
-        prestige_config,
-        prestige_cache,
-        prestige_cache_path,
-        dry_run=ns.dry_run,
-    )
 
     meta = github_listings.get_listings_metadata(ref=ns.ref)
     new_sha: str = meta["sha"]
@@ -319,6 +481,13 @@ def run(argv: list[str] | None = None) -> int:
         and new_sha == state.listings_sha
     ):
         print("No upstream change (listings.json blob sha unchanged).", file=sys.stderr)
+        _refresh_prestige_cache(
+            prestige_config,
+            prestige_cache,
+            prestige_cache_path,
+            dry_run=ns.dry_run,
+            limit=IDLE_PRESTIGE_REFRESH_LIMIT,
+        )
         return 0
 
     raw = github_listings.fetch_listings_json(meta["download_url"])
@@ -349,97 +518,136 @@ def run(argv: list[str] | None = None) -> int:
         return 2
 
     new_rows = [L for L in filtered if str(L.get("id", "")) not in state.seen_ids]
-    notify_rows, prestige_cache_changed, prestige_threshold = (
-        _filter_new_rows_by_prestige(
-            new_rows,
+    if not new_rows:
+        _refresh_prestige_cache(
             prestige_config,
             prestige_cache,
-            on_cache_change=(
-                None
-                if ns.dry_run
-                else lambda changed_cache: save_prestige_cache(
-                    changed_cache,
-                    prestige_cache_path,
-                )
-            ),
+            prestige_cache_path,
+            dry_run=ns.dry_run,
+            limit=IDLE_PRESTIGE_REFRESH_LIMIT,
         )
-    )
-    if prestige_threshold is not None:
-        print(
-            f"Prestige filter: {len(notify_rows)} of {len(new_rows)} new listing(s) "
-            f"met minimum score {prestige_threshold}.",
-            file=sys.stderr,
+        return _finish_poll(
+            state,
+            state_path,
+            new_sha=new_sha,
+            decided_rows=[],
+            dry_run=ns.dry_run,
+            complete=True,
         )
-    if prestige_cache_changed and not ns.dry_run:
-        save_prestige_cache(prestige_cache, prestige_cache_path)
 
-    for row in notify_rows:
-        print(_format_listing_line(row))
-
-    settings = smtp_notify.settings_from_env()
-    if notify_rows and settings:
-        email_listings = email_format.sort_notification_listings(
-            [
-                email_format.NotificationListing.from_listing(
-                    row,
-                    prestige_cache.get(str(row.get("company_name") or ""))
-                    if prestige_config.enabled
-                    else None,
-                )
-                for row in notify_rows
-            ]
-        )
-        threshold_label = None
-        if prestige_threshold is not None:
-            threshold_label = (
-                f"{prestige_config.benchmark_company} benchmark "
-                f"({prestige_threshold}/100)"
-                if prestige_config.benchmark_company
-                else f"{prestige_threshold}/100"
-            )
-        prefix = (
-            os.environ.get("SMTP_SUBJECT_PREFIX") or smtp_notify.DEFAULT_SUBJECT_PREFIX
-        ).strip()
-        subject = f"{prefix}: {len(notify_rows)} new listing(s)"
-        plain_body = email_format.render_plaintext_email(
-            email_listings,
-            threshold_label=threshold_label,
-        )
-        html_body = email_format.render_html_email(
-            email_listings,
-            threshold_label=threshold_label,
+    if not prestige_config.enabled:
+        _deliver_notifications(
+            new_rows,
+            prestige_config=prestige_config,
+            prestige_cache=prestige_cache,
+            prestige_threshold=None,
+            dry_run=ns.dry_run,
         )
         if ns.dry_run:
             print(
-                f"Dry-run: would email {settings.mail_to} "
-                f"({len(notify_rows)} listing(s)).",
+                f"Dry-run: {len(new_rows)} new listing(s), {len(new_rows)} eligible "
+                "(state and prestige cache not saved).",
                 file=sys.stderr,
             )
-        else:
-            smtp_notify.send_email(
-                subject=subject,
-                plain_body=plain_body,
-                html_body=html_body,
-                settings=settings,
-            )
-            print(f"Sent email to {settings.mail_to}.", file=sys.stderr)
+            return 0
+        return _finish_poll(
+            state,
+            state_path,
+            new_sha=new_sha,
+            decided_rows=new_rows,
+            dry_run=False,
+            complete=True,
+        )
 
+    threshold = _ensure_prestige_threshold(
+        prestige_config,
+        prestige_cache,
+        prestige_cache_path,
+        dry_run=ns.dry_run,
+    )
+    if threshold is None:
+        return 0
+
+    order, groups = _group_rows_by_company(new_rows)
+    known = [key for key in order if prestige_cache.get(_company_name(groups[key][0]))]
+    unknown = [key for key in order if key not in set(known)]
+    known_rows = [row for key in known for row in groups[key]]
+    known_eligible = _eligible_rows(known_rows, prestige_cache, threshold)
+    _deliver_notifications(
+        known_eligible,
+        prestige_config=prestige_config,
+        prestige_cache=prestige_cache,
+        prestige_threshold=threshold,
+        dry_run=ns.dry_run,
+    )
+    if not ns.dry_run and known_rows:
+        _finish_poll(
+            state,
+            state_path,
+            new_sha=new_sha,
+            decided_rows=known_rows,
+            dry_run=False,
+            complete=False,
+        )
+
+    ranked: list[str] = []
+    deferred: list[str] = []
+    if unknown:
+        print(
+            f"Prestige ranking: {len(unknown)} uncached company or companies, "
+            "one company per request.",
+            file=sys.stderr,
+        )
+        try:
+            ranked, deferred = _rank_until_budget(
+                unknown,
+                groups,
+                prestige_cache,
+                budget_seconds=ns.ranking_budget_seconds,
+                dry_run=ns.dry_run,
+                cache_path=prestige_cache_path,
+            )
+        except RuntimeError as exc:
+            print(f"Warning: prestige ranking skipped: {exc}", file=sys.stderr)
+            deferred = list(unknown)
+
+    ranked_rows = [row for key in ranked for row in groups[key]]
+    ranked_eligible = _eligible_rows(ranked_rows, prestige_cache, threshold)
+    _deliver_notifications(
+        ranked_eligible,
+        prestige_config=prestige_config,
+        prestige_cache=prestige_cache,
+        prestige_threshold=threshold,
+        dry_run=ns.dry_run,
+    )
+    decided = [*known_rows, *ranked_rows]
+    print(
+        f"Prestige filter: {len(known_eligible) + len(ranked_eligible)} of "
+        f"{len(decided)} decided listing(s) met minimum score {threshold}.",
+        file=sys.stderr,
+    )
+    if deferred:
+        print(
+            f"Prestige ranking deferred {len(deferred)} company or companies "
+            "to the next poll.",
+            file=sys.stderr,
+        )
     if ns.dry_run:
         print(
-            f"Dry-run: {len(new_rows)} new listing(s), {len(notify_rows)} eligible "
+            f"Dry-run: {len(new_rows)} new listing(s), "
+            f"{len(known_eligible) + len(ranked_eligible)} eligible "
             "(state and prestige cache not saved).",
             file=sys.stderr,
         )
         return 0
-
-    state.seen_ids |= _seen_id_strings(new_rows)
-    state.listings_sha = new_sha
-    save_state(state, state_path)
-    print(
-        f"Saved state ({len(new_rows)} new id(s), sha={new_sha[:12]}...).",
-        file=sys.stderr,
+    return _finish_poll(
+        state,
+        state_path,
+        new_sha=new_sha,
+        decided_rows=ranked_rows,
+        dry_run=False,
+        complete=not deferred,
     )
-    return 0
 
 
 def main() -> None:

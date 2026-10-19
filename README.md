@@ -181,7 +181,9 @@ Useful flags:
 ## GitHub Actions mode
 
 This repo includes `.github/workflows/notifier.yml`.
-It currently runs every **10 minutes** and persists state in
+One job stays running for about 5.5 hours and polls every **10 minutes**,
+then starts the next job itself. A spare hourly schedule starts a new job
+only when that chain has stopped. State is stored in
 `.github/internship-notifier-state.json`.
 
 Setup:
@@ -209,14 +211,11 @@ notifier for the first time or after widening source/category filters.
 Bootstrap marks all current matching listings as seen without ranking or
 emailing the existing backlog.
 
-The polling step times out after 15 minutes. Each new company is ranked in its
-own request and saved before the next one, and the workflow commits the partial
-cache even if a later company fails or the step times out. Run the workflow
-again to continue: cached companies are skipped and only unresolved companies
-are sent to OpenAI.
-
-Listings are emailed only after a complete successful poll. Only active,
-visible listings are eligible.
+Each poll emails companies that already have a score, then spends up to 8
+minutes looking up new companies. A lookup that is still unfinished, or that
+fails, stays unseen and is tried on the next poll. Only one old score is
+refreshed, and only on a poll that found nothing new. Only active, visible
+listings are eligible.
 
 ### Common log messages
 

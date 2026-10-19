@@ -1,5 +1,10 @@
 # Poll upstream listings, email new rows (optional SMTP secrets), persist state in-repo.
 #
+# GitHub's schedule timer often starts a run hours after the cron expression.
+# This workflow stays on one runner and polls about every 10 minutes for just
+# under 6 hours, then starts the next run itself. The hourly cron is only a
+# spare start for when that chain breaks.
+#
 # Filter source and categories: edit notifier.toml at the repo root (committed).
 #
 # Setup (repo Settings → Secrets and variables → Actions):
@@ -16,8 +21,8 @@ name: Internship notifier
 
 on:
   schedule:
-    # Runs every 10 minutes
-    - cron: "*/10 * * * *"
+    # Spare start, off the top of the hour. The 10-minute gap is inside the job.
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       bootstrap:
@@ -28,6 +33,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: internship-notifier
@@ -36,84 +42,180 @@ concurrency:
 jobs:
   poll:
     runs-on: ubuntu-latest
-    env:
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      OPENAI_PRESTIGE_MODEL: ${{ vars.OPENAI_PRESTIGE_MODEL }}
-      SMTP_HOST: ${{ secrets.SMTP_HOST }}
-      SMTP_PORT: ${{ secrets.SMTP_PORT }}
-      SMTP_FROM: ${{ secrets.SMTP_FROM }}
-      SMTP_TO: ${{ secrets.SMTP_TO }}
-      SMTP_USER: ${{ secrets.SMTP_USER }}
-      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-      SMTP_SUBJECT_PREFIX: ${{ secrets.SMTP_SUBJECT_PREFIX }}
+    timeout-minutes: 360
     steps:
+      - name: Skip a spare start when another shift is waiting
+        id: gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import urllib.request
+
+          def write_output(start_chain: bool) -> None:
+              with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
+                  handle.write(f"start_chain={'true' if start_chain else 'false'}\n")
+
+          if os.environ["EVENT_NAME"] != "schedule":
+              write_output(True)
+              raise SystemExit(0)
+
+          token = os.environ["GH_TOKEN"]
+          repo = os.environ["GITHUB_REPOSITORY"]
+          this_run = int(os.environ["GITHUB_RUN_ID"])
+          others: set[int] = set()
+          try:
+              for status in ("queued", "pending", "waiting"):
+                  url = (
+                      f"https://api.github.com/repos/{repo}/actions/workflows/"
+                      f"notifier.yml/runs?status={status}&per_page=30"
+                  )
+                  request = urllib.request.Request(
+                      url,
+                      headers={
+                          "Accept": "application/vnd.github+json",
+                          "Authorization": f"Bearer {token}",
+                          "User-Agent": "internship-notifier",
+                      },
+                  )
+                  with urllib.request.urlopen(request, timeout=30) as response:
+                      payload = json.load(response)
+                  for run in payload.get("workflow_runs", []):
+                      run_id = int(run["id"])
+                      if run_id != this_run:
+                          others.add(run_id)
+          except Exception as exc:
+              print(f"Could not list queued runs ({exc}); starting this shift.")
+              write_output(True)
+              raise SystemExit(0)
+
+          if others:
+              print(f"Another shift is waiting ({len(others)} run(s)); exiting.")
+              write_output(False)
+          else:
+              write_output(True)
+          PY
+
       - uses: actions/checkout@v6
+        if: steps.gate.outputs.start_chain == 'true'
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
 
       - uses: actions/setup-python@v6
+        if: steps.gate.outputs.start_chain == 'true'
         with:
           python-version: "3.11"
 
       - name: Install package
+        if: steps.gate.outputs.start_chain == 'true'
         run: python -m pip install --upgrade pip && python -m pip install -e .
 
-      - name: Poll and notify
-        timeout-minutes: 15
-        run: |
-          set -euo pipefail
-          STATE_PATH=".github/internship-notifier-state.json"
-          PRESTIGE_CACHE_PATH=".github/company-prestige-cache.json"
-          COMMON=(
-            python -m internship_notifier
-            --state-path "$STATE_PATH"
-            --prestige-cache-path "$PRESTIGE_CACHE_PATH"
-          )
-
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.bootstrap }}" = "true" ]; then
-            "${COMMON[@]}" --bootstrap
-          fi
-
-          if ! python -c "import json, pathlib, sys; p=pathlib.Path('$STATE_PATH'); sys.exit(0 if p.is_file() and json.loads(p.read_text(encoding='utf-8')).get('seen_ids') else 1)"; then
-            "${COMMON[@]}" --bootstrap
-          fi
-
-          "${COMMON[@]}"
-
-      - name: Generate prestige rankings report
-        if: always()
-        run: |
-          python -m internship_notifier.prestige_report \
-            --cache .github/company-prestige-cache.json \
-            --output docs/company-prestige-rankings-top-500.md
-          python -m internship_notifier.prestige_report \
-            --cache .github/company-prestige-cache.json \
-            --output docs/company-prestige-rankings-all.md \
-            --all
-          python -m internship_notifier.prestige_report \
-            --cache .github/company-prestige-cache.json \
-            --companies data/waterlooworks-winter-2027-companies.txt \
-            --output docs/waterlooworks-winter-2027-companies.md \
-            --title "Winter 2027 WaterlooWorks Companies"
-
-      - name: Commit notifier data if changed
-        if: always()
+      - name: Poll until this shift ends
+        if: steps.gate.outputs.start_chain == 'true'
+        env:
+          BOOTSTRAP: ${{ github.event.inputs.bootstrap }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_PRESTIGE_MODEL: ${{ vars.OPENAI_PRESTIGE_MODEL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SMTP_TO: ${{ secrets.SMTP_TO }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_SUBJECT_PREFIX: ${{ secrets.SMTP_SUBJECT_PREFIX }}
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for path in \
-            .github/internship-notifier-state.json \
-            .github/company-prestige-cache.json \
-            docs/company-prestige-rankings-top-500.md \
-            docs/company-prestige-rankings-all.md \
-            docs/waterlooworks-winter-2027-companies.md
-          do
-            if [ -f "$path" ]; then
-              git add "$path"
+
+          STATE_PATH=".github/internship-notifier-state.json"
+          PRESTIGE_CACHE_PATH=".github/company-prestige-cache.json"
+          # Stop early enough that a slow poll still finishes before the 6-hour limit.
+          END=$(( $(date +%s) + 5 * 3600 + 20 * 60 ))
+          first=1
+
+          commit_notifier_data() {
+            git add -- \
+              .github/internship-notifier-state.json \
+              .github/company-prestige-cache.json \
+              docs/company-prestige-rankings-top-500.md \
+              docs/company-prestige-rankings-all.md \
+              docs/waterlooworks-winter-2027-companies.md
+            if git diff --staged --quiet; then
+              echo "No notifier data changes to commit."
+              return 0
             fi
-          done
-          if git diff --staged --quiet; then
-            echo "No notifier data changes to commit."
-          else
             git commit -m "chore: update internship notifier data"
-            git push
-          fi
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          }
+
+          while [ "$(( END - $(date +%s) ))" -ge 720 ]; do
+            start=$(date +%s)
+            git fetch origin "$GITHUB_REF_NAME"
+            git checkout -B "$GITHUB_REF_NAME" "origin/${GITHUB_REF_NAME}"
+
+            if [ "$first" = 1 ]; then
+              needs_bootstrap=0
+              if [ "${BOOTSTRAP:-}" = "true" ]; then
+                needs_bootstrap=1
+              elif ! python -c "import json, pathlib, sys; p=pathlib.Path('$STATE_PATH'); sys.exit(0 if p.is_file() and json.loads(p.read_text(encoding='utf-8')).get('seen_ids') else 1)"; then
+                needs_bootstrap=1
+              fi
+              if [ "$needs_bootstrap" = 1 ]; then
+                python -m internship_notifier \
+                  --state-path "$STATE_PATH" \
+                  --prestige-cache-path "$PRESTIGE_CACHE_PATH" \
+                  --bootstrap
+              fi
+              first=0
+            fi
+
+            if ! python -m internship_notifier \
+              --state-path "$STATE_PATH" \
+              --prestige-cache-path "$PRESTIGE_CACHE_PATH" \
+              --ranking-budget-seconds 480; then
+              echo "Poll failed; the next shift will retry."
+              break
+            fi
+
+            python -m internship_notifier.prestige_report \
+              --cache "$PRESTIGE_CACHE_PATH" \
+              --output docs/company-prestige-rankings-top-500.md
+            python -m internship_notifier.prestige_report \
+              --cache "$PRESTIGE_CACHE_PATH" \
+              --output docs/company-prestige-rankings-all.md \
+              --all
+            python -m internship_notifier.prestige_report \
+              --cache "$PRESTIGE_CACHE_PATH" \
+              --companies data/waterlooworks-winter-2027-companies.txt \
+              --output docs/waterlooworks-winter-2027-companies.md \
+              --title "Winter 2027 WaterlooWorks Companies"
+
+            commit_notifier_data
+
+            now=$(date +%s)
+            remain=$((600 - (now - start)))
+            if [ "$remain" -le 0 ]; then
+              continue
+            fi
+            if [ "$((now + remain))" -gt "$((END - 60))" ]; then
+              break
+            fi
+            sleep "$remain"
+          done
+
+      - name: Start the next polling shift
+        if: steps.gate.outputs.start_chain == 'true' && (success() || failure())
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl -sS -f -X POST \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/notifier.yml/dispatches" \
+            -d "{\"ref\":\"${GITHUB_REF_NAME}\"}"
