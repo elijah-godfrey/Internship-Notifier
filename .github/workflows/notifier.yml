@@ -118,6 +118,10 @@ jobs:
         if: steps.gate.outputs.start_chain == 'true'
         env:
           BOOTSTRAP: ${{ github.event.inputs.bootstrap }}
+          # Same job token already used for commits. Authenticates the
+          # listings.json metadata request so it does not share the
+          # unauthenticated API limit.
+          GITHUB_TOKEN: ${{ github.token }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_PRESTIGE_MODEL: ${{ vars.OPENAI_PRESTIGE_MODEL }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
