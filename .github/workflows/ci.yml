@@ -1,8 +1,24 @@
 name: CI
 
+# The notifier commits generated state, the prestige cache, and ranking
+# reports on a timer. Ruff and pytest do not cover those files, so a push
+# that only touches them skips this workflow. A push that also changes
+# code still runs it.
 on:
   push:
+    paths-ignore:
+      - ".github/company-prestige-cache.json"
+      - ".github/internship-notifier-state.json"
+      - "docs/company-prestige-rankings-all.md"
+      - "docs/company-prestige-rankings-top-500.md"
+      - "docs/waterlooworks-winter-2027-companies.md"
   pull_request:
+    paths-ignore:
+      - ".github/company-prestige-cache.json"
+      - ".github/internship-notifier-state.json"
+      - "docs/company-prestige-rankings-all.md"
+      - "docs/company-prestige-rankings-top-500.md"
+      - "docs/waterlooworks-winter-2027-companies.md"
 
 concurrency:
   group: ci-${{ github.workflow }}-${{ github.ref }}
