@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3625** cached companies (maximum 500).
+Showing **500** of **3682** cached companies (maximum 500).
 
-_The 3125 lowest-scored companies are omitted by the report cap._
+_The 3182 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -334,6 +334,7 @@ _The 3125 lowest-scored companies are omitted by the report cap._
 | Hewlett Packard Enterprise | 75 | High | 2026-08-02 | gpt-5.6-terra | No | HPE | Long-established enterprise infrastructure company with a respected engineering brand, especially in systems, cloud, networking, and hardware-adjacent software. |
 | HeyGen | 75 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | High-visibility generative-AI company with a strong current technical-product signal; its long-term engineering reputation is still developing. |
 | John Deere | 75 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected global industrial technology company with increasingly strong software, data, and autonomy engineering signals. |
+| Lyft | 75 | High | 2026-10-19 | gpt-5.6-terra | No | - | Well-known public mobility-tech company with a substantial software organization operating a large-scale marketplace, data, mapping, and platform stack. It is a strong engineering résumé signal, though generally viewed below the most selective global technology employers. |
 | Monolithic Power Systems | 75 | High | 2026-07-18 | gpt-5.6-terra | No | MPS | Well-regarded semiconductor company with strong technical credibility, especially in hardware-adjacent engineering. |
 | NXP Semiconductors | 75 | High | 2026-07-18 | gpt-5.6-terra | No | NXP | Major, respected semiconductor company with strong embedded, systems, and hardware-adjacent software credibility. |
 | PhysicsX | 75 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Technically respected engineering-AI startup with a strong specialist reputation, though it is newer and less broadly established than major software firms. |
@@ -521,4 +522,3 @@ _The 3125 lowest-scored companies are omitted by the report cap._
 | Patreon | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer internet platform with a strong product-engineering signal and meaningful technical recognition. |
 | Periodic Labs | 72 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | High-profile early-stage AI-for-science venture with an emerging, technically strong signal but limited operating history. |
 | Pika | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Pika Labs | Visible generative-video AI startup with a strong contemporary technical brand, though its employer reputation is still developing. |
-| Poolside | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | High-profile AI startup with strong perceived technical ambition, though its engineering reputation is still developing. |
