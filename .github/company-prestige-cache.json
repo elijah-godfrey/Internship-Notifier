@@ -235,6 +235,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "aarete": {
+      "aliases": [
+        "aarete.com"
+      ],
+      "confidence": "medium",
+      "display_name": "AArete",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Established management and technology consultancy with meaningful digital, data, and AI work and a dedicated data architecture and engineering internship. It is a credible regional-to-national consulting signal, but its software-engineering brand and selectivity are less broadly recognized than leading technology companies or elite engineering consultancies.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "aarp": {
       "aliases": [
         "American Association of Retired Persons"
@@ -899,6 +912,19 @@
       "reason": "Recognized sports and entertainment company, but not broadly selective or renowned for software engineering.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "aerotech": {
+      "aliases": [
+        "aerotech.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Aerotech",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established precision-motion and automation company with competitive engineering internships and meaningful software work in controls, robotics, and industrial systems. It is respected in its technical niche, but has limited broad software-engineering brand recognition.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "aerovect": {
       "aliases": [],
@@ -1594,6 +1620,20 @@
       "reason": "Respected semiconductor company; engineering credibility is solid, though primarily in hardware rather than software.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "allen control systems": {
+      "aliases": [
+        "ACS",
+        "allencontrolsystems.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Allen Control Systems",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 74,
+      "reason": "Fast-growing defense-autonomy company with a high-profile counter-drone product, major U.S. government work, and substantial recent venture backing. Its engineering work spans autonomy, computer vision, robotics, and real-world systems deployment, creating a strong but still relatively new software-engineering signal.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "allen lund": {
       "aliases": [],
@@ -2424,6 +2464,19 @@
       "reason": "Specialized engineering and aerospace-services employer with credible technical work, but limited broad software-engineering recognition.",
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
+    },
+    "anavation": {
+      "aliases": [
+        "anavationllc.com"
+      ],
+      "confidence": "medium",
+      "display_name": "AnaVation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 49,
+      "reason": "Established Northern Virginia federal technology contractor with real software engineering, cyber, cloud, and intelligence work and a longstanding internship program. It is a credible GovCon signal, but its engineering brand and selectivity are primarily regional and industry-specific rather than broadly top-tier.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "ancestry": {
       "aliases": [],
@@ -4777,6 +4830,21 @@
       "rubric_version": "prestige-v2",
       "website": "https://barkback.com"
     },
+    "barnes and thornburg": {
+      "aliases": [
+        "Barnes & Thornburg LLP",
+        "BTLaw",
+        "btlaw.com"
+      ],
+      "confidence": "high",
+      "display_name": "Barnes & Thornburg",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Well-regarded U.S. law firm with meaningful legal and IP reputation, but it is not a recognized software employer; an engineering internship would carry limited technical-brand signal outside legal-tech and internal systems work.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "barr engineering": {
       "aliases": [
         "Barr"
@@ -5739,6 +5807,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "blue cross and blue shield of nebraska": {
+      "aliases": [
+        "BlueCross BlueShield of Nebraska",
+        "BCBSNE",
+        "Nebraska Blue",
+        "nebraskablue.com"
+      ],
+      "confidence": "high",
+      "display_name": "Blue Cross and Blue Shield of Nebraska",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established regional health insurer with a recognizable Blue Cross brand and a substantive technology internship program. It is a solid Nebraska healthcare employer, but its software-engineering signal and selectivity are primarily regional rather than broadly top-tier.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "blue cross and blue shield of north carolina": {
       "aliases": [
         "Blue Cross NC",
@@ -5960,6 +6044,22 @@
       "prestige_score": 64,
       "reason": "Space Force Unified Data Library, defense-focused engineering work, growth investment, and international expansion create a solid niche aerospace/defense software signal, but it lacks the broad engineering-brand recognition and demonstrated selectivity of top-tier employers.",
       "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v2"
+    },
+    "bny": {
+      "aliases": [
+        "BNY Mellon",
+        "The Bank of New York Mellon Corporation",
+        "Bank of New York Mellon",
+        "bnymellon.com"
+      ],
+      "confidence": "high",
+      "display_name": "BNY",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "BNY is the corporate brand formerly known as BNY Mellon, a major global financial-services institution with established engineering and developer internship tracks. It is a solid, recognizable finance-technology signal, though its software-engineering brand and perceived selectivity are below the strongest tech and quantitative-finance employers.",
+      "reviewed_at": "2026-10-19",
       "rubric_version": "prestige-v2"
     },
     "bob s discount furniture": {
@@ -6308,6 +6408,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "brevan howard": {
+      "aliases": [
+        "Brevan Howard Asset Management",
+        "Brevan Howard Investment Management",
+        "BH Digital",
+        "Brevan Howard Capital Management"
+      ],
+      "confidence": "medium",
+      "display_name": "Brevan Howard",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 75,
+      "reason": "Established global macro hedge-fund platform with a meaningful systematic-trading technology function. It is a strong software-engineering signal for quantitative finance and trading infrastructure, though its engineering brand is less broadly recognized than the most prominent quant-tech employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "brevium": {
       "aliases": [],
       "confidence": "medium",
@@ -6641,6 +6757,22 @@
       "reason": "Recognized retail employer, but offers limited standalone software-engineering prestige.",
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
+    },
+    "burlington stores": {
+      "aliases": [
+        "Burlington",
+        "Burlington Coat Factory",
+        "BURL",
+        "BCFWC"
+      ],
+      "confidence": "high",
+      "display_name": "Burlington Stores",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established Fortune 500 off-price retailer with a meaningful corporate IT organization, offering credible large-scale retail and supply-chain systems exposure. However, it is not broadly recognized as a selective or engineering-led technology employer, so its software internship signal is primarily retail-industry specific.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "businessolver": {
       "aliases": [],
@@ -7187,6 +7319,21 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2",
       "website": "https://capston.ca"
+    },
+    "capula": {
+      "aliases": [
+        "Capula Investment Management",
+        "Capula Investment Management LLP",
+        "capulaglobal.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Capula",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 74,
+      "reason": "Capula Investment Management is a large, established global hedge fund with a substantive technology internship supporting trading, risk, and operational platforms. It is a strong quantitative-finance signal, though its software-engineering brand is less broadly recognized than the very top technology and quantitative-trading employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "carbon direct": {
       "aliases": [],
@@ -9235,6 +9382,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "collier aerospace": {
+      "aliases": [
+        "Collier Research and Development Corporation",
+        "Collier Research",
+        "HyperX",
+        "collieraerospace.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Collier Aerospace",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Established, specialized aerospace CAE software company behind HyperX, with credible technical work connected to aerospace and space programs. It is respected within composite-structures analysis but small and niche, so its software-engineering signal is not broadly top-tier.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "colliers": {
       "aliases": [
         "Colliers International",
@@ -9322,6 +9485,22 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2",
       "website": "https://commence.ai"
+    },
+    "commerce bank": {
+      "aliases": [
+        "Commerce Bancshares, Inc.",
+        "CBSH",
+        "Commerce Bank (Kansas City, Missouri)",
+        "commercebank.com"
+      ],
+      "confidence": "high",
+      "display_name": "Commerce Bank",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established public regional bank with a meaningful technology organization and developer program, but limited national software-engineering brand or selectivity relative to major technology and financial-services employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "commercial metals": {
       "aliases": [
@@ -9447,6 +9626,21 @@
       "reason": "Established nonprofit, but not a notable or selective software-engineering employer signal.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "compeer financial": {
+      "aliases": [
+        "Compeer Financial ACA",
+        "Compeer",
+        "compeer.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Compeer Financial",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Established regional Farm Credit cooperative with a genuine engineering internship program, but limited national software-engineering brand recognition or evidence of exceptional technical selectivity.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "composio": {
       "aliases": [],
@@ -9739,6 +9933,20 @@
       "reason": "Globally respected automotive technology manufacturer with meaningful embedded and mobility software work, though not a top general software brand.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "continental resources": {
+      "aliases": [
+        "CLR",
+        "clr.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Continental Resources",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "A recognizable U.S. oil-and-gas exploration and production company with an established internship program and internal technology/data work, but it is not a software-first employer and has limited broad software-engineering brand or selectivity signal.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "contoro": {
       "aliases": [
@@ -10532,6 +10740,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "csx": {
+      "aliases": [
+        "CSX Transportation",
+        "CSXT",
+        "CSX Technology"
+      ],
+      "confidence": "medium",
+      "display_name": "CSX",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "A major U.S. freight-rail company with a structured technology internship program and meaningful enterprise software work, but its engineering brand is primarily transportation-industry specific rather than broadly elite or highly selective in software.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "ctgt": {
       "aliases": [
         "CTGT AI"
@@ -10698,6 +10921,20 @@
       "reason": "Established regional banking employer, but it has limited broad recognition as a selective software-engineering destination.",
       "reviewed_at": "2026-08-27",
       "rubric_version": "prestige-v1"
+    },
+    "cvent": {
+      "aliases": [
+        "Cvent Holding Corp.",
+        "cvent.com"
+      ],
+      "confidence": "high",
+      "display_name": "Cvent",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Established, global event-and-hospitality SaaS leader with a substantial engineering organization and recognizable enterprise product footprint. Its $4.6B 2023 take-private and long-standing category leadership add credibility, though it is not broadly viewed as a top-tier general software-engineering brand.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "cvs health": {
       "aliases": [
@@ -11132,6 +11369,22 @@
       "rubric_version": "prestige-v2",
       "website": "https://dedaluslabs.ai"
     },
+    "dee zee": {
+      "aliases": [
+        "Dee-Zee Manufacturing",
+        "Dee Zee OEM",
+        "deezee.com",
+        "deezeeoem.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Dee Zee",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 37,
+      "reason": "Established private automotive-accessories and OEM manufacturer with recognizable industry presence, but limited public evidence of a notable software engineering brand or unusually selective technical internship signal.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "deegit": {
       "aliases": [
         "Deegit Global Talent Leaders"
@@ -11333,6 +11586,21 @@
       "reason": "Established insurance organization, but its software engineering brand is primarily enterprise and industry-specific.",
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
+    },
+    "delta dental of iowa": {
+      "aliases": [
+        "Delta Dental IA",
+        "deltadentalia.com",
+        "Delta Dental Plans Association member"
+      ],
+      "confidence": "high",
+      "display_name": "Delta Dental of Iowa",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established regional dental-benefits nonprofit with in-house Java/web engineering roles and internships, but limited national recognition or selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "delta faucet": {
       "aliases": [
@@ -11743,6 +12011,21 @@
       "reason": "Established senior-living supplier with internal technology needs, but limited broader software-engineering employer recognition.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "directv": {
+      "aliases": [
+        "DIRECTV STREAM",
+        "U-verse",
+        "New DIRECTV"
+      ],
+      "confidence": "medium",
+      "display_name": "DIRECTV",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Recognizable U.S. consumer-video brand with real technology and software roles, but it is primarily a legacy pay-TV business rather than a broadly sought-after software-engineering employer. Its recent separation from AT&T and ownership by TPG add uncertainty, while its engineering brand and selectivity are not regarded as top-tier.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "disa technologies": {
       "aliases": [
@@ -12546,6 +12829,21 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "ecolab": {
+      "aliases": [
+        "ECL",
+        "Economics Laboratory",
+        "Nalco Water"
+      ],
+      "confidence": "high",
+      "display_name": "Ecolab",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Established global water, hygiene, and industrial-services company with meaningful digital products and an internal technology organization. It is a credible engineering employer, but its primary reputation is outside software, so an SWE internship carries moderate rather than top-tier software-industry signal.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "ecostrat": {
       "aliases": [],
       "confidence": "medium",
@@ -12556,6 +12854,21 @@
       "reason": "Credible cleantech and data-focused company, but its software-engineering reputation is primarily industry-specific.",
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
+    },
+    "edison international": {
+      "aliases": [
+        "EIX",
+        "Southern California Edison",
+        "SCE"
+      ],
+      "confidence": "medium",
+      "display_name": "Edison International",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "Established public utility holding company and parent of Southern California Edison, with meaningful engineering and enterprise-technology work. It is a credible, stable employer, but its reputation is primarily utility-sector rather than a broadly selective or high-profile software-engineering brand.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "edmentum": {
       "aliases": [],
@@ -13033,6 +13346,22 @@
       "reason": "Recognized real-estate company but offers limited standalone software-engineering prestige.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "empirical foods": {
+      "aliases": [
+        "empirical",
+        "Beef Products, Inc.",
+        "BPI",
+        "empiricalfoods.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Empirical Foods",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 36,
+      "reason": "Established private food-manufacturing company with real software and industrial-automation internship work, but its engineering signal is primarily internal manufacturing technology rather than a broadly recognized software brand. The former BPI identity also carries notable public controversy.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "empower": {
       "aliases": [],
@@ -14718,6 +15047,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "federated insurance": {
+      "aliases": [
+        "Federated Mutual Insurance Company",
+        "federatedinsurance.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Federated Insurance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established national commercial insurer with a structured IT internship and internal engineering roles, but its technology work is primarily enterprise support for insurance operations rather than a broadly recognized or highly selective software-engineering brand.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "federato technologies": {
       "aliases": [
         "Federato"
@@ -16147,6 +16490,34 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "gallagher": {
+      "aliases": [
+        "Arthur J. Gallagher & Co.",
+        "AJG"
+      ],
+      "confidence": "high",
+      "display_name": "Gallagher",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Large, globally recognized insurance brokerage and risk-management employer with meaningful internal technology work, but its reputation and selectivity are centered on insurance and consulting rather than a strong software-engineering brand.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
+    "gallup": {
+      "aliases": [
+        "The Gallup Organization",
+        "Gallup Access"
+      ],
+      "confidence": "high",
+      "display_name": "Gallup",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Globally recognized analytics and advisory firm with credible enterprise software and data products, but its brand is stronger in polling, research, and consulting than in elite software engineering.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "gamechanger": {
       "aliases": [
         "GameChanger Media"
@@ -16594,6 +16965,19 @@
       "prestige_score": 76,
       "reason": "Large action/world-model focus, major venture backing, and technical collaborations give it a strong software-engineering signal, but it is a very young company (founded 2025) without the long-established recognition of the top AI labs.",
       "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v2"
+    },
+    "general matter": {
+      "aliases": [
+        "generalmatter.com"
+      ],
+      "confidence": "medium",
+      "display_name": "General Matter",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Well-funded, high-profile nuclear-fuel startup with credible backing and a technically ambitious mission. It is an early, specialized company rather than an established software employer, so its software-engineering brand and internship selectivity are not yet broadly proven.",
+      "reviewed_at": "2026-10-19",
       "rubric_version": "prestige-v2"
     },
     "general motors": {
@@ -17883,6 +18267,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "guidewell": {
+      "aliases": [
+        "GuideWell Mutual",
+        "GuideWell Mutual Holding Corporation",
+        "Florida Blue",
+        "guidewell.com"
+      ],
+      "confidence": "medium",
+      "display_name": "GuideWell",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established not-for-profit health-insurance and care-services parent of Florida Blue with meaningful digital-health work, but it is not broadly recognized as a highly selective or top-tier software engineering employer. It is a solid regional healthcare/insurance signal.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "guidewire": {
       "aliases": [
         "Guidewire Software"
@@ -18855,6 +19255,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "hmh": {
+      "aliases": [
+        "Houghton Mifflin Harcourt",
+        "hmhco.com"
+      ],
+      "confidence": "medium",
+      "display_name": "HMH",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Established K\u201312 learning-technology company with recognizable education-sector brand and meaningful software products, but limited broad prestige or selectivity as a software-engineering employer relative to leading tech firms.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "hntb": {
       "aliases": [],
       "confidence": "medium",
@@ -19064,17 +19478,35 @@
       "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
     },
+    "hp iq": {
+      "aliases": [
+        "Humane",
+        "hp-iq.com",
+        "HP Inc."
+      ],
+      "confidence": "medium",
+      "display_name": "HP IQ",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "HP IQ is HP\u2019s AI innovation lab, formed from HP\u2019s acquisition of key Humane assets and technical talent. It offers meaningful AI/device-platform engineering exposure and HP backing, but its standalone engineering brand and internship selectivity are still newly established.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "hpr": {
       "aliases": [
-        "Hyannis Port Research, Inc."
+        "Hyannis Port Research",
+        "hpr.tech",
+        "hyannisportresearch.com",
+        "HPR (Hyannis Port Research)"
       ],
-      "confidence": "high",
+      "confidence": "medium",
       "display_name": "HPR",
       "manual_override": false,
       "model": "gpt-5.6-terra",
-      "prestige_score": 65,
-      "reason": "Specialized ultra-low-latency hardware/software products and publicly documented relationships with major financial-market participants create a solid engineering signal, especially for trading-systems work.",
-      "reviewed_at": "2026-10-16",
+      "prestige_score": 58,
+      "reason": "Established specialist in ultra-low-latency capital-markets infrastructure, with partnerships and recognition in trading technology. The engineering work is technically credible and niche-relevant, but the company has limited broad software-industry name recognition and no clear public evidence of highly selective internship hiring.",
+      "reviewed_at": "2026-10-19",
       "rubric_version": "prestige-v2"
     },
     "hrl laboratories": {
@@ -19350,6 +19782,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "hy vee": {
+      "aliases": [
+        "Hy-Vee Food Stores, Inc.",
+        "hy-vee.com"
+      ],
+      "confidence": "high",
+      "display_name": "Hy-Vee",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established, sizable Midwestern grocery retailer with a real in-house digital engineering internship spanning e-commerce, mobile, supply chain, and data systems. It is a credible regional enterprise internship, but its employer brand and selectivity are not broadly distinguished in software engineering.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "hypercubic": {
       "aliases": [
         "Hypercubic AI"
@@ -19435,6 +19881,20 @@
       "reason": "Technically credible AI drug-discovery company, but its engineering signal is primarily biotech-specific rather than broadly established.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "iat insurance group": {
+      "aliases": [
+        "IAT",
+        "iatinsurancegroup.com"
+      ],
+      "confidence": "medium",
+      "display_name": "IAT Insurance Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established, privately held specialty property-and-casualty insurer with meaningful scale and an internal technology function, but it is principally recognized in insurance rather than as a selective software-engineering employer. An internship is a credible industry experience but carries limited broad software-brand signal.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "iberdrola group": {
       "aliases": [
@@ -19816,6 +20276,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "immuta": {
+      "aliases": [
+        "immuta.com"
+      ],
+      "confidence": "high",
+      "display_name": "Immuta",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Well-funded enterprise data-security and governance company with a credible technical product, major cloud-data partnerships, and established enterprise adoption. It is a solid software-engineering signal, though its recognition and internship selectivity are meaningfully below top-tier security and infrastructure employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "imo health": {
       "aliases": [
         "Intelligent Medical Objects"
@@ -19919,6 +20392,17 @@
       "reason": "Established K-12-focused service-management software company; relevant SaaS engineering experience, but its brand recognition and selectivity are primarily niche rather than broadly prestigious in software engineering.",
       "reviewed_at": "2026-08-04",
       "rubric_version": "prestige-v1"
+    },
+    "incidentio": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "incident.io",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Well-funded, fast-growing incident-management/SRE startup with a credible engineering-led founding team, strong developer-facing product, and adoption by recognizable technology companies. It is a strong startup signal for software engineering, though its name recognition and selectivity are not yet at the level of the most established elite employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "incomm payments": {
       "aliases": [
@@ -21623,6 +22107,20 @@
       "rubric_version": "prestige-v2",
       "website": "https://k1.com"
     },
+    "k2 space": {
+      "aliases": [
+        "K2",
+        "k2space.com"
+      ],
+      "confidence": "medium",
+      "display_name": "K2 Space",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-funded, fast-growing satellite manufacturer with a technically demanding in-house spacecraft and software stack plus notable commercial and government traction. It is a strong aerospace/startup signal, though still a young, niche company without the broad software-engineering recognition of top-tier technology employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "kabam": {
       "aliases": [
         "Kabam Games"
@@ -21951,6 +22449,20 @@
       "reason": "Well-regarded enterprise supply-chain software company with a credible engineering product brand and global customer base.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "kinder morgan": {
+      "aliases": [
+        "KMI",
+        "kindermorgan.com"
+      ],
+      "confidence": "high",
+      "display_name": "Kinder Morgan",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 54,
+      "reason": "Large, established North American energy-infrastructure company with a formal IT/application-development internship path. It is a recognizable and credible industry employer, but its software engineering brand and perceived selectivity are substantially weaker than those of leading technology-focused employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "kinetic systems and technologies": {
       "aliases": [
@@ -26245,6 +26757,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "nationwide": {
+      "aliases": [
+        "Nationwide Mutual Insurance Company",
+        "nationwide.com"
+      ],
+      "confidence": "high",
+      "display_name": "Nationwide",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Large, nationally recognized insurance and financial-services employer with a substantial technology organization and structured software internship program. It is a solid enterprise engineering signal, though its software brand and perceived selectivity are below leading technology-focused employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "nationwide children s hospital": {
       "aliases": [
         "Nationwide Children's"
@@ -26625,6 +27151,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "netsmart": {
+      "aliases": [
+        "Netsmart Technologies",
+        "ntst.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Netsmart",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Established healthcare IT vendor with substantial, specialized EHR and care-platform engineering work and a formal software internship program. It is a solid industry-specific signal, but has limited broad recognition or top-tier selectivity in software engineering.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "netwrix": {
       "aliases": [],
       "confidence": "medium",
@@ -26758,6 +27298,22 @@
       "reason": "Major mining company with credible enterprise technology work, but little specialized software-engineering brand prestige.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "newrez": {
+      "aliases": [
+        "New Penn Financial",
+        "Shellpoint",
+        "Caliber Home Loans",
+        "Rithm Capital"
+      ],
+      "confidence": "medium",
+      "display_name": "Newrez",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Large national mortgage lender and servicer with meaningful in-house technology work, but its employer recognition is primarily within mortgage/financial-services rather than as a broadly selective software-engineering brand.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "newsbreak": {
       "aliases": [
@@ -27030,6 +27586,21 @@
       "reason": "Recognized EV maker with meaningful software and autonomous-vehicle engineering relevance, though not top-tier software prestige.",
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
+    },
+    "nisc": {
+      "aliases": [
+        "National Information Solutions Cooperative",
+        "nisc.coop",
+        "Quintrex"
+      ],
+      "confidence": "medium",
+      "display_name": "NISC",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 54,
+      "reason": "Established, specialized enterprise-software cooperative with a substantive software-development internship program and a strong utility/telecom niche. It is a solid regional and industry-specific signal, but has limited broad recognition or demonstrated selectivity in the wider software-engineering market.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "nissan": {
       "aliases": [
@@ -27429,6 +28000,22 @@
       "reason": "Well-established energy-equipment company with meaningful industrial technology work, but limited broad software-engineering prestige.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "nova tech engineering": {
+      "aliases": [
+        "Nova-Tech",
+        "NTE",
+        "Nova-Tech Poultry",
+        "nteglobal.com"
+      ],
+      "confidence": "low",
+      "display_name": "Nova-Tech Engineering",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "A regional industrial-automation manufacturer with a genuine software-development co-op and engineering work in agricultural and aquaculture robotics. It offers relevant hands-on technical experience, but has limited broad recognition or selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "novanta": {
       "aliases": [],
@@ -28954,6 +29541,21 @@
       "reviewed_at": "2026-08-07",
       "rubric_version": "prestige-v1"
     },
+    "panasonic": {
+      "aliases": [
+        "Panasonic Holdings Corporation",
+        "Panasonic Group",
+        "Matsushita Electric Industrial Co., Ltd."
+      ],
+      "confidence": "high",
+      "display_name": "Panasonic",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Globally recognized Japanese technology and industrial group with substantial engineering R&D across energy, devices, manufacturing, and connected systems. It is a solid technical brand, though its software-engineering signal is materially less selective and less software-centric than leading technology companies.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "papa john s": {
       "aliases": [
         "Papa Johns"
@@ -29895,6 +30497,35 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "pilot": {
+      "aliases": [
+        "Pilot Flying J",
+        "Pilot Travel Centers",
+        "pilotcompany.com",
+        "Berkshire Hathaway subsidiary"
+      ],
+      "confidence": "high",
+      "display_name": "Pilot Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Major North American travel-center and fuel operator with established internal technology, data, and digital-product teams. A software internship offers credible enterprise engineering experience, but Pilot is not broadly regarded as a top-tier software employer or especially selective engineering brand.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
+    "pimco": {
+      "aliases": [
+        "Pacific Investment Management Company"
+      ],
+      "confidence": "high",
+      "display_name": "PIMCO",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Globally recognized asset manager with a substantial technology organization and structured internship pipeline. It is a strong finance/fintech signal, though its software-engineering brand is less broadly elite than major technology or top quantitative-trading employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "pindrop": {
       "aliases": [
         "Pindrop Security"
@@ -30718,6 +31349,20 @@
       "rubric_version": "prestige-v2",
       "website": "https://primeintellect.ai"
     },
+    "primer": {
+      "aliases": [
+        "Primer.ai",
+        "Primer Technologies"
+      ],
+      "confidence": "low",
+      "display_name": "Primer",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Interpreted as the San Francisco AI/NLP company serving defense and intelligence customers. Its well-funded, technically demanding mission-critical AI work is a solid software-engineering signal, though it has less broad recognition and demonstrated internship selectivity than top-tier technology employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "primerica": {
       "aliases": [],
       "confidence": "high",
@@ -30939,6 +31584,21 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2",
       "website": "https://protechautomotivesolutions.com"
+    },
+    "protective life": {
+      "aliases": [
+        "Protective",
+        "Protective Life Insurance Company",
+        "protective.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Protective Life",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 49,
+      "reason": "Established U.S. life-insurance and asset-protection company within Dai-ichi Life Group, with technology and internship roles. It is a credible enterprise employer, but its software-engineering brand and perceived internship selectivity are primarily insurance-industry-specific rather than broadly elite.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "protiviti": {
       "aliases": [],
@@ -31484,6 +32144,19 @@
       "reason": "Highly regarded quantitative trading firm; its small scale is offset by a selective, technically demanding reputation.",
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
+    },
+    "ragle": {
+      "aliases": [
+        "ragleinc.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Ragle",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established regional heavy-civil contractor with a genuine in-house full-stack engineering internship, but its employer recognition and software-engineering brand are primarily construction-specific rather than broadly prestigious in tech.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "rainmaker technology": {
       "aliases": [
@@ -32239,6 +32912,20 @@
       "reason": "Corporate-services organization with a credible institutional affiliation, but limited standalone software-engineering brand recognition.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "revel": {
+      "aliases": [
+        "Revel Software Corporation",
+        "revel.io"
+      ],
+      "confidence": "medium",
+      "display_name": "Revel",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 74,
+      "reason": "Well-funded, fast-growing developer of specialized hardware test and control software, with a notably technical engineering focus and strong investor backing. Its early-stage status and limited broad name recognition keep it below established top-tier engineering brands.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "revise robotics": {
       "aliases": [],
@@ -33072,6 +33759,20 @@
       "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
+    "rovisys": {
+      "aliases": [
+        "The RoviSys Company",
+        "rovisys.com"
+      ],
+      "confidence": "high",
+      "display_name": "RoviSys",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Established, globally active industrial-automation and systems-integration firm with a substantial engineering co-op pipeline and strong standing in its specialist market. It is a solid technical signal for controls, industrial software, and automation, though it has limited broad software-engineering brand recognition compared with top product companies.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "rowan insurance brokerage": {
       "aliases": [],
       "confidence": "medium",
@@ -33260,6 +33961,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "ryan companies": {
+      "aliases": [
+        "Ryan Companies US, Inc.",
+        "ryancompanies.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Ryan Companies",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 44,
+      "reason": "Established national commercial real estate, design, and construction firm with some internal software engineering work, but limited recognition or selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "ryan specialty": {
       "aliases": [
         "Ryan Specialty Holdings",
@@ -33401,6 +34116,22 @@
       "reason": "Major aerospace and defense engineering company with respected technical work, though less identified with mainstream software engineering.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "sage": {
+      "aliases": [
+        "The Sage Group plc",
+        "Sage Group",
+        "Sage Software",
+        "sage.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Sage",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Established enterprise software company with a credible engineering signal from widely used finance, payroll, HR, and cloud products. It is respected in SMB business software, though its software-engineering brand and selectivity are less broadly elite than top consumer or infrastructure technology firms.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "sagicor financial": {
       "aliases": [
@@ -36077,6 +36808,27 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "springs window fashions": {
+      "aliases": [
+        "Springs",
+        "SWF",
+        "Bali",
+        "Graber",
+        "Mecho",
+        "SWFcontract",
+        "Horizons",
+        "springswindowfashions.com",
+        "springswf.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Springs Window Fashions",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 47,
+      "reason": "Established North American window-coverings manufacturer with recognizable consumer and commercial brands and legitimate applied software/AI work, but it is not broadly known as a software-engineering employer and has limited tech-industry prestige or demonstrated internship selectivity.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "sprinklr": {
       "aliases": [],
       "confidence": "high",
@@ -36650,16 +37402,19 @@
     },
     "stevens capital management": {
       "aliases": [
-        "SCM"
+        "Steven's Capital Management",
+        "Stevens Capital Management LP",
+        "SCM",
+        "scm-lp.com"
       ],
-      "confidence": "medium",
+      "confidence": "high",
       "display_name": "Stevens Capital Management",
       "manual_override": false,
       "model": "gpt-5.6-terra",
-      "prestige_score": 75,
-      "reason": "Quantitative trading firm with a selective technical reputation, though less broadly known than top funds.",
-      "reviewed_at": "2026-07-18",
-      "rubric_version": "prestige-v1"
+      "prestige_score": 73,
+      "reason": "Selective quantitative investment firm with a strong technical focus on automated trading and quantitative R&D. Its stated internship hiring bar is exceptionally high, creating a strong signal for engineering roles, though its name recognition is narrower than the most prominent global quant firms.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "stevens institute of technology": {
       "aliases": [
@@ -37585,6 +38340,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "tarrant regional water district": {
+      "aliases": [
+        "TRWD",
+        "Tarrant County Water Control and Improvement District Number One",
+        "trwd.com"
+      ],
+      "confidence": "high",
+      "display_name": "Tarrant Regional Water District",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established North Texas public water and flood-control agency with meaningful regional infrastructure work and IT roles, but limited recognition, selectivity, and engineering-brand signal in software recruiting.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "tarsus pharamceuticals": {
       "aliases": [
         "Tarsus Pharmaceuticals"
@@ -37891,6 +38661,22 @@
       "reason": "Established healthcare analytics and services organization, but with limited broad software-engineering brand recognition.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "telus digital": {
+      "aliases": [
+        "TELUS International",
+        "TELUS Digital Experience",
+        "TIXT",
+        "WillowTree"
+      ],
+      "confidence": "high",
+      "display_name": "TELUS Digital",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Established global digital, AI-data, and customer-experience services company with credible product-engineering depth through WillowTree. It is a solid recognizable signal, but its brand is centered more on enterprise services and CX outsourcing than on a broadly selective, elite software-engineering hiring reputation.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "tempo software": {
       "aliases": [
@@ -39465,6 +40251,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "transcard": {
+      "aliases": [
+        "Transcard Payments",
+        "transcard.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Transcard",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established payments-technology fintech with a software engineering internship program and meaningful industry integrations, but its engineering brand and selectivity appear primarily regional and niche rather than broadly recognized.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "transcarent": {
       "aliases": [],
       "confidence": "medium",
@@ -40335,6 +41135,19 @@
       "reviewed_at": "2026-09-01",
       "rubric_version": "prestige-v1"
     },
+    "united launch alliance": {
+      "aliases": [
+        "ULA"
+      ],
+      "confidence": "high",
+      "display_name": "United Launch Alliance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "A respected U.S. space-launch company with demanding safety-critical engineering and a strong national-security/NASA launch pedigree. It is a solid aerospace signal, though its software-engineering brand and general-tech selectivity are less prominent than elite software-first employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "united parcel service ups": {
       "aliases": [
         "UPS",
@@ -40420,6 +41233,20 @@
       "reason": "Globally recognized real-time 3D and game-engine company with a strong, technically demanding engineering reputation.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "universal health services": {
+      "aliases": [
+        "UHS",
+        "UHS of Delaware, Inc."
+      ],
+      "confidence": "medium",
+      "display_name": "Universal Health Services",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 56,
+      "reason": "A well-known Fortune 500 hospital and behavioral-health operator with corporate software roles spanning healthcare systems and AI solutions. It is a credible enterprise-healthcare internship signal, but has limited broad recognition or demonstrated selectivity as a software-engineering employer compared with technology-focused firms.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "universal music group careers": {
       "aliases": [
@@ -41610,6 +42437,19 @@
       "reviewed_at": "2026-09-22",
       "rubric_version": "prestige-v1"
     },
+    "viam": {
+      "aliases": [
+        "viam.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Viam",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Well-funded robotics software startup founded by MongoDB co-founder Eliot Horowitz, with a technically credible platform spanning distributed systems, cloud infrastructure, and robotics. It is a solid specialist engineering signal, though its brand recognition and demonstrated selectivity remain below top-tier software employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "viatris": {
       "aliases": [],
       "confidence": "medium",
@@ -42387,6 +43227,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "wec energy group": {
+      "aliases": [
+        "WEC",
+        "Wisconsin Energy Corporation"
+      ],
+      "confidence": "medium",
+      "display_name": "WEC Energy Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established Fortune 500 Midwest utility with a legitimate IT internship program involving application support and software development. It is a solid regional employer, but its engineering reputation is primarily utility and enterprise IT rather than a broadly recognized software-engineering brand.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "weights and biases": {
       "aliases": [
         "W&B"
@@ -42590,15 +43444,19 @@
       "rubric_version": "prestige-v1"
     },
     "westinghouse": {
-      "aliases": [],
-      "confidence": "medium",
+      "aliases": [
+        "Westinghouse Electric Company",
+        "Westinghouse Nuclear",
+        "westinghousenuclear.com"
+      ],
+      "confidence": "high",
       "display_name": "Westinghouse",
       "manual_override": false,
       "model": "gpt-5.6-terra",
-      "prestige_score": 58,
-      "reason": "Established engineering and energy name, but its software-engineering brand is more specialized than broadly elite.",
-      "reviewed_at": "2026-07-18",
-      "rubric_version": "prestige-v1"
+      "prestige_score": 63,
+      "reason": "A globally recognized nuclear-technology and engineering company with meaningful software work in safety-critical digital systems. It is a strong specialized signal for nuclear, industrial, and regulated engineering, though its software brand is less broadly prestigious than leading software-first employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "westlake": {
       "aliases": [],
@@ -43249,6 +44107,23 @@
       "reason": "AI-driven biotech with a strong technical research orientation, though its engineering-employer brand is still emerging.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "xantium": {
+      "aliases": [
+        "Xantium Partners Fund",
+        "Tudor Group",
+        "Tudor Investment Corporation",
+        "xantium.us",
+        "xantium.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Xantium",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 70,
+      "reason": "Quantitative multi-strategy investment firm founded within Tudor Group, with a technically demanding developer/research environment and a credible finance-engineering signal. Its recognition is strong in quantitative finance but less broad than the most established software employers.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "xcel energy": {
       "aliases": [],
