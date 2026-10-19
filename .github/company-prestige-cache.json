@@ -21707,6 +21707,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "inversion": {
+      "aliases": [
+        "Inversion Space",
+        "inversionspace.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Inversion",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "A well-funded, technically ambitious space-logistics startup with credible aerospace leadership, major venture backing, government work, and demonstrated orbital progress. It is a strong specialized signal for flight, embedded, and aerospace software, but remains early-stage and not yet broadly established as a top software employer.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "invesco": {
       "aliases": [],
       "confidence": "medium",
@@ -29020,6 +29034,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "nuovo photography": {
+      "aliases": [
+        "Nuovo Artistic Photography",
+        "Nuovo Artistic Studios",
+        "Nuovo Photographie Inc.",
+        "nuovophotography.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Nuovo Photography",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 24,
+      "reason": "A Canadian portrait-photography studio business, legally Nuovo Photography Inc.; it has consumer-service operations and some multi-location scale, but little public evidence of a recognized software-engineering organization, technical selectivity, or established engineering internship signal.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
     "nuro": {
       "aliases": [],
       "confidence": "high",
@@ -34656,6 +34686,21 @@
       "reason": "Recognized behavioral-health provider, but it has little established software-engineering employer reputation.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "rogue fitness": {
+      "aliases": [
+        "Rogue",
+        "Coulter Ventures, LLC",
+        "roguefitness.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Rogue Fitness",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Recognized strength-equipment manufacturer with an established in-house software/e-commerce and systems team, but its employer brand is primarily in fitness manufacturing rather than software engineering. A software internship should be credible operational experience, though it carries limited broad technical-prestige or selectivity signal.",
+      "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
     },
     "roku": {
       "aliases": [],
