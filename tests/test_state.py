@@ -16,6 +16,7 @@ class TestNotifierStateJson:
             seen_ids={"3", "1", "2"},
         )
         assert state.to_json_dict() == {
+            "closed_ids_sha": "",
             "listings_sha": "abc",
             "seen_ids": ["1", "2", "3"],
         }
@@ -31,6 +32,7 @@ class TestNotifierStateJson:
         state = NotifierState.from_json_dict({})
         assert state.listings_sha == ""
         assert state.seen_ids == set()
+        assert state.closed_ids_sha == ""
 
     def test_from_json_dict_seen_ids_must_be_list(self) -> None:
         with pytest.raises(ValueError, match="seen_ids must be a list"):
@@ -43,6 +45,10 @@ class TestNotifierStateJson:
     def test_from_json_dict_listings_sha_must_be_string(self) -> None:
         with pytest.raises(ValueError, match="listings_sha must be a string"):
             NotifierState.from_json_dict({"listings_sha": 123})
+
+    def test_from_json_dict_closed_ids_sha_must_be_string(self) -> None:
+        with pytest.raises(ValueError, match="closed_ids_sha must be a string"):
+            NotifierState.from_json_dict({"closed_ids_sha": 123})
 
 
 class TestLoadSaveState:

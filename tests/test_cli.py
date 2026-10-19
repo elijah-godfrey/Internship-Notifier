@@ -153,7 +153,11 @@ class TestRunShaShortCircuit:
         state_path = tmp_path / "state.json"
         _write_state(
             state_path,
-            NotifierState(listings_sha="same-sha", seen_ids={"1"}),
+            NotifierState(
+                listings_sha="same-sha",
+                seen_ids={"1"},
+                closed_ids_sha="same-sha",
+            ),
         )
         meta = {"sha": "same-sha", "size": 1, "download_url": "https://example.com/raw"}
 
@@ -181,7 +185,11 @@ class TestRunShaShortCircuit:
         cache_path = tmp_path / "company-prestige-cache.json"
         _write_state(
             state_path,
-            NotifierState(listings_sha="same-sha", seen_ids={"1"}),
+            NotifierState(
+                listings_sha="same-sha",
+                seen_ids={"1"},
+                closed_ids_sha="same-sha",
+            ),
         )
         _write_prestige_cache(
             cache_path,
@@ -250,7 +258,115 @@ class TestRunBootstrap:
         assert code == 0
         loaded = load_state(state_path)
         assert loaded.listings_sha == "blobsha"
+        assert loaded.closed_ids_sha == "blobsha"
         assert "7" in loaded.seen_ids
+
+
+class TestClosedListings:
+    def test_unchanged_blob_remembers_closed_ids_without_email(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(listings_sha="same-sha", seen_ids={"1"}),
+        )
+        closed = _offseason_row(id="closed", company_name="Goldman Sachs", active=False)
+        meta = {"sha": "same-sha", "size": 1, "download_url": "https://example.com/raw"}
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[_offseason_row(id="1"), closed],
+            ),
+        ):
+            code = run(
+                ["--config", str(cfg), "--state-path", str(state_path)]
+            )
+
+        assert code == 0
+        assert "Goldman Sachs" not in capsys.readouterr().out
+        loaded = load_state(state_path)
+        assert "closed" in loaded.seen_ids
+        assert loaded.closed_ids_sha == "same-sha"
+        assert loaded.listings_sha == "same-sha"
+
+    def test_reopened_listing_is_not_emailed(self, tmp_path, clear_smtp_env, capsys) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(
+                listings_sha="old-sha",
+                seen_ids={"1", "closed"},
+                closed_ids_sha="old-sha",
+            ),
+        )
+        reopened = _offseason_row(id="closed", company_name="Goldman Sachs", active=True)
+        meta = {"sha": "fresh-sha", "size": 2, "download_url": "https://example.com/raw"}
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[_offseason_row(id="1"), reopened],
+            ),
+        ):
+            code = run(
+                ["--config", str(cfg), "--state-path", str(state_path)]
+            )
+
+        assert code == 0
+        assert "Goldman Sachs" not in capsys.readouterr().out
+        loaded = load_state(state_path)
+        assert loaded.listings_sha == "fresh-sha"
+        assert "closed" in loaded.seen_ids
+
+    def test_new_active_listing_is_still_emailed(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(listings_sha="old-sha", seen_ids={"1"}, closed_ids_sha="old-sha"),
+        )
+        rows = [
+            _offseason_row(id="1"),
+            _offseason_row(id="closed", company_name="Old Co", active=False),
+            _offseason_row(id="new", company_name="Qualcomm"),
+        ]
+        meta = {"sha": "fresh-sha", "size": 3, "download_url": "https://example.com/raw"}
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=rows,
+            ),
+        ):
+            code = run(
+                ["--config", str(cfg), "--state-path", str(state_path)]
+            )
+
+        assert code == 0
+        output = capsys.readouterr().out
+        assert "Qualcomm" in output
+        assert "Old Co" not in output
+        loaded = load_state(state_path)
+        assert loaded.seen_ids >= {"1", "closed", "new"}
+        assert loaded.closed_ids_sha == "fresh-sha"
 
 
 class TestRunBootstrapFirst:
@@ -720,7 +836,11 @@ class TestRunPrestigeFiltering:
         cache_path = tmp_path / "company-prestige-cache.json"
         _write_state(
             state_path,
-            NotifierState(listings_sha="same-sha", seen_ids={"1"}),
+            NotifierState(
+                listings_sha="same-sha",
+                seen_ids={"1"},
+                closed_ids_sha="same-sha",
+            ),
         )
         _write_prestige_cache(
             cache_path,

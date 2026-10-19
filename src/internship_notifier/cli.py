@@ -102,6 +102,24 @@ def _seen_id_strings(listings: list[dict[str, Any]]) -> set[str]:
     return {str(L["id"]) for L in listings if L.get("id") is not None}
 
 
+def _closed_listing_ids(listings: list[dict[str, Any]]) -> set[str]:
+    """Ids that are not an open, visible application.
+
+    Simplify keeps closed roles in ``listings.json`` and sometimes flips
+    ``active`` back on without changing the posting. Remembering those ids
+    keeps a later reopen from being emailed as if it were new.
+    """
+    closed: set[str] = set()
+    for listing in listings:
+        listing_id = listing.get("id")
+        if listing_id is None:
+            continue
+        if listing.get("active") and listing.get("is_visible"):
+            continue
+        closed.add(str(listing_id))
+    return closed
+
+
 def _format_listing_line(listing: dict[str, Any]) -> str:
     company = listing.get("company_name", "?")
     title = listing.get("title", "?")
@@ -334,14 +352,28 @@ def _finish_poll(
     decided_rows: list[dict[str, Any]],
     dry_run: bool,
     complete: bool,
+    closed_ids: set[str] | None = None,
 ) -> int:
-    """Save decided listing ids. The upstream SHA changes only when none remain."""
+    """Save decided listing ids. The upstream SHA changes only when none remain.
+
+    Closed ids are remembered on every save. They are not emailed, and they
+    do not count as newly decided listings.
+    """
     if dry_run:
         return 0
+    closed = closed_ids or set()
+    newly_closed = closed - state.seen_ids
     state.seen_ids |= _seen_id_strings(decided_rows)
+    state.seen_ids |= closed
     if complete:
         state.listings_sha = new_sha
+        state.closed_ids_sha = new_sha
     save_state(state, state_path)
+    if newly_closed:
+        print(
+            f"Remembered {len(newly_closed)} closed listing(s) without emailing.",
+            file=sys.stderr,
+        )
     print(
         f"Saved state ({len(decided_rows)} new id(s), sha={state.listings_sha[:12]}...).",
         file=sys.stderr,
@@ -475,11 +507,9 @@ def run(argv: list[str] | None = None) -> int:
     meta = github_listings.get_listings_metadata(ref=ns.ref)
     new_sha: str = meta["sha"]
 
-    if (
-        not ns.bootstrap
-        and state.listings_sha
-        and new_sha == state.listings_sha
-    ):
+    sha_unchanged = bool(state.listings_sha) and new_sha == state.listings_sha
+    closed_recorded = state.closed_ids_sha == new_sha
+    if not ns.bootstrap and sha_unchanged and closed_recorded:
         print("No upstream change (listings.json blob sha unchanged).", file=sys.stderr)
         _refresh_prestige_cache(
             prestige_config,
@@ -491,6 +521,26 @@ def run(argv: list[str] | None = None) -> int:
         return 0
 
     raw = github_listings.fetch_listings_json(meta["download_url"])
+    closed_ids = _closed_listing_ids(raw)
+    if not ns.bootstrap and sha_unchanged:
+        print(
+            "No upstream change (listings.json blob sha unchanged). "
+            f"Remembering {len(closed_ids)} closed listing(s).",
+            file=sys.stderr,
+        )
+        if not ns.dry_run:
+            state.seen_ids |= closed_ids
+            state.closed_ids_sha = new_sha
+            save_state(state, state_path)
+        _refresh_prestige_cache(
+            prestige_config,
+            prestige_cache,
+            prestige_cache_path,
+            dry_run=ns.dry_run,
+            limit=IDLE_PRESTIGE_REFRESH_LIMIT,
+        )
+        return 0
+
     filtered = _apply_source(raw, source)
     if not all_categories:
         filtered = filters.filter_by_categories(filtered, set(categories))
@@ -498,10 +548,11 @@ def run(argv: list[str] | None = None) -> int:
         filtered = filters.filter_excluding_categories(filtered, set(exclude_categories))
 
     if ns.bootstrap:
-        ids = _seen_id_strings(filtered)
+        ids = _seen_id_strings(filtered) | closed_ids
         if not ns.dry_run:
             state.seen_ids |= ids
             state.listings_sha = new_sha
+            state.closed_ids_sha = new_sha
             save_state(state, state_path)
         print(
             f"Bootstrap: marked {len(ids)} listing(s) as seen "
@@ -533,6 +584,7 @@ def run(argv: list[str] | None = None) -> int:
             decided_rows=[],
             dry_run=ns.dry_run,
             complete=True,
+            closed_ids=closed_ids,
         )
 
     if not prestige_config.enabled:
@@ -557,6 +609,7 @@ def run(argv: list[str] | None = None) -> int:
             decided_rows=new_rows,
             dry_run=False,
             complete=True,
+            closed_ids=closed_ids,
         )
 
     threshold = _ensure_prestige_threshold(
@@ -566,7 +619,15 @@ def run(argv: list[str] | None = None) -> int:
         dry_run=ns.dry_run,
     )
     if threshold is None:
-        return 0
+        return _finish_poll(
+            state,
+            state_path,
+            new_sha=new_sha,
+            decided_rows=[],
+            dry_run=ns.dry_run,
+            complete=False,
+            closed_ids=closed_ids,
+        )
 
     order, groups = _group_rows_by_company(new_rows)
     known = [key for key in order if prestige_cache.get(_company_name(groups[key][0]))]
@@ -588,6 +649,7 @@ def run(argv: list[str] | None = None) -> int:
             decided_rows=known_rows,
             dry_run=False,
             complete=False,
+            closed_ids=closed_ids,
         )
 
     ranked: list[str] = []
@@ -647,6 +709,7 @@ def run(argv: list[str] | None = None) -> int:
         decided_rows=ranked_rows,
         dry_run=False,
         complete=not deferred,
+        closed_ids=closed_ids,
     )
 
 

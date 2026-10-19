@@ -215,7 +215,9 @@ Each poll emails companies that already have a score, then spends up to 8
 minutes looking up new companies. A lookup that is still unfinished, or that
 fails, stays unseen and is tried on the next poll. Only one old score is
 refreshed, and only on a poll that found nothing new. Only active, visible
-listings are eligible.
+listings are eligible. Inactive or hidden listings are remembered without an
+email, so the same id flipping back to active does not notify you again. The
+first poll after this change records the closed listings already in the file.
 
 ### Common log messages
 

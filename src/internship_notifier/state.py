@@ -17,15 +17,21 @@ class NotifierState:
     Attributes:
         listings_sha: Git blob ``sha`` from the last Contents API response for
             ``listings.json``, or empty string if unknown.
-        seen_ids: Listing ``id`` values already notified (or bootstrapped).
+        seen_ids: Listing ``id`` values already notified, bootstrapped, or
+            remembered while closed.
+        closed_ids_sha: Blob ``sha`` whose closed listings have already been
+            merged into ``seen_ids``. Empty until that one-time pass has run
+            for the current blob.
     """
 
     listings_sha: str = ""
     seen_ids: set[str] = field(default_factory=set)
+    closed_ids_sha: str = ""
 
     def to_json_dict(self) -> dict[str, Any]:
         """Serialize to a JSON-friendly dict (``seen_ids`` as sorted list)."""
         return {
+            "closed_ids_sha": self.closed_ids_sha,
             "listings_sha": self.listings_sha,
             "seen_ids": sorted(self.seen_ids),
         }
@@ -44,7 +50,10 @@ class NotifierState:
         sha = data.get("listings_sha") or ""
         if not isinstance(sha, str):
             raise ValueError("listings_sha must be a string")
-        return cls(listings_sha=sha, seen_ids=seen)
+        closed_ids_sha = data.get("closed_ids_sha") or ""
+        if not isinstance(closed_ids_sha, str):
+            raise ValueError("closed_ids_sha must be a string")
+        return cls(listings_sha=sha, seen_ids=seen, closed_ids_sha=closed_ids_sha)
 
 
 def default_state_path() -> Path:
