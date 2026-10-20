@@ -138,24 +138,109 @@ jobs:
 
           STATE_PATH=".github/internship-notifier-state.json"
           PRESTIGE_CACHE_PATH=".github/company-prestige-cache.json"
+          NOTIFIER_PATHS=(
+            ".github/internship-notifier-state.json"
+            ".github/company-prestige-cache.json"
+            "docs/company-prestige-rankings-top-500.md"
+            "docs/company-prestige-rankings-all.md"
+            "docs/waterlooworks-winter-2027-companies.md"
+          )
           # Stop early enough that a slow poll still finishes before the 6-hour limit.
           END=$(( $(date +%s) + 5 * 3600 + 20 * 60 ))
           first=1
 
-          commit_notifier_data() {
-            git add -- \
-              .github/internship-notifier-state.json \
-              .github/company-prestige-cache.json \
-              docs/company-prestige-rankings-top-500.md \
-              docs/company-prestige-rankings-all.md \
-              docs/waterlooworks-winter-2027-companies.md
+          json_files_are_valid() {
+            python - "$STATE_PATH" "$PRESTIGE_CACHE_PATH" <<'PY'
+          import json
+          import sys
+          from pathlib import Path
+
+          for raw in sys.argv[1:]:
+              path = Path(raw)
+              if not path.is_file():
+                  continue
+              try:
+                  json.loads(path.read_text(encoding="utf-8"))
+              except json.JSONDecodeError as exc:
+                  print(f"Invalid JSON in {path}: {exc}", file=sys.stderr)
+                  raise SystemExit(1) from exc
+          PY
+          }
+
+          generate_reports() {
+            python -m internship_notifier.prestige_report \
+              --cache "$PRESTIGE_CACHE_PATH" \
+              --output docs/company-prestige-rankings-top-500.md \
+              && python -m internship_notifier.prestige_report \
+                --cache "$PRESTIGE_CACHE_PATH" \
+                --output docs/company-prestige-rankings-all.md \
+                --all \
+              && python -m internship_notifier.prestige_report \
+                --cache "$PRESTIGE_CACHE_PATH" \
+                --companies data/waterlooworks-winter-2027-companies.txt \
+                --output docs/waterlooworks-winter-2027-companies.md \
+                --title "Winter 2027 WaterlooWorks Companies"
+          }
+
+          # During rebase, "theirs" is the commit being replayed: this run's data.
+          resolve_notifier_conflicts() {
+            local path
+            local found=0
+            while IFS= read -r path; do
+              [ -n "$path" ] || continue
+              found=1
+              git checkout --theirs -- "$path" || return 1
+              git add -- "$path" || return 1
+            done < <(git diff --name-only --diff-filter=U)
+            [ "$found" -eq 1 ] || return 1
+            if GIT_EDITOR=true git rebase --continue; then
+              return 0
+            fi
+            if git diff --cached --quiet && git diff --quiet; then
+              GIT_EDITOR=true git rebase --skip
+              return $?
+            fi
+            return 1
+          }
+
+          publish_notifier_data() {
+            if ! json_files_are_valid; then
+              echo "Notifier JSON is not valid; not committing."
+              return 1
+            fi
+            if ! generate_reports; then
+              echo "Report generation failed; committing state and cache anyway."
+            fi
+            git add -- "${NOTIFIER_PATHS[@]}" || return 1
             if git diff --staged --quiet; then
               echo "No notifier data changes to commit."
               return 0
             fi
-            git commit -m "chore: update internship notifier data"
-            git pull --rebase origin "$GITHUB_REF_NAME"
-            git push origin "HEAD:${GITHUB_REF_NAME}"
+            git commit -m "chore: update internship notifier data" || return 1
+            local attempt
+            for attempt in 1 2 3; do
+              git rebase --abort 2>/dev/null || true
+              if ! git fetch origin "$GITHUB_REF_NAME"; then
+                echo "Fetch failed (attempt ${attempt})."
+                sleep 5
+                continue
+              fi
+              if ! git rebase "origin/${GITHUB_REF_NAME}"; then
+                if ! resolve_notifier_conflicts; then
+                  git rebase --abort 2>/dev/null || true
+                  echo "Rebase failed (attempt ${attempt})."
+                  sleep 5
+                  continue
+                fi
+              fi
+              if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                return 0
+              fi
+              echo "Push failed (attempt ${attempt})."
+              sleep 5
+            done
+            echo "Could not push notifier data."
+            return 1
           }
 
           while [ "$(( END - $(date +%s) ))" -ge 720 ]; do
@@ -171,36 +256,34 @@ jobs:
                 needs_bootstrap=1
               fi
               if [ "$needs_bootstrap" = 1 ]; then
-                python -m internship_notifier \
+                if ! python -m internship_notifier \
                   --state-path "$STATE_PATH" \
                   --prestige-cache-path "$PRESTIGE_CACHE_PATH" \
-                  --bootstrap
+                  --bootstrap; then
+                  echo "Bootstrap failed."
+                  publish_notifier_data || echo "Could not publish bootstrap progress."
+                  break
+                fi
               fi
               first=0
             fi
 
-            if ! python -m internship_notifier \
+            poll_ok=0
+            if python -m internship_notifier \
               --state-path "$STATE_PATH" \
               --prestige-cache-path "$PRESTIGE_CACHE_PATH" \
               --ranking-budget-seconds 480; then
-              echo "Poll failed; the next shift will retry."
-              break
+              poll_ok=1
             fi
 
-            python -m internship_notifier.prestige_report \
-              --cache "$PRESTIGE_CACHE_PATH" \
-              --output docs/company-prestige-rankings-top-500.md
-            python -m internship_notifier.prestige_report \
-              --cache "$PRESTIGE_CACHE_PATH" \
-              --output docs/company-prestige-rankings-all.md \
-              --all
-            python -m internship_notifier.prestige_report \
-              --cache "$PRESTIGE_CACHE_PATH" \
-              --companies data/waterlooworks-winter-2027-companies.txt \
-              --output docs/waterlooworks-winter-2027-companies.md \
-              --title "Winter 2027 WaterlooWorks Companies"
-
-            commit_notifier_data
+            if ! publish_notifier_data; then
+              echo "Could not publish notifier data; the next shift will retry."
+              break
+            fi
+            if [ "$poll_ok" -ne 1 ]; then
+              echo "Poll failed; published partial progress. The next shift will retry."
+              break
+            fi
 
             now=$(date +%s)
             remain=$((600 - (now - start)))
