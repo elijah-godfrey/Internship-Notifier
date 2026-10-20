@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3721** of **3721** cached companies (all cached companies).
+Showing **3723** of **3723** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -814,6 +814,7 @@ Showing **3721** of **3721** cached companies (all cached companies).
 | Qualified Health | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Qualified Health PBC, Qualified Health AI | $125M Series B, prominent health-system deployments, and enterprise AI/healthcare focus make it a solid, selective startup signal; however, it is very young and does not yet have a broadly established top-tier software-engineering brand. |
 | Rainmaker Technology Corporation | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Rainmaker | A credible frontier-engineering profile spanning proprietary weather-data software, radar/satellite systems, and UAVs, plus a recently announced $100M Series B; however, it is a young company with an emerging rather than broadly established software-engineering brand. |
 | Realm | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Tigridb, Inc., MongoDB Realm, Atlas Device SDKs | It had a credible developer-facing database brand and meaningful technical recognition, but it is no longer an independent employer and the former Realm/Atlas Device SDK product line was retired in 2025. |
+| Redgate | 67 | High | 2026-10-20 | gpt-5.6-terra | No | Redgate Software, Red Gate Software, red-gate.com | Established database DevOps and developer-tools company with recognizable products such as Flyway and a meaningful enterprise user base. It is a strong niche software-engineering signal, though its brand recognition and perceived selectivity are below broadly elite technology employers. |
 | Resmed | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded medical-device and digital-health company with meaningful software and connected-device engineering work. |
 | Royal Bank of Canada | 67 | High | 2026-07-22 | gpt-5.6-terra | No | RBC, RBC Royal Bank | Major, well-regarded financial institution with substantial technology organizations; a solid engineering signal, though banking is not generally viewed as elite software branding. |
 | SafetyKit Inc. | 67 | High | 2026-10-16 | gpt-5.6-terra | No | - | $27M Series A, backing from Ribbit and First Round, and production customers including Patreon, Eventbrite, and Upwork make it a solid software-engineering signal; however, it remains a young, specialized startup without broad top-tier employer recognition. |
@@ -3752,6 +3753,7 @@ Showing **3721** of **3721** cached companies (all cached companies).
 | Global | 15 | Low | 2026-10-16 | gpt-5.6-terra | No | - | “Global” alone does not identify a verifiable employer; searches did not establish a specific company, official site, engineering organization, or software-internship reputation to assess. |
 | On the Go | 15 | Low | 2026-10-16 | gpt-5.6-terra | No | OTG, identity unresolved | No clear, established software-engineering brand or internship-selectivity signal could be verified for the supplied literal name. |
 | S Overduin Medicine Professional Corporation | 15 | High | 2026-09-11 | gpt-5.6-terra | No | - | Medical professional corporation with negligible relevance as a software-engineering employer. |
+| Steel | 15 | Low | 2026-10-20 | gpt-5.6-terra | No | - | The supplied name is too ambiguous to reliably identify a specific employer; public results point to multiple unrelated steel and software businesses, so there is insufficient evidence of a recognizable software-engineering brand or selectivity. |
 | STEM Expert | 15 | Low | 2026-10-16 | gpt-5.6-terra | No | - | Unclear/limited career signal. |
 | Cuckoo Technologies Inc. | 12 | Low | 2026-10-16 | gpt-5.6-terra | No | - | Public searches found only corporate-registration records and no company site, product, funding/news coverage, or demonstrated software-engineering brand, so it provides negligible established internship prestige signal. |
 | EJ Tax Service Inc | 12 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Public listings identify it as a local financial/tax-services firm, with no evident software-engineering product, engineering brand, or technical internship signal. |

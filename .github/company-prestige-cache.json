@@ -33462,6 +33462,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "redgate": {
+      "aliases": [
+        "Redgate Software",
+        "Red Gate Software",
+        "red-gate.com"
+      ],
+      "confidence": "high",
+      "display_name": "Redgate",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Established database DevOps and developer-tools company with recognizable products such as Flyway and a meaningful enterprise user base. It is a strong niche software-engineering signal, though its brand recognition and perceived selectivity are below broadly elite technology employers.",
+      "reviewed_at": "2026-10-20",
+      "rubric_version": "prestige-v2"
+    },
     "redhorse": {
       "aliases": [],
       "confidence": "medium",
@@ -38485,6 +38500,17 @@
       "reason": "Known government digital-services contractor with credible technical work, but limited broad recognition relative to top engineering employers.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "steel": {
+      "aliases": [],
+      "confidence": "low",
+      "display_name": "Steel",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 15,
+      "reason": "The supplied name is too ambiguous to reliably identify a specific employer; public results point to multiple unrelated steel and software businesses, so there is insufficient evidence of a recognizable software-engineering brand or selectivity.",
+      "reviewed_at": "2026-10-20",
+      "rubric_version": "prestige-v2"
     },
     "steel dynamics": {
       "aliases": [
