@@ -9725,6 +9725,23 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "commonai": {
+      "aliases": [
+        "CommonAI C.I.C.",
+        "CAI (Cambridge) Ltd",
+        "commonai.org",
+        "CommonAI Holdings Ltd",
+        "commonai.com"
+      ],
+      "confidence": "medium",
+      "display_name": "CommonAI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "A newly established UK AI collaboration and compute ecosystem with credible Cambridge technology leadership, but limited public evidence so far of a proven software-engineering employer brand or established internship selectivity.",
+      "reviewed_at": "2026-10-20",
+      "rubric_version": "prestige-v2"
+    },
     "commonwealth fusion systems": {
       "aliases": [
         "CFS"
@@ -26255,6 +26272,20 @@
       "reason": "Exceptional global software-engineering signal with highly selective technical hiring and a leading consumer-tech brand.",
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
+    },
+    "metamorphic": {
+      "aliases": [
+        "Metamorphic Labs, Inc.",
+        "metamorphic.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Metamorphic",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "A very early NeuroAI research lab with Stanford-linked founders, a technically distinguished scientific advisory group, and engineering roles centered on ML systems and data infrastructure. Its research pedigree suggests a selective technical environment, but it is new and has limited broad employer recognition or demonstrated software-engineering brand history.",
+      "reviewed_at": "2026-10-20",
+      "rubric_version": "prestige-v2"
     },
     "metecs": {
       "aliases": [

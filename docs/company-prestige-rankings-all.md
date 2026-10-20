@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3723** of **3723** cached companies (all cached companies).
+Showing **3725** of **3725** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -958,6 +958,7 @@ Showing **3723** of **3723** cached companies (all cached companies).
 | Lucid Motors | 65 | High | 2026-08-02 | gpt-5.6-terra | No | Lucid Group, Lucid | Recognized EV company with meaningful embedded, vehicle, and product-software work, though below the strongest engineering brands. |
 | Medra | 65 | Medium | 2026-10-16 | gpt-5.6-terra | No | Medra AI | AI/robotics engineering focus, $11M seed/pre-seed backing from Neo and Lux Capital, and team backgrounds at firms such as Tesla, SpaceX, and Neuralink make it a solid technical signal, but it remains a small, early-stage company without broad established software-engineering recognition. |
 | Melius | 65 | Medium | 2026-10-16 | gpt-5.6-terra | No | Melius AI | $25M backing from General Catalyst and CRV, technically ambitious product, and team positioning around former Ramp engineering leadership make it a solid positive early-stage engineering signal, but it is too new and not yet broadly established as a top-tier software brand. |
+| Metamorphic | 65 | Medium | 2026-10-20 | gpt-5.6-terra | No | Metamorphic Labs, Inc., metamorphic.com | A very early NeuroAI research lab with Stanford-linked founders, a technically distinguished scientific advisory group, and engineering roles centered on ML systems and data infrastructure. Its research pedigree suggests a selective technical environment, but it is new and has limited broad employer recognition or demonstrated software-engineering brand history. |
 | Michelin | 65 | High | 2026-08-02 | gpt-5.6-terra | No | Michelin Group | Globally respected industrial company with increasingly technical products and systems, though not chiefly known for software engineering. |
 | MSI | 65 | Medium | 2026-08-02 | gpt-5.6-terra | No | Micro-Star International | Recognized PC hardware brand with relevant engineering work, though its software-engineering brand is less prominent than its hardware reputation. |
 | Nationwide | 65 | High | 2026-10-19 | gpt-5.6-terra | No | Nationwide Mutual Insurance Company, nationwide.com | Large, nationally recognized insurance and financial-services employer with a substantial technology organization and structured software internship program. It is a solid enterprise engineering signal, though its software brand and perceived selectivity are below leading technology-focused employers. |
@@ -3370,6 +3371,7 @@ Showing **3723** of **3723** cached companies (all cached companies).
 | Charter Manufacturing | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Primarily a manufacturing employer with limited recognizable software-engineering brand strength. |
 | Cisive | 38 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Established background-screening and compliance-services firm, but it has a limited public software-engineering brand and narrower industry recognition. |
 | City of Baltimore | 38 | High | 2026-08-02 | gpt-5.6-terra | No | Baltimore City | Large-city public-sector experience is credible, but has limited software-industry prestige. |
+| CommonAI | 38 | Medium | 2026-10-20 | gpt-5.6-terra | No | CommonAI C.I.C., CAI (Cambridge) Ltd, commonai.org, CommonAI Holdings Ltd, commonai.com | A newly established UK AI collaboration and compute ecosystem with credible Cambridge technology leadership, but limited public evidence so far of a proven software-engineering employer brand or established internship selectivity. |
 | Comstock Companies | 38 | High | 2026-08-02 | gpt-5.6-terra | No | Comstock | Established real-estate developer, but it has limited software-engineering brand recognition. |
 | Coram AI | 38 | Low | 2026-09-24 | gpt-5.6-terra | No | - | An early-stage AI/security company with potentially relevant technical work, but limited established employer recognition or proven engineering prestige. |
 | Custom Computer Specialists | 38 | Medium | 2026-07-18 | gpt-5.6-terra | No | CCS | Established IT services provider, but its brand is primarily regional and services-oriented rather than a strong software-engineering signal. |
