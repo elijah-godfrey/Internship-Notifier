@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3725** of **3725** cached companies (all cached companies).
+Showing **3726** of **3726** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -745,6 +745,7 @@ Showing **3725** of **3725** cached companies (all cached companies).
 | Thomson Reuters | 68 | High | 2026-08-01 | gpt-5.6-terra | No | TR | A globally recognized information-services company with established engineering organizations and respected technology products, though not generally viewed as an elite software destination. |
 | Tilde Research | 68 | Medium | 2026-10-16 | gpt-5.6-terra | No | Tilde | A strong technical signal, but the small, recently established lab has not yet built the broad recognition or demonstrated selectivity of top-tier AI employers. |
 | Torc Robotics | 68 | High | 2026-07-18 | gpt-5.6-terra | No | Torc | Established autonomous-trucking company with relevant robotics and systems-engineering signal, though less broadly prestigious than leading autonomy firms. |
+| Toyota | 68 | High | 2026-10-21 | gpt-5.6-terra | No | Toyota Motor Corporation, Toyota Motor North America, TMC | Toyota is a globally recognized automotive and mobility company with substantial vehicle-software, connected-services, and advanced-driver-assistance engineering work. It is a strong and credible software internship signal, though its engineering brand is less broadly elite in general software recruiting than top-tier technology companies. |
 | Trellix | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized cybersecurity vendor with technically relevant security engineering work and a solid industry reputation. |
 | TRUMPF | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected industrial and manufacturing-technology company with solid engineering credibility; software prestige is more specialized. |
 | Turso | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | ChiselStrike | Technically credible database startup with developer and open-source visibility, but a comparatively emerging employer brand. |
