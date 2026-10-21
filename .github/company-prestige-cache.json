@@ -13720,6 +13720,23 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "enact": {
+      "aliases": [
+        "Enact Holdings",
+        "Enact Mortgage Insurance Corporation",
+        "EnactMI",
+        "Genworth Mortgage Insurance Corporation",
+        "Genworth Mortgage Holdings"
+      ],
+      "confidence": "medium",
+      "display_name": "Enact",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established publicly traded U.S. mortgage-insurance provider with meaningful technology integrations, but its engineering brand and internship selectivity are primarily niche to insurance and housing finance rather than broadly recognized in software engineering.",
+      "reviewed_at": "2026-10-21",
+      "rubric_version": "prestige-v2"
+    },
     "enbridge": {
       "aliases": [],
       "confidence": "high",
@@ -45125,6 +45142,20 @@
       "reason": "Established distribution company with relevant internal technology work, but its software engineering brand and broader technical career signal are relatively limited.",
       "reviewed_at": "2026-09-02",
       "rubric_version": "prestige-v1"
+    },
+    "wisdomtree": {
+      "aliases": [
+        "WisdomTree Investments",
+        "WT"
+      ],
+      "confidence": "medium",
+      "display_name": "WisdomTree",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established publicly traded ETF and asset-management firm with technology, digital-assets, and institutional-platform work, but it is not broadly regarded as a top-tier software engineering employer or a highly visible SWE internship signal.",
+      "reviewed_at": "2026-10-21",
+      "rubric_version": "prestige-v2"
     },
     "wise": {
       "aliases": [

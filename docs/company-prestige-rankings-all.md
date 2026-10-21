@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3726** of **3726** cached companies (all cached companies).
+Showing **3728** of **3728** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2517,6 +2517,7 @@ Showing **3726** of **3726** cached companies (all cached companies).
 | Duracell | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer-products brand, but it has limited broad reputation as a software-engineering employer. |
 | Elanco | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Elanco Animal Health | Recognized animal-health company with some technology roles, but software is not a core employer brand. |
 | Emergent Holdings | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established insurance and health-services employer, with software primarily supporting its core business. |
+| Enact | 48 | Medium | 2026-10-21 | gpt-5.6-terra | No | Enact Holdings, Enact Mortgage Insurance Corporation, EnactMI, Genworth Mortgage Insurance Corporation, Genworth Mortgage Holdings | Established publicly traded U.S. mortgage-insurance provider with meaningful technology integrations, but its engineering brand and internship selectivity are primarily niche to insurance and housing finance rather than broadly recognized in software engineering. |
 | Energy Vault | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Visible clean-energy technology company with some technical appeal, but a limited established software-engineering signal. |
 | Engineers and Geoscientists BC | 48 | Medium | 2026-08-07 | gpt-5.6-terra | No | EGBC, Engineers and Geoscientists British Columbia | Well-recognized provincial professional regulator in its domain, but it has limited software-engineering employer prestige relative to technology-focused firms. |
 | Ensemble Health Partners | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized healthcare revenue-cycle company, though its engineering brand is mainly industry-specific rather than broadly elite. |
@@ -2696,6 +2697,7 @@ Showing **3726** of **3726** cached companies (all cached companies).
 | WEC Energy Group | 48 | Medium | 2026-10-19 | gpt-5.6-terra | No | WEC, Wisconsin Energy Corporation | Established Fortune 500 Midwest utility with a legitimate IT internship program involving application support and software development. It is a solid regional employer, but its engineering reputation is primarily utility and enterprise IT rather than a broadly recognized software-engineering brand. |
 | West Bend Insurance | 48 | Medium | 2026-10-19 | gpt-5.6-terra | No | West Bend Mutual Insurance Company, West Bend Insurance Group, The Silver Lining | Established super-regional property-and-casualty insurer with a substantive IT internship program, but limited broad software-engineering brand recognition outside insurance. |
 | Windsor-Detroit Bridge Authority | 48 | Medium | 2026-09-11 | gpt-5.6-terra | No | WDBA | Recognized public infrastructure organization, though software engineering is not its principal employer brand. |
+| WisdomTree | 48 | Medium | 2026-10-21 | gpt-5.6-terra | No | WisdomTree Investments, WT | Established publicly traded ETF and asset-management firm with technology, digital-assets, and institutional-platform work, but it is not broadly regarded as a top-tier software engineering employer or a highly visible SWE internship signal. |
 | WPP Media | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | GroupM, WPP | Major media-services brand, but its software engineering identity is not especially strong or selective. |
 | Xsolla | 48 | Medium | 2026-07-20 | gpt-5.6-terra | No | - | Established gaming-commerce/payments company with relevant engineering work, but its software-engineering brand and internship selectivity are not broadly regarded as top-tier outside the games industry. |
 | Yotta Labs | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | Yotta | A technically substantive GPU/AI-infrastructure product focus, open-source work, seed backing, and an NSF SBIR Phase I award, but it is a very small, recently founded company with limited broad software-engineering employer recognition so far. |
