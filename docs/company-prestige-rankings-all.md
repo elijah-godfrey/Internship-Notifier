@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3728** of **3728** cached companies (all cached companies).
+Showing **3730** of **3730** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -829,6 +829,7 @@ Showing **3728** of **3728** cached companies (all cached companies).
 | The Weather Company | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized weather-data and digital-services business with technically relevant data-platform work, but a moderate engineering brand. |
 | Tools for Humanity | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | High-profile technology and digital-identity venture with ambitious technical work, though its brand is more specialized and contentious than universally elite. |
 | Vega Investment Technologies Limited | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Vega, Vega AltOS | A credible, venture-backed fintech with Apollo as an anchor client and $28M+ reported funding, but remains an early-stage, niche private-markets software company without broad engineering-brand recognition. |
+| Verisk | 67 | High | 2026-10-21 | gpt-5.6-terra | No | Verisk Analytics, VRSK, ISO, Insurance Services Office | Established public insurance-data and risk-analytics technology company with substantial proprietary software, APIs, scientific modeling, and deeply embedded industry products. It is a solid, credible software internship signal, especially for data-heavy enterprise and insurance technology, but has less broad software-engineering prestige and selectivity than leading consumer-tech or infrastructure companies. |
 | W.W. Grainger | 67 | High | 2026-08-02 | gpt-5.6-terra | No | Grainger | Respected B2B commerce and distribution company with meaningful digital and software engineering operations. |
 | WarpEngine Canada Inc. | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Viggle AI, Viggle, WarpEngine | Proprietary AI/video product and $19M Series A led by Andreessen Horowitz create a strong emerging technical signal, but it remains an early-stage, comparatively less established employer than broadly top-tier software brands. |
 | Zocdoc | 67 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized health-tech marketplace with credible consumer-product engineering work, though it is less prestigious than leading general technology firms. |
@@ -2598,6 +2599,7 @@ Showing **3728** of **3728** cached companies (all cached companies).
 | NBT Bank | 48 | Medium | 2026-08-04 | gpt-5.6-terra | No | NBT Bancorp | Established regional bank with credible enterprise technology work, but limited national visibility or selectivity as a software-engineering brand. |
 | Neighborly | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established home-services franchisor with technology work, but it is not widely recognized as a standout software-engineering employer. |
 | New York Post Holdings | 48 | Medium | 2026-08-01 | gpt-5.6-terra | No | New York Post | Recognized media brand, but its software engineering organization is not broadly viewed as a top technical career signal. |
+| Newell Brands | 48 | High | 2026-10-21 | gpt-5.6-terra | No | Newell Rubbermaid, NWL | Recognized public consumer-goods company behind major household brands, with IT and software roles, but it is not widely viewed as a top-tier software engineering employer; the technical signal is primarily enterprise and consumer-products focused. |
 | Nimble Gravity | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized data and AI consultancy with relevant technical work, but limited broad employer-brand recognition. |
 | NJM Insurance Group | 48 | Medium | 2026-10-19 | gpt-5.6-terra | No | NJM, New Jersey Manufacturers Insurance Company, New Jersey Manufacturers Insurance Group, njm.com | Established Mid-Atlantic mutual property-and-casualty insurer with a structured internship program and internal software-engineering work, but limited recognition or selectivity as a software-engineering employer outside the regional insurance sector. |
 | Nooks | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Emerging sales-tech/AI startup with relevant product engineering, but limited broad prestige relative to established software firms. |

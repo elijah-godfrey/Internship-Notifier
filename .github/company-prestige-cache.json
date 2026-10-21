@@ -28116,6 +28116,20 @@
       "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
+    "newell brands": {
+      "aliases": [
+        "Newell Rubbermaid",
+        "NWL"
+      ],
+      "confidence": "high",
+      "display_name": "Newell Brands",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Recognized public consumer-goods company behind major household brands, with IT and software roles, but it is not widely viewed as a top-tier software engineering employer; the technical signal is primarily enterprise and consumer-products focused.",
+      "reviewed_at": "2026-10-21",
+      "rubric_version": "prestige-v2"
+    },
     "newham": {
       "aliases": [],
       "confidence": "low",
@@ -43587,6 +43601,22 @@
       "reason": "Well-known internet-infrastructure operator with credible large-scale reliability and security engineering signal.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "verisk": {
+      "aliases": [
+        "Verisk Analytics",
+        "VRSK",
+        "ISO",
+        "Insurance Services Office"
+      ],
+      "confidence": "high",
+      "display_name": "Verisk",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Established public insurance-data and risk-analytics technology company with substantial proprietary software, APIs, scientific modeling, and deeply embedded industry products. It is a solid, credible software internship signal, especially for data-heavy enterprise and insurance technology, but has less broad software-engineering prestige and selectivity than leading consumer-tech or infrastructure companies.",
+      "reviewed_at": "2026-10-21",
+      "rubric_version": "prestige-v2"
     },
     "verition fund management": {
       "aliases": [
