@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3730** of **3730** cached companies (all cached companies).
+Showing **3732** of **3732** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -898,6 +898,7 @@ Showing **3730** of **3730** cached companies (all cached companies).
 | Qumulo | 66 | High | 2026-10-19 | gpt-5.6-terra | No | qumulo.com | Well-regarded enterprise data-storage company with a technically demanding distributed file-and-object storage product and recognized standing in its specialized market; a strong infrastructure engineering signal, though less broadly prestigious than top generalist software employers. |
 | Readwise Inc | 66 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Well-regarded product-focused software company among knowledge-work users and developers, with a strong engineering-centric reputation for its size. |
 | Roam Virtual Workspace | 66 | Medium | 2026-10-16 | gpt-5.6-terra | No | Roam, Roam HQ | $40M backing led by IVP and credible collaboration-product engineering work make it a solid positive startup signal, but it is not broadly regarded as a top-tier software-engineering employer. |
+| Rokt | 66 | Medium | 2026-10-22 | gpt-5.6-terra | No | rokt.com, Rokt Ecommerce, mParticle by Rokt, AfterSell by Rokt | Established, well-funded ecommerce software company with meaningful AI/ML and high-scale transaction engineering work. It is a solid positive internship signal, but its software-engineering brand and internship selectivity are less broadly recognized than top-tier consumer tech or infrastructure employers. |
 | Rolls Royce | 66 | High | 2026-08-02 | gpt-5.6-terra | No | Rolls-Royce Holdings | Globally respected aerospace and power-systems engineering brand with meaningful embedded and technical software work, but not a primary software employer. |
 | SeatGeek | 66 | High | 2026-10-19 | gpt-5.6-terra | No | seatgeek.com | Well-known, venture-backed live-events technology company with a substantial product engineering organization across marketplace, enterprise ticketing, data, and mobile systems. It is a solid software internship signal, though its engineering brand and selectivity are not broadly viewed at the top-tier technology-company level. |
 | Sequence Holdings | 66 | Medium | 2026-10-16 | gpt-5.6-terra | No | Sequence, Sequence AI Holdings Inc | A very new AI-and-engineering-focused holding company with $75M financing and backing from firms including Lux Capital, 8VC, and Conviction. |
@@ -1135,6 +1136,7 @@ Showing **3730** of **3730** cached companies (all cached companies).
 | Neuberger Berman | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded investment manager whose technology roles carry a solid finance-tech signal, though not a leading software brand. |
 | OpenX | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | OpenX Technologies | Established ad-tech company with meaningful distributed-systems and advertising-platform engineering, though specialized. |
 | Outmarket AI | 63 | High | 2026-10-16 | gpt-5.6-terra | No | Outmarket | Recent $34.5M Series B, credible venture backing, customer traction, and technically relevant AI product make it a solid positive startup signal; however, it is still a young, niche insurtech without the broad engineering-brand recognition or demonstrated selectivity of top-tier software employers. |
+| Pattern | 63 | Medium | 2026-10-22 | gpt-5.6-terra | No | Pattern Group, iServe, PTRN | Public ecommerce-technology company with a sizable proprietary data, AI, and marketplace-optimization platform and a recent Nasdaq listing. It is a solid engineering signal, though its software brand and internship selectivity are less broadly established than leading technology employers. |
 | Phonely | 63 | High | 2026-10-16 | gpt-5.6-terra | No | - | YC backing and reported $16M Series A provide a solid, growing AI/enterprise-software signal, but it remains a young, relatively small company without the broad engineering-brand recognition or demonstrated selectivity of top-tier employers. |
 | Planview | 63 | Medium | 2026-09-23 | gpt-5.6-terra | No | - | Established enterprise software vendor with a credible engineering signal in portfolio and work-management products, though not broadly viewed as top-tier tech. |
 | PlusAI | 63 | Medium | 2026-07-18 | gpt-5.6-terra | No | Plus | Established autonomous-trucking technology company with meaningful systems and AI engineering work, but less broad recognition than top autonomy firms. |

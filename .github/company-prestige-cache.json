@@ -30723,6 +30723,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "pattern": {
+      "aliases": [
+        "Pattern Group",
+        "iServe",
+        "PTRN"
+      ],
+      "confidence": "medium",
+      "display_name": "Pattern",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Public ecommerce-technology company with a sizable proprietary data, AI, and marketplace-optimization platform and a recent Nasdaq listing. It is a solid engineering signal, though its software brand and internship selectivity are less broadly established than leading technology employers.",
+      "reviewed_at": "2026-10-22",
+      "rubric_version": "prestige-v2"
+    },
     "patterson companies": {
       "aliases": [
         "Patterson Dental",
@@ -34777,6 +34792,22 @@
       "prestige_score": 48,
       "reason": "Recognized strength-equipment manufacturer with an established in-house software/e-commerce and systems team, but its employer brand is primarily in fitness manufacturing rather than software engineering. A software internship should be credible operational experience, though it carries limited broad technical-prestige or selectivity signal.",
       "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
+    "rokt": {
+      "aliases": [
+        "rokt.com",
+        "Rokt Ecommerce",
+        "mParticle by Rokt",
+        "AfterSell by Rokt"
+      ],
+      "confidence": "medium",
+      "display_name": "Rokt",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Established, well-funded ecommerce software company with meaningful AI/ML and high-scale transaction engineering work. It is a solid positive internship signal, but its software-engineering brand and internship selectivity are less broadly recognized than top-tier consumer tech or infrastructure employers.",
+      "reviewed_at": "2026-10-22",
       "rubric_version": "prestige-v2"
     },
     "roku": {
