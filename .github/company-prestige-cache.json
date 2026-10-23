@@ -2996,6 +2996,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "aramco americas": {
+      "aliases": [
+        "AACO",
+        "Aramco Services Company",
+        "Saudi Aramco Americas"
+      ],
+      "confidence": "medium",
+      "display_name": "Aramco Americas",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "U.S. service and technology arm of Saudi Aramco, with engineering, research, and digital-transformation work. The Aramco name is globally recognized in energy and the internship can signal solid enterprise technical experience, but it is not broadly regarded as a top-tier software-engineering employer.",
+      "reviewed_at": "2026-10-23",
+      "rubric_version": "prestige-v2"
+    },
     "arc teryx equipment": {
       "aliases": [
         "Arc'teryx"

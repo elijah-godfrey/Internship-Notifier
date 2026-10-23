@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3732** of **3732** cached companies (all cached companies).
+Showing **3733** of **3733** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1180,6 +1180,7 @@ Showing **3732** of **3732** cached companies (all cached companies).
 | Amca | 62 | Medium | 2026-10-19 | gpt-5.6-terra | No | Advanced Manufacturing Company of America, amca.com, amca.company, amca.co | Well-funded aerospace-and-defense manufacturer with meaningful software work supporting engineering and factory systems, but it is a young company with limited established software-engineering brand recognition. |
 | Anomali | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized cybersecurity vendor with relevant technical work, though below the field's top engineering brands. |
 | Aon | 62 | High | 2026-10-12 | gpt-5.6-terra | No | - | Well-known global professional-services and insurance-brokerage firm; an internship is a solid enterprise-tech signal, though its software engineering brand is not viewed as top-tier relative to dedicated technology companies. |
+| Aramco Americas | 62 | Medium | 2026-10-23 | gpt-5.6-terra | No | AACO, Aramco Services Company, Saudi Aramco Americas | U.S. service and technology arm of Saudi Aramco, with engineering, research, and digital-transformation work. The Aramco name is globally recognized in energy and the internship can signal solid enterprise technical experience, but it is not broadly regarded as a top-tier software-engineering employer. |
 | Arrcus | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Networking software startup with technically relevant products, but a less proven and less widely recognized signal than major networking leaders. |
 | ASSA ABLOY | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected access-control company; software work is credible but its engineering brand is not primarily software-led. |
 | AvePoint | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise SaaS company in Microsoft 365 data management; a solid but specialized engineering signal. |
