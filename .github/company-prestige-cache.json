@@ -16632,6 +16632,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "freestone": {
+      "aliases": [
+        "Freestone Capital Management",
+        "Freestone Capital",
+        "freestonecapital.com"
+      ],
+      "confidence": "high",
+      "display_name": "Freestone",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Established, employee-owned Seattle wealth and asset-management firm with a structured technology/operations internship, but its technical work is internal operations and analytics rather than a recognized software-engineering product or engineering brand. It is a modest regional finance signal, with limited demonstrated SWE selectivity.",
+      "reviewed_at": "2026-10-23",
+      "rubric_version": "prestige-v2"
+    },
     "fresenius kabi": {
       "aliases": [],
       "confidence": "medium",

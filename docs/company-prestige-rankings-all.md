@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3733** of **3733** cached companies (all cached companies).
+Showing **3734** of **3734** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3563,6 +3563,7 @@ Showing **3733** of **3733** cached companies (all cached companies).
 | Faraday Future | 32 | High | 2026-09-03 | gpt-5.6-terra | No | Faraday Future Intelligent Electric, FFIE | EV engineering work can be relevant, but the company's widely reported business instability weakens its employer and career signal. |
 | finalREV | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | Brittle Fluid | Technical mission is credible, but public evidence indicates a very small, newly established company with limited broad engineering-employer recognition or demonstrated selectivity. |
 | First West Credit Union | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | First West | A regional credit union with limited software-engineering visibility outside its local financial-services market. |
+| Freestone | 32 | High | 2026-10-23 | gpt-5.6-terra | No | Freestone Capital Management, Freestone Capital, freestonecapital.com | Established, employee-owned Seattle wealth and asset-management firm with a structured technology/operations internship, but its technical work is internal operations and analytics rather than a recognized software-engineering product or engineering brand. It is a modest regional finance signal, with limited demonstrated SWE selectivity. |
 | Genist Systems Inc. | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | Rotor in Wing: Genist Systems | Internship work appears technically substantive (e.g., firmware, ML/computer vision, and UAV systems), but public evidence indicates a small, lightly recognized company with limited broader software-engineering brand or demonstrated selectivity. |
 | Glasslake Funding ULC | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | Glasslake Funding, Bayview Canada Funding ULC | Credible sector backing, but public evidence indicates a small, mortgage-focused business rather than an established software-engineering employer or internship brand. |
 | Hubs.is | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | Hubs | An early-access, founder-led product company with some technical AI/product signal, but limited public evidence of broad industry recognition, established engineering reputation, or demonstrated selectivity for software engineering internships. |
