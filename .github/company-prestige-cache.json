@@ -18157,6 +18157,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "goodlord": {
+      "aliases": [
+        "Goodlord Group",
+        "goodlord.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Goodlord",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established UK rental-tech scale-up with meaningful funding, market traction, and product breadth, but its engineering reputation is largely UK proptech-specific rather than broadly elite or globally recognized.",
+      "reviewed_at": "2026-10-23",
+      "rubric_version": "prestige-v2"
+    },
     "goodrx": {
       "aliases": [
         "GoodRx Holdings, Inc."

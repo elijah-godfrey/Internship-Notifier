@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3734** of **3734** cached companies (all cached companies).
+Showing **3735** of **3735** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1517,6 +1517,7 @@ Showing **3734** of **3734** cached companies (all cached companies).
 | Geisinger | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | Geisinger Health, Geisinger Health System | Well-regarded regional healthcare system with meaningful health-technology work, but its software engineering brand is not broadly top-tier or highly selective. |
 | Generac | 58 | High | 2026-07-18 | gpt-5.6-terra | No | Generac Power Systems | Recognized energy and power-products company with relevant embedded, IoT, and platform software work; a solid engineering signal. |
 | Ginkgo Bioworks | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ginkgo | Recognized synthetic-biology technology company with technical credibility, but a less established software engineering signal. |
+| Goodlord | 58 | Medium | 2026-10-23 | gpt-5.6-terra | No | Goodlord Group, goodlord.com | Established UK rental-tech scale-up with meaningful funding, market traction, and product breadth, but its engineering reputation is largely UK proptech-specific rather than broadly elite or globally recognized. |
 | Guild Education | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Guild | Known education-benefits technology company with a positive startup/edtech signal, though not a top engineering brand. |
 | Gumloop | 58 | Medium | 2026-08-01 | gpt-5.6-terra | No | - | Emerging AI automation startup with a relevant technical product and some startup-market visibility, but a limited established track record and less broadly recognized engineering signal than top-tier technology employers. |
 | H&R Block | 58 | High | 2026-10-19 | gpt-5.6-terra | No | HRB, H&R Block Digital | Well-known public tax-preparation and fintech company with meaningful consumer software and a structured engineering internship path, but its employer brand is primarily tax services rather than a broadly elite software-engineering destination. |
