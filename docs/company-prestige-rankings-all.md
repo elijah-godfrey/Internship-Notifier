@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3735** of **3735** cached companies (all cached companies).
+Showing **3737** of **3737** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -772,6 +772,7 @@ Showing **3735** of **3735** cached companies (all cached companies).
 | Avride | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Autonomous-mobility work provides a promising technical signal, though the brand is relatively new and less established. |
 | Axle | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Axle Labs | API/infrastructure engineering focus, YC/Gradient backing, and $17.5M Series A provide a solid technical signal, but it remains a young, relatively small insurtech rather than a broadly top-tier engineering brand. |
 | BenchSci | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected AI-driven biotech software company, though its engineering brand is less broadly recognized than top-tier software firms. |
+| Boson AI | 67 | Medium | 2026-10-23 | gpt-5.6-terra | No | Boson AI USA Inc., boson.ai | Young, research-oriented voice-AI startup with technically prominent former AWS AI founders and meaningful open-source model work. It is a credible specialized engineering signal, but its small scale and still-limited mainstream employer recognition keep it below top-tier AI labs. |
 | Capstone | 67 | Medium | 2026-10-19 | gpt-5.6-terra | No | Capstone Investment Advisors, capstoneco.com | Established global alternative-investment manager with meaningful engineering work supporting real-time financial systems. It is a solid, selective finance-tech signal, though its software-engineering brand is more specialized and less broadly recognized than leading technology or quant firms. |
 | Castleton Commodities International | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | CCI, Castleton Commodities | Well-regarded commodities trading firm; technical roles can be selective, but its engineering brand is primarily niche to trading. |
 | CTGT | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | CTGT AI | A YC F24 company with a small team and a 2025 seed round led by Google’s Gradient Ventures with General Catalyst participation—strong early technical/startup signaling, but too new and not yet broadly established as a top-tier engineering brand. |
@@ -902,6 +903,7 @@ Showing **3735** of **3735** cached companies (all cached companies).
 | Rolls Royce | 66 | High | 2026-08-02 | gpt-5.6-terra | No | Rolls-Royce Holdings | Globally respected aerospace and power-systems engineering brand with meaningful embedded and technical software work, but not a primary software employer. |
 | SeatGeek | 66 | High | 2026-10-19 | gpt-5.6-terra | No | seatgeek.com | Well-known, venture-backed live-events technology company with a substantial product engineering organization across marketplace, enterprise ticketing, data, and mobile systems. It is a solid software internship signal, though its engineering brand and selectivity are not broadly viewed at the top-tier technology-company level. |
 | Sequence Holdings | 66 | Medium | 2026-10-16 | gpt-5.6-terra | No | Sequence, Sequence AI Holdings Inc | A very new AI-and-engineering-focused holding company with $75M financing and backing from firms including Lux Capital, 8VC, and Conviction. |
+| Simbe | 66 | High | 2026-10-23 | gpt-5.6-terra | No | Simbe Robotics, simberobotics.com | Well-funded, commercially deployed retail-robotics company with substantive computer-vision, autonomous-systems, and AI engineering work. Its technical signal is solid—particularly for robotics—but its brand recognition and internship selectivity are below broadly elite software employers. |
 | Span | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded energy hardware and software startup with a credible engineering reputation, though narrower than major tech firms. |
 | SPS Commerce Inc | 66 | High | 2026-09-11 | gpt-5.6-terra | No | - | Established public B2B SaaS company with a solid engineering signal, though not generally viewed as elite-tier technology prestige. |
 | SpyCloud | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded cybersecurity company in its specialty, offering a solid but relatively niche engineering signal. |

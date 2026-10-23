@@ -6276,6 +6276,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "boson ai": {
+      "aliases": [
+        "Boson AI USA Inc.",
+        "boson.ai"
+      ],
+      "confidence": "medium",
+      "display_name": "Boson AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Young, research-oriented voice-AI startup with technically prominent former AWS AI founders and meaningful open-source model work. It is a credible specialized engineering signal, but its small scale and still-limited mainstream employer recognition keep it below top-tier AI labs.",
+      "reviewed_at": "2026-10-23",
+      "rubric_version": "prestige-v2"
+    },
     "boston consulting group": {
       "aliases": [
         "BCG"
@@ -36897,6 +36911,20 @@
       "reason": "Specialized AI/edge-machine-learning semiconductor startup with a technically relevant engineering focus, but a newer and less universally recognized software-engineering brand than established top-tier firms.",
       "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
+    },
+    "simbe": {
+      "aliases": [
+        "Simbe Robotics",
+        "simberobotics.com"
+      ],
+      "confidence": "high",
+      "display_name": "Simbe",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Well-funded, commercially deployed retail-robotics company with substantive computer-vision, autonomous-systems, and AI engineering work. Its technical signal is solid\u2014particularly for robotics\u2014but its brand recognition and internship selectivity are below broadly elite software employers.",
+      "reviewed_at": "2026-10-23",
+      "rubric_version": "prestige-v2"
     },
     "simis": {
       "aliases": [],
