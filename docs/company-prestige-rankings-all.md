@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3738** of **3738** cached companies (all cached companies).
+Showing **3739** of **3739** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2716,6 +2716,7 @@ Showing **3738** of **3738** cached companies (all cached companies).
 | Acadia Pharmaceuticals | 47 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized biotech employer, but with a limited standalone software engineering reputation. |
 | Actualize Consulting | 47 | High | 2026-10-16 | gpt-5.6-terra | No | Actualize | Credible niche standing in treasury, mortgage, and capital-markets transformation, including a Kyriba implementation partnership, but it is a small specialist consultancy rather than a broadly recognized software-engineering employer or product company. |
 | Alloy Enterprises | 47 | High | 2026-10-16 | gpt-5.6-terra | No | Alloy | Of Burlington/Boston, Massachusetts: a venture-backed advanced-manufacturing and data-center thermal-management startup acquired by Johnson Controls in 2026. |
+| AltaLink | 47 | High | 2026-10-26 | gpt-5.6-terra | No | AltaLink, L.P., BHE AltaLink Ltd., AltaLink Management Ltd., altalink.ca | Established Alberta electricity-transmission utility owned within Berkshire Hathaway Energy, with credible infrastructure and operational technology work; however, it is primarily a regional regulated utility rather than a recognized software-engineering destination, so its SWE internship signal is industry-specific. |
 | Ameresco | 47 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established clean-energy services company with technically relevant work, but limited broad software engineering prestige. |
 | Amwins | 47 | Medium | 2026-08-02 | gpt-5.6-terra | No | Amwins Group | Large insurance-distribution business with enterprise technology needs, but limited software-engineering brand recognition. |
 | Analysys Mason | 47 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected telecoms and technology consulting specialist, but it is not a major software engineering brand. |

@@ -1792,6 +1792,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "altalink": {
+      "aliases": [
+        "AltaLink, L.P.",
+        "BHE AltaLink Ltd.",
+        "AltaLink Management Ltd.",
+        "altalink.ca"
+      ],
+      "confidence": "high",
+      "display_name": "AltaLink",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 47,
+      "reason": "Established Alberta electricity-transmission utility owned within Berkshire Hathaway Energy, with credible infrastructure and operational technology work; however, it is primarily a regional regulated utility rather than a recognized software-engineering destination, so its SWE internship signal is industry-specific.",
+      "reviewed_at": "2026-10-26",
+      "rubric_version": "prestige-v2"
+    },
     "altamira technologies": {
       "aliases": [],
       "confidence": "medium",
