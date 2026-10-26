@@ -1021,6 +1021,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "aflac": {
+      "aliases": [
+        "American Family Life Assurance Company of Columbus",
+        "AFL"
+      ],
+      "confidence": "high",
+      "display_name": "Aflac",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Well-known insurance company with established internal digital and technology teams, but it is not broadly viewed as a leading software-engineering employer or especially selective technical internship signal.",
+      "reviewed_at": "2026-10-26",
+      "rubric_version": "prestige-v2"
+    },
     "afterquery": {
       "aliases": [
         "AfterQuery Experts"
@@ -19860,6 +19874,19 @@
       "prestige_score": 73,
       "reason": "A very young seed-stage company with limited broad employer recognition, preventing a top-tier score.",
       "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v2"
+    },
+    "hiya": {
+      "aliases": [
+        "Hiya Voice Security"
+      ],
+      "confidence": "medium",
+      "display_name": "Hiya",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established voice-security and caller-protection software company with meaningful carrier and device-platform integrations. It offers credible specialized engineering work in fraud detection and communications infrastructure, but has a comparatively limited, industry-specific software-engineering brand rather than broad top-tier prestige.",
+      "reviewed_at": "2026-10-26",
       "rubric_version": "prestige-v2"
     },
     "hmh": {

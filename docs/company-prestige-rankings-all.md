@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3739** of **3739** cached companies (all cached companies).
+Showing **3741** of **3741** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1528,6 +1528,7 @@ Showing **3739** of **3739** cached companies (all cached companies).
 | Health Canada | 58 | High | 2026-09-11 | gpt-5.6-terra | No | - | Major federal institution with credible technical and public-service experience, though not generally a top-tier software engineering brand. |
 | Heron Power | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | Heron Power Electronics | Major Series A/B backing and technically ambitious software-integrated power-conversion work make it a credible, selective climate/industrial-tech signal, but it is a very young company with a primarily hardware-focused and not yet broadly established software-engineering brand. |
 | Highlight Technologies | 58 | High | 2026-10-16 | gpt-5.6-terra | No | Highlight, HighlightTech, Fairfax, Virginia federal IT contractor | An established federal technology contractor with DevSecOps, cloud, data, and application-services work and was acquired by Empower AI in July 2026, giving it a credible GovTech engineering signal. |
+| Hiya | 58 | Medium | 2026-10-26 | gpt-5.6-terra | No | Hiya Voice Security | Established voice-security and caller-protection software company with meaningful carrier and device-platform integrations. It offers credible specialized engineering work in fraud detection and communications infrastructure, but has a comparatively limited, industry-specific software-engineering brand rather than broad top-tier prestige. |
 | Howard University | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-known university with a respectable technical and academic brand, but not a top-tier software-employer signal. |
 | Howden Group Holdings | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | Howden, Howden Group, global insurance broker | A large, top-10 global insurance broker with established technology and data functions, but it is primarily recognized for insurance broking—not as a selective or broadly renowned software-engineering employer. |
 | HPR | 58 | Medium | 2026-10-19 | gpt-5.6-terra | No | Hyannis Port Research, hpr.tech, hyannisportresearch.com, HPR (Hyannis Port Research) | Established specialist in ultra-low-latency capital-markets infrastructure, with partnerships and recognition in trading technology. The engineering work is technically credible and niche-relevant, but the company has limited broad software-industry name recognition and no clear public evidence of highly selective internship hiring. |
@@ -2464,6 +2465,7 @@ Showing **3739** of **3739** cached companies (all cached companies).
 | Advance Auto Parts | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large recognizable retailer with internal technology roles, but limited standalone prestige as a software-engineering employer. |
 | Advocate Health Care | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known regional healthcare provider, but its engineering brand is primarily internal health-system technology rather than software product development. |
 | Aevex Aerospace | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized aerospace and defense technology employer with relevant systems work, but limited broad software-brand recognition. |
+| Aflac | 48 | High | 2026-10-26 | gpt-5.6-terra | No | American Family Life Assurance Company of Columbus, AFL | Well-known insurance company with established internal digital and technology teams, but it is not broadly viewed as a leading software-engineering employer or especially selective technical internship signal. |
 | Airgas | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial distribution company, but it has limited recognition for software engineering specifically. |
 | Alamar Biosciences | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Growing life-sciences company with specialized technical work, but limited broad recognition as a software-engineering destination. |
 | Alston & Bird Law Firm | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded in legal services, but software engineering is a supporting function rather than the firm's primary career brand. |
