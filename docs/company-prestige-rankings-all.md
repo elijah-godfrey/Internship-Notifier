@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3737** of **3737** cached companies (all cached companies).
+Showing **3738** of **3738** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2058,6 +2058,7 @@ Showing **3737** of **3737** cached companies (all cached companies).
 | WTW | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | Willis Towers Watson | Established global advisory and insurance-services firm with technology work, but limited dedicated software-engineering brand prestige. |
 | ZOLL Medical Corporation | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | ZOLL | Respected medical-technology company where software can be consequential, though its engineering reputation is primarily embedded and device-focused. |
 | Achievers | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | Achievers Solutions Inc. | Established HR software company with a credible SaaS engineering environment, but limited broad prestige. |
+| Aegon Asset Management | 53 | Medium | 2026-10-26 | gpt-5.6-terra | No | Aegon AM, aegonam.com, Aegon USA Investment Management, Aegon Asset Management UK, Aegon Investment Management | Established global investment-management business within Aegon, with meaningful institutional scale and financial-services credibility. However, it is not broadly known as a selective software-engineering employer or for a standout engineering brand, so the internship signal is mainly industry-specific. |
 | Air Products | 53 | High | 2026-08-02 | gpt-5.6-terra | No | Air Products and Chemicals | Respected industrial-gases company, but it has a limited standalone software-engineering employer brand. |
 | Albemarle | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialty-chemicals company, but its software engineering brand is not a major career signal. |
 | Analytical Mechanics Associates | 53 | Medium | 2026-07-18 | gpt-5.6-terra | No | AMA | Specialized engineering and aerospace-services employer with credible technical work, but limited broad software-engineering recognition. |
