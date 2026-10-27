@@ -25891,6 +25891,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "mayo clinic": {
+      "aliases": [
+        "Mayo Foundation for Medical Education and Research",
+        "Mayo Clinic Health System"
+      ],
+      "confidence": "high",
+      "display_name": "Mayo Clinic",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Globally recognized, highly respected healthcare and research institution with meaningful engineering and software work, including internships. Its technical signal is strong in health technology but is less broadly elite or selective in software engineering than leading technology companies.",
+      "reviewed_at": "2026-10-27",
+      "rubric_version": "prestige-v2"
+    },
     "mc dean": {
       "aliases": [],
       "confidence": "medium",

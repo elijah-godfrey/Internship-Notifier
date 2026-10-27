@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3742** of **3742** cached companies (all cached companies).
+Showing **3743** of **3743** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -802,6 +802,7 @@ Showing **3742** of **3742** cached companies (all cached companies).
 | Layer Health | 67 | High | 2026-10-16 | gpt-5.6-terra | No | - | MIT technical roots, experienced AI/ML founders, and $21M Series A backed by firms including Define, GV, and Flare make it a strong early-stage engineering signal; however, it is a young, small company with limited broad employer-brand recognition versus established top-tier software employers. |
 | Mach9 | 67 | High | 2026-10-16 | gpt-5.6-terra | No | Mach9 AI, Mach9 Robotics | Carnegie Mellon Robotics Institute founding team, Y Combinator affiliation, $12M seed round, and technically demanding LiDAR-to-engineering-deliverables product make it a solid software/ML internship signal, though it remains a small, specialized, early-stage company without broad top-tier employer recognition. |
 | Mariana Minerals | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Mariana | In-house software, ML, and autonomy work and prominent backing from Khosla Ventures, a16z, and Breakthrough Energy Ventures make it a strong emerging hard-tech signal; however, it is a very young company without the broadly established software-engineering brand or demonstrated selectivity of top-tier employers. |
+| Mayo Clinic | 67 | High | 2026-10-27 | gpt-5.6-terra | No | Mayo Foundation for Medical Education and Research, Mayo Clinic Health System | Globally recognized, highly respected healthcare and research institution with meaningful engineering and software work, including internships. Its technical signal is strong in health technology but is less broadly elite or selective in software engineering than leading technology companies. |
 | Method | 67 | Low | 2026-10-16 | gpt-5.6-terra | No | Method Financial | $42M Series B and investors including Emergence Capital, a16z, and YC support a strong early-stage engineering signal, but it remains a small, relatively young company without broad top-tier employer recognition. |
 | Nasuni | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected enterprise cloud-data platform with a solid infrastructure engineering signal, though less broadly known than top-tier peers. |
 | NAVER U.Hub Inc. | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | V Live Inc., U.Hub INC | Tech employers. |
