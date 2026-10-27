@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3741** of **3741** cached companies (all cached companies).
+Showing **3742** of **3742** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -821,6 +821,7 @@ Showing **3741** of **3741** cached companies (all cached companies).
 | Royal Bank of Canada | 67 | High | 2026-07-22 | gpt-5.6-terra | No | RBC, RBC Royal Bank | Major, well-regarded financial institution with substantial technology organizations; a solid engineering signal, though banking is not generally viewed as elite software branding. |
 | SafetyKit Inc. | 67 | High | 2026-10-16 | gpt-5.6-terra | No | - | $27M Series A, backing from Ribbit and First Round, and production customers including Patreon, Eventbrite, and Upwork make it a solid software-engineering signal; however, it remains a young, specialized startup without broad top-tier employer recognition. |
 | Safran | 67 | High | 2026-08-02 | gpt-5.6-terra | No | Safran S.A. | Major aerospace and defense engineering company with respected technical work, though less identified with mainstream software engineering. |
+| Saviynt | 67 | Medium | 2026-10-27 | gpt-5.6-terra | No | Saviynt Identity Cloud, saviynt.com | Well-funded enterprise identity-security company with a substantial cloud platform and credible standing in the IAM/IGA market. It provides a solid cybersecurity and enterprise-software engineering signal, though its name recognition and demonstrated internship selectivity are below top-tier security or large-platform employers. |
 | Semtech | 67 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected semiconductor and connectivity company with meaningful technical engineering credibility, though more hardware-focused than a premier software brand. |
 | Sierra Space | 67 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable commercial-space employer with strong systems and aerospace engineering relevance; software prestige is specialized rather than broad. |
 | Signal 1 AI Inc. | 67 | High | 2026-10-16 | gpt-5.6-terra | No | Signal 1 | Credible technical signals—specialist clinical-AI deployments at major health systems and Signal 1-affiliated NeurIPS research—but remains a relatively small, niche startup without broad top-tier software-engineering employer recognition. |

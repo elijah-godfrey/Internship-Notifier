@@ -35850,6 +35850,20 @@
       "reviewed_at": "2026-07-28",
       "rubric_version": "prestige-v1"
     },
+    "saviynt": {
+      "aliases": [
+        "Saviynt Identity Cloud",
+        "saviynt.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Saviynt",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "Well-funded enterprise identity-security company with a substantial cloud platform and credible standing in the IAM/IGA market. It provides a solid cybersecurity and enterprise-software engineering signal, though its name recognition and demonstrated internship selectivity are below top-tier security or large-platform employers.",
+      "reviewed_at": "2026-10-27",
+      "rubric_version": "prestige-v2"
+    },
     "sba communications": {
       "aliases": [],
       "confidence": "medium",
