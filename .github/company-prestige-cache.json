@@ -11624,6 +11624,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "david yurman": {
+      "aliases": [
+        "David Yurman Enterprises LLC"
+      ],
+      "confidence": "medium",
+      "display_name": "David Yurman",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 47,
+      "reason": "Established luxury-jewelry brand with an internal technology function, but it is not broadly recognized as a software engineering employer; public evidence of a dedicated SWE internship or highly selective engineering pipeline is limited.",
+      "reviewed_at": "2026-10-27",
+      "rubric_version": "prestige-v2"
+    },
     "davies ward phillips and vineberg llp": {
       "aliases": [
         "Davies",
@@ -12438,16 +12451,19 @@
     },
     "disney": {
       "aliases": [
-        "Disney Entertainment"
+        "The Walt Disney Company",
+        "Disney Entertainment & ESPN Product & Technology",
+        "Disney Streaming",
+        "Disney Careers"
       ],
       "confidence": "high",
       "display_name": "Disney",
       "manual_override": false,
       "model": "gpt-5.6-terra",
       "prestige_score": 72,
-      "reason": "Exceptional global brand with substantial digital, streaming, and platform engineering work, though less software-centric than leading technology companies.",
-      "reviewed_at": "2026-08-02",
-      "rubric_version": "prestige-v1"
+      "reason": "Globally recognized employer with substantial software work across Disney+, ESPN, consumer platforms, data, and Imagineering. It is a strong career signal, though its engineering brand is less consistently top-tier than leading technology-first firms.",
+      "reviewed_at": "2026-10-27",
+      "rubric_version": "prestige-v2"
     },
     "ditto": {
       "aliases": [
@@ -24818,6 +24834,24 @@
       "reason": "Respected photonics and networking-hardware company, but software is not its primary employer brand.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "lumerate": {
+      "aliases": [
+        "Zymewire",
+        "Zapyrus",
+        "Zebricks",
+        "Crofter",
+        "Clinwire",
+        "BioBackers"
+      ],
+      "confidence": "medium",
+      "display_name": "Lumerate",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established Canadian, customer-funded B2B software company building data and ML-enabled products for the medical-innovation ecosystem. It has a real engineering organization, but its software brand and internship selectivity appear primarily niche and regional rather than broadly recognized.",
+      "reviewed_at": "2026-10-27",
+      "rubric_version": "prestige-v2"
     },
     "lumeris": {
       "aliases": [],

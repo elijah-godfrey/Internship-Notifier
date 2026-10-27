@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3743** cached companies (maximum 500).
+Showing **500** of **3745** cached companies (maximum 500).
 
-_The 3243 lowest-scored companies are omitted by the report cap._
+_The 3245 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -484,7 +484,7 @@ _The 3243 lowest-scored companies are omitted by the report cap._
 | Criteo | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known ad-tech company with substantial data, machine-learning, and software engineering work. |
 | Deepgram | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded speech AI company with a strong technically focused brand, though smaller and less proven than the top AI labs. |
 | Deliveroo | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized global marketplace and logistics technology company with substantial engineering complexity and a strong European tech signal. |
-| Disney | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Disney Entertainment | Exceptional global brand with substantial digital, streaming, and platform engineering work, though less software-centric than leading technology companies. |
+| Disney | 72 | High | 2026-10-27 | gpt-5.6-terra | No | The Walt Disney Company, Disney Entertainment & ESPN Product & Technology, Disney Streaming, Disney Careers | Globally recognized employer with substantial software work across Disney+, ESPN, consumer platforms, data, and Imagineering. It is a strong career signal, though its engineering brand is less consistently top-tier than leading technology-first firms. |
 | Draper | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Draper Laboratory, Charles Stark Draper Laboratory, The Charles Stark Draper Laboratory, Inc., Charles Stark Draper Laboratory, Cambridge, MA | MIT Instrumentation Laboratory roots, longstanding advanced work in national security and space, and current embedded/software, autonomy, and ML engineering internships make it a strong technical signal—especially for defense, aerospace, and systems software—though less broadly prestigious for general software. |
 | Equinix | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized digital-infrastructure leader; strong systems, networking, and cloud-adjacent engineering signal. |
 | Exabeam | 72 | High | 2026-08-05 | gpt-5.6-terra | No | - | Recognized cybersecurity company with a strong security-product engineering signal, though below the most elite software brands. |

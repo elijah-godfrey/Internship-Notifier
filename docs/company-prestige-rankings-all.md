@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3743** of **3743** cached companies (all cached companies).
+Showing **3745** of **3745** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -482,7 +482,7 @@ Showing **3743** of **3743** cached companies (all cached companies).
 | Criteo | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known ad-tech company with substantial data, machine-learning, and software engineering work. |
 | Deepgram | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded speech AI company with a strong technically focused brand, though smaller and less proven than the top AI labs. |
 | Deliveroo | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized global marketplace and logistics technology company with substantial engineering complexity and a strong European tech signal. |
-| Disney | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Disney Entertainment | Exceptional global brand with substantial digital, streaming, and platform engineering work, though less software-centric than leading technology companies. |
+| Disney | 72 | High | 2026-10-27 | gpt-5.6-terra | No | The Walt Disney Company, Disney Entertainment & ESPN Product & Technology, Disney Streaming, Disney Careers | Globally recognized employer with substantial software work across Disney+, ESPN, consumer platforms, data, and Imagineering. It is a strong career signal, though its engineering brand is less consistently top-tier than leading technology-first firms. |
 | Draper | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Draper Laboratory, Charles Stark Draper Laboratory, The Charles Stark Draper Laboratory, Inc., Charles Stark Draper Laboratory, Cambridge, MA | MIT Instrumentation Laboratory roots, longstanding advanced work in national security and space, and current embedded/software, autonomy, and ML engineering internships make it a strong technical signal—especially for defense, aerospace, and systems software—though less broadly prestigious for general software. |
 | Equinix | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized digital-infrastructure leader; strong systems, networking, and cloud-adjacent engineering signal. |
 | Exabeam | 72 | High | 2026-08-05 | gpt-5.6-terra | No | - | Recognized cybersecurity company with a strong security-product engineering signal, though below the most elite software brands. |
@@ -2741,6 +2741,7 @@ Showing **3743** of **3743** cached companies (all cached companies).
 | Covestro | 47 | High | 2026-08-02 | gpt-5.6-terra | No | Covestro AG | Respected chemicals and materials company, but its employer reputation is not centered on software engineering. |
 | Crane Co. | 47 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial manufacturer, but it has limited recognition as a software-engineering destination. |
 | Dark Wolf Solutions | 47 | Medium | 2026-08-02 | gpt-5.6-terra | No | Dark Wolf | Respected niche defense and national-security technology consultancy, with recognition concentrated in that sector. |
+| David Yurman | 47 | Medium | 2026-10-27 | gpt-5.6-terra | No | David Yurman Enterprises LLC | Established luxury-jewelry brand with an internal technology function, but it is not broadly recognized as a software engineering employer; public evidence of a dedicated SWE internship or highly selective engineering pipeline is limited. |
 | Delta Dental | 47 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established insurance organization, but its software engineering brand is primarily enterprise and industry-specific. |
 | Deluxe | 47 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established business-services company, but it carries limited contemporary prestige as a software engineering destination. |
 | Electrical Safety Authority (ESA) | 47 | High | 2026-09-11 | gpt-5.6-terra | No | ESA, Electrical Safety Authority | Respected sector regulator, but technical work there carries limited broad software-engineering brand recognition. |
@@ -3110,6 +3111,7 @@ Showing **3743** of **3743** cached companies (all cached companies).
 | Leggett & Platt | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established manufacturing company with limited software-engineering reputation beyond internal enterprise technology roles. |
 | Liberty University | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Recognized university employer, but it has a limited software-engineering brand and is not generally a highly selective or prominent destination for SWE internships. |
 | Linea Energy | 43 | High | 2026-10-17 | gpt-5.6-terra | No | Linea, lineaenergy.com | A credible, EnCap-sponsored U.S. renewable-energy developer and independent power producer with substantial utility-scale projects and financing activity. However, it has limited public software-engineering brand recognition or evidence of a selective, established SWE internship pipeline, so the career signal is mainly industry-specific. |
+| Lumerate | 43 | Medium | 2026-10-27 | gpt-5.6-terra | No | Zymewire, Zapyrus, Zebricks, Crofter, Clinwire, BioBackers | Established Canadian, customer-funded B2B software company building data and ML-enabled products for the medical-innovation ecosystem. It has a real engineering organization, but its software brand and internship selectivity appear primarily niche and regional rather than broadly recognized. |
 | Lynker | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Lynker Technologies | Specialized environmental and government-services contractor with limited broad software-engineering employer recognition. |
 | Maple Leaf Sports & Entertainment Partnership (MLSE) | 43 | High | 2026-08-02 | gpt-5.6-terra | No | MLSE, Maple Leaf Sports & Entertainment | Prominent sports organization, but its software engineering reputation is limited relative to dedicated technology employers. |
 | Marquee Brands | 43 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Recognized consumer-brand management company, but its technical employer brand and software-engineering selectivity appear limited. |
