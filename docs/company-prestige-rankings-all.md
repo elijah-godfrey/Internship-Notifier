@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3745** of **3745** cached companies (all cached companies).
+Showing **3748** of **3748** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -734,6 +734,7 @@ Showing **3745** of **3745** cached companies (all cached companies).
 | Sandisk | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized storage-technology brand with meaningful systems and hardware-software engineering relevance, though not a top software employer signal. |
 | Saronic Technologies | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | Saronic | Well-regarded defense-tech startup with technically demanding autonomy work, but a narrower software-employer brand. |
 | Schweitzer Engineering Laboratories | 68 | Medium | 2026-07-21 | gpt-5.6-terra | No | SEL, Schweitzer Engineering Labs | Respected engineering company in power-system protection and automation, offering a solid technical signal, though its software brand is specialized rather than broadly elite. |
+| Scout AI | 68 | Medium | 2026-10-28 | gpt-5.6-terra | No | scoutco.ai | Well-funded frontier defense-AI startup building autonomy software for unmanned systems, with meaningful early defense traction and a strong technical problem area. Its software-engineering signal is positive, but the company is very young and has not yet built the broad, proven reputation of top-tier AI or defense-tech employers. |
 | Seagate Technology | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Seagate | Recognized storage and hardware technology company with credible systems and firmware engineering work, though not a top software employer brand. |
 | Signifyd | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded fraud-prevention fintech with a credible software and data-engineering focus, though not a broadly elite general-tech signal. |
 | Sprinklr | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise SaaS company with credible engineering work, though not generally viewed as top-tier tech. |
@@ -1539,6 +1540,7 @@ Showing **3745** of **3745** cached companies (all cached companies).
 | INDUS.AI | 58 | High | 2026-10-16 | gpt-5.6-terra | No | Indus AI, Inc | It built an AI analytics platform for construction, raised a reported $8M Series A, and was acquired by Procore in May 2021; this is a credible specialized engineering signal, but its independent brand has limited broad software-industry recognition. |
 | Infleqtion | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | ColdQuanta | Quantum technology company with technically interesting work, but a still-specialized and less established software-employer signal. |
 | INIT Group | 58 | Medium | 2026-09-11 | gpt-5.6-terra | No | INIT | Respected specialized provider of intelligent transportation systems, with a solid but niche software-engineering signal. |
+| Integrate | 58 | Medium | 2026-10-28 | gpt-5.6-terra | No | Integrate.co, Integrate (Seattle defense-tech company) | Early-stage Seattle defense-tech software company building secure project-management infrastructure for complex government and industrial programs. Its Space Force work and $17M Series A provide a positive technical signal, but it remains a young, niche employer without broad software-engineering brand recognition. |
 | Intermountain Healthcare | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Intermountain Health | Respected healthcare system with substantial technology needs, but its brand is not primarily a software-engineering one. |
 | Invesco | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-known asset manager, but its software-engineering reputation is primarily finance-industry specific rather than broadly elite. |
 | ITHAKA | 58 | High | 2026-10-16 | gpt-5.6-terra | No | Ithaka Harbors, JSTOR, Portico, Ithaka S+R, JSTOR, Portico, and Ithaka S+R | Engineering work supports a widely recognized scholarly digital-library and preservation ecosystem, giving it a solid, mission-focused technical signal; however, it is not broadly viewed as a top-tier or highly selective software-engineering employer. |
@@ -2186,6 +2188,7 @@ Showing **3745** of **3745** cached companies (all cached companies).
 | Focusrite | 52 | Medium | 2026-10-17 | gpt-5.6-terra | No | The Focusrite Group, Focusrite Group, Focusrite Pro, Novation | Established public audio-technology group with recognized pro-audio brands and substantive embedded/software product engineering, but its employer signal is chiefly niche to music and audio hardware rather than broadly prestigious in software engineering. |
 | Frontier Economics | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected economics consultancy, but software roles are secondary to its core professional-services reputation. |
 | Fullsteam | 52 | High | 2026-10-16 | gpt-5.6-terra | No | Fullsteam Holdings, Fullsteam Operations | A substantial, credible operator of niche SaaS and payments products, but its software-engineering brand and demonstrated internship selectivity are primarily industry-specific rather than broadly top-tier. |
+| FUTO | 52 | Medium | 2026-10-28 | gpt-5.6-terra | No | FUTO Tech, futo.tech, futo.org | Small Austin software lab with a recognizable niche in privacy-focused, user-controlled software and in-house engineering projects. It offers meaningful technical work, but it has limited broad employer recognition and little public evidence of highly selective engineering hiring. |
 | GEHA | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established health-benefits organization, but it has limited broad recognition as a software-engineering destination. |
 | GITAI | 52 | Low | 2026-09-29 | gpt-5.6-terra | No | - | Space-robotics startup with technically interesting engineering work, but limited broad recognition and a less established software-engineering hiring signal than major aerospace or technology employers. |
 | Global Infrastructure Partners | 52 | Low | 2026-10-16 | gpt-5.6-terra | No | GIP, Global Infrastructure Management, LLC, Global Infrastructure | Well regarded in infrastructure and finance, but it is not primarily a software company and has a limited standalone software-engineering internship brand. |

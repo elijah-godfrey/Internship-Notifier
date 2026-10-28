@@ -16907,6 +16907,21 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "futo": {
+      "aliases": [
+        "FUTO Tech",
+        "futo.tech",
+        "futo.org"
+      ],
+      "confidence": "medium",
+      "display_name": "FUTO",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Small Austin software lab with a recognizable niche in privacy-focused, user-controlled software and in-house engineering projects. It offers meaningful technical work, but it has limited broad employer recognition and little public evidence of highly selective engineering hiring.",
+      "reviewed_at": "2026-10-28",
+      "rubric_version": "prestige-v2"
+    },
     "future lovers": {
       "aliases": [],
       "confidence": "medium",
@@ -21506,6 +21521,20 @@
       "reason": "Recognized ad-tech company with technically demanding data and measurement products and a solid engineering signal.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "integrate": {
+      "aliases": [
+        "Integrate.co",
+        "Integrate (Seattle defense-tech company)"
+      ],
+      "confidence": "medium",
+      "display_name": "Integrate",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Early-stage Seattle defense-tech software company building secure project-management infrastructure for complex government and industrial programs. Its Space Force work and $17M Series A provide a positive technical signal, but it remains a young, niche employer without broad software-engineering brand recognition.",
+      "reviewed_at": "2026-10-28",
+      "rubric_version": "prestige-v2"
     },
     "integrated resources": {
       "aliases": [
@@ -36131,6 +36160,19 @@
       "reason": "Established public utility with solid regional standing, but limited recognition as a software-engineering destination.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "scout ai": {
+      "aliases": [
+        "scoutco.ai"
+      ],
+      "confidence": "medium",
+      "display_name": "Scout AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-funded frontier defense-AI startup building autonomy software for unmanned systems, with meaningful early defense traction and a strong technical problem area. Its software-engineering signal is positive, but the company is very young and has not yet built the broad, proven reputation of top-tier AI or defense-tech employers.",
+      "reviewed_at": "2026-10-28",
+      "rubric_version": "prestige-v2"
     },
     "scout clean energy": {
       "aliases": [
