@@ -7826,6 +7826,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "cc and l investment management": {
+      "aliases": [
+        "CCLIM - Quantitative Equity",
+        "CC&L Quantitative Equity",
+        "Connor, Clark & Lunn Investment Management"
+      ],
+      "confidence": "high",
+      "display_name": "CC&L Investment Management",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 69,
+      "reason": "Established Canadian institutional asset manager with a substantial, technology-intensive quantitative-equity team and dedicated software-development internships. It is a strong finance/quant engineering signal, though less broadly recognized or selective than elite global quant firms.",
+      "reviewed_at": "2026-10-28",
+      "rubric_version": "prestige-v2"
+    },
     "ccc intelligent solutions": {
       "aliases": [
         "CCC",
@@ -8976,6 +8991,20 @@
       "prestige_score": 58,
       "reason": "A recognizable national employer brand and a dedicated Clayton Technology unit, but it is principally a housing company rather than a widely recognized or especially selective software-engineering employer.",
       "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v2"
+    },
+    "clean harbors": {
+      "aliases": [
+        "CLH",
+        "Safety-Kleen"
+      ],
+      "confidence": "high",
+      "display_name": "Clean Harbors",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established public leader in North American environmental and industrial services with meaningful scale and internship programs, but it is not broadly recognized as a software-first employer or a particularly selective engineering brand.",
+      "reviewed_at": "2026-10-28",
       "rubric_version": "prestige-v2"
     },
     "clear": {
@@ -37887,6 +37916,17 @@
       "reason": "Established enterprise mobility and device-management software company with a solid technical reputation.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "soundexchange": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "SoundExchange",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established music-rights nonprofit with a meaningful technology and data platform supporting large-scale royalty administration. It has credible domain importance and an engineering function, but its software-engineering brand and selectivity are primarily niche rather than broadly prestigious across the tech industry.",
+      "reviewed_at": "2026-10-28",
+      "rubric_version": "prestige-v2"
     },
     "soundoff signal": {
       "aliases": [],

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3748** of **3748** cached companies (all cached companies).
+Showing **3751** of **3751** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -615,6 +615,7 @@ Showing **3748** of **3748** cached companies (all cached companies).
 | ASUS USA | 69 | High | 2026-08-02 | gpt-5.6-terra | No | ASUS, ASUSTeK Computer | Recognized global computing-hardware brand; technical credibility is solid, though software is not its primary reputation. |
 | AXL | 69 | Medium | 2026-10-16 | gpt-5.6-terra | No | AXL: Human Potential, AI Superpowered, AXL Labs, Toronto venture studio | U of T-led AI/HCI research ties, $15M initial fund, and technical-lab model create a solid engineering signal, but it is still young and lacks the established, broad software-employer reputation of top-tier firms. |
 | Boomi | 69 | High | 2026-08-02 | gpt-5.6-terra | No | Dell Boomi, Boomi LP | Well-regarded enterprise integration and SaaS company with a meaningful technical product and solid engineering signal. |
+| CC&L Investment Management | 69 | High | 2026-10-28 | gpt-5.6-terra | No | CCLIM - Quantitative Equity, CC&L Quantitative Equity, Connor, Clark & Lunn Investment Management | Established Canadian institutional asset manager with a substantial, technology-intensive quantitative-equity team and dedicated software-development internships. It is a strong finance/quant engineering signal, though less broadly recognized or selective than elite global quant firms. |
 | Cognex | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded machine-vision company with a strong technical reputation in industrial automation. |
 | Crosby | 69 | High | 2026-10-16 | gpt-5.6-terra | No | Crosby Legal, Crosby AI law firm | Engineering signal is strengthened by prominent venture backing (including Sequoia, Index Ventures, Bain Capital Ventures, and Lux Capital), substantial reported funding, and an engineering-led product organization. |
 | Deel | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known global HR and payroll technology company with a solid engineering signal, though not generally viewed as top-tier technically. |
@@ -2159,6 +2160,7 @@ Showing **3748** of **3748** cached companies (all cached companies).
 | CHEP | 52 | Medium | 2026-07-19 | gpt-5.6-terra | No | Brambles | Established global supply-chain and pallet-pooling company, offering a credible enterprise technology signal but without a particularly prominent or selective software-engineering brand. |
 | Chick-fil-A | 52 | High | 2026-08-24 | gpt-5.6-terra | No | - | Highly recognizable, well-regarded consumer brand with meaningful technology operations, but it is not broadly viewed as a top-tier or especially selective software engineering employer. |
 | Church & Dwight | 52 | Medium | 2026-10-19 | gpt-5.6-terra | No | CHD, churchdwight.com | Established S&P 500 consumer-goods company with recognizable brands and corporate IT opportunities, but it is not a software-first employer and has limited broad software-engineering prestige or demonstrated SWE selectivity. |
+| Clean Harbors | 52 | High | 2026-10-28 | gpt-5.6-terra | No | CLH, Safety-Kleen | Established public leader in North American environmental and industrial services with meaningful scale and internship programs, but it is not broadly recognized as a software-first employer or a particularly selective engineering brand. |
 | Clorox | 52 | High | 2026-08-02 | gpt-5.6-terra | No | - | Prominent consumer-goods company, but its software-engineering brand is not a central career signal. |
 | Commerce Bank | 52 | High | 2026-10-19 | gpt-5.6-terra | No | Commerce Bancshares, Inc., CBSH, Commerce Bank (Kansas City, Missouri), commercebank.com | Established public regional bank with a meaningful technology organization and developer program, but limited national software-engineering brand or selectivity relative to major technology and financial-services employers. |
 | Conagra Brands | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Conagra | Well-known consumer-products employer, but software is primarily a supporting function rather than a prominent engineering brand. |
@@ -2258,6 +2260,7 @@ Showing **3748** of **3748** cached companies (all cached companies).
 | SightCall | 52 | Medium | 2026-08-18 | gpt-5.6-terra | No | - | Recognized provider of visual-assistance software with a credible technical product, but primarily known within its niche. |
 | Skyward, Inc. | 52 | High | 2026-10-16 | gpt-5.6-terra | No | Skyward School Management Software, Skyward K-12 | An established, recognized employer within K–12 edtech and offers software-engineering internships involving real product work, but its engineering brand and selectivity are primarily industry-specific rather than broadly top-tier. |
 | Solventum | 52 | Medium | 2026-09-30 | gpt-5.6-terra | No | - | Established healthcare technology company with credible engineering work, but a newer standalone brand with limited broad recognition or selectivity as a software-engineering employer. |
+| SoundExchange | 52 | Medium | 2026-10-28 | gpt-5.6-terra | No | - | Established music-rights nonprofit with a meaningful technology and data platform supporting large-scale royalty administration. It has credible domain importance and an engineering function, but its software-engineering brand and selectivity are primarily niche rather than broadly prestigious across the tech industry. |
 | Squint Inc | 52 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | A visible industrial-workflow technology startup, but still a relatively niche and less established software-engineering signal. |
 | Staples | 52 | Medium | 2026-10-08 | gpt-5.6-terra | No | - | Recognizable national retailer with legitimate enterprise technology work, but it is not a notably selective or influential software-engineering brand. |
 | Stash | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | Stash Financial | Recognized consumer fintech startup with relevant product engineering, though its employer signal is not broadly elite. |
