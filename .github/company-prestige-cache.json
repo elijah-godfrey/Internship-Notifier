@@ -6965,6 +6965,20 @@
       "reviewed_at": "2026-10-19",
       "rubric_version": "prestige-v2"
     },
+    "burns engineering": {
+      "aliases": [
+        "Burns",
+        "burns-group.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Burns Engineering",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "A nationally recognized specialized infrastructure and design consultancy with a formal internship program and credible technical-project reputation, but limited software-engineering brand recognition or demonstrated selectivity relative to dedicated technology employers.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "businessolver": {
       "aliases": [],
       "confidence": "medium",
@@ -10169,6 +10183,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "connor clark and lunn financial group": {
+      "aliases": [
+        "CC&L Financial Group",
+        "CC&L",
+        "cclgroup.com"
+      ],
+      "confidence": "high",
+      "display_name": "Connor, Clark & Lunn Financial Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Established Canadian multi-boutique asset manager with meaningful quantitative and investment-analytics engineering work, but its employer brand is primarily finance-focused rather than broadly recognized as a top software-engineering destination.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "conocophillips": {
       "aliases": [],
       "confidence": "high",
@@ -11100,6 +11129,19 @@
       "reason": "Specialized cryptographic-security company with technically credible work, though its recognition is primarily niche rather than broad.",
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
+    },
+    "crystal dynamics": {
+      "aliases": [
+        "Crystal Dynamics \u2013 Eidos"
+      ],
+      "confidence": "high",
+      "display_name": "Crystal Dynamics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Established AAA game studio with a globally recognized Tomb Raider track record and substantial real-time game-development engineering signal; respected within games, though its brand is more industry-specific than top general-software employers.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
     },
     "csa group": {
       "aliases": [],
@@ -29959,6 +30001,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "oneethos": {
+      "aliases": [
+        "oneethos.com",
+        "Ethos"
+      ],
+      "confidence": "medium",
+      "display_name": "OneEthos",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 34,
+      "reason": "Small, mission-driven fintech building solar-lending and digital banking software. It offers substantive engineering work, but its software-engineering brand and broader employer recognition remain limited relative to established fintechs or major technology companies.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "onemain financial": {
       "aliases": [],
       "confidence": "medium",
@@ -32707,6 +32763,20 @@
       "reason": "Recognizable consumer sports-gaming company with relevant product engineering, but a comparatively narrow and less established prestige signal.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "procogia": {
+      "aliases": [
+        "procogia.com",
+        "0965688 BC LTD."
+      ],
+      "confidence": "medium",
+      "display_name": "ProCogia",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established Vancouver-based AI and data consulting firm with hands-on data engineering, cloud, and ML work for enterprise clients. It provides a credible niche technical signal, but is a small private consultancy without broad software-engineering brand recognition or demonstrated top-tier selectivity.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
     },
     "procter and gamble p and g": {
       "aliases": [
@@ -44909,6 +44979,20 @@
       "reason": "Established industrial products company, with limited software-engineering-specific brand recognition.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "wave life sciences": {
+      "aliases": [
+        "Wave Life Sciences USA, Inc.",
+        "WVE"
+      ],
+      "confidence": "medium",
+      "display_name": "Wave Life Sciences",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Public clinical-stage RNA-medicines company with credible biotech partnerships and data-science software work, but a limited, industry-specific software-engineering brand rather than a broadly recognized technical employer.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
     },
     "wavetronix": {
       "aliases": [],
