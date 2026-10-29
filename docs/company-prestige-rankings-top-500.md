@@ -40,7 +40,6 @@ _The 3253 lowest-scored companies are omitted by the report cap._
 | Palantir | 91 | High | 2026-07-18 | gpt-5.6-terra | No | Palantir Technologies | Exceptional software and data-platform brand with a highly selective engineering reputation and strong global career signal. |
 | Two Sigma | 91 | High | 2026-08-02 | gpt-5.6-terra | No | - | Exceptionally selective quantitative technology firm with an elite reputation for software, data, and research engineering. |
 | X Development | 91 | High | 2026-07-18 | gpt-5.6-terra | No | X, X, the moonshot factory | Alphabet’s moonshot organization is exceptionally selective and carries an elite research, systems, and advanced-technology engineering signal. |
-| Tower Research Capital | 90 | High | 2026-07-18 | gpt-5.6-terra | No | Tower | Highly selective quantitative trading firm with a strong technical reputation, especially for performance-critical software and research engineering. |
 
 ## Very prestigious (80-89)
 
@@ -259,6 +258,7 @@ _The 3253 lowest-scored companies are omitted by the report cap._
 | Instacart | 77 | High | 2026-08-02 | gpt-5.6-terra | No | Maplebear | Recognizable consumer technology company with a strong marketplace, data, and software-engineering brand. |
 | JP Morgan Chase | 77 | High | 2026-07-18 | gpt-5.6-terra | No | JPMorgan Chase, JPMC | Highly recognized financial institution with large-scale, selective engineering organizations, though its brand is finance-first. |
 | Roku | 77 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded consumer technology and streaming platform with substantial device, platform, and distributed-systems engineering relevance. |
+| Tower Research Capital | 77 | High | 2026-10-29 | gpt-5.6-terra | No | Capital de Recherche Tower, Capital de Recherche Tower (Canada), Tower Research Capital (Canada) ULC | Selective quantitative-trading employer with a strong systems-engineering brand, particularly in low-latency C++ and high-performance infrastructure. A notably strong software internship signal, though less broadly recognized than the very top quant firms. |
 | University of Toronto | 77 | High | 2026-09-11 | gpt-5.6-terra | No | U of T, UofT | Globally well-regarded research university with a strong engineering and computer-science reputation. |
 | Acadian Asset Management | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected quantitative asset manager where engineering and data skills are central, creating a strong specialized signal. |
 | Argonne National Laboratory | 76 | High | 2026-07-21 | gpt-5.6-terra | No | Argonne | Prestigious national research laboratory with strong scientific computing and research-engineering credibility. |

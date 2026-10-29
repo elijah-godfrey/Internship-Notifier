@@ -41746,16 +41746,18 @@
     },
     "tower research capital": {
       "aliases": [
-        "Tower"
+        "Capital de Recherche Tower",
+        "Capital de Recherche Tower (Canada)",
+        "Tower Research Capital (Canada) ULC"
       ],
       "confidence": "high",
       "display_name": "Tower Research Capital",
       "manual_override": false,
       "model": "gpt-5.6-terra",
-      "prestige_score": 90,
-      "reason": "Highly selective quantitative trading firm with a strong technical reputation, especially for performance-critical software and research engineering.",
-      "reviewed_at": "2026-07-18",
-      "rubric_version": "prestige-v1"
+      "prestige_score": 77,
+      "reason": "Selective quantitative-trading employer with a strong systems-engineering brand, particularly in low-latency C++ and high-performance infrastructure. A notably strong software internship signal, though less broadly recognized than the very top quant firms.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
     },
     "toyota": {
       "aliases": [
