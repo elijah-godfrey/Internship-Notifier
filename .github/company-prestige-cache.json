@@ -16861,6 +16861,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "freshcut paper": {
+      "aliases": [
+        "freshcutpaper.com"
+      ],
+      "confidence": "low",
+      "display_name": "FreshCut Paper",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Small private consumer-gift and e-commerce company focused on pop-up paper bouquets. It has a legitimate brand and internship activity, but limited evidence of a selective or widely recognized software-engineering organization.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "freshworks": {
       "aliases": [],
       "confidence": "high",
@@ -18302,6 +18315,20 @@
       "reason": "Highly recognizable consumer internet platform with a solid software-product engineering signal.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "golden analytics": {
+      "aliases": [
+        "Golden",
+        "goldenanalytics.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Golden Analytics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Well-backed AI-native business-intelligence startup with a seasoned analytics-product founder and credible early market visibility. Its engineering signal is positive, but the company is very new and has not yet built a long-established software brand or demonstrated broad selectivity.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
     },
     "golden hippo": {
       "aliases": [],
@@ -31000,6 +31027,19 @@
       "reason": "Recognized reinsurance company with technical roles, though it has limited standalone software-engineering brand strength.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "path robotics": {
+      "aliases": [
+        "path-robotics.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Path Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Well-funded physical-AI and robotics company with a technically demanding software stack spanning computer vision, machine learning, motion planning, and industrial deployment. Its prominent manufacturing and shipbuilding traction gives it a strong engineering signal, though it remains a specialized private company rather than a broadly recognized top-tier software employer.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
     },
     "pathai": {
       "aliases": [],
@@ -45416,14 +45456,17 @@
       "rubric_version": "prestige-v1"
     },
     "westmag": {
-      "aliases": [],
+      "aliases": [
+        "Western Magnetics",
+        "westmag.com"
+      ],
       "confidence": "medium",
       "display_name": "Westmag",
       "manual_override": false,
       "model": "gpt-5.6-terra",
       "prestige_score": 52,
-      "reason": "Andreessen Horowitz-led seed round and robotics/automation focus are positive signals, but it is a very young, hardware-first company with limited established software-engineering brand recognition.",
-      "reviewed_at": "2026-10-16",
+      "reason": "A newly public, seed-stage drone-motor and robotics-actuator manufacturer with notable venture backing and an engineering-focused software internship, but limited established software-engineering brand or broad employer recognition so far.",
+      "reviewed_at": "2026-10-29",
       "rubric_version": "prestige-v2"
     },
     "weston and sampson": {

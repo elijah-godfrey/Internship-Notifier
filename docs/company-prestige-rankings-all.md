@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3763** of **3763** cached companies (all cached companies).
+Showing **3766** of **3766** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -520,6 +520,7 @@ Showing **3763** of **3763** cached companies (all cached companies).
 | Octopus Energy | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded technology-forward energy company with a strong and visible engineering-led product reputation. |
 | Open Text Corporation | 72 | High | 2026-09-11 | gpt-5.6-terra | No | OpenText | Established global enterprise software company with a strong, widely recognized engineering and product brand. |
 | OpenTable | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer internet and marketplace company with a strong, established software-engineering signal. |
+| Path Robotics | 72 | Medium | 2026-10-29 | gpt-5.6-terra | No | path-robotics.com | Well-funded physical-AI and robotics company with a technically demanding software stack spanning computer vision, machine learning, motion planning, and industrial deployment. Its prominent manufacturing and shipbuilding traction gives it a strong engineering signal, though it remains a specialized private company rather than a broadly recognized top-tier software employer. |
 | Patreon | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer internet platform with a strong product-engineering signal and meaningful technical recognition. |
 | Periodic Labs | 72 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | High-profile early-stage AI-for-science venture with an emerging, technically strong signal but limited operating history. |
 | Pika | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Pika Labs | Visible generative-video AI startup with a strong contemporary technical brand, though its employer reputation is still developing. |
@@ -1123,6 +1124,7 @@ Showing **3763** of **3763** cached companies (all cached companies).
 | Freeform | 63 | Medium | 2026-10-16 | gpt-5.6-terra | No | Freeform Future Corp. | Technically demanding controls, sensing, and factory-software work, substantial venture backing, and recent Series B provide a solid engineering signal, but it remains a young, niche advanced-manufacturing company without broad top-tier software-employer recognition. |
 | General Dynamics | 63 | High | 2026-08-02 | gpt-5.6-terra | No | GD | Major defense and aerospace contractor with credible engineering work, though its software brand is less selective than leading technology firms. |
 | General Matter | 63 | Medium | 2026-10-19 | gpt-5.6-terra | No | generalmatter.com | Well-funded, high-profile nuclear-fuel startup with credible backing and a technically ambitious mission. It is an early, specialized company rather than an established software employer, so its software-engineering brand and internship selectivity are not yet broadly proven. |
+| Golden Analytics | 63 | Medium | 2026-10-29 | gpt-5.6-terra | No | Golden, goldenanalytics.com | Well-backed AI-native business-intelligence startup with a seasoned analytics-product founder and credible early market visibility. Its engineering signal is positive, but the company is very new and has not yet built a long-established software brand or demonstrated broad selectivity. |
 | GRVTY | 63 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Work spans cyber, space/spectrum, analytics, and mission software, including a reported $75M Navy C5ISR award, giving it a solid defense-software signal; however, it is newly branded and not yet broadly recognized as a top-tier software-engineering employer. |
 | Hearst | 63 | High | 2026-08-02 | gpt-5.6-terra | No | Hearst Communications | Recognized media and information-services company with meaningful digital product and data engineering work, though not a top-tier engineering brand. |
 | HP IQ | 63 | Medium | 2026-10-19 | gpt-5.6-terra | No | Humane, hp-iq.com, HP Inc. | HP IQ is HP’s AI innovation lab, formed from HP’s acquisition of key Humane assets and technical talent. It offers meaningful AI/device-platform engineering exposure and HP backing, but its standalone engineering brand and internship selectivity are still newly established. |
@@ -2301,7 +2303,7 @@ Showing **3763** of **3763** cached companies (all cached companies).
 | Wawa | 52 | High | 2026-10-19 | gpt-5.6-terra | No | - | Recognized regional convenience-retail brand with a real corporate Technology & Digital organization and substantive software internship work, but it is not broadly regarded as a top-tier or highly selective software-engineering employer. |
 | Weatherford | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established oilfield-services company, but its software engineering brand is industry-specific rather than broadly prestigious. |
 | Werfen | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected diagnostics and medical-device company, though its software engineering reputation is specialized rather than broad. |
-| Westmag | 52 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Andreessen Horowitz-led seed round and robotics/automation focus are positive signals, but it is a very young, hardware-first company with limited established software-engineering brand recognition. |
+| Westmag | 52 | Medium | 2026-10-29 | gpt-5.6-terra | No | Western Magnetics, westmag.com | A newly public, seed-stage drone-motor and robotics-actuator manufacturer with notable venture backing and an engineering-focused software internship, but limited established software-engineering brand or broad employer recognition so far. |
 | WGU | 52 | High | 2026-08-05 | gpt-5.6-terra | No | Western Governors University | Well-known online university with meaningful technology operations, though not broadly viewed as a top-tier software engineering brand. |
 | Xpansiv | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized environmental-commodities market infrastructure company; technically relevant but a niche engineering signal. |
 | XPO | 52 | High | 2026-08-02 | gpt-5.6-terra | No | XPO Logistics | Major logistics company with meaningful operational technology, but not a broadly prestigious software engineering destination. |
@@ -3736,6 +3738,7 @@ Showing **3763** of **3763** cached companies (all cached companies).
 | Climate Corps | 25 | High | 2026-10-16 | gpt-5.6-terra | No | SEI's Climate Corps, Climate Corps Fellowship, SEI fellowship program | Climate Corps at climatecorps.org, a bridge-to-career climate-sustainability fellowship run with SEI and SUNY ESF; it has credible environmental-sector reach but little evidence of a recognized or selective software-engineering internship brand. |
 | Codeage | 25 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Primarily known as a consumer wellness brand rather than a recognized software-engineering employer. |
 | Emergent Labs | 25 | Low | 2026-09-16 | gpt-5.6-terra | No | Emergent Laboratories | Limited verifiable employer recognition; the name appears to represent a small or early-stage organization. |
+| FreshCut Paper | 25 | Low | 2026-10-29 | gpt-5.6-terra | No | freshcutpaper.com | Small private consumer-gift and e-commerce company focused on pop-up paper bouquets. It has a legitimate brand and internship activity, but limited evidence of a selective or widely recognized software-engineering organization. |
 | PHI Air Medical | 25 | Medium | 2026-08-02 | gpt-5.6-terra | No | PHI Air Medical Group | Established air-medical operator, but it has limited software-engineering brand recognition or technical hiring signal. |
 | Rhoda AI | 25 | Low | 2026-09-23 | gpt-5.6-terra | No | - | Limited verifiable public signal as a recognized or selective software-engineering employer; likely a small or early-stage AI brand. |
 | Shinwoo TNS Co Ltd | 25 | Low | 2026-09-11 | gpt-5.6-terra | No | - | Limited identifiable evidence of a recognized software-engineering employer brand. |
