@@ -30610,6 +30610,19 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "overland ai": {
+      "aliases": [
+        "overland.ai"
+      ],
+      "confidence": "high",
+      "display_name": "Overland AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Well-funded defense-autonomy startup with a substantial engineering focus in off-road robotics, perception, and command software, plus visible U.S. military work. It is a strong specialized signal, though newer and less universally recognized than elite established software employers.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "overview energy": {
       "aliases": [],
       "confidence": "medium",
@@ -39779,6 +39792,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "synthesis": {
+      "aliases": [
+        "Synthesis School, Inc.",
+        "synthesis.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Synthesis",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 56,
+      "reason": "Venture-backed edtech company with a recognizable SpaceX-origin story and an AI learning product, but it has limited broad recognition as a software-engineering employer compared with leading technology companies.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "syntiant": {
       "aliases": [],
       "confidence": "medium",
@@ -45006,6 +45033,20 @@
       "reason": "Established scientific-instruments company with technical roles, but limited broad software engineering prestige.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "waterworth": {
+      "aliases": [
+        "Muniworth Innovations Inc.",
+        "waterworth.net"
+      ],
+      "confidence": "medium",
+      "display_name": "Waterworth",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established niche SaaS provider for municipal water and wastewater financial planning, with evidence of public-sector customers and a specialized engineering product. Its software-engineering brand and selectivity appear primarily industry-specific rather than broadly recognized.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
     },
     "watts water technologies": {
       "aliases": [

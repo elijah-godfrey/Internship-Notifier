@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3766** of **3766** cached companies (all cached companies).
+Showing **3769** of **3769** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -520,6 +520,7 @@ Showing **3766** of **3766** cached companies (all cached companies).
 | Octopus Energy | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded technology-forward energy company with a strong and visible engineering-led product reputation. |
 | Open Text Corporation | 72 | High | 2026-09-11 | gpt-5.6-terra | No | OpenText | Established global enterprise software company with a strong, widely recognized engineering and product brand. |
 | OpenTable | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer internet and marketplace company with a strong, established software-engineering signal. |
+| Overland AI | 72 | High | 2026-10-29 | gpt-5.6-terra | No | overland.ai | Well-funded defense-autonomy startup with a substantial engineering focus in off-road robotics, perception, and command software, plus visible U.S. military work. It is a strong specialized signal, though newer and less universally recognized than elite established software employers. |
 | Path Robotics | 72 | Medium | 2026-10-29 | gpt-5.6-terra | No | path-robotics.com | Well-funded physical-AI and robotics company with a technically demanding software stack spanning computer vision, machine learning, motion planning, and industrial deployment. Its prominent manufacturing and shipbuilding traction gives it a strong engineering signal, though it remains a specialized private company rather than a broadly recognized top-tier software employer. |
 | Patreon | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer internet platform with a strong product-engineering signal and meaningful technical recognition. |
 | Periodic Labs | 72 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | High-profile early-stage AI-for-science venture with an emerging, technically strong signal but limited operating history. |
@@ -1830,6 +1831,7 @@ Showing **3766** of **3766** cached companies (all cached companies).
 | Solar Turbines | 56 | High | 2026-07-18 | gpt-5.6-terra | No | - | Respected industrial technology company, but software engineering is not its primary or broadly recognized career signal. |
 | Southern Company | 56 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-established utility employer, but its software-engineering brand is primarily industry-specific. |
 | SPREEAI | 56 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | A credible technical AI focus and some public recognition, but it is still a young, small private company with limited broad software-engineering brand recognition versus established top-tier employers. |
+| Synthesis | 56 | Medium | 2026-10-29 | gpt-5.6-terra | No | Synthesis School, Inc., synthesis.com | Venture-backed edtech company with a recognizable SpaceX-origin story and an AI learning product, but it has limited broad recognition as a software-engineering employer compared with leading technology companies. |
 | The Global Alliance for Genomics and Health | 56 | Medium | 2026-09-11 | gpt-5.6-terra | No | GA4GH | Well regarded in genomics data standards and international research collaboration, with strong niche technical relevance but limited general software-brand recognition. |
 | Thrivent | 56 | Medium | 2026-10-19 | gpt-5.6-terra | No | Thrivent Financial, Thrivent Financial for Lutherans, thrivent.com | Established Fortune 500 financial-services organization with a formal software-engineering internship program. It is a credible enterprise-finance signal, but its engineering brand and selectivity are not broadly regarded as top-tier in software. |
 | Tokamak Energy | 56 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable fusion-energy company with technically ambitious work, though its software engineering brand is specialized rather than broadly established. |
@@ -3195,6 +3197,7 @@ Showing **3766** of **3766** cached companies (all cached companies).
 | Vitalant | 43 | Medium | 2026-08-03 | gpt-5.6-terra | No | - | Established blood-services nonprofit, but it has limited broad recognition as a software-engineering employer. |
 | VyStar Credit Union | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | VyStar | Regional financial-services employer; technology work is credible but has limited broad engineering-brand recognition. |
 | Wabash Valley Power Alliance | 43 | Medium | 2026-10-19 | gpt-5.6-terra | No | Wabash Valley Power, WVPA, Wabash Valley Power Association, Inc. | Established regional electric-generation cooperative with meaningful technology and systems work, but limited recognition and selectivity as a software-engineering employer outside the utility sector. |
+| Waterworth | 43 | Medium | 2026-10-29 | gpt-5.6-terra | No | Muniworth Innovations Inc., waterworth.net | Established niche SaaS provider for municipal water and wastewater financial planning, with evidence of public-sector customers and a specialized engineering product. Its software-engineering brand and selectivity appear primarily industry-specific rather than broadly recognized. |
 | Watts Water Technologies | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Watts Water | Established industrial products company, with limited software-engineering-specific brand recognition. |
 | Welocalize | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known in language services and localization, but has limited prestige as a software engineering employer. |
 | WEP Clinical | 43 | Medium | 2026-09-30 | gpt-5.6-terra | No | - | Specialized clinical-trial supply and technology company with relevant domain experience, but limited broad software-engineering brand recognition or selectivity signal. |
