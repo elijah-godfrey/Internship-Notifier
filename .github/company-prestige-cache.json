@@ -1928,6 +1928,21 @@
       "reviewed_at": "2026-07-31",
       "rubric_version": "prestige-v1"
     },
+    "altman solon": {
+      "aliases": [
+        "Altman Vilandrie & Company",
+        "Solon Management Consulting",
+        "altmansolon.com"
+      ],
+      "confidence": "high",
+      "display_name": "Altman Solon",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Recognized global TMT-focused strategy consulting firm, formed from Altman Vilandrie & Company and Solon Management Consulting. It has a credible niche consulting signal, but its core internship and hiring tracks are consulting rather than software engineering, limiting its engineering-brand value.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "altom transport": {
       "aliases": [],
       "confidence": "medium",
@@ -10701,6 +10716,22 @@
       "prestige_score": 54,
       "reason": "A long-running, specialized AI/ML R&D software company with demonstrated defense and government research work, including DARPA-related contracts. It offers substantive technical signal in computer vision and mission software, but remains a small, niche employer without broad software-engineering brand recognition.",
       "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
+    "coveo": {
+      "aliases": [
+        "Coveo Solutions Inc.",
+        "CVO",
+        "Coveo AI-Relevance Platform",
+        "coveo.com"
+      ],
+      "confidence": "high",
+      "display_name": "Coveo",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Established public enterprise AI-search and relevance-software company with a credible technical product and solid engineering signal, especially in Canadian SaaS. It is respected in its specialty but has materially less broad software-engineering prestige and selectivity than top global technology firms.",
+      "reviewed_at": "2026-10-29",
       "rubric_version": "prestige-v2"
     },
     "coverdash": {

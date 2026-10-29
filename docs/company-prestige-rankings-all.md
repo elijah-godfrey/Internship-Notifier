@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3751** of **3751** cached companies (all cached companies).
+Showing **3753** of **3753** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -936,6 +936,7 @@ Showing **3751** of **3751** cached companies (all cached companies).
 | Clockwork Systems | 65 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Technically sophisticated infrastructure startup with strong niche credibility, though its name recognition is limited. |
 | Cobalt | 65 | Medium | 2026-10-16 | gpt-5.6-terra | No | Cobalt Offensive Security Platform | A credible, venture-backed cybersecurity platform with a meaningful technical security focus, but has more specialized industry recognition than a broadly elite software-engineering brand. |
 | Comcast | 65 | High | 2026-08-02 | gpt-5.6-terra | No | Comcast NBCUniversal | Major technology and media employer with substantial engineering teams, though not generally viewed as top-tier tech. |
+| Coveo | 65 | High | 2026-10-29 | gpt-5.6-terra | No | Coveo Solutions Inc., CVO, Coveo AI-Relevance Platform, coveo.com | Established public enterprise AI-search and relevance-software company with a credible technical product and solid engineering signal, especially in Canadian SaaS. It is respected in its specialty but has materially less broad software-engineering prestige and selectivity than top global technology firms. |
 | CVS Health | 65 | High | 2026-08-02 | gpt-5.6-terra | No | CVS | Large, recognizable healthcare company with substantial digital and data work, though not viewed as an elite software employer. |
 | Delinea | 65 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established identity-security vendor with a solid cybersecurity engineering signal, but not generally viewed as top-tier tech. |
 | Deloitte | 65 | High | 2026-07-28 | gpt-5.6-terra | No | - | Globally recognized professional-services brand with credible technology and consulting work, but its software engineering signal is generally weaker and less selective than top product-focused tech employers. |
@@ -3201,6 +3202,7 @@ Showing **3751** of **3751** cached companies (all cached companies).
 | ALKU | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known staffing and consulting firm, but it offers limited direct software-product engineering prestige. |
 | Allegis Global Solutions | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | AGS | Recognized workforce-solutions provider, but not a notable software engineering destination or product-tech brand. |
 | Altasciences | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established life-sciences services company, though not widely known for a top software-engineering brand. |
+| Altman Solon | 42 | High | 2026-10-29 | gpt-5.6-terra | No | Altman Vilandrie & Company, Solon Management Consulting, altmansolon.com | Recognized global TMT-focused strategy consulting firm, formed from Altman Vilandrie & Company and Solon Management Consulting. It has a credible niche consulting signal, but its core internship and hiring tracks are consulting rather than software engineering, limiting its engineering-brand value. |
 | AMAROK Security | 42 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Niche security company with limited evidence of a broadly recognized software-engineering brand. |
 | Amcor | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large, established packaging company, but it has limited relevance or recognition as a software engineering employer. |
 | American Enterprise Institute | 42 | Medium | 2026-08-01 | gpt-5.6-terra | No | AEI | Well-known public-policy think tank with some research/technology work, but it is not a prominent or highly selective software-engineering employer. |
