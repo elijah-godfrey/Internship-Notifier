@@ -11149,6 +11149,19 @@
       "reviewed_at": "2026-09-22",
       "rubric_version": "prestige-v1"
     },
+    "csis": {
+      "aliases": [
+        "Center for Strategic and International Studies"
+      ],
+      "confidence": "high",
+      "display_name": "CSIS",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Well-recognized Washington policy think tank with meaningful technology, data-visualization, and strategic-technology work, but it is not primarily a software engineering employer and has a limited engineering brand relative to dedicated technology companies.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "csl": {
       "aliases": [],
       "confidence": "medium",
@@ -31314,6 +31327,20 @@
       "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
     },
+    "pernod ricard": {
+      "aliases": [
+        "Pernod Ricard, cr\u00e9ateurs de convivialit\u00e9",
+        "Pernod Ricard Group"
+      ],
+      "confidence": "high",
+      "display_name": "Pernod Ricard",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Globally recognized, publicly listed leader in wines and spirits with a real international tech organization and Data & AI internship work. It is a solid corporate engineering signal, but its software brand and technical selectivity are not broadly viewed as top-tier relative to dedicated technology employers.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "perpay": {
       "aliases": [],
       "confidence": "medium",
@@ -33251,6 +33278,20 @@
       "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
+    "quantiq": {
+      "aliases": [
+        "Quantiq Partners",
+        "quantiqpartners.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Quantiq",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "A specialized quantitative trading firm with in-house low-latency software and hardware work and a dedicated software internship program. The technical setting is a positive niche signal, but the company has limited broad public recognition and an unproven wider engineering-employer brand.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
+    },
     "quantum signal ai": {
       "aliases": [
         "Quantum Signal, LLC",
@@ -34651,6 +34692,20 @@
       "reason": "Established industrial safety and loading-dock equipment company, but it has limited broad software-engineering brand recognition.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "riverlane": {
+      "aliases": [
+        "Riverlane Research Ltd",
+        "riverlane.com"
+      ],
+      "confidence": "high",
+      "display_name": "Riverlane",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Specialized, well-funded quantum-error-correction company with a technically demanding engineering stack spanning software, compilers, embedded systems, and hardware integration. It is a strong deep-tech signal, though its employer brand remains niche relative to top general software firms.",
+      "reviewed_at": "2026-10-29",
+      "rubric_version": "prestige-v2"
     },
     "riveron": {
       "aliases": [],
