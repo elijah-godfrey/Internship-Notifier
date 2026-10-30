@@ -22294,6 +22294,23 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "isam": {
+      "aliases": [
+        "International Standard Asset Management",
+        "iSAM Funds",
+        "iSAM Securities",
+        "isam.com",
+        "isam-securities.com"
+      ],
+      "confidence": "medium",
+      "display_name": "iSAM",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Specialized systematic-investing and algorithmic-trading firm with meaningful quantitative-development and proprietary-technology work. It is a solid technical signal, particularly for quant-finance roles, but has more limited broad software-engineering name recognition than leading global technology or top trading firms.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
+    },
     "isara": {
       "aliases": [],
       "confidence": "medium",
@@ -29608,6 +29625,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2",
       "website": "https://obe.tv"
+    },
+    "obsidian entertainment": {
+      "aliases": [
+        "Xbox Game Studios",
+        "Microsoft"
+      ],
+      "confidence": "high",
+      "display_name": "Obsidian Entertainment",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded, long-running game-development studio with a recognizable RPG portfolio and Microsoft/Xbox backing. It is a strong signal for game and real-time software engineering, though its prestige is more industry-specialized than that of broadly elite generalist technology employers.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
     },
     "obsidian security": {
       "aliases": [],

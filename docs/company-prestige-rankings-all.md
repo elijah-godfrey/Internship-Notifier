@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3773** of **3773** cached companies (all cached companies).
+Showing **3775** of **3775** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -722,6 +722,7 @@ Showing **3773** of **3773** cached companies (all cached companies).
 | Nokia | 68 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms. |
 | Normal Computing | 68 | Medium | 2026-10-16 | gpt-5.6-terra | No | Normal | $85M+ funding, Samsung Catalyst-led round, and technically ambitious thermodynamic-computing/semiconductor work create a strong specialized engineering signal, but it remains a young private company without broad established software-employer recognition. |
 | Novartis | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Novartis AG | Globally respected life-sciences employer with strong technical and data-oriented opportunities, though its primary reputation is pharmaceuticals rather than software engineering. |
+| Obsidian Entertainment | 68 | High | 2026-10-30 | gpt-5.6-terra | No | Xbox Game Studios, Microsoft | Well-regarded, long-running game-development studio with a recognizable RPG portfolio and Microsoft/Xbox backing. It is a strong signal for game and real-time software engineering, though its prestige is more industry-specialized than that of broadly elite generalist technology employers. |
 | Obsidian Security | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded cybersecurity startup with a meaningful engineering signal, though less established than top security firms. |
 | Onapsis | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise cybersecurity vendor with a relevant security-engineering focus, but limited broad-name recognition. |
 | PathAI | 68 | Medium | 2026-07-29 | gpt-5.6-terra | No | - | Well-regarded, specialized AI/digital-pathology company with credible technical work, but its software-engineering brand and selectivity are less broadly recognized than top generalist technology employers. |
@@ -964,6 +965,7 @@ Showing **3773** of **3773** cached companies (all cached companies).
 | Idaho National Laboratory | 65 | High | 2026-08-02 | gpt-5.6-terra | No | INL, Idaho National Lab | Respected U.S. national laboratory with strong technical and research credibility, although its software brand is specialized rather than broadly commercial. |
 | Insitro | 65 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded computational drug-discovery company with a strong technical and machine-learning-oriented reputation. |
 | Interdigital | 65 | High | 2026-07-18 | gpt-5.6-terra | No | - | Respected wireless and communications R&D company with meaningful technical depth, though less broadly recognized by general software recruiters. |
+| iSAM | 65 | Medium | 2026-10-30 | gpt-5.6-terra | No | International Standard Asset Management, iSAM Funds, iSAM Securities, isam.com, isam-securities.com | Specialized systematic-investing and algorithmic-trading firm with meaningful quantitative-development and proprietary-technology work. It is a solid technical signal, particularly for quant-finance roles, but has more limited broad software-engineering name recognition than leading global technology or top trading firms. |
 | Ivalua | 65 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise procurement software vendor with a credible engineering signal, primarily within its domain. |
 | Kioxia | 65 | High | 2026-08-02 | gpt-5.6-terra | No | Kioxia Holdings | Major memory and storage technology company with strong semiconductor credibility, though less prominent as a general software employer. |
 | L3Harris Technologies | 65 | High | 2026-08-02 | gpt-5.6-terra | No | L3Harris | Strong defense and aerospace technical brand; software work is respected, particularly in mission-critical systems. |
