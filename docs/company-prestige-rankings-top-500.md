@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3775** cached companies (maximum 500).
+Showing **500** of **3782** cached companies (maximum 500).
 
-_The 3275 lowest-scored companies are omitted by the report cap._
+_The 3282 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -307,6 +307,7 @@ _The 3275 lowest-scored companies are omitted by the report cap._
 | Snorkel AI | 76 | Medium | 2026-08-02 | gpt-5.6-terra | No | Snorkel | Well-regarded machine-learning startup with a distinctive technical product and strong specialized AI reputation. |
 | Snyk | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Widely respected developer-security company with a strong technical product reputation in cybersecurity and DevSecOps. |
 | Sourcegraph | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Strong developer-tools reputation, particularly for code search and AI coding products, with credible engineering signal. |
+| Synopsys | 76 | High | 2026-10-30 | gpt-5.6-terra | No | Optimal Solutions, Inc. | A globally recognized leader in electronic design automation and semiconductor IP, with a strong engineering brand in chip design, verification, systems software, and simulation. It is a particularly strong signal for software roles tied to developer tools, compilers, hardware, and infrastructure, though less broadly prestigious than the most selective general-purpose software employers. |
 | Take-Two Interactive | 76 | High | 2026-08-02 | gpt-5.6-terra | No | Take Two | Highly recognized game publisher with a strong technical and interactive-software career signal. |
 | Tanium | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise cybersecurity company with a strong technical reputation and meaningful engineering selectivity. |
 | TGS Management | 76 | Medium | 2026-08-02 | gpt-5.6-terra | No | TGS | Selective quantitative trading firm with strong technical talent signal, though it has lower broad software-industry recognition. |
@@ -521,4 +522,3 @@ _The 3275 lowest-scored companies are omitted by the report cap._
 | Neo4j | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded graph-database company with a strong technical reputation among developers and data-infrastructure engineers. |
 | Octopus Energy | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded technology-forward energy company with a strong and visible engineering-led product reputation. |
 | Open Text Corporation | 72 | High | 2026-09-11 | gpt-5.6-terra | No | OpenText | Established global enterprise software company with a strong, widely recognized engineering and product brand. |
-| OpenTable | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer internet and marketplace company with a strong, established software-engineering signal. |

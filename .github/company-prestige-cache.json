@@ -13787,6 +13787,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "elucid": {
+      "aliases": [
+        "Elucid Bioimaging Inc.",
+        "elucid.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Elucid",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Well-funded, FDA-cleared AI cardiovascular-imaging company with meaningful technical specialization, but limited broad recognition and a relatively modest software-engineering brand versus leading tech or AI employers.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
+    },
     "eluvio": {
       "aliases": [],
       "confidence": "medium",
@@ -15539,6 +15553,21 @@
       "reason": "Large established insurer offering credible enterprise engineering experience, but limited elite technical-brand signal.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "farmers mutual hail": {
+      "aliases": [
+        "FMH",
+        "Farmers Mutual Hail Insurance Company of Iowa",
+        "Farmers Mutual Hail Insurance Company"
+      ],
+      "confidence": "high",
+      "display_name": "Farmers Mutual Hail",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established national crop-insurance mutual with a real in-house engineering internship program, but its technical brand and recruiting signal are primarily niche to insurance and agricultural technology rather than broadly recognized in software engineering.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
     },
     "farsight ai": {
       "aliases": [
@@ -20684,6 +20713,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "hyster yale materials handling": {
+      "aliases": [
+        "Hyster-Yale Group",
+        "HYMH",
+        "Hyster-Yale, Inc."
+      ],
+      "confidence": "high",
+      "display_name": "Hyster-Yale Materials Handling",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 54,
+      "reason": "Established global lift-truck and materials-handling manufacturer with real embedded controls and software engineering work, but its employer signal is primarily industrial and niche rather than broadly elite in software engineering.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
+    },
     "hyundai autoever america": {
       "aliases": [
         "Hyundai AutoEver"
@@ -25299,6 +25343,19 @@
       "reviewed_at": "2026-09-08",
       "rubric_version": "prestige-v1"
     },
+    "macarthur foundation": {
+      "aliases": [
+        "John D. and Catherine T. MacArthur Foundation"
+      ],
+      "confidence": "medium",
+      "display_name": "MacArthur Foundation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Highly recognizable, well-resourced philanthropic institution with strong public reputation, but its engineering work is primarily internal nonprofit/IT rather than a broadly recognized software engineering brand; an internship is a solid but industry-specific signal.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
+    },
     "mach industries": {
       "aliases": [],
       "confidence": "medium",
@@ -27262,6 +27319,19 @@
       "prestige_score": 48,
       "reason": "Information Systems/development internships, but its engineering reputation is primarily in manufacturing and enterprise IT rather than as a recognized software-engineering employer; the career signal is solid but industry-specific.",
       "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v2"
+    },
+    "molina healthcare": {
+      "aliases": [
+        "MOH"
+      ],
+      "confidence": "high",
+      "display_name": "Molina Healthcare",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established Fortune 500 managed-care insurer with meaningful internal IT and data-engineering work, but it is not broadly regarded as a selective or top-tier software engineering employer.",
+      "reviewed_at": "2026-10-30",
       "rubric_version": "prestige-v2"
     },
     "moloco": {
@@ -39374,6 +39444,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "strada education foundation": {
+      "aliases": [
+        "Strada Education Network",
+        "USA Funds",
+        "strada.org"
+      ],
+      "confidence": "medium",
+      "display_name": "Strada Education Foundation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established, well-funded national education-to-work nonprofit with research, grantmaking, and data-related work, but it is not broadly known as a software engineering employer and has a limited engineering-brand signal.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
+    },
     "strand therapeutics": {
       "aliases": [],
       "confidence": "medium",
@@ -39856,6 +39941,19 @@
       "prestige_score": 64,
       "reason": "Globally recognized agricultural-technology leader with meaningful digital, AI, data, platform, and software-engineering work. It is a solid technical signal, especially for agtech, but is not broadly viewed as a top-tier software employer or unusually selective engineering brand.",
       "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
+    "synopsys": {
+      "aliases": [
+        "Optimal Solutions, Inc."
+      ],
+      "confidence": "high",
+      "display_name": "Synopsys",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "A globally recognized leader in electronic design automation and semiconductor IP, with a strong engineering brand in chip design, verification, systems software, and simulation. It is a particularly strong signal for software roles tied to developer tools, compilers, hardware, and infrastructure, though less broadly prestigious than the most selective general-purpose software employers.",
+      "reviewed_at": "2026-10-30",
       "rubric_version": "prestige-v2"
     },
     "syntax systems": {
