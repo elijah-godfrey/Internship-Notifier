@@ -15240,6 +15240,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "f and g": {
+      "aliases": [
+        "Fidelity & Guaranty Life Insurance Company",
+        "F&G Annuities & Life",
+        "FG",
+        "fglife.com"
+      ],
+      "confidence": "high",
+      "display_name": "F&G",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established publicly traded annuity and life insurer with real IT and software internship roles, but it has primarily insurance-industry recognition rather than a strong or broadly selective software-engineering brand.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
+    },
     "f schumacher": {
       "aliases": [],
       "confidence": "medium",
@@ -28088,6 +28104,21 @@
       "reviewed_at": "2026-08-04",
       "rubric_version": "prestige-v1"
     },
+    "ncino": {
+      "aliases": [
+        "nCino OpCo, Inc.",
+        "NCNO",
+        "ncino.com"
+      ],
+      "confidence": "medium",
+      "display_name": "nCino",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Public cloud-banking fintech with a meaningful engineering organization, established enterprise product, and NASDAQ presence. It is a solid software internship signal, particularly in financial-services and SaaS, but its engineering brand and selectivity are not broadly viewed as top-tier across the wider software industry.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
+    },
     "ncr atleos": {
       "aliases": [
         "Atleos"
@@ -39331,6 +39362,19 @@
       "reason": "Municipal government employer with limited software-engineering brand and primarily regional recognition.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "stratolaunch": {
+      "aliases": [
+        "Stratolaunch Systems"
+      ],
+      "confidence": "medium",
+      "display_name": "Stratolaunch",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Specialized, technically credible hypersonics and aerospace-defense employer with meaningful flight-software and systems engineering work. It is a respected niche signal, but its software-engineering brand and broad selectivity recognition are materially narrower than top-tier technology or major aerospace employers.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
     },
     "strattec": {
       "aliases": [
