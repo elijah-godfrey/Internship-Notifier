@@ -15591,16 +15591,17 @@
     "fc cincinnati": {
       "aliases": [
         "Fussball Club Cincinnati LLC",
-        "Football Club Cincinnati"
+        "FCC",
+        "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)"
       ],
       "confidence": "medium",
       "display_name": "FC Cincinnati",
       "manual_override": false,
       "model": "gpt-5.6-terra",
-      "prestige_score": 42,
-      "reason": "Recognized professional sports organization, but not a widely recognized software engineering employer.",
-      "reviewed_at": "2026-08-02",
-      "rubric_version": "prestige-v1"
+      "prestige_score": 43,
+      "reason": "Recognizable Major League Soccer club with some analytics and technology functions, but a narrowly sports-industry-focused engineering signal and limited evidence of a dedicated software engineering internship program.",
+      "reviewed_at": "2026-10-30",
+      "rubric_version": "prestige-v2"
     },
     "fc industries": {
       "aliases": [],
