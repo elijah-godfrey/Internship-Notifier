@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3772** of **3772** cached companies (all cached companies).
+Showing **3773** of **3773** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1527,6 +1527,7 @@ Showing **3772** of **3772** cached companies (all cached companies).
 | Frazer-Nash Consultancy | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialist engineering consultancy, with software relevance but more domain-specific than broadly recognized. |
 | Fred Hutchinson Cancer Center | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected research institution; technical work can be strong, but it is not chiefly a software employer. |
 | Garner Health | 58 | Medium | 2026-09-05 | gpt-5.6-terra | No | Garner | A credible, growing health-tech company, but its software-engineering brand and selectivity are not yet broadly established across the industry. |
+| Gearset | 58 | Medium | 2026-10-30 | gpt-5.6-terra | No | gearset.com, Redgate Software spinout | Established, growing B2B SaaS company with a credible engineering product in Salesforce DevOps and meaningful enterprise adoption. It is well regarded in its specialized ecosystem, but its software-engineering brand and selectivity are not broadly top-tier outside that niche. |
 | Geico | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known insurer with substantial technology operations, though its engineering brand is not generally viewed as top-tier. |
 | Geisinger | 58 | Medium | 2026-07-21 | gpt-5.6-terra | No | Geisinger Health, Geisinger Health System | Well-regarded regional healthcare system with meaningful health-technology work, but its software engineering brand is not broadly top-tier or highly selective. |
 | Generac | 58 | High | 2026-07-18 | gpt-5.6-terra | No | Generac Power Systems | Recognized energy and power-products company with relevant embedded, IoT, and platform software work; a solid engineering signal. |
