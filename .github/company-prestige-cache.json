@@ -2594,6 +2594,21 @@
       "reviewed_at": "2026-09-02",
       "rubric_version": "prestige-v1"
     },
+    "andreessen horowitz": {
+      "aliases": [
+        "a16z",
+        "AH Capital Management",
+        "a16z.com"
+      ],
+      "confidence": "high",
+      "display_name": "Andreessen Horowitz",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "A highly recognized, selective technology venture-capital firm with a strong startup ecosystem signal. Its core reputation is investing and platform support rather than building software products, so its direct software-engineering internship brand is less established than that of leading technology companies.",
+      "reviewed_at": "2026-10-31",
+      "rubric_version": "prestige-v2"
+    },
     "anduril": {
       "aliases": [],
       "confidence": "high",

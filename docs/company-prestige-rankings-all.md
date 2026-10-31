@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3783** of **3783** cached companies (all cached companies).
+Showing **3784** of **3784** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -849,6 +849,7 @@ Showing **3783** of **3783** cached companies (all cached companies).
 | Adtran | 66 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected networking and telecommunications technology company with meaningful engineering work, though not an elite general software brand. |
 | Alation | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise data-management software company with a credible engineering brand, though not broadly top-tier. |
 | AlixPartners | 66 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded consulting firm with a selective professional-services reputation, though not principally a software engineering brand. |
+| Andreessen Horowitz | 66 | High | 2026-10-31 | gpt-5.6-terra | No | a16z, AH Capital Management, a16z.com | A highly recognized, selective technology venture-capital firm with a strong startup ecosystem signal. Its core reputation is investing and platform support rather than building software products, so its direct software-engineering internship brand is less established than that of leading technology companies. |
 | Anterior | 66 | Medium | 2026-10-16 | gpt-5.6-terra | No | Co:Helm, Anterior AI | $64M total funding, backing from NEA and Sequoia, and production-oriented payer integrations create a solid technical signal, but it is a young, specialized company without a broadly established software-engineering brand. |
 | Apollo Global | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | Apollo Global Management | Highly recognized alternative-asset manager; technical roles benefit from the firm's finance reputation, though it is not chiefly an engineering brand. |
 | Appian | 66 | Medium | 2026-07-24 | gpt-5.6-terra | No | - | Established enterprise software company with a respectable engineering signal, particularly in low-code and workflow platforms, but not generally viewed as top-tier software prestige. |
