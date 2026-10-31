@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3782** of **3782** cached companies (all cached companies).
+Showing **3783** of **3783** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -670,6 +670,7 @@ Showing **3782** of **3782** cached companies (all cached companies).
 | Dialpad | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized cloud communications and AI software company with a credible product-engineering reputation. |
 | Digital Extremes | 68 | High | 2026-09-11 | gpt-5.6-terra | No | - | Well-known game studio with a strong technical reputation in games, especially through its long-running flagship title. |
 | Ditto | 68 | High | 2026-10-16 | gpt-5.6-terra | No | Ditto Live, Ditto AI | A technically differentiated distributed-systems product, recognizable enterprise deployments, and raised an $82M Series B, making it a solid positive engineering signal; its brand remains comparatively niche and less broadly established than top-tier infrastructure employers. |
+| Divergent | 68 | High | 2026-10-31 | gpt-5.6-terra | No | Divergent Technologies, Divergent 3D, Divergent Adaptive Production System, DAPS, divergent.us | Well-funded, high-profile advanced-manufacturing and defense technology company with meaningful software, robotics, and additive-manufacturing engineering work. It is a strong specialized signal, though its software-engineering brand is less broadly established than top general-purpose technology employers. |
 | DTCC | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Depository Trust & Clearing Corporation | Major financial-market infrastructure institution with substantial, respected engineering work, especially within financial technology. |
 | Efficient Computer | 68 | High | 2026-10-16 | gpt-5.6-terra | No | - | Recent, substantial venture backing and technically ambitious hardware-software work make it a solid signal for systems, compiler, embedded, and infrastructure-oriented software engineering, but it is still a young private company without broad top-tier software-employer recognition. |
 | Eridu | 68 | Medium | 2026-10-16 | gpt-5.6-terra | No | Eridu AI | Eridu emerged from stealth in March 2026 with over $200M in funding and is building networking silicon, systems, and software for AI data centers; its experienced founding team and notable backing make it a strong niche infrastructure signal, but its very new, unproven employer brand limits broad internship prestige. |

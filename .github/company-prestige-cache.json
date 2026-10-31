@@ -12595,6 +12595,23 @@
       "rubric_version": "prestige-v2",
       "website": "https://ditto.com"
     },
+    "divergent": {
+      "aliases": [
+        "Divergent Technologies",
+        "Divergent 3D",
+        "Divergent Adaptive Production System",
+        "DAPS",
+        "divergent.us"
+      ],
+      "confidence": "high",
+      "display_name": "Divergent",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-funded, high-profile advanced-manufacturing and defense technology company with meaningful software, robotics, and additive-manufacturing engineering work. It is a strong specialized signal, though its software-engineering brand is less broadly established than top general-purpose technology employers.",
+      "reviewed_at": "2026-10-31",
+      "rubric_version": "prestige-v2"
+    },
     "diversified automation": {
       "aliases": [
         "DA"
