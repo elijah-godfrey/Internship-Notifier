@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3788** of **3788** cached companies (all cached companies).
+Showing **3789** of **3789** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1106,6 +1106,7 @@ Showing **3788** of **3788** cached companies (all cached companies).
 | Allegro MicroSystems | 63 | High | 2026-08-02 | gpt-5.6-terra | No | Allegro | Respected semiconductor company; engineering credibility is solid, though primarily in hardware rather than software. |
 | Altara Technologies, Inc. | 63 | Medium | 2026-10-16 | gpt-5.6-terra | No | Altara | $7M seed led by Greylock and team backgrounds cited by the company (including Applied Intuition, SpaceX, Warp, Jane Street, and Microsoft) give it a solid early-stage technical signal, but it is newly launched and lacks an established broad software-engineering employer brand. |
 | Arondite | 63 | Medium | 2026-10-19 | gpt-5.6-terra | No | arondite.com, Arondite Cobalt | Early-stage UK defence-software and AI company with credible technical founders and a seed round led by Index Ventures. Its mission-critical autonomy platform offers a solid specialist engineering signal, but the company is still young and not yet broadly established as a top-tier software employer. |
+| AXA | 63 | High | 2026-10-31 | gpt-5.6-terra | No | AXA S.A., AXA Group, AXA Group Operations | Globally recognized insurance group with substantial in-house technology, cloud, data, and AI engineering work. It is a solid enterprise software internship signal, though its engineering brand and perceived selectivity are below leading technology-first employers. |
 | Baker Hughes | 63 | High | 2026-07-18 | gpt-5.6-terra | No | - | Major industrial-energy company with substantial engineering and digital operations, though not primarily known for software talent. |
 | Biogen | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized biotech employer with strong scientific standing; software roles are respected but not a leading engineering-brand signal. |
 | Bose | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer audio and hardware engineering brand; software roles are credible, though software is not its primary employer identity. |
