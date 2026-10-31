@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3784** of **3784** cached companies (all cached companies).
+Showing **3787** of **3787** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1748,6 +1748,7 @@ Showing **3784** of **3784** cached companies (all cached companies).
 | Pivot Robotics | 57 | Medium | 2026-10-16 | gpt-5.6-terra | No | Pivot Robots | YC backing and real production deployments provide a meaningful early-stage robotics signal, but it remains a very small, young company with limited broad software-engineering brand recognition. |
 | Plooto Inc | 57 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Established Canadian fintech with a credible product-engineering environment, though not broadly top-tier in software prestige. |
 | Polar Semiconductor | 57 | Medium | 2026-09-09 | gpt-5.6-terra | No | - | Specialized semiconductor manufacturer with relevant technical work, though its software-engineering brand is less prominent than major chip firms. |
+| Pretium | 57 | Medium | 2026-10-31 | gpt-5.6-terra | No | Pretium Partners, pretium.com | Specialized alternative investment manager with a substantial real-estate and credit platform and a genuine AI, Data & Innovation engineering internship. It can be a credible finance-adjacent technical signal, but it lacks the broad software-engineering reputation and demonstrated technical selectivity of top technology employers. |
 | Prosper Funding | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | Prosper Marketplace | Recognized online lending fintech with relevant engineering work, though its software-employer prestige is not top tier. |
 | Reality Defender | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Visible deepfake-detection startup in a relevant technical area, but still an early-stage and less-established engineering signal. |
 | Repsol | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Large, established energy company with credible technical work, but it is not broadly a top software-engineering destination. |
@@ -2009,6 +2010,7 @@ Showing **3784** of **3784** cached companies (all cached companies).
 | TJX | 55 | Medium | 2026-07-27 | gpt-5.6-terra | No | The TJX Companies, TJ Maxx | Large, established retailer with meaningful internal technology work, but its software engineering brand is not broadly viewed as top-tier. |
 | Tokio Marine Kiln | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | TMK | Specialty insurance business with a digital orientation; a solid niche signal but not a widely recognized software-engineering destination. |
 | Toyota Motor Manufacturing Canada Inc (TMMC) | 55 | Medium | 2026-09-11 | gpt-5.6-terra | No | TMMC, Toyota Motor Manufacturing Canada | Toyota is globally respected, but this manufacturing subsidiary has a limited standalone software-engineering brand. |
+| TPG | 55 | High | 2026-10-31 | gpt-5.6-terra | No | Texas Pacific Group, TPG Capital, tpg.com | Globally recognized alternative-asset manager with established internal engineering and cybersecurity roles, but its employer reputation and selectivity are principally in investing rather than software engineering; its engineering brand is industry-specific rather than a broad top-tier technical signal. |
 | Transamerica | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services brand with meaningful technology work, though not a prominent software-engineering destination. |
 | Underwriters Laboratories | 55 | High | 2026-08-02 | gpt-5.6-terra | No | UL | Highly established safety-science institution with technical credibility, though it is not principally known as a software engineering employer. |
 | Volaris Group | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established software-focused acquirer with meaningful industry presence, though its engineering signal varies across portfolio companies. |
@@ -2633,6 +2635,7 @@ Showing **3784** of **3784** cached companies (all cached companies).
 | Mohawk Industries | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | Mohawk | Information Systems/development internships, but its engineering reputation is primarily in manufacturing and enterprise IT rather than as a recognized software-engineering employer; the career signal is solid but industry-specific. |
 | Molina Healthcare | 48 | High | 2026-10-30 | gpt-5.6-terra | No | MOH | Established Fortune 500 managed-care insurer with meaningful internal IT and data-engineering work, but it is not broadly regarded as a selective or top-tier software engineering employer. |
 | Momentive Performance Materials | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | Momentive | Software-development internship centers on manufacturing-execution systems and industrial integration, giving it a credible but industry-specific engineering signal rather than a broadly top-tier software-engineering brand. |
+| Morph Labs | 48 | Low | 2026-10-31 | gpt-5.6-terra | No | Morph Cloud, morph.so | Small, early-stage AI-infrastructure startup with a technically relevant developer product, but limited evidence of broad engineering-brand recognition, sustained selectivity, or an established internship signal. |
 | moss robotics Inc. | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | moss, Moss & Associates, Moss Construction | CMU entrepreneurship connection, robotics venture-fair participation, and institutional venture backing provide a positive technical signal, but its very small scale and limited broader software-engineering recognition make it primarily an industry-specific signal. |
 | MSA Safety | 48 | Medium | 2026-08-14 | gpt-5.6-terra | No | - | Respected industrial safety company, but it has limited broad recognition as a destination for software engineering careers. |
 | MVP Health Care | 48 | Medium | 2026-09-14 | gpt-5.6-terra | No | - | An established regional health-insurance employer, but not broadly known for a highly selective or prominent software-engineering brand. |

@@ -27538,6 +27538,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "morph labs": {
+      "aliases": [
+        "Morph Cloud",
+        "morph.so"
+      ],
+      "confidence": "low",
+      "display_name": "Morph Labs",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Small, early-stage AI-infrastructure startup with a technically relevant developer product, but limited evidence of broad engineering-brand recognition, sustained selectivity, or an established internship signal.",
+      "reviewed_at": "2026-10-31",
+      "rubric_version": "prestige-v2"
+    },
     "mortenson": {
       "aliases": [
         "Mortenson Construction",
@@ -32879,6 +32893,20 @@
       "reason": "Limited identifiable evidence of an established software-engineering employer brand or broadly recognized internship selectivity under this name.",
       "reviewed_at": "2026-09-16",
       "rubric_version": "prestige-v1"
+    },
+    "pretium": {
+      "aliases": [
+        "Pretium Partners",
+        "pretium.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Pretium",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Specialized alternative investment manager with a substantial real-estate and credit platform and a genuine AI, Data & Innovation engineering internship. It can be a credible finance-adjacent technical signal, but it lacks the broad software-engineering reputation and demonstrated technical selectivity of top technology employers.",
+      "reviewed_at": "2026-10-31",
+      "rubric_version": "prestige-v2"
     },
     "pricewaterhousecoopers pwc": {
       "aliases": [
@@ -42225,6 +42253,21 @@
       "reason": "Well-regarded advanced research organization with strong technical credibility in AI, autonomy, robotics, and related software.",
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
+    },
+    "tpg": {
+      "aliases": [
+        "Texas Pacific Group",
+        "TPG Capital",
+        "tpg.com"
+      ],
+      "confidence": "high",
+      "display_name": "TPG",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Globally recognized alternative-asset manager with established internal engineering and cybersecurity roles, but its employer reputation and selectivity are principally in investing rather than software engineering; its engineering brand is industry-specific rather than a broad top-tier technical signal.",
+      "reviewed_at": "2026-10-31",
+      "rubric_version": "prestige-v2"
     },
     "traackr": {
       "aliases": [],
