@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3787** of **3787** cached companies (all cached companies).
+Showing **3788** of **3788** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -657,6 +657,7 @@ Showing **3787** of **3787** cached companies (all cached companies).
 | Bloomberg Industry Group | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Bloomberg BNA | Credible information-services and legal-tech employer associated with Bloomberg, with solid engineering relevance but a lower-profile brand than Bloomberg LP. |
 | Brain Co. | 68 | Medium | 2026-10-16 | gpt-5.6-terra | No | BrainCo, BrainCo Technologies, Inc. | $30M Series A, high-profile co-founders, enterprise/government AI focus, and engineering hiring create a strong early-career signal, but it is still a very young company without the established broad engineering reputation of top-tier AI employers. |
 | BrightAI | 68 | High | 2026-10-16 | gpt-5.6-terra | No | Bright AI | AI/IoT engineering focus, reported enterprise traction, and $51M Series A led by Khosla Ventures and Inspired Capital make it a solid positive software-engineering signal, but it remains an emerging, not yet broadly established top-tier employer brand. |
+| Cambridge Consultants | 68 | High | 2026-10-31 | gpt-5.6-terra | No | CC, Cambridge Consultants, part of Capgemini Invent, Cambridge Consultants, the deep tech powerhouse of Capgemini | Well-regarded deep-tech and engineering consultancy with substantive software roles across multidisciplinary R&D projects. Its Capgemini Invent affiliation and specialist technical work are positive signals, though it has less broad software-engineering brand recognition and selectivity signal than top product-tech employers. |
 | Capacity | 68 | Medium | 2026-10-16 | gpt-5.6-terra | No | Capacity AI, TeamCapacity | A credible and rapidly scaling enterprise AI platform, backed by major recent funding and acquisitions, but its software-engineering brand and internship selectivity are not yet broadly regarded as top-tier nationally. |
 | Carbon Robotics | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded specialized robotics company; its autonomous-systems work provides a strong technical signal. |
 | Charles Schwab | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Schwab | Major financial-services brand with substantial technology operations and a solid engineering career signal. |

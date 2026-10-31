@@ -7321,6 +7321,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "cambridge consultants": {
+      "aliases": [
+        "CC",
+        "Cambridge Consultants, part of Capgemini Invent",
+        "Cambridge Consultants, the deep tech powerhouse of Capgemini"
+      ],
+      "confidence": "high",
+      "display_name": "Cambridge Consultants",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded deep-tech and engineering consultancy with substantive software roles across multidisciplinary R&D projects. Its Capgemini Invent affiliation and specialist technical work are positive signals, though it has less broad software-engineering brand recognition and selectivity signal than top product-tech employers.",
+      "reviewed_at": "2026-10-31",
+      "rubric_version": "prestige-v2"
+    },
     "cambridge investment research": {
       "aliases": [],
       "confidence": "medium",
