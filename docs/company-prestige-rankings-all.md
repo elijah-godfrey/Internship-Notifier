@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3789** of **3789** cached companies (all cached companies).
+Showing **3790** of **3790** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1978,6 +1978,7 @@ Showing **3789** of **3789** cached companies (all cached companies).
 | Otsuka Pharmaceutical | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Otsuka | Large, respected pharmaceutical employer, but it is not broadly viewed as a software engineering destination. |
 | Output Biosciences | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | Output Labs, now Output Labs | YC backing and specialized AI/biological-modeling engineering work are positive signals, but its software-engineering brand and public track record remain early-stage and not broadly established. |
 | Parallel Systems | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Technically ambitious rail-autonomy startup, offering a positive specialized engineering signal but limited established brand recognition. |
+| ParetoHealth | 55 | Medium | 2026-11-02 | gpt-5.6-terra | No | Pareto Health, Pareto Captive Services, paretohealth.com | Established, well-backed employee-benefits and captive-insurance platform with a real engineering organization, but its reputation is primarily in healthcare benefits rather than as a broadly recognized or especially selective software engineering employer. |
 | Pendulum Intelligence, Inc. | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | Pendulum, Seattle social-intelligence platform | It builds a technically substantive multimodal AI/social-intelligence platform and has seed backing led by Madrona, but it remains a relatively small, niche private company without a broadly established top-tier software-engineering employer brand. |
 | Perpay | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible fintech employer with relevant product engineering, though it has limited broad industry prestige. |
 | Phil | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Digital-health and pharmacy technology company with relevant product engineering work, but a modest broader engineering reputation. |
