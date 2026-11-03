@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3790** of **3790** cached companies (all cached companies).
+Showing **3793** of **3793** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1218,6 +1218,7 @@ Showing **3790** of **3790** cached companies (all cached companies).
 | Clerkie | 62 | Medium | 2026-10-16 | gpt-5.6-terra | No | Henry Labs, Inc. | $33M Series A and credible fintech investors make it a solid startup signal, but it remains a relatively small, niche company without broad top-tier software-engineering brand recognition. |
 | Cohen & Steers | 62 | Medium | 2026-09-25 | gpt-5.6-terra | No | - | Well-regarded specialized investment manager; offers a solid finance-tech signal but has a limited standalone software-engineering brand. |
 | ConductorOne | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | Conductor One | Security and identity-governance startup with a credible technical domain, though it remains less broadly established than leading security firms. |
+| Costco | 62 | High | 2026-11-03 | gpt-5.6-terra | No | Costco Wholesale Corporation, Costco IT | A highly recognized global retailer with substantial in-house IT and e-commerce engineering work. It is a solid resume signal for enterprise and retail technology, though its software engineering brand and internship selectivity are not generally viewed as top-tier within tech. |
 | Curtiss-Wright | 62 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected aerospace, defense, and industrial engineering company; software signal is solid but specialized. |
 | Delta Air Lines | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Delta | Major airline with substantial technology operations, but its software engineering brand is secondary to its core transportation business. |
 | Doxel Inc | 62 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Construction-technology and AI focus offers a credible technical signal, but the employer brand remains relatively specialized. |
@@ -1833,6 +1834,7 @@ Showing **3790** of **3790** cached companies (all cached companies).
 | OffDeal, Inc. | 56 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Credible early signals—Y Combinator backing and a reported $12M Series A—but it is a young, small company with a limited established software-engineering brand, making it a modest rather than broadly prestigious internship signal. |
 | Penumbra Inc | 56 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected medical-device company with technical work, but a modest standalone software-engineering prestige signal. |
 | Phoebe | 56 | High | 2026-10-16 | gpt-5.6-terra | No | Phoebe Work | $9.5M seed round and technical founding background provide a positive early-stage signal, but it is still a small, very young company without broad software-engineering brand recognition. |
+| Resideo | 56 | High | 2026-11-03 | gpt-5.6-terra | No | Resideo Technologies, Inc., REZI, Honeywell Home | Established public smart-home and building-technologies company with connected-product and cloud engineering work plus recognizable legacy brands. Its engineering signal is solid but primarily industry-specific rather than broadly elite in software. |
 | RF-SMART | 56 | Medium | 2026-08-02 | gpt-5.6-terra | No | RF-SMART, a division of Oracle NetSuite | Respected niche warehouse and inventory software provider, with a useful but industry-specific engineering signal. |
 | Scout Motors | 56 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Notable emerging electric-vehicle brand with potential embedded and automotive software relevance, but a still-developing employer reputation. |
 | SEP | 56 | Medium | 2026-10-19 | gpt-5.6-terra | No | SEP.com, Software Engineering Professionals, SEP Westfield, Indiana | Established employee-owned custom software development consultancy with a long operating history and substantive client engineering work, but primarily regional and not broadly viewed as a top-tier software-engineering brand. |
@@ -2015,6 +2017,7 @@ Showing **3790** of **3790** cached companies (all cached companies).
 | Toyota Motor Manufacturing Canada Inc (TMMC) | 55 | Medium | 2026-09-11 | gpt-5.6-terra | No | TMMC, Toyota Motor Manufacturing Canada | Toyota is globally respected, but this manufacturing subsidiary has a limited standalone software-engineering brand. |
 | TPG | 55 | High | 2026-10-31 | gpt-5.6-terra | No | Texas Pacific Group, TPG Capital, tpg.com | Globally recognized alternative-asset manager with established internal engineering and cybersecurity roles, but its employer reputation and selectivity are principally in investing rather than software engineering; its engineering brand is industry-specific rather than a broad top-tier technical signal. |
 | Transamerica | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services brand with meaningful technology work, though not a prominent software-engineering destination. |
+| Tria Federal | 55 | Medium | 2026-11-03 | gpt-5.6-terra | No | Tria, Federal Advisory Partners, Favor TechConsulting, Universal Consulting Services, Softrams | Established federal-health technology and advisory contractor with meaningful software modernization work for VA and CMS, including acquired digital-services capabilities. It is a credible GovCon engineering signal, but its recognition and demonstrated selectivity are primarily sector-specific rather than broadly top-tier in software. |
 | Underwriters Laboratories | 55 | High | 2026-08-02 | gpt-5.6-terra | No | UL | Highly established safety-science institution with technical credibility, though it is not principally known as a software engineering employer. |
 | Volaris Group | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established software-focused acquirer with meaningful industry presence, though its engineering signal varies across portfolio companies. |
 | Weave | 55 | Medium | 2026-08-21 | gpt-5.6-terra | No | Weave Communications | Established vertical SaaS company with a legitimate engineering environment, but its software brand is primarily industry-specific rather than broadly elite or highly selective. |

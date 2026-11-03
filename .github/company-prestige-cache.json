@@ -10705,6 +10705,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "costco": {
+      "aliases": [
+        "Costco Wholesale Corporation",
+        "Costco IT"
+      ],
+      "confidence": "high",
+      "display_name": "Costco",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "A highly recognized global retailer with substantial in-house IT and e-commerce engineering work. It is a solid resume signal for enterprise and retail technology, though its software engineering brand and internship selectivity are not generally viewed as top-tier within tech.",
+      "reviewed_at": "2026-11-03",
+      "rubric_version": "prestige-v2"
+    },
     "cotiviti": {
       "aliases": [],
       "confidence": "medium",
@@ -34532,6 +34546,21 @@
       "reviewed_at": "2026-09-17",
       "rubric_version": "prestige-v1"
     },
+    "resideo": {
+      "aliases": [
+        "Resideo Technologies, Inc.",
+        "REZI",
+        "Honeywell Home"
+      ],
+      "confidence": "high",
+      "display_name": "Resideo",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 56,
+      "reason": "Established public smart-home and building-technologies company with connected-product and cloud engineering work plus recognizable legacy brands. Its engineering signal is solid but primarily industry-specific rather than broadly elite in software.",
+      "reviewed_at": "2026-11-03",
+      "rubric_version": "prestige-v2"
+    },
     "resmed": {
       "aliases": [],
       "confidence": "medium",
@@ -42578,6 +42607,23 @@
       "reason": "Established utility organization, but it has limited software-engineering prestige outside its industry.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "tria federal": {
+      "aliases": [
+        "Tria",
+        "Federal Advisory Partners",
+        "Favor TechConsulting",
+        "Universal Consulting Services",
+        "Softrams"
+      ],
+      "confidence": "medium",
+      "display_name": "Tria Federal",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Established federal-health technology and advisory contractor with meaningful software modernization work for VA and CMS, including acquired digital-services capabilities. It is a credible GovCon engineering signal, but its recognition and demonstrated selectivity are primarily sector-specific rather than broadly top-tier in software.",
+      "reviewed_at": "2026-11-03",
+      "rubric_version": "prestige-v2"
     },
     "tribalscale": {
       "aliases": [],
