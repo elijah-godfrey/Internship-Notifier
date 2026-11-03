@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3793** of **3793** cached companies (all cached companies).
+Showing **3794** of **3794** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1333,6 +1333,7 @@ Showing **3793** of **3793** cached companies (all cached companies).
 | Bloom Energy | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected clean-energy technology company with substantive technical work, though software engineering is not its primary public brand. |
 | Blue Cross Blue Shield of Michigan | 61 | High | 2026-07-18 | gpt-5.6-terra | No | BCBSM, Blue Cross Blue Shield of MI | Large, established health-insurance organization with solid enterprise technology work, but not a top-tier software brand. |
 | Boston Scientific | 61 | Medium | 2026-09-04 | gpt-5.6-terra | No | - | Recognized medical-device employer with meaningful engineering rigor, but a comparatively modest software-engineering brand. |
+| Botpress | 61 | Medium | 2026-11-03 | gpt-5.6-terra | No | Botpress Technologies, Technologies Botpress Inc., botpress.com | A credible, venture-backed AI-agent and developer-platform company with an established conversational-AI product and open-source roots. It is a solid technical startup signal, though its software-engineering brand is still substantially less recognized and selective than top-tier AI infrastructure or major technology employers. |
 | Brooks Automation | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | Brooks | Established automation and life-sciences technology employer with credible engineering work, but limited broad software-industry prominence. |
 | CACI | 61 | High | 2026-08-02 | gpt-5.6-terra | No | CACI International | Well-established government and defense technology contractor; a solid technical signal, especially for public-sector engineering. |
 | CIBC | 61 | High | 2026-08-02 | gpt-5.6-terra | No | Canadian Imperial Bank of Commerce | Major Canadian bank with a solid technology organization and positive regional engineering signal. |
