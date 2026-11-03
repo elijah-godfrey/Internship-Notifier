@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3794** of **3794** cached companies (all cached companies).
+Showing **3797** of **3797** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1782,6 +1782,7 @@ Showing **3794** of **3794** cached companies (all cached companies).
 | UnitX | 57 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Industrial computer-vision company with credible applied AI and automation work, though recognition remains specialized. |
 | Upvest | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible fintech infrastructure company, though its engineering signal is primarily regional and industry-specific. |
 | Utah State University | 57 | High | 2026-09-09 | gpt-5.6-terra | No | USU | Recognized public research university that can offer credible technical and research experience, though it is not broadly a top software-engineering employer brand. |
+| Vatic Investments | 57 | Medium | 2026-11-03 | gpt-5.6-terra | No | Vatic Labs, Vatic Labs Operations LLC, vaticlabs.ai, vaticinvestments.com | Small, specialized quantitative-trading firm with engineering work in low-latency systems and AI-driven trading. It offers a relevant technical signal, but its software-engineering brand and broad industry recognition are materially below leading quant firms. |
 | Viavi Solutions | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | VIAVI | Respected network-testing and communications technology company with a solid specialized engineering signal. |
 | Washington University in St. Louis | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | Wash U, WashU | Highly respected university, but its employer signal for a software engineering internship is more academic than software-industry focused. |
 | Woodward | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | Woodward Governor | Respected aerospace and industrial-controls company; engineering reputation is stronger than its software-specific brand. |
@@ -3460,6 +3461,7 @@ Showing **3794** of **3794** cached companies (all cached companies).
 | Infojini | 38 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | IT staffing and consulting presence offers relevant experience, but it has limited broad software-engineering prestige. |
 | Intelliguard | 38 | Low | 2026-09-17 | gpt-5.6-terra | No | - | Appears to be a specialized healthcare technology company with limited broadly visible software-engineering brand recognition. |
 | IVX Health | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Healthcare-services company with limited public software-engineering brand recognition. |
+| Jomboy | 38 | Medium | 2026-11-03 | gpt-5.6-terra | No | Jomboy Media, jomboymedia.com | Established, growing sports-media brand with meaningful MLB backing and a recognized audience, but it is principally a creator-led media business rather than a known software-engineering employer. Its technical hiring signal is therefore limited and industry-specific. |
 | Kiwi Charge Inc. | 38 | High | 2026-10-16 | gpt-5.6-terra | No | KiwiCharge | Credible Ontario-backed pilot/funding activity and partnerships, but it is a young, small company with limited established software-engineering employer recognition or demonstrated selectivity. |
 | Koppers | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established materials company with limited broader recognition for software engineering. |
 | Lasko Products | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer-products manufacturer, but it has limited software-engineering brand strength or technical-employer visibility. |
@@ -3760,6 +3762,7 @@ Showing **3794** of **3794** cached companies (all cached companies).
 | Accel Learning | 25 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | A small education company that has advertised an AI-engineering internship for an intelligent question-bank product, but has limited public software-engineering brand recognition or evidence of broad technical selectivity. |
 | Agents & Allies | 25 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Public evidence identifies a 2–10-person organization but shows little independent funding, product, or engineering-industry recognition, so it carries limited software-engineering internship prestige. |
 | Al Warren Oil Company | 25 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Regional oil and fuel business with little recognized software-engineering employer reputation. |
+| Apache Industrial | 25 | High | 2026-11-03 | gpt-5.6-terra | No | Apache Industrial Services, Apache Industrial Holdings, Skyway | Established North American industrial-services and specialty-construction contractor, but its public profile centers on field operations and skilled trades rather than a selective or broadly recognized software-engineering organization. Its digital-services work provides some technical relevance, though the software brand signal appears limited. |
 | Bracket Bot | 25 | Low | 2026-09-24 | gpt-5.6-terra | No | - | Limited established visibility as a software-engineering employer, making its internship signal difficult to verify and likely niche. |
 | Capston Inc | 25 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | A newly incorporated, small team with an early-stage engineering function; its technical work is relevant, but it has limited established software-engineering brand recognition or demonstrated selectivity. |
 | Chronicle Wealth | 25 | High | 2026-10-16 | gpt-5.6-terra | No | - | An established niche wealth-management practice, but public evidence identifies it as investment management rather than a software company and does not show a notable software-engineering brand, technical selectivity, or established engineering internship signal. |

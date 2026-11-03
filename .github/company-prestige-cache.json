@@ -2776,6 +2776,21 @@
       "reviewed_at": "2026-10-12",
       "rubric_version": "prestige-v1"
     },
+    "apache industrial": {
+      "aliases": [
+        "Apache Industrial Services",
+        "Apache Industrial Holdings",
+        "Skyway"
+      ],
+      "confidence": "high",
+      "display_name": "Apache Industrial",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 25,
+      "reason": "Established North American industrial-services and specialty-construction contractor, but its public profile centers on field operations and skilled trades rather than a selective or broadly recognized software-engineering organization. Its digital-services work provides some technical relevance, though the software brand signal appears limited.",
+      "reviewed_at": "2026-11-03",
+      "rubric_version": "prestige-v2"
+    },
     "apera ai": {
       "aliases": [],
       "confidence": "medium",
@@ -22978,6 +22993,20 @@
       "reason": "Known in international healthcare accreditation, but offers a limited software-engineering prestige signal.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "jomboy": {
+      "aliases": [
+        "Jomboy Media",
+        "jomboymedia.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Jomboy",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Established, growing sports-media brand with meaningful MLB backing and a recognized audience, but it is principally a creator-led media business rather than a known software-engineering employer. Its technical hiring signal is therefore limited and industry-specific.",
+      "reviewed_at": "2026-11-03",
+      "rubric_version": "prestige-v2"
     },
     "jonas software": {
       "aliases": [
@@ -44283,6 +44312,22 @@
       "reason": "Respected data-infrastructure company with strong systems engineering credibility, especially in storage and AI data platforms.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "vatic investments": {
+      "aliases": [
+        "Vatic Labs",
+        "Vatic Labs Operations LLC",
+        "vaticlabs.ai",
+        "vaticinvestments.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Vatic Investments",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Small, specialized quantitative-trading firm with engineering work in low-latency systems and AI-driven trading. It offers a relevant technical signal, but its software-engineering brand and broad industry recognition are materially below leading quant firms.",
+      "reviewed_at": "2026-11-03",
+      "rubric_version": "prestige-v2"
     },
     "vaynermedia": {
       "aliases": [],
