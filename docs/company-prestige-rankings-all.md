@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3798** of **3798** cached companies (all cached companies).
+Showing **3799** of **3799** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1654,6 +1654,7 @@ Showing **3798** of **3798** cached companies (all cached companies).
 | AGCO | 57 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized agricultural-equipment manufacturer with growing technology work, but a moderate rather than top-tier software signal. |
 | AHEAD | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise IT consulting and services firm, with a credible but not elite software-engineering brand. |
 | Airspace Intelligence | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Technically oriented aerospace and defense software company, but with limited broad employer recognition relative to leading software firms. |
+| Alaska Airlines | 57 | Medium | 2026-11-05 | gpt-5.6-terra | No | Alaska Air Group, ALK | A recognizable U.S. airline with a legitimate in-house software organization supporting consumer digital products and complex airline operations. It offers relevant production-scale engineering experience, but its software brand and internship selectivity are not broadly viewed as top-tier in the wider engineering market. |
 | Alfa Laval | 57 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected industrial technology company, but software engineering is not its primary employer brand. |
 | Altamira Technologies | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected defense and intelligence technology contractor with technically relevant work, though its engineering brand is specialized rather than broadly elite. |
 | Arc'teryx Equipment | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | Arc'teryx | Highly respected outdoor-products brand; engineering roles can be solid, but the company is not known primarily for software. |
