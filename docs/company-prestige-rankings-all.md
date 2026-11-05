@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3797** of **3797** cached companies (all cached companies).
+Showing **3798** of **3798** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1096,6 +1096,7 @@ Showing **3797** of **3797** cached companies (all cached companies).
 | Varian | 64 | Medium | 2026-07-22 | gpt-5.6-terra | No | Varian Medical Systems, Varian Medical | Established medical-technology and scientific-instrumentation name with credible engineering work, though its software brand is not broadly elite or consumer-tech prominent. |
 | Vena Solutions | 64 | High | 2026-09-11 | gpt-5.6-terra | No | Vena | Established Canadian enterprise SaaS company with a solid technical reputation, though not broadly top-tier. |
 | Viam | 64 | Medium | 2026-10-19 | gpt-5.6-terra | No | viam.com | Well-funded robotics software startup founded by MongoDB co-founder Eliot Horowitz, with a technically credible platform spanning distributed systems, cloud infrastructure, and robotics. It is a solid specialist engineering signal, though its brand recognition and demonstrated selectivity remain below top-tier software employers. |
+| Wolters Kluwer | 64 | High | 2026-11-05 | gpt-5.6-terra | No | Wolters Kluwer N.V., WK, WKL | Established global provider of specialized software and information products, with a substantial engineering organization across regulated industries. It offers a solid, credible software internship signal, especially in enterprise and domain-focused technology, though it is not generally viewed as a top-tier consumer-tech or elite engineering brand. |
 | 8VC | 63 | High | 2026-08-02 | gpt-5.6-terra | No | 8VC Management, LLC | Well-regarded venture firm in technology, but it is not principally a software engineering employer. |
 | AbbVie | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded global biopharma employer, though its software engineering brand is secondary to its life-sciences reputation. |
 | Aberdeen Group plc | 63 | Medium | 2026-10-16 | gpt-5.6-terra | No | Aberdeen, abrdn, Standard Life Aberdeen, trading as Aberdeen | A recognized public financial-services employer with established early-career programs and meaningful engineering/product work, but its software-engineering brand and selectivity are not broadly viewed as top-tier technology or fintech benchmarks. |

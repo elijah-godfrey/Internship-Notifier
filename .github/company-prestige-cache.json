@@ -46227,6 +46227,21 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "wolters kluwer": {
+      "aliases": [
+        "Wolters Kluwer N.V.",
+        "WK",
+        "WKL"
+      ],
+      "confidence": "high",
+      "display_name": "Wolters Kluwer",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Established global provider of specialized software and information products, with a substantial engineering organization across regulated industries. It offers a solid, credible software internship signal, especially in enterprise and domain-focused technology, though it is not generally viewed as a top-tier consumer-tech or elite engineering brand.",
+      "reviewed_at": "2026-11-05",
+      "rubric_version": "prestige-v2"
+    },
     "wolverine trading": {
       "aliases": [
         "Wolverine"
