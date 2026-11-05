@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3801** of **3801** cached companies (all cached companies).
+Showing **3803** of **3803** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2835,6 +2835,7 @@ Showing **3801** of **3801** cached companies (all cached companies).
 | Allegiant Air | 46 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized airline, but its software engineering brand is limited relative to dedicated technology employers. |
 | AMN Healthcare | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | AMN | Established healthcare staffing company, but with limited broad software-engineering prestige. |
 | Arrow International, Inc. | 46 | High | 2026-10-16 | gpt-5.6-terra | No | charitable gaming | A real software-engineering internship building Unity/C# electronic gaming products, but its engineering reputation and recruiting signal are primarily specialized to charitable gaming rather than broadly recognized across software. |
+| Ballotpedia | 46 | Medium | 2026-11-05 | gpt-5.6-terra | No | The Lucy Burns Institute, Lucy Burns Institute, Inc., ballotpedia.org | Established, nationally recognized nonprofit political-information platform with a real tech team supporting data, mapping, extraction, and public-facing web tools. It offers meaningful mission-driven engineering exposure, but has limited broad software-engineering brand prestige and selectivity evidence compared with major technology employers. |
 | BinSentry Inc | 46 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Credible IoT and agricultural-technology startup with relevant engineering work but limited broad market recognition. |
 | Blue Cross of Idaho | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | BCI, Blue Cross of Idaho Health Service | Established regional insurer with relevant internal technology work, but limited broader software-engineering prestige. |
 | Cart.com | 46 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | E-commerce and logistics technology company, but with limited broad recognition or proven top-tier engineering signal. |
@@ -3102,6 +3103,7 @@ Showing **3801** of **3801** cached companies (all cached companies).
 | Donaldson Company | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established industrial manufacturer, but it has limited recognition as a software-engineering employer. |
 | DPR Family of Companies | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | DPR Construction | Respected construction organization, but it has limited broad recognition as a software-engineering employer. |
 | Drivemode | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized mobility software company with a limited standalone software-engineering brand outside its niche. |
+| DwyerOmega | 43 | Medium | 2026-11-05 | gpt-5.6-terra | No | Dwyer Group, Dwyer Instruments, Omega Engineering, DwyerOmega Group | Established global sensing and industrial-instrumentation platform with recognized legacy brands, but its public internship and employer positioning emphasize hardware, manufacturing, and product engineering rather than a notably selective or broadly recognized software-engineering brand. |
 | Echo Global Logistics | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established logistics company, but its software-engineering reputation is primarily industry-specific. |
 | Edmentum | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Known education-technology provider, but it is not broadly viewed as a standout software-engineering destination. |
 | Element Fleet Management | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Element Fleet | Established fleet-management business with technology roles, but limited software-engineering prestige beyond its industry. |

@@ -4944,6 +4944,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "ballotpedia": {
+      "aliases": [
+        "The Lucy Burns Institute",
+        "Lucy Burns Institute, Inc.",
+        "ballotpedia.org"
+      ],
+      "confidence": "medium",
+      "display_name": "Ballotpedia",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Established, nationally recognized nonprofit political-information platform with a real tech team supporting data, mapping, extraction, and public-facing web tools. It offers meaningful mission-driven engineering exposure, but has limited broad software-engineering brand prestige and selectivity evidence compared with major technology employers.",
+      "reviewed_at": "2026-11-05",
+      "rubric_version": "prestige-v2"
+    },
     "bamboohr": {
       "aliases": [],
       "confidence": "medium",
@@ -13313,6 +13328,22 @@
       "reason": "Respected proprietary trading firm with selective quantitative and software roles; a strong signal within trading and financial engineering.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "dwyeromega": {
+      "aliases": [
+        "Dwyer Group",
+        "Dwyer Instruments",
+        "Omega Engineering",
+        "DwyerOmega Group"
+      ],
+      "confidence": "medium",
+      "display_name": "DwyerOmega",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established global sensing and industrial-instrumentation platform with recognized legacy brands, but its public internship and employer positioning emphasize hardware, manufacturing, and product engineering rather than a notably selective or broadly recognized software-engineering brand.",
+      "reviewed_at": "2026-11-05",
+      "rubric_version": "prestige-v2"
     },
     "dxc technology": {
       "aliases": [],
