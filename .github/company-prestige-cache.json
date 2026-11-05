@@ -5039,6 +5039,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "baringa": {
+      "aliases": [
+        "Baringa Partners",
+        "Baringa Partners LLP",
+        "Baringa Partners International LLP"
+      ],
+      "confidence": "medium",
+      "display_name": "Baringa",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 56,
+      "reason": "Established international business and technology consultancy with credible Data, AI, and engineering work, particularly in energy and financial services. It is well regarded in its consulting niches, but its software-engineering brand and internship signal are materially less recognized than those of leading technology companies or engineering-first consultancies.",
+      "reviewed_at": "2026-11-05",
+      "rubric_version": "prestige-v2"
+    },
     "barkback": {
       "aliases": [],
       "confidence": "medium",
@@ -29601,6 +29616,20 @@
       "reason": "Highly recognized public-media institution with meaningful digital-product work, but not generally a top-tier software-engineering destination.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "nrdc": {
+      "aliases": [
+        "Natural Resources Defense Council",
+        "nrdc.org"
+      ],
+      "confidence": "high",
+      "display_name": "NRDC",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established, nationally recognized environmental nonprofit with a credible mission-driven reputation, but its primary strength is advocacy, law, and policy rather than software engineering. An internship offers a modest, sector-specific technical signal rather than a broadly strong engineering brand.",
+      "reviewed_at": "2026-11-05",
+      "rubric_version": "prestige-v2"
     },
     "nreca international": {
       "aliases": [

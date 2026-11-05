@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3799** of **3799** cached companies (all cached companies).
+Showing **3801** of **3801** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1796,6 +1796,7 @@ Showing **3799** of **3799** cached companies (all cached companies).
 | AltaML | 56 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | A credible applied AI and machine-learning consultancy, but primarily regional and not widely established as a highly selective engineering signal. |
 | Apogee Engineering, LLC | 56 | Medium | 2026-10-16 | gpt-5.6-terra | No | Apogee, ApogeeUSA | Credible national-security, federal, engineering, and digital-transformation work, including sizeable government contracts, but its software-engineering brand and demonstrated internship selectivity are not broadly prominent relative to leading technology or defense engineering employers. |
 | Avery Dennison | 56 | Medium | 2026-07-30 | gpt-5.6-terra | No | - | Well-regarded industrial and materials company, though software engineering is not its primary employer brand. |
+| Baringa | 56 | Medium | 2026-11-05 | gpt-5.6-terra | No | Baringa Partners, Baringa Partners LLP, Baringa Partners International LLP | Established international business and technology consultancy with credible Data, AI, and engineering work, particularly in energy and financial services. It is well regarded in its consulting niches, but its software-engineering brand and internship signal are materially less recognized than those of leading technology companies or engineering-first consultancies. |
 | Basis Research Institute | 56 | Medium | 2026-10-16 | gpt-5.6-terra | No | Basis, Essex Labs, Inc. | Research-engineering work spans probabilistic/causal reasoning and ML systems, with roles seeking strong research and production-engineering backgrounds; however, it remains a small, young, niche employer without broad established software-engineering brand recognition. |
 | Berkshire Hathaway Energy | 56 | High | 2026-07-18 | gpt-5.6-terra | No | BHE | Respected energy operator with solid enterprise technology opportunities, but limited broad software-engineering brand strength. |
 | Bio-Rad Laboratories | 56 | High | 2026-08-02 | gpt-5.6-terra | No | Bio-Rad | Long-established life-sciences company with strong domain credibility, but limited distinction as a software engineering employer. |
@@ -3172,6 +3173,7 @@ Showing **3799** of **3799** cached companies (all cached companies).
 | Nordson | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial manufacturer, but it has limited visibility and selectivity as a software-engineering employer. |
 | Northumbria University | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | University of Northumbria at Newcastle | Established university name, but it is not broadly regarded as a highly selective software-engineering employer. |
 | Novocol Pharmaceutical of Canada Inc | 43 | Medium | 2026-09-11 | gpt-5.6-terra | No | Novocol, Novocol Pharma | Established pharmaceutical manufacturing company, but software engineering is not its primary employer brand. |
+| NRDC | 43 | High | 2026-11-05 | gpt-5.6-terra | No | Natural Resources Defense Council, nrdc.org | Established, nationally recognized environmental nonprofit with a credible mission-driven reputation, but its primary strength is advocacy, law, and policy rather than software engineering. An internship offers a modest, sector-specific technical signal rather than a broadly strong engineering brand. |
 | OceanComm, Inc. | 43 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Technically substantive embedded/DSP and engineering work on high-speed underwater modems, but it is a small, niche company with limited broad software-engineering name recognition or demonstrated elite-selectivity signal. |
 | Odys Aviation | 43 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Technically ambitious aviation startup, but its software-engineering reputation and selectivity are not yet broadly established. |
 | Olsson | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Olsson Associates | Established engineering design firm, though its software-engineering reputation is limited and domain-specific. |
