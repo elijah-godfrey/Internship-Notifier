@@ -42152,6 +42152,21 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "tinder": {
+      "aliases": [
+        "Tinder app",
+        "Match Group",
+        "lifeattinder.com"
+      ],
+      "confidence": "high",
+      "display_name": "Tinder",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 73,
+      "reason": "Globally recognized consumer technology brand with meaningful mobile, recommendation, AI, and trust-and-safety engineering challenges. Its reported internship demand suggests strong selectivity, though its software-engineering reputation is not generally in the very top tier of elite technology employers.",
+      "reviewed_at": "2026-11-06",
+      "rubric_version": "prestige-v2"
+    },
     "titan global capital management": {
       "aliases": [
         "Titan"

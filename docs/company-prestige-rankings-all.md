@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3805** of **3805** cached companies (all cached companies).
+Showing **3806** of **3806** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -452,6 +452,7 @@ Showing **3805** of **3805** cached companies (all cached companies).
 | Talos | 73 | Medium | 2026-10-16 | gpt-5.6-terra | No | Talos Global, Talos Trading, institutional digital-asset trading infrastructure | A well-funded, technically demanding fintech/crypto-infrastructure employer with a structured coding-based internship process and meaningful institutional-market credibility, but its engineering brand is strong primarily within a specialized niche rather than broadly elite across software engineering. |
 | Target | 73 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major retailer with a substantial, respected consumer technology and digital engineering organization. |
 | TENEX.AI | 73 | High | 2026-10-16 | gpt-5.6-terra | No | Tenex Security, Inc., Tenex AI | Strong technical leadership tied to Google Chronicle/Google SecOps, experienced security founders, and notable backing including a reported $250M Series B; however, it is a very young company, so its broad, durable software-engineering brand is still developing. |
+| Tinder | 73 | High | 2026-11-06 | gpt-5.6-terra | No | Tinder app, Match Group, lifeattinder.com | Globally recognized consumer technology brand with meaningful mobile, recommendation, AI, and trust-and-safety engineering challenges. Its reported internship demand suggests strong selectivity, though its software-engineering reputation is not generally in the very top tier of elite technology employers. |
 | University of Maryland - College Park | 73 | High | 2026-07-18 | gpt-5.6-terra | No | UMD | Highly respected research university with a strong computer science and engineering reputation; positive technical signal outside conventional industry roles. |
 | Veeam Software | 73 | High | 2026-08-02 | gpt-5.6-terra | No | Veeam | Widely respected enterprise data-protection and backup software company with a strong relevant engineering brand. |
 | Veeda AI | 73 | Medium | 2026-10-16 | gpt-5.6-terra | No | Veeda Innovation Inc., Veeda | Exceptional $90M seed round co-led by Khosla Ventures and Radical Ventures and research-heavy founding team make it a strong early-career technical signal, though it is newly founded and has limited public product or operating track record. |
