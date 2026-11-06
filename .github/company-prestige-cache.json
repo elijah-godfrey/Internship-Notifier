@@ -12111,6 +12111,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "deeplocal": {
+      "aliases": [
+        "deeplocal.com",
+        "Wire & Plastic Products",
+        "WPP"
+      ],
+      "confidence": "high",
+      "display_name": "Deeplocal",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Well-regarded Pittsburgh creative-technology studio with in-house software, robotics, and interactive-experience engineering for prominent brands. Its Carnegie Mellon roots and WPP ownership add credibility, but it is a specialized experiential-marketing employer rather than a broadly recognized top-tier software engineering brand.",
+      "reviewed_at": "2026-11-06",
+      "rubric_version": "prestige-v2"
+    },
     "defense unicorns": {
       "aliases": [],
       "confidence": "medium",
@@ -31916,6 +31931,23 @@
       "reason": "Recognized apparel brand, but it has little standalone software-engineering employer prestige.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "petronas canada": {
+      "aliases": [
+        "PETRONAS Energy Canada Ltd.",
+        "Progress Energy",
+        "Progress Energy Canada Ltd.",
+        "petronascanada.com",
+        "PETRONAS"
+      ],
+      "confidence": "high",
+      "display_name": "PETRONAS Canada",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established Canadian natural-gas operator under the global PETRONAS group, with digital and technology functions, but it is principally an energy producer rather than a broadly recognized or notably selective software-engineering employer.",
+      "reviewed_at": "2026-11-06",
+      "rubric_version": "prestige-v2"
     },
     "pfizer": {
       "aliases": [],

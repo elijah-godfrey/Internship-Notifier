@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3806** of **3806** cached companies (all cached companies).
+Showing **3808** of **3808** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1519,6 +1519,7 @@ Showing **3806** of **3806** cached companies (all cached companies).
 | Cox | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Cox Enterprises, Cox Communications | Large media, telecom, and automotive-services group with solid technology organizations but modest top-tier software signal. |
 | Curriculum Associates | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established education-technology company with recognizable products, though not a top-tier general software brand. |
 | CYVL | 58 | High | 2026-10-16 | gpt-5.6-terra | No | AI Intern to the CEO, AI Intern to the CEO role | AI/software-and-sensor platform, public-sector traction, and $14M Series A create a credible technical signal, but it remains a relatively small, niche govtech company without broad top-tier software-engineering brand recognition. |
+| Deeplocal | 58 | High | 2026-11-06 | gpt-5.6-terra | No | deeplocal.com, Wire & Plastic Products, WPP | Well-regarded Pittsburgh creative-technology studio with in-house software, robotics, and interactive-experience engineering for prominent brands. Its Carnegie Mellon roots and WPP ownership add credibility, but it is a specialized experiential-marketing employer rather than a broadly recognized top-tier software engineering brand. |
 | Desjardins Group | 58 | High | 2026-08-02 | gpt-5.6-terra | No | Desjardins, Desjardins Financial Group | Major Canadian financial-services institution with solid technology work, though not broadly viewed as an elite software employer. |
 | DevRev | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Developer-focused software startup with a relevant product and engineering orientation, but a still-limited established reputation. |
 | Dick's Sporting Goods | 58 | High | 2026-08-02 | gpt-5.6-terra | No | DICK'S, DSG | Major retailer with meaningful digital and e-commerce engineering work, though it is not broadly a top software employer. |
@@ -2674,6 +2675,7 @@ Showing **3806** of **3806** cached companies (all cached companies).
 | Parspec | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Construction-technology startup with relevant software product work, but limited established prestige or broad recognition. |
 | PartnerRe | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized reinsurance company with technical roles, though it has limited standalone software-engineering brand strength. |
 | PCL Constructors Canada Inc | 48 | Medium | 2026-09-11 | gpt-5.6-terra | No | PCL Construction | Well-regarded Canadian construction employer, but its software engineering brand is not a major market signal. |
+| PETRONAS Canada | 48 | High | 2026-11-06 | gpt-5.6-terra | No | PETRONAS Energy Canada Ltd., Progress Energy, Progress Energy Canada Ltd., petronascanada.com, PETRONAS | Established Canadian natural-gas operator under the global PETRONAS group, with digital and technology functions, but it is principally an energy producer rather than a broadly recognized or notably selective software-engineering employer. |
 | PG&E | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major utility with meaningful internal technology needs, but limited broad software-engineering prestige. |
 | Phlair | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Phlair is an early-stage climate-tech company with technically demanding work, but it has limited broad recognition as a software-engineering brand. |
 | Pilot Company | 48 | High | 2026-10-19 | gpt-5.6-terra | No | Pilot Flying J, Pilot Travel Centers, pilotcompany.com, Berkshire Hathaway subsidiary | Major North American travel-center and fuel operator with established internal technology, data, and digital-product teams. A software internship offers credible enterprise engineering experience, but Pilot is not broadly regarded as a top-tier software employer or especially selective engineering brand. |
