@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3803** of **3803** cached companies (all cached companies).
+Showing **3805** of **3805** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3323,6 +3323,7 @@ Showing **3803** of **3803** cached companies (all cached companies).
 | OptiRTC | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized water-management technology company; relevant technical work but limited broad software-employer recognition. |
 | Pivot Energy | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized clean-energy developer, but it has a limited software-engineering brand relative to technology employers. |
 | Primerica | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized financial-services company, but it has limited software-engineering-specific prestige. |
+| Red Wing Shoe Company | 42 | High | 2026-11-06 | gpt-5.6-terra | No | Red Wing Shoes, Red Wing Heritage | Established, globally distributed work-footwear company with a durable consumer and manufacturing brand, but limited recognition or demonstrated selectivity as a software-engineering employer. An internship would be a solid industry-specific signal rather than a broadly prestigious technical one. |
 | Redwood Credit Union | 42 | High | 2026-08-02 | gpt-5.6-terra | No | RCU | Established regional financial institution, but software engineering is not a prominent external employer signal. |
 | Reli | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage insurance technology company with relevant software work, but limited established engineering-employer recognition. |
 | RJ Lee Group | 42 | Medium | 2026-08-28 | gpt-5.6-terra | No | - | Established specialized scientific and analytical services firm, but it has limited broad recognition as a software-engineering employer. |
@@ -3636,6 +3637,7 @@ Showing **3803** of **3803** cached companies (all cached companies).
 | Hubs.is | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | Hubs | An early-access, founder-led product company with some technical AI/product signal, but limited public evidence of broad industry recognition, established engineering reputation, or demonstrated selectivity for software engineering internships. |
 | JK Moving Services | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | JK Moving | Established moving-services business, but it has little relevant software-engineering employer prestige. |
 | Kelso Industries | 32 | High | 2026-10-16 | gpt-5.6-terra | No | - | Meaningful industry scale and growth, but public materials position it as a construction/facilities operator rather than a software employer; its software-engineering brand and internship selectivity appear limited. |
+| Lumbermen's | 32 | High | 2026-11-06 | gpt-5.6-terra | No | lumbermens-inc.com | Regional employee-owned building-materials manufacturer and distributor with a genuine internal software internship, but limited recognition and selectivity as a software-engineering employer. |
 | MedElite | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Healthcare-services brand with limited known software-engineering reputation or selectivity signal. |
 | Mobile Data Technologies | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | MDT | A small, specialized hardware/software firm rather than a broadly recognized software employer, so it provides limited general software-engineering prestige despite relevant technical product work. |
 | Mobius Renewables | 32 | High | 2026-10-16 | gpt-5.6-terra | No | Mobius Fuels | Meaningful clean-energy infrastructure backing and acquired operating biogas assets, but it is a very new, industry-focused energy operator rather than an established software employer; its software-engineering brand and internship selectivity are limited publicly. |

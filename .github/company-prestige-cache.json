@@ -25250,6 +25250,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "lumbermen s": {
+      "aliases": [
+        "lumbermens-inc.com"
+      ],
+      "confidence": "high",
+      "display_name": "Lumbermen's",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Regional employee-owned building-materials manufacturer and distributor with a genuine internal software internship, but limited recognition and selectivity as a software-engineering employer.",
+      "reviewed_at": "2026-11-06",
+      "rubric_version": "prestige-v2"
+    },
     "lumen technologies": {
       "aliases": [
         "CenturyLink",
@@ -34341,6 +34354,20 @@
       "reason": "Recognized digital-media and consumer-internet company with solid product and engineering work, though not top-tier in software prestige.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "red wing shoe": {
+      "aliases": [
+        "Red Wing Shoes",
+        "Red Wing Heritage"
+      ],
+      "confidence": "high",
+      "display_name": "Red Wing Shoe Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 42,
+      "reason": "Established, globally distributed work-footwear company with a durable consumer and manufacturing brand, but limited recognition or demonstrated selectivity as a software-engineering employer. An internship would be a solid industry-specific signal rather than a broadly prestigious technical one.",
+      "reviewed_at": "2026-11-06",
+      "rubric_version": "prestige-v2"
     },
     "redgate": {
       "aliases": [
