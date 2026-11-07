@@ -7947,6 +7947,21 @@
       "rubric_version": "prestige-v2",
       "website": "https://catalist.us"
     },
+    "category labs": {
+      "aliases": [
+        "Monad Labs",
+        "Monad",
+        "category.xyz"
+      ],
+      "confidence": "medium",
+      "display_name": "Category Labs",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-funded, technically ambitious blockchain-infrastructure company building Monad\u2019s core parallel-execution EVM, database, and consensus software. It is a strong niche signal for systems, distributed-systems, and crypto engineering, but its small size and limited mainstream employer recognition keep it below broadly top-tier software brands.",
+      "reviewed_at": "2026-11-07",
+      "rubric_version": "prestige-v2"
+    },
     "caterpillar": {
       "aliases": [
         "CAT"
