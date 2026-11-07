@@ -14345,6 +14345,23 @@
       "reviewed_at": "2026-10-19",
       "rubric_version": "prestige-v2"
     },
+    "enovation controls": {
+      "aliases": [
+        "FW Murphy",
+        "Murphy",
+        "High Country Tek",
+        "Zero Off",
+        "Helios Technologies"
+      ],
+      "confidence": "medium",
+      "display_name": "Enovation Controls",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "Established Helios Technologies subsidiary developing embedded controls, rugged displays, and connected machine systems. It offers meaningful embedded/software engineering work, but its employer signal is primarily specialized to industrial and vehicle-control engineering rather than broadly prestigious in software.",
+      "reviewed_at": "2026-11-07",
+      "rubric_version": "prestige-v2"
+    },
     "enovis": {
       "aliases": [],
       "confidence": "medium",
@@ -24965,6 +24982,19 @@
       "reason": "Highly visible developer and open-source AI tooling brand, creating a strong early-career engineering signal.",
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
+    },
+    "llbean": {
+      "aliases": [
+        "L.L. Bean"
+      ],
+      "confidence": "medium",
+      "display_name": "L.L.Bean",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "A well-known, long-established outdoor retailer with meaningful internal digital, e-commerce, data, and IT work, but it is not broadly recognized as a selective software-engineering employer or a strong technical-brand signal.",
+      "reviewed_at": "2026-11-07",
+      "rubric_version": "prestige-v2"
     },
     "lloyds bank": {
       "aliases": [

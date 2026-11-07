@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3808** of **3808** cached companies (all cached companies).
+Showing **3810** of **3810** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2118,6 +2118,7 @@ Showing **3808** of **3808** cached companies (all cached companies).
 | Double Eleven | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected game-development studio within its niche, though its signal is narrower than leading game or general-tech employers. |
 | Edison International | 53 | Medium | 2026-10-19 | gpt-5.6-terra | No | EIX, Southern California Edison, SCE | Established public utility holding company and parent of Southern California Edison, with meaningful engineering and enterprise-technology work. It is a credible, stable employer, but its reputation is primarily utility-sector rather than a broadly selective or high-profile software-engineering brand. |
 | Elekta | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-technology company with solid technical credibility, though its software brand is specialized. |
+| Enovation Controls | 53 | Medium | 2026-11-07 | gpt-5.6-terra | No | FW Murphy, Murphy, High Country Tek, Zero Off, Helios Technologies | Established Helios Technologies subsidiary developing embedded controls, rugged displays, and connected machine systems. It offers meaningful embedded/software engineering work, but its employer signal is primarily specialized to industrial and vehicle-control engineering rather than broadly prestigious in software. |
 | Ensono | 53 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established managed-services and cloud-technology firm with relevant technical roles, though not a top software-product brand. |
 | Enterprise Holdings | 53 | High | 2026-09-03 | gpt-5.6-terra | No | Enterprise Rent-A-Car | Large, established mobility company with credible internal technology work, but not a broadly prestigious software-engineering destination. |
 | Epiq Systems | 53 | High | 2026-08-02 | gpt-5.6-terra | No | Epiq | Recognized legal-services and legal-technology company with relevant engineering work, though its signal is industry-specific. |
@@ -2627,6 +2628,7 @@ Showing **3808** of **3808** cached companies (all cached companies).
 | Kensington Computer Products Group | 48 | Low | 2026-10-16 | gpt-5.6-terra | No | Kensington, Kensington Technology Group, ACCO Brands, ACCO Brands division | A long-established, globally distributed technology-accessories brand, but its public profile is primarily hardware/product engineering rather than a distinctive, selective software-engineering employer brand. |
 | Kirin Holdings Company, Limited | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | Kirin, Kirin Group | A well-known established multinational and has group internal-systems work, but it does not have a broadly strong or selective software-engineering employer brand. |
 | KOSTAL Group | 48 | Medium | 2026-08-18 | gpt-5.6-terra | No | KOSTAL | Established automotive and industrial supplier with engineering credibility, but a comparatively modest software-specific employer signal. |
+| L.L.Bean | 48 | Medium | 2026-11-07 | gpt-5.6-terra | No | L.L. Bean | A well-known, long-established outdoor retailer with meaningful internal digital, e-commerce, data, and IT work, but it is not broadly recognized as a selective software-engineering employer or a strong technical-brand signal. |
 | Lightspeed Systems | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established education technology and security vendor, but with moderate and sector-specific software-engineering recognition. |
 | Live Oak Bank | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialized bank with a technology-oriented operating model, but limited broad software-engineering prestige. |
 | Louisiana Blue | 48 | High | 2026-10-16 | gpt-5.6-terra | No | BCBSLA, Louisiana Blue Cross and Blue Shield | A long-established statewide insurer with an in-house IT organization and internship program, but its software work is primarily enterprise healthcare/insurance technology rather than a broadly recognized or highly selective software-engineering brand. |
