@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3811** of **3811** cached companies (all cached companies).
+Showing **3812** of **3812** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3530,6 +3530,7 @@ Showing **3811** of **3811** cached companies (all cached companies).
 | Democratic Governors Association | 36 | Medium | 2026-08-02 | gpt-5.6-terra | No | DGA | Recognized political organization, but offers limited broadly transferable software-engineering brand signal. |
 | Empirical Foods | 36 | Medium | 2026-10-19 | gpt-5.6-terra | No | empirical, Beef Products, Inc., BPI, empiricalfoods.com | Established private food-manufacturing company with real software and industrial-automation internship work, but its engineering signal is primarily internal manufacturing technology rather than a broadly recognized software brand. The former BPI identity also carries notable public controversy. |
 | Five Below | 36 | High | 2026-08-02 | gpt-5.6-terra | No | - | A recognized retail employer, but its software organization is not a prominent engineering career signal. |
+| Haskell | 36 | High | 2026-11-09 | gpt-5.6-terra | No | The Haskell Company, haskell.com | Established integrated architecture, engineering, and construction firm with meaningful technical work in the AEC sector, but limited recognition or demonstrated selectivity as a software-engineering employer. Its internship brand is principally oriented toward design, construction, and engineering disciplines rather than software. |
 | Maricopa County | 36 | High | 2026-08-02 | gpt-5.6-terra | No | Maricopa County, Arizona | Large public-sector employer, but government IT experience generally carries limited software-industry prestige. |
 | Navaide | 36 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Government-focused technology consultancy with limited broad software-engineering brand recognition. |
 | Polk County | 36 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | A local-government employer can offer practical technical work, but carries limited broad software-engineering prestige. |
