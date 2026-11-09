@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3812** of **3812** cached companies (all cached companies).
+Showing **3814** of **3814** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2040,6 +2040,7 @@ Showing **3812** of **3812** cached companies (all cached companies).
 | AGF Investments Inc | 54 | Medium | 2026-09-11 | gpt-5.6-terra | No | AGF | A recognized Canadian investment manager; technology roles have a solid financial-services signal, though software is not its primary brand. |
 | Ameren | 54 | High | 2026-08-05 | gpt-5.6-terra | No | - | Established utility with credible enterprise technology work, but limited prestige as a destination for software engineering talent. |
 | APM Terminals | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded global terminal and logistics operator, but its software engineering brand is not especially prominent. |
+| Art of Problem Solving | 54 | Medium | 2026-11-09 | gpt-5.6-terra | No | AoPS, artofproblemsolving.com, Beast Academy, AoPS Academy | Established, well-regarded math and STEM education company with substantial recognition among advanced K–12 learners. It builds software products and employs engineering roles, but its software-engineering employer brand and internship selectivity are not broadly viewed as top-tier across the tech industry. |
 | AutoZone | 54 | High | 2026-10-19 | gpt-5.6-terra | No | AZO | Large, recognizable public retailer with meaningful internal technology and digital operations, but its primary reputation is automotive retail rather than software engineering; an internship is a positive but not top-tier technical signal. |
 | Avidrone Aerospace Incorporated | 54 | Medium | 2026-10-16 | gpt-5.6-terra | No | AVIDrone, Inc. | Proprietary autopilot focus and first-place DARPA LIFT Challenge result demonstrate meaningful technical capability, but it remains a small, specialized aerospace employer with limited broad software-engineering brand recognition. |
 | Baxter International | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | Baxter | Recognized healthcare and medical-technology company with solid enterprise technical work, though not a top software brand. |
@@ -3081,6 +3082,7 @@ Showing **3812** of **3812** cached companies (all cached companies).
 | BA Consulting Group Ltd. | 43 | High | 2026-10-16 | gpt-5.6-terra | No | BA Group, B-A Consulting Group Limited, BA Group, Toronto transportation-planning consultancy | A credible niche technical reputation in urban mobility, modelling, and parking/transportation design, but limited broad software-engineering brand recognition or evidence of highly selective SWE internship signaling. |
 | Barr Engineering Co. | 43 | Medium | 2026-10-16 | gpt-5.6-terra | No | Barr | A solid technical consulting reputation and internship program, but its brand is centered on environmental, civil, and process engineering rather than software engineering, so it offers limited software-specific career signal. |
 | Belmond | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized luxury hospitality brand, but its software engineering organization is not a prominent technical career signal. |
+| Biodesix | 43 | Medium | 2026-11-09 | gpt-5.6-terra | No | BDSX, Elston Technologies, Inc., biodesix.com | Established public precision-diagnostics company with meaningful healthcare technology work, but limited broad recognition as a software-engineering employer and little public evidence of a notably selective SWE internship brand. |
 | Black Box | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established enterprise connectivity and IT-services brand, but modest contemporary software-engineering prestige. |
 | Block Imaging | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established specialty medical-imaging equipment company, but its software engineering brand is primarily niche rather than a broadly prestigious technical signal. |
 | Boston Medical Center | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | BMC | Credible academic medical center, but it has limited broad recognition as a dedicated software engineering employer. |
