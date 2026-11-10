@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3820** of **3820** cached companies (all cached companies).
+Showing **3821** of **3821** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1363,6 +1363,7 @@ Showing **3820** of **3820** cached companies (all cached companies).
 | Luminance | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established legal-AI company with credible technical work, but a comparatively specialized software-engineering brand. |
 | Magnet Forensics | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded specialist in digital-forensics software, providing a solid technical signal within security and law-enforcement technology. |
 | MasterControl | 61 | Medium | 2026-10-03 | gpt-5.6-terra | No | - | Established enterprise SaaS and quality-management software company; a solid engineering signal, especially in regulated-software domains. |
+| Matillion | 61 | Medium | 2026-11-10 | gpt-5.6-terra | No | matillion.com | Established cloud data-integration company with a credible enterprise product, major venture backing, and meaningful recognition in data engineering. It is a positive software internship signal, though its engineering brand is more specialized than broadly top-tier. |
 | Maximor AI | 61 | Medium | 2026-10-16 | gpt-5.6-terra | No | Maximor, Hyphenate | That gives it a solid, credible startup signal for a software-engineering internship, but it is still too new and not sufficiently established as a broadly recognized top-tier engineering employer. |
 | NAV CANADA | 61 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected air-navigation organization with mission-critical systems, but relatively specialized software-engineering recognition. |
 | Neighbor | 61 | High | 2026-10-16 | gpt-5.6-terra | No | Neighbor Storage, Inc., Neighbor storage and parking marketplace | A specialized, relatively lesser-known marketplace rather than a broadly elite software-engineering brand. |

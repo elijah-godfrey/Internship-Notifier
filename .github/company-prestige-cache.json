@@ -26388,6 +26388,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "matillion": {
+      "aliases": [
+        "matillion.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Matillion",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 61,
+      "reason": "Established cloud data-integration company with a credible enterprise product, major venture backing, and meaningful recognition in data engineering. It is a positive software internship signal, though its engineering brand is more specialized than broadly top-tier.",
+      "reviewed_at": "2026-11-10",
+      "rubric_version": "prestige-v2"
+    },
     "mattel": {
       "aliases": [],
       "confidence": "high",
