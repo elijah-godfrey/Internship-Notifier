@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3819** of **3819** cached companies (all cached companies).
+Showing **3820** of **3820** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2029,6 +2029,7 @@ Showing **3819** of **3819** cached companies (all cached companies).
 | Transamerica | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services brand with meaningful technology work, though not a prominent software-engineering destination. |
 | Tria Federal | 55 | Medium | 2026-11-03 | gpt-5.6-terra | No | Tria, Federal Advisory Partners, Favor TechConsulting, Universal Consulting Services, Softrams | Established federal-health technology and advisory contractor with meaningful software modernization work for VA and CMS, including acquired digital-services capabilities. It is a credible GovCon engineering signal, but its recognition and demonstrated selectivity are primarily sector-specific rather than broadly top-tier in software. |
 | Underwriters Laboratories | 55 | High | 2026-08-02 | gpt-5.6-terra | No | UL | Highly established safety-science institution with technical credibility, though it is not principally known as a software engineering employer. |
+| Veterans United Home Loans | 55 | Medium | 2026-11-10 | gpt-5.6-terra | No | Veterans United, VUHL, Veterans United Home Loans and affiliates | Established, nationally prominent VA-mortgage lender with a dedicated engineering organization and structured software-engineering internship. It is a solid fintech/financial-services signal, but its engineering brand and selectivity are not broadly regarded as top-tier in the general software market. |
 | Volaris Group | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established software-focused acquirer with meaningful industry presence, though its engineering signal varies across portfolio companies. |
 | Weave | 55 | Medium | 2026-08-21 | gpt-5.6-terra | No | Weave Communications | Established vertical SaaS company with a legitimate engineering environment, but its software brand is primarily industry-specific rather than broadly elite or highly selective. |
 | WellSky | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare software company with relevant product engineering work, but modest broad-name recognition. |
