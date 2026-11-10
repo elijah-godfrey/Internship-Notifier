@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3814** of **3814** cached companies (all cached companies).
+Showing **3815** of **3815** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1077,6 +1077,7 @@ Showing **3814** of **3814** cached companies (all cached companies).
 | Polymath AI Labs | 64 | Medium | 2026-10-16 | gpt-5.6-terra | No | Polymath, YC W26 | A newly founded, six-person YC W26 AI-agent infrastructure startup backed by Base10 and Cervin Ventures, with a focused technical brand in agent training/evaluation; however, its very early stage and limited established engineering track record keep the internship signal below broadly top-tier firms. |
 | PowerSchool | 64 | High | 2026-08-02 | gpt-5.6-terra | No | PowerSchool Holdings | Established education-software company with a recognizable SaaS engineering signal, though not top-tier tech prestige. |
 | PowerSchool Group | 64 | High | 2026-08-02 | gpt-5.6-terra | No | PowerSchool, PowerSchool Holdings | Established education-software company with a recognizable SaaS engineering signal, though not top-tier tech prestige. |
+| REGENT | 64 | Medium | 2026-11-10 | gpt-5.6-terra | No | Regent Craft, regentcraft.com | Well-funded, technically ambitious seaglider and maritime-mobility startup with credible aerospace and defense engineering signals. It is a solid engineering brand, though its software reputation and internship selectivity are not broadly established at top-tier software-company levels. |
 | RTX | 64 | High | 2026-07-20 | gpt-5.6-terra | No | Raytheon Technologies | Well-known aerospace and defense employer with credible engineering work, though its software brand is less elite than leading software-native firms. |
 | Santander | 64 | High | 2026-08-02 | gpt-5.6-terra | No | Banco Santander | Large internationally recognized bank with substantial technology operations, though its software-engineering signal is below elite tech or finance firms. |
 | SciTec, Inc. | 64 | High | 2026-10-16 | gpt-5.6-terra | No | Firefly Aerospace subsidiary | Long-standing work in missile warning, defense, remote sensing, and command-and-control systems—plus active software-engineering internship hiring—creates a solid, specialized technical signal, but it has substantially less broad software-industry recognition than top-tier technology employers. |

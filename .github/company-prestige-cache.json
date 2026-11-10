@@ -34612,6 +34612,20 @@
       "reviewed_at": "2026-10-02",
       "rubric_version": "prestige-v1"
     },
+    "regent": {
+      "aliases": [
+        "Regent Craft",
+        "regentcraft.com"
+      ],
+      "confidence": "medium",
+      "display_name": "REGENT",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Well-funded, technically ambitious seaglider and maritime-mobility startup with credible aerospace and defense engineering signals. It is a solid engineering brand, though its software reputation and internship selectivity are not broadly established at top-tier software-company levels.",
+      "reviewed_at": "2026-11-10",
+      "rubric_version": "prestige-v2"
+    },
     "region of waterloo": {
       "aliases": [
         "Waterloo Region",
