@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3816** of **3816** cached companies (all cached companies).
+Showing **3818** of **3818** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3580,6 +3580,7 @@ Showing **3816** of **3816** cached companies (all cached companies).
 | Solinst Canada Ltd | 35 | Medium | 2026-09-11 | gpt-5.6-terra | No | Solinst | Established scientific-instrumentation employer, but it carries limited software-engineering brand recognition. |
 | Strathcona County | 35 | High | 2026-08-02 | gpt-5.6-terra | No | - | Municipal government employer with limited software-engineering brand and primarily regional recognition. |
 | The Health Management Academy | 35 | Medium | 2026-08-02 | gpt-5.6-terra | No | THMA | Healthcare leadership and advisory organization with limited known software-engineering employer signal. |
+| The Marzetti Company | 35 | High | 2026-11-10 | gpt-5.6-terra | No | Lancaster Colony Corporation, T. Marzetti Company, MZTI, marzetticompany.com | Established public specialty-food manufacturer with recognizable consumer brands, but it is not a software-focused employer and has limited software-engineering brand or technical-career signal. |
 | Vera Bradley | 35 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer retail brand, but it offers limited software-engineering prestige relative to technology employers. |
 | Western Aircraft | 35 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Established aviation maintenance and services business, but with limited software-engineering employer recognition. |
 | Westwood Professional Services | 35 | Medium | 2026-10-16 | gpt-5.6-terra | No | Westwood, Westwood PS | A credible national AEC/renewables reputation and a formal internship program, but its public roles and internship focus are chiefly civil, environmental, surveying, and infrastructure—not software engineering—so it offers limited SWE-specific prestige. |
@@ -3660,6 +3661,7 @@ Showing **3816** of **3816** cached companies (all cached companies).
 | Somerce | 32 | High | 2026-10-16 | gpt-5.6-terra | No | - | A proprietary LiveHost platform and hires in data and engineering, but it is a young, marketing-services-focused firm with limited broad recognition or established software-engineering brand. |
 | Statsyuk Analytics Inc. | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | Statsyuk, Statsyuk Analytique Inc. | Computer-vision product offers technically relevant work, but the company is newly established, very small, and has limited broad recognition or demonstrated selectivity as a software-engineering employer. |
 | TransForm Automotive Canada Ltd | 32 | High | 2026-10-16 | gpt-5.6-terra | No | Amsted Automotive, Means Industries, TransForm Automotive | A credible Tier-1 automotive powertrain and precision metal-forming manufacturer with global engineering operations, but public evidence centers on manufacturing and mechanical/propulsion engineering rather than a recognized software-engineering organization or selective software internship brand. |
+| Trilogy Health Services | 32 | High | 2026-11-10 | gpt-5.6-terra | No | Trilogy Health, trilogyhs.com | Established Midwest senior-care operator, but it is not known as a software company and has limited software-engineering brand or technical-selectivity signal. |
 | University of Pikeville | 32 | Medium | 2026-08-14 | gpt-5.6-terra | No | UPIKE, U-Pike | A small regional university with limited visibility as a software engineering employer; it provides some technical experience but is not a strong broadly recognized engineering-brand signal. |
 | Upbring | 32 | Medium | 2026-08-31 | gpt-5.6-terra | No | - | Regional nonprofit human-services organization; meaningful mission work but limited selectivity and software-engineering employer recognition. |
 | Westgate Resorts | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Hospitality company with limited recognition or selectivity as a software engineering employer. |

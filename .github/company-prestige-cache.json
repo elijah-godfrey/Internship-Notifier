@@ -41814,6 +41814,22 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "the marzetti": {
+      "aliases": [
+        "Lancaster Colony Corporation",
+        "T. Marzetti Company",
+        "MZTI",
+        "marzetticompany.com"
+      ],
+      "confidence": "high",
+      "display_name": "The Marzetti Company",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 35,
+      "reason": "Established public specialty-food manufacturer with recognizable consumer brands, but it is not a software-focused employer and has limited software-engineering brand or technical-career signal.",
+      "reviewed_at": "2026-11-10",
+      "rubric_version": "prestige-v2"
+    },
     "the mj companies": {
       "aliases": [
         "MJ",
@@ -42988,6 +43004,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2",
       "website": "https://trlm.com"
+    },
+    "trilogy health services": {
+      "aliases": [
+        "Trilogy Health",
+        "trilogyhs.com"
+      ],
+      "confidence": "high",
+      "display_name": "Trilogy Health Services",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Established Midwest senior-care operator, but it is not known as a software company and has limited software-engineering brand or technical-selectivity signal.",
+      "reviewed_at": "2026-11-10",
+      "rubric_version": "prestige-v2"
     },
     "trimble": {
       "aliases": [],
