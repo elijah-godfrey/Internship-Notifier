@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3815** of **3815** cached companies (all cached companies).
+Showing **3816** of **3816** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1932,6 +1932,7 @@ Showing **3815** of **3815** cached companies (all cached companies).
 | Exact Sciences | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded diagnostics and health-tech company, though its software-engineering brand is more specialized than broadly elite. |
 | Fever Up | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Fever | Recognized event-discovery technology company with relevant product engineering, but a moderate overall engineering signal. |
 | FHLBank Chicago | 55 | Medium | 2026-09-16 | gpt-5.6-terra | No | Federal Home Loan Bank of Chicago, FHLB Chicago | Established financial institution with a credible technology environment, though its engineering brand is niche rather than broadly prestigious. |
+| FM | 55 | High | 2026-11-10 | gpt-5.6-terra | No | FM Global, Factory Mutual Insurance Company, Factory Mutual, fm.com | Established global commercial-property insurer with meaningful in-house technology and software co-op roles, plus a strong engineering-led risk-management reputation. However, its software engineering brand and selectivity are primarily insurance-industry-specific rather than broadly top-tier in tech. |
 | Foxconn Industrial Internet | 55 | Medium | 2026-08-11 | gpt-5.6-terra | No | FII | Large, recognized industrial-internet and manufacturing technology company, but its software engineering brand is less prominent than its hardware and manufacturing reputation. |
 | Gale | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | Gale Visa, HRR Technologies, Inc. | A credible early-stage technical signal through Y Combinator (W25), a $2.7M seed round, and software-led intake, drafting, and case-tracking products, but it remains a small, young, niche legal-tech company without an established broad software-engineering employer brand. |
 | GCI | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | GCI Communication Corp., GCI Communications, GCI Alaska, GCI Communication Corp., Alaska telecommunications provider | Meaningful technical exposure in telecommunications and infrastructure, but has primarily regional recognition and a limited standalone software-engineering brand compared with major tech employers. |
