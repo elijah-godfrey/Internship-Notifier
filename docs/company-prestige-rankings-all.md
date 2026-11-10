@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3818** of **3818** cached companies (all cached companies).
+Showing **3819** of **3819** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2705,6 +2705,7 @@ Showing **3818** of **3818** cached companies (all cached companies).
 | SALT XC | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | Salt Experiential Commerce, Inc. | A real internal software-engineering function building cloud and AI products, but its primary reputation is in experiential commerce, creative, media, and marketing rather than as a recognized software-engineering employer. |
 | SBA Communications Corporation | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established telecommunications-infrastructure company, but not a prominent software-engineering employer brand. |
 | SchoolMint | 48 | Medium | 2026-08-13 | gpt-5.6-terra | No | - | Established education-technology software company with relevant product engineering work, but primarily niche/industry-specific rather than a broadly prestigious engineering signal. |
+| Selective Insurance | 48 | High | 2026-11-10 | gpt-5.6-terra | No | Selective Insurance Group, Inc., Selective Insurance Company of America, SIGI, selective.com | Established publicly traded regional property-and-casualty insurer with a real IT internship and software work, but its engineering brand and selectivity are not broadly recognized as top-tier in software. |
 | Sharecare | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established digital-health company with relevant technology work, though limited broad selectivity or engineering-brand recognition. |
 | Sheridan College | 48 | High | 2026-09-11 | gpt-5.6-terra | No | - | Well-regarded Canadian educational institution, but not broadly a high-prestige software-engineering employer. |
 | Simon Property Group | 48 | Medium | 2026-09-04 | gpt-5.6-terra | No | SPG, Simon | Well-known major real-estate operator with credible enterprise technology exposure, but it is not broadly recognized as a selective or top-tier software engineering employer. |
