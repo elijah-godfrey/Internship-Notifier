@@ -745,6 +745,17 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "addepar": {
+      "aliases": [],
+      "confidence": "medium",
+      "display_name": "Addepar",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Well-funded, established wealth-management software company with substantial engineering scope in data, platform, and AI products. It is a solid fintech signal, though its software-engineering brand and selectivity are less broadly recognized than top-tier technology employers.",
+      "reviewed_at": "2026-11-10",
+      "rubric_version": "prestige-v2"
+    },
     "adobe": {
       "aliases": [],
       "confidence": "high",
@@ -26563,6 +26574,20 @@
       "reason": "Globally recognized cybersecurity company; a meaningful security-engineering signal despite a less dominant current profile than top security firms.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "mcdonald s": {
+      "aliases": [
+        "McDonalds USA, LLC",
+        "MCD"
+      ],
+      "confidence": "high",
+      "display_name": "McDonald's",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Globally recognized employer with meaningful corporate engineering work on high-scale consumer, restaurant, and data platforms. It is a solid software internship signal, though its engineering brand and demonstrated selectivity are not generally viewed as top-tier tech.",
+      "reviewed_at": "2026-11-10",
+      "rubric_version": "prestige-v2"
     },
     "mcg health": {
       "aliases": [],

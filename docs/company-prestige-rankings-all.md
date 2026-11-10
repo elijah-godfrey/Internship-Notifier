@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3821** of **3821** cached companies (all cached companies).
+Showing **3823** of **3823** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -849,6 +849,7 @@ Showing **3821** of **3821** cached companies (all cached companies).
 | WarpEngine Canada Inc. | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Viggle AI, Viggle, WarpEngine | Proprietary AI/video product and $19M Series A led by Andreessen Horowitz create a strong emerging technical signal, but it remains an early-stage, comparatively less established employer than broadly top-tier software brands. |
 | Zocdoc | 67 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized health-tech marketplace with credible consumer-product engineering work, though it is less prestigious than leading general technology firms. |
 | Abbott | 66 | High | 2026-08-02 | gpt-5.6-terra | No | Abbott Laboratories | Highly respected healthcare technology company with solid technical credibility, though not primarily known for software engineering. |
+| Addepar | 66 | Medium | 2026-11-10 | gpt-5.6-terra | No | - | Well-funded, established wealth-management software company with substantial engineering scope in data, platform, and AI products. It is a solid fintech signal, though its software-engineering brand and selectivity are less broadly recognized than top-tier technology employers. |
 | Adtran | 66 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected networking and telecommunications technology company with meaningful engineering work, though not an elite general software brand. |
 | Alation | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise data-management software company with a credible engineering brand, though not broadly top-tier. |
 | AlixPartners | 66 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded consulting firm with a selective professional-services reputation, though not principally a software engineering brand. |
@@ -1152,6 +1153,7 @@ Showing **3821** of **3821** cached companies (all cached companies).
 | Maersk | 63 | High | 2026-08-02 | gpt-5.6-terra | No | A.P. Moller - Maersk, APM-Maersk | Globally recognized logistics company with substantial digital and operational software needs, though not viewed as an elite software employer. |
 | Magna | 63 | High | 2026-07-18 | gpt-5.6-terra | No | Magna International | Major automotive supplier with credible embedded and mobility software work, but not a leading software brand. |
 | MaintainX | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Growing industrial software company with a credible product-engineering profile, though not yet a broadly elite engineering signal. |
+| McDonald's | 63 | High | 2026-11-10 | gpt-5.6-terra | No | McDonalds USA, LLC, MCD | Globally recognized employer with meaningful corporate engineering work on high-scale consumer, restaurant, and data platforms. It is a solid software internship signal, though its engineering brand and demonstrated selectivity are not generally viewed as top-tier tech. |
 | McKesson | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large, established healthcare-technology and distribution company with a solid enterprise engineering signal. |
 | Mill | 63 | Medium | 2026-09-03 | gpt-5.6-terra | No | Mill Industries | Known consumer climate-tech startup with meaningful hardware and software engineering work, though not broadly top-tier in software recruiting. |
 | MUFG | 63 | High | 2026-10-19 | gpt-5.6-terra | No | Mitsubishi UFJ Financial Group, Mitsubishi UFG, MUFG Bank | Major global financial group with substantial internal software, platform, and digital engineering work. It is a credible and recognizable internship signal, especially in financial technology, but its software-engineering brand is materially less selective and less prominent than leading technology-first employers. |
