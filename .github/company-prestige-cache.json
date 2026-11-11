@@ -31473,6 +31473,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "parabola": {
+      "aliases": [
+        "Parabola Labs",
+        "parabola.io",
+        "Prowork"
+      ],
+      "confidence": "medium",
+      "display_name": "Parabola",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Venture-backed enterprise workflow-automation startup with a real engineering internship program and credible product scope, but it remains a relatively small, niche company without broad top-tier software-engineering name recognition.",
+      "reviewed_at": "2026-11-11",
+      "rubric_version": "prestige-v2"
+    },
     "parachute health": {
       "aliases": [],
       "confidence": "medium",
@@ -46718,6 +46733,19 @@
       "reason": "Respected aerospace and industrial-controls company; engineering reputation is stronger than its software-specific brand.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "woolpert": {
+      "aliases": [
+        "woolpert.com"
+      ],
+      "confidence": "high",
+      "display_name": "Woolpert",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established, internationally active architecture, engineering, and geospatial firm with meaningful data-and-technology work, but its employer brand is primarily in AEC and geospatial services rather than broadly recognized software engineering.",
+      "reviewed_at": "2026-11-11",
+      "rubric_version": "prestige-v2"
     },
     "worcester polytechnic institute": {
       "aliases": [

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3828** of **3828** cached companies (all cached companies).
+Showing **3830** of **3830** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1606,6 +1606,7 @@ Showing **3828** of **3828** cached companies (all cached companies).
 | Otis Worldwide | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized engineering company, though its reputation is stronger in elevators and industrial systems than software. |
 | Overview Energy, Inc. | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Technically ambitious aerospace/energy work, disclosed investor backing, and agreement with Meta provide a positive specialized signal, but it is a young, small company without an established broad software-engineering brand or demonstrated selectivity comparable to top tech employers. |
 | Paccar | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded commercial-vehicle manufacturer with meaningful embedded and industrial technology work, but not a top software brand. |
+| Parabola | 58 | Medium | 2026-11-11 | gpt-5.6-terra | No | Parabola Labs, parabola.io, Prowork | Venture-backed enterprise workflow-automation startup with a real engineering internship program and credible product scope, but it remains a relatively small, niche company without broad top-tier software-engineering name recognition. |
 | Peak Energy | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | $55M Series A and strategic GM partnership provide a credible, growing climate-tech signal, but it is still a young hardware-focused company with limited established software-engineering brand recognition. |
 | Pelmorex | 58 | Medium | 2026-08-17 | gpt-5.6-terra | No | The Weather Network | Established weather-data and media technology company with relevant engineering work, but its software brand and internship selectivity are not broadly viewed as top-tier. |
 | PennState University | 58 | High | 2026-07-18 | gpt-5.6-terra | No | Penn State, The Pennsylvania State University | Well-known research university with credible technical work, though not a top software-industry employer signal. |
@@ -2345,6 +2346,7 @@ Showing **3828** of **3828** cached companies (all cached companies).
 | Werfen | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected diagnostics and medical-device company, though its software engineering reputation is specialized rather than broad. |
 | Westmag | 52 | Medium | 2026-10-29 | gpt-5.6-terra | No | Western Magnetics, westmag.com | A newly public, seed-stage drone-motor and robotics-actuator manufacturer with notable venture backing and an engineering-focused software internship, but limited established software-engineering brand or broad employer recognition so far. |
 | WGU | 52 | High | 2026-08-05 | gpt-5.6-terra | No | Western Governors University | Well-known online university with meaningful technology operations, though not broadly viewed as a top-tier software engineering brand. |
+| Woolpert | 52 | High | 2026-11-11 | gpt-5.6-terra | No | woolpert.com | Established, internationally active architecture, engineering, and geospatial firm with meaningful data-and-technology work, but its employer brand is primarily in AEC and geospatial services rather than broadly recognized software engineering. |
 | Xpansiv | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized environmental-commodities market infrastructure company; technically relevant but a niche engineering signal. |
 | XPO | 52 | High | 2026-08-02 | gpt-5.6-terra | No | XPO Logistics | Major logistics company with meaningful operational technology, but not a broadly prestigious software engineering destination. |
 | Zello | 52 | Medium | 2026-08-01 | gpt-5.6-terra | No | - | Established communications-software product with a credible engineering signal, though not broadly top-tier in software recruiting. |
