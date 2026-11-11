@@ -8658,6 +8658,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "chukmedia": {
+      "aliases": [
+        "The Sasha Group",
+        "VaynerX",
+        "chukmedia.com"
+      ],
+      "confidence": "medium",
+      "display_name": "ChukMedia",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "A VaynerX advertising and brand-marketing agency, formerly The Sasha Group. It has recognizable marketing-industry backing, but limited evidence of a dedicated, selective software-engineering organization or internship brand.",
+      "reviewed_at": "2026-11-11",
+      "rubric_version": "prestige-v2"
+    },
     "church and dwight": {
       "aliases": [
         "CHD",
@@ -15257,6 +15272,20 @@
       "reason": "Recognized cybersecurity company with a strong security-product engineering signal, though below the most elite software brands.",
       "reviewed_at": "2026-08-05",
       "rubric_version": "prestige-v1"
+    },
+    "exacare ai": {
+      "aliases": [
+        "ExaCare",
+        "exacare.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Exacare AI",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "A venture-backed healthcare AI startup with a meaningful Series A and an engineering-focused product for post-acute-care workflows. It is showing credible commercial traction, but its software-engineering brand and selectivity remain primarily niche rather than broadly established.",
+      "reviewed_at": "2026-11-11",
+      "rubric_version": "prestige-v2"
     },
     "exact sciences": {
       "aliases": [],

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3826** of **3826** cached companies (all cached companies).
+Showing **3828** of **3828** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1536,6 +1536,7 @@ Showing **3826** of **3826** cached companies (all cached companies).
 | Entegris | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded semiconductor supply-chain company with strong technical credibility, though software is not its primary employer brand. |
 | Equifax | 58 | High | 2026-07-18 | gpt-5.6-terra | No | - | Large, established data and financial-services technology employer, but not generally viewed as top-tier software prestige. |
 | Ercot | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Electric Reliability Council of Texas | Important grid operator with technically consequential systems work, though not a top software-engineering brand. |
+| Exacare AI | 58 | Medium | 2026-11-11 | gpt-5.6-terra | No | ExaCare, exacare.com | A venture-backed healthcare AI startup with a meaningful Series A and an engineering-focused product for post-acute-care workflows. It is showing credible commercial traction, but its software-engineering brand and selectivity remain primarily niche rather than broadly established. |
 | Exowatt | 58 | High | 2026-10-16 | gpt-5.6-terra | No | - | Substantial venture backing and high-profile AI/data-center energy coverage create a credible emerging signal, but it is a young, hardware-and-energy-focused company without an established broad software-engineering employer brand. |
 | ezCater | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized marketplace startup with a credible product-engineering environment, though not a broadly top-tier signal. |
 | Fasanara | 58 | Medium | 2026-09-09 | gpt-5.6-terra | No | Fasanara Capital | Fasanara is a recognized alternative-investment firm with meaningful quantitative and technology work, but it has a more specialized finance-sector engineering brand than broadly elite software-employer recognition. |
@@ -3737,6 +3738,7 @@ Showing **3826** of **3826** cached companies (all cached companies).
 | BRI Biopharmaceutical Research, Inc. | 28 | Medium | 2026-10-16 | gpt-5.6-terra | No | BRI Research Inc., BRI, Frontage Laboratories subsidiary, Vancouver, Canada | A credible specialized life-sciences research role, but public evidence characterizes it as drug-development/CRO work rather than a recognized or selective software-engineering employer, so its technical career signal for an SWE internship is limited. |
 | Brio Water Technology | 28 | High | 2026-10-16 | gpt-5.6-terra | No | Brio Water, Brio Water Tech | An established niche consumer-products/e-commerce presence, but public evidence indicates a wholesale/water-products business rather than a recognized software-engineering employer or selective engineering internship brand. |
 | Capital Automotive Group | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Automotive retail organization with limited recognized software-engineering brand. |
+| ChukMedia | 28 | Medium | 2026-11-11 | gpt-5.6-terra | No | The Sasha Group, VaynerX, chukmedia.com | A VaynerX advertising and brand-marketing agency, formerly The Sasha Group. It has recognizable marketing-industry backing, but limited evidence of a dedicated, selective software-engineering organization or internship brand. |
 | Cirque du Soleil | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized entertainment brand, but it has little software-engineering employer prestige. |
 | CloudAscent Inc | 28 | Low | 2026-10-16 | gpt-5.6-terra | No | Qrate | A specialized product focus, but limited broad software-engineering brand recognition or public evidence of selectivity; the exact legal identity behind “CloudAscent Inc” was not confirmed. |
 | Collinear AI | 28 | Low | 2026-09-21 | gpt-5.6-terra | No | - | Limited broadly established evidence of a selective or widely recognized software-engineering employer brand; the AI positioning may be relevant but is not by itself a strong internship signal. |
