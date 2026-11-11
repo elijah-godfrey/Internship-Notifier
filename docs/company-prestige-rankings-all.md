@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3823** of **3823** cached companies (all cached companies).
+Showing **3825** of **3825** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1078,6 +1078,7 @@ Showing **3823** of **3823** cached companies (all cached companies).
 | Polymath AI Labs | 64 | Medium | 2026-10-16 | gpt-5.6-terra | No | Polymath, YC W26 | A newly founded, six-person YC W26 AI-agent infrastructure startup backed by Base10 and Cervin Ventures, with a focused technical brand in agent training/evaluation; however, its very early stage and limited established engineering track record keep the internship signal below broadly top-tier firms. |
 | PowerSchool | 64 | High | 2026-08-02 | gpt-5.6-terra | No | PowerSchool Holdings | Established education-software company with a recognizable SaaS engineering signal, though not top-tier tech prestige. |
 | PowerSchool Group | 64 | High | 2026-08-02 | gpt-5.6-terra | No | PowerSchool, PowerSchool Holdings | Established education-software company with a recognizable SaaS engineering signal, though not top-tier tech prestige. |
+| Rambus | 64 | High | 2026-11-11 | gpt-5.6-terra | No | RMBS, rambus.com | Established semiconductor and silicon-IP company with credible engineering depth in memory interfaces, security, and data-center infrastructure. It is a solid technical signal, especially for systems, hardware-adjacent, firmware, and security roles, but has less broad software-engineering brand recognition and selectivity signal than top-tier software employers. |
 | REGENT | 64 | Medium | 2026-11-10 | gpt-5.6-terra | No | Regent Craft, regentcraft.com | Well-funded, technically ambitious seaglider and maritime-mobility startup with credible aerospace and defense engineering signals. It is a solid engineering brand, though its software reputation and internship selectivity are not broadly established at top-tier software-company levels. |
 | RTX | 64 | High | 2026-07-20 | gpt-5.6-terra | No | Raytheon Technologies | Well-known aerospace and defense employer with credible engineering work, though its software brand is less elite than leading software-native firms. |
 | Santander | 64 | High | 2026-08-02 | gpt-5.6-terra | No | Banco Santander | Large internationally recognized bank with substantial technology operations, though its software-engineering signal is below elite tech or finance firms. |
@@ -3861,5 +3862,6 @@ Showing **3823** of **3823** cached companies (all cached companies).
 | Mark My Work Inc | 12 | Low | 2026-10-16 | gpt-5.6-terra | No | - | Mark My Work Inc could not be reliably matched to a public company website, funding record, or established software-engineering employer; available results were ambiguous and did not substantiate a recognizable technical hiring signal. |
 | Mi Bowl Group Inc. | 12 | Medium | 2026-10-16 | gpt-5.6-terra | No | MiBowl | Public results indicate food-service and operations hiring rather than a recognized software-engineering organization, with no evident engineering brand or technical selectivity. |
 | Rowan Insurance Brokerage Ltd. | 12 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Public evidence identifies a newly incorporated insurance brokerage, but does not establish a software engineering organization, technical hiring selectivity, notable engineering brand, or broader employer recognition. |
+| International | 10 | Low | 2026-11-11 | gpt-5.6-terra | No | - | The supplied name is too ambiguous to reliably identify a specific employer or establish a software-engineering brand; assigning a conservative score. |
 | Authentic Services, Inc. | 8 | Low | 2026-10-16 | gpt-5.6-terra | No | Winter Springs, Florida entity | Public results identify a small, non-software business and the state record shows its Florida registration was withdrawn in 2025; I found no evidence of an engineering organization, technical products, or a recognized software internship brand. |
 | Internship | 5 | Low | 2026-10-16 | gpt-5.6-terra | No | unidentified entity | “Internship” appears to be a role/program descriptor rather than an identifiable company; searches did not establish a specific employer, official company site, funding record, or software-engineering brand to assess. |
