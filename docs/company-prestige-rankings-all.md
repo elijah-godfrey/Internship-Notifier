@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3825** of **3825** cached companies (all cached companies).
+Showing **3826** of **3826** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2604,6 +2604,7 @@ Showing **3825** of **3825** cached companies (all cached companies).
 | FluidAI Medical | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | NERv Technology Inc., NERv Technology Inc. D.B.A. FluidAI Medical | Recognized medtech/clinical-AI startup with meaningful technical work, though its software-engineering signal is mainly specialized to healthcare. |
 | FMC Corporation | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established agricultural-sciences company, but it has limited general software-engineering employer recognition. |
 | Foresters Financial | 48 | Medium | 2026-08-18 | gpt-5.6-terra | No | The Independent Order of Foresters, Foresters | Established insurance and financial-services organization, but it has limited visibility as a software-engineering employer relative to major technology or financial firms. |
+| Formulary | 48 | Medium | 2026-11-11 | gpt-5.6-terra | No | Formulary Financial, formulary.co, formulary.ai | Venture-backed AI-native fund-administration startup with credible seed investors and a technically ambitious fintech product, but it is very new and has limited established recognition as a software-engineering employer. |
 | Fortrea | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established clinical-research organization, but it has a limited standalone software-engineering brand. |
 | Franklin Electric | 48 | Medium | 2026-10-19 | gpt-5.6-terra | No | FELE | Established public global water, fuel, and electrical-systems manufacturer with real electrical/software co-op opportunities. It is a credible industrial engineering employer, but its brand is primarily in pumps, motors, and infrastructure rather than broadly recognized software engineering, so the software-internship signal is industry-specific rather than top-tier. |
 | Fulton Bank | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Fulton Financial Corporation | Established regional bank, but its software engineering brand and internship selectivity have limited broad recognition. |

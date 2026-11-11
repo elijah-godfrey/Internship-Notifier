@@ -16906,6 +16906,21 @@
       "reviewed_at": "2026-07-30",
       "rubric_version": "prestige-v1"
     },
+    "formulary": {
+      "aliases": [
+        "Formulary Financial",
+        "formulary.co",
+        "formulary.ai"
+      ],
+      "confidence": "medium",
+      "display_name": "Formulary",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Venture-backed AI-native fund-administration startup with credible seed investors and a technically ambitious fintech product, but it is very new and has limited established recognition as a software-engineering employer.",
+      "reviewed_at": "2026-11-11",
+      "rubric_version": "prestige-v2"
+    },
     "fortera": {
       "aliases": [
         "Fortera Global",
