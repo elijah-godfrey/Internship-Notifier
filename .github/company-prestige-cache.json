@@ -29334,6 +29334,23 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "nintendo": {
+      "aliases": [
+        "Nintendo of America",
+        "Nintendo Software Technology",
+        "Nintendo Technology Development",
+        "NST",
+        "NTD"
+      ],
+      "confidence": "high",
+      "display_name": "Nintendo",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 81,
+      "reason": "Globally recognized interactive-entertainment leader with a strong engineering brand spanning proprietary hardware, platform technology, and acclaimed game development. Its technical internship roles and specialized development organizations make it a highly selective, distinctive signal for software engineers, especially in games and systems.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
+    },
     "nio": {
       "aliases": [],
       "confidence": "high",

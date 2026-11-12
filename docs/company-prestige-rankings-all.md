@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3831** of **3831** cached companies (all cached companies).
+Showing **3832** of **3832** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -163,6 +163,7 @@ Showing **3831** of **3831** cached companies (all cached companies).
 | Cerebras | 81 | High | 2026-08-02 | gpt-5.6-terra | No | Cerebras Systems | Highly visible AI hardware and systems company with a strong deep-tech engineering reputation and selective talent profile. |
 | Coupang | 81 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly prominent technology-driven commerce company with a strong engineering reputation and selective global talent profile. |
 | Kensho | 81 | High | 2026-08-02 | gpt-5.6-terra | No | Kensho Technologies | Well-regarded AI and data company with a strong technical reputation, reinforced by its association with S&P Global. |
+| Nintendo | 81 | High | 2026-11-12 | gpt-5.6-terra | No | Nintendo of America, Nintendo Software Technology, Nintendo Technology Development, NST, NTD | Globally recognized interactive-entertainment leader with a strong engineering brand spanning proprietary hardware, platform technology, and acclaimed game development. Its technical internship roles and specialized development organizations make it a highly selective, distinctive signal for software engineers, especially in games and systems. |
 | Old Mission | 81 | Medium | 2026-08-02 | gpt-5.6-terra | No | Old Mission Capital | Highly selective proprietary trading firm with a strong quantitative and engineering talent signal. |
 | Sakana AI | 81 | Medium | 2026-08-02 | gpt-5.6-terra | No | Sakana | Highly visible AI research startup with notable technical positioning, though its engineering-employer track record is still emerging. |
 | SentinelOne | 81 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded cybersecurity product company with a strong technical reputation and a meaningful software-engineering career signal. |
