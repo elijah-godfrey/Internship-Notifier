@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3830** of **3830** cached companies (all cached companies).
+Showing **3831** of **3831** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2686,6 +2686,7 @@ Showing **3830** of **3830** cached companies (all cached companies).
 | Orion Steel Group | 48 | High | 2026-10-16 | gpt-5.6-terra | No | Orion Steel Companies, EVRAZ North America, EVRAZ Inc. NA | A substantial North American steel manufacturer with internal IT/software co-op work, but its engineering reputation is primarily industrial/manufacturing-specific rather than a broadly recognized software-engineering signal. |
 | Orthofix | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established medical-device company, but software engineering is not its primary public career signal. |
 | Palomar Products, Inc. | 48 | High | 2026-10-16 | gpt-5.6-terra | No | - | Specialized, mission-critical embedded engineering work is a credible technical signal, but it has limited broad recognition and is not a prominent software-engineering employer. |
+| Panera Bread | 48 | High | 2026-11-12 | gpt-5.6-terra | No | Panera, panerabread.com | A nationally recognized fast-casual brand with real in-house engineering across consumer web, mobile, kiosk, and restaurant systems, but it is not broadly regarded as a selective or top-tier software-engineering employer. The internship signal is solid but primarily industry-specific. |
 | Papa John's | 48 | High | 2026-08-02 | gpt-5.6-terra | No | Papa Johns | Recognizable consumer brand with real digital technology needs, but not generally viewed as a selective software-engineering destination. |
 | Parspec | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Construction-technology startup with relevant software product work, but limited established prestige or broad recognition. |
 | PartnerRe | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized reinsurance company with technical roles, though it has limited standalone software-engineering brand strength. |

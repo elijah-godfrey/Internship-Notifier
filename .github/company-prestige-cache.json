@@ -31445,6 +31445,20 @@
       "reviewed_at": "2026-10-19",
       "rubric_version": "prestige-v2"
     },
+    "panera bread": {
+      "aliases": [
+        "Panera",
+        "panerabread.com"
+      ],
+      "confidence": "high",
+      "display_name": "Panera Bread",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "A nationally recognized fast-casual brand with real in-house engineering across consumer web, mobile, kiosk, and restaurant systems, but it is not broadly regarded as a selective or top-tier software-engineering employer. The internship signal is solid but primarily industry-specific.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
+    },
     "pangram": {
       "aliases": [
         "Pangram Labs",
