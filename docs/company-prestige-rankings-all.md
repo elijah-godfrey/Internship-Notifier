@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3839** of **3839** cached companies (all cached companies).
+Showing **3840** of **3840** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -750,6 +750,7 @@ Showing **3839** of **3839** cached companies (all cached companies).
 | Seagate Technology | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Seagate | Recognized storage and hardware technology company with credible systems and firmware engineering work, though not a top software employer brand. |
 | Signifyd | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded fraud-prevention fintech with a credible software and data-engineering focus, though not a broadly elite general-tech signal. |
 | Sprinklr | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise SaaS company with credible engineering work, though not generally viewed as top-tier tech. |
+| Stack AV | 68 | Medium | 2026-11-12 | gpt-5.6-terra | No | Stack, stackav.com, StackAV | Well-funded autonomous-trucking startup with a technically credible founding team from Argo AI and Carnegie Mellon/Uber ATG backgrounds. Its robotics, ML, embedded, and autonomy work is strong engineering experience, but the company is young and has limited broad-name recognition compared with established top-tier software employers. |
 | State Street | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major global financial-services firm with substantial technology operations and a solid engineering signal, though not a leading software-native brand. |
 | StockX | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer marketplace with meaningful product and platform engineering work; a solid tech signal, though not at the most selective tier. |
 | Super Micro Computer | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Supermicro, SMCI | Recognized server and AI infrastructure company with credible systems-level engineering relevance, though not a top software-employer signal. |

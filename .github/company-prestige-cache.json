@@ -39569,6 +39569,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "stack av": {
+      "aliases": [
+        "Stack",
+        "stackav.com",
+        "StackAV"
+      ],
+      "confidence": "medium",
+      "display_name": "Stack AV",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-funded autonomous-trucking startup with a technically credible founding team from Argo AI and Carnegie Mellon/Uber ATG backgrounds. Its robotics, ML, embedded, and autonomy work is strong engineering experience, but the company is young and has limited broad-name recognition compared with established top-tier software employers.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
+    },
     "stackadapt": {
       "aliases": [],
       "confidence": "high",
