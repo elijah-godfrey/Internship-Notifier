@@ -8485,6 +8485,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "chatham financial": {
+      "aliases": [
+        "Chatham",
+        "cf.com",
+        "ChathamDirect",
+        "Chatham Onyx"
+      ],
+      "confidence": "medium",
+      "display_name": "Chatham Financial",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established financial-risk advisory and fintech firm with proprietary capital-markets SaaS platforms and a real software engineering function. It is a credible, specialized internship signal in financial technology, but has substantially less broad software-engineering recognition and selectivity signal than leading tech or quantitative-finance employers.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
+    },
     "checkoutcom": {
       "aliases": [],
       "confidence": "high",
@@ -26353,6 +26369,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "martin marietta": {
+      "aliases": [
+        "Martin Marietta Materials, Inc.",
+        "NYSE: MLM"
+      ],
+      "confidence": "high",
+      "display_name": "Martin Marietta",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 53,
+      "reason": "A well-established, publicly traded building-materials company with a real internal software engineering function, but its employer reputation and selectivity are centered on aggregates, construction materials, and operations rather than a broadly recognized software engineering brand.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
+    },
     "martinrea international": {
       "aliases": [
         "Martinrea"
@@ -43273,6 +43303,20 @@
       "reason": "Established HR technology and services company, but not widely considered a top software-engineering brand.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "trinity life sciences": {
+      "aliases": [
+        "Trinity",
+        "trinitylifesciences.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Trinity Life Sciences",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established life-sciences commercialization and analytics firm with a real product-engineering/GenAI internship track. It is a respected niche employer, but its software-engineering brand and selectivity are less broadly recognized than those of major technology companies.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
     },
     "tripadvisor": {
       "aliases": [],
