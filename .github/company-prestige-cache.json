@@ -6622,6 +6622,23 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "bracco": {
+      "aliases": [
+        "Bracco Group",
+        "Bracco Imaging",
+        "Bracco Imaging S.p.A.",
+        "Bracco Diagnostics Inc.",
+        "bracco.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Bracco",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established global diagnostic-imaging and medical-technology group with meaningful R&D and some AI/digital-health products. It is a respected healthcare-industry employer, but has limited broad recognition or demonstrated selectivity as a software-engineering brand.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
+    },
     "bracebridge capital": {
       "aliases": [
         "Bracebridge"
@@ -19169,6 +19186,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "greystone": {
+      "aliases": [
+        "Greystone & Co. II LLC",
+        "Greystone Servicing Company LLC",
+        "Greystone Funding Company LLC",
+        "greystone.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Greystone",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established national commercial-real-estate finance firm with a genuine full-stack engineering internship, but its reputation and selectivity are primarily finance/real-estate focused rather than a strong, broadly recognized software-engineering signal.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
+    },
     "grid": {
       "aliases": [
         "Grid spreadsheet engine"
@@ -30602,6 +30635,22 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "omya": {
+      "aliases": [
+        "Omya Group",
+        "Omya International AG",
+        "Omya AG",
+        "Pl\u00fcss-Staufer AG"
+      ],
+      "confidence": "high",
+      "display_name": "Omya",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established global minerals and specialty-materials company with meaningful industrial scale, but it is primarily a chemical-manufacturing employer rather than a recognized software-engineering brand. A software internship can signal solid enterprise/industrial technology experience, though it carries limited broad software-industry selectivity or prestige.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
+    },
     "on the go": {
       "aliases": [
         "OTG",
@@ -30754,6 +30803,21 @@
       "reason": "Recognizable government institution and credible public-sector experience, with modest standalone software-engineering prestige.",
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
+    },
+    "ontario securities commission": {
+      "aliases": [
+        "OSC",
+        "Commission des valeurs mobili\u00e8res de l\u2019Ontario",
+        "osc.ca"
+      ],
+      "confidence": "medium",
+      "display_name": "Ontario Securities Commission",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 54,
+      "reason": "Established Ontario capital-markets regulator with meaningful data, analytics, and technology work, but its software engineering brand and internship selectivity are less prominent than those of leading technology or finance employers.",
+      "reviewed_at": "2026-11-12",
+      "rubric_version": "prestige-v2"
     },
     "ontario teachers pension plan": {
       "aliases": [
