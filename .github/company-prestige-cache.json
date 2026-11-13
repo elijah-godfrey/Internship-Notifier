@@ -27238,6 +27238,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "merrick": {
+      "aliases": [
+        "merrick.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Merrick",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 36,
+      "reason": "Merrick appears to be Merrick & Company, an established employee-owned engineering, architecture, geospatial, and science-services firm. It offers credible technical project exposure, including national-security and infrastructure work, but has limited software-engineering brand recognition and does not appear to be a notable software employer or selective SWE internship signal.",
+      "reviewed_at": "2026-11-13",
+      "rubric_version": "prestige-v2"
+    },
     "meshy": {
       "aliases": [
         "Meshy AI"

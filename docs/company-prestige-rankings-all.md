@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3845** of **3845** cached companies (all cached companies).
+Showing **3846** of **3846** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3561,6 +3561,7 @@ Showing **3845** of **3845** cached companies (all cached companies).
 | Five Below | 36 | High | 2026-08-02 | gpt-5.6-terra | No | - | A recognized retail employer, but its software organization is not a prominent engineering career signal. |
 | Haskell | 36 | High | 2026-11-09 | gpt-5.6-terra | No | The Haskell Company, haskell.com | Established integrated architecture, engineering, and construction firm with meaningful technical work in the AEC sector, but limited recognition or demonstrated selectivity as a software-engineering employer. Its internship brand is principally oriented toward design, construction, and engineering disciplines rather than software. |
 | Maricopa County | 36 | High | 2026-08-02 | gpt-5.6-terra | No | Maricopa County, Arizona | Large public-sector employer, but government IT experience generally carries limited software-industry prestige. |
+| Merrick | 36 | Medium | 2026-11-13 | gpt-5.6-terra | No | merrick.com | Merrick appears to be Merrick & Company, an established employee-owned engineering, architecture, geospatial, and science-services firm. It offers credible technical project exposure, including national-security and infrastructure work, but has limited software-engineering brand recognition and does not appear to be a notable software employer or selective SWE internship signal. |
 | Navaide | 36 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Government-focused technology consultancy with limited broad software-engineering brand recognition. |
 | Polk County | 36 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | A local-government employer can offer practical technical work, but carries limited broad software-engineering prestige. |
 | ResponsiveAds, Inc. | 36 | Medium | 2026-10-16 | gpt-5.6-terra | No | RAD | Real software/product work, but its small, niche ad-tech footprint and limited broad engineering-industry recognition make it a limited software-engineering prestige signal. |
