@@ -30,6 +30,11 @@ class NotifierState:
         quant_scraper_bootstrapped: True after the current quant-scraper
             internships have been marked seen once. Missing on old state files,
             which means that first pass has not run.
+        quant_scraper_posted: ISO posted dates for quant-scraper roles already
+            seen, keyed by listing id. A later README date is a repost.
+        quant_scraper_posted_baselined: True after seen quant-scraper roles have
+            had their current posted dates recorded. Missing on old state files,
+            so the next poll records those dates without emailing them.
     """
 
     listings_sha: str = ""
@@ -38,6 +43,8 @@ class NotifierState:
     seen_apply_keys: set[str] = field(default_factory=set)
     quant_scraper_shas: dict[str, str] = field(default_factory=dict)
     quant_scraper_bootstrapped: bool = False
+    quant_scraper_posted: dict[str, str] = field(default_factory=dict)
+    quant_scraper_posted_baselined: bool = False
 
     def to_json_dict(self) -> dict[str, Any]:
         """Serialize to a JSON-friendly dict (id sets as sorted lists)."""
@@ -45,6 +52,8 @@ class NotifierState:
             "closed_ids_sha": self.closed_ids_sha,
             "listings_sha": self.listings_sha,
             "quant_scraper_bootstrapped": self.quant_scraper_bootstrapped,
+            "quant_scraper_posted": dict(sorted(self.quant_scraper_posted.items())),
+            "quant_scraper_posted_baselined": self.quant_scraper_posted_baselined,
             "quant_scraper_shas": dict(sorted(self.quant_scraper_shas.items())),
             "seen_apply_keys": sorted(self.seen_apply_keys),
             "seen_ids": sorted(self.seen_ids),
@@ -65,9 +74,16 @@ class NotifierState:
             data.get("quant_scraper_shas") or {},
             "quant_scraper_shas",
         )
+        quant_scraper_posted = _string_dict(
+            data.get("quant_scraper_posted") or {},
+            "quant_scraper_posted",
+        )
         bootstrapped = data.get("quant_scraper_bootstrapped", False)
         if not isinstance(bootstrapped, bool):
             raise ValueError("quant_scraper_bootstrapped must be a boolean")
+        posted_baselined = data.get("quant_scraper_posted_baselined", False)
+        if not isinstance(posted_baselined, bool):
+            raise ValueError("quant_scraper_posted_baselined must be a boolean")
         return cls(
             listings_sha=sha,
             seen_ids=seen,
@@ -75,6 +91,8 @@ class NotifierState:
             seen_apply_keys=seen_apply_keys,
             quant_scraper_shas=quant_scraper_shas,
             quant_scraper_bootstrapped=bootstrapped,
+            quant_scraper_posted=quant_scraper_posted,
+            quant_scraper_posted_baselined=posted_baselined,
         )
 
 

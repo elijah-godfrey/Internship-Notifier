@@ -38,6 +38,7 @@ from internship_notifier.quant_scraper import (
     collect_url_keys,
     fetch_quant_scraper,
     keep_for_source,
+    posted_is_later,
     url_keys,
 )
 from internship_notifier.state import NotifierState, load_state, save_state
@@ -410,6 +411,82 @@ def _stored_apply_keys(listing: dict[str, Any]) -> set[str]:
     return {key for key in raw if isinstance(key, str)}
 
 
+def _posted_on(listing: dict[str, Any]) -> str:
+    """Return the ISO posted date stored on a quant-scraper row."""
+    posted = listing.get("posted_on")
+    return posted if isinstance(posted, str) else ""
+
+
+def _quant_already_seen(listing: dict[str, Any], state: NotifierState) -> bool:
+    """Return whether this quant-scraper role was already notified or baselined."""
+    listing_id = str(listing.get("id") or "")
+    if not listing_id:
+        return True
+    if listing_id in state.seen_ids:
+        return True
+    return bool(_stored_apply_keys(listing) & state.seen_apply_keys)
+
+
+def _quant_reposted(listing: dict[str, Any], state: NotifierState) -> bool:
+    """Return whether a seen quant-scraper role has a later README posted date."""
+    if not _quant_already_seen(listing, state):
+        return False
+    stored = state.quant_scraper_posted.get(str(listing.get("id") or ""), "")
+    return posted_is_later(_posted_on(listing), stored)
+
+
+def _remember_quant_posted(state: NotifierState, rows: list[dict[str, Any]]) -> None:
+    """Store posted dates for quant-scraper rows that were decided."""
+    for row in rows:
+        listing_id = str(row.get("id") or "")
+        posted = _posted_on(row)
+        if listing_id.startswith("qs:") and posted:
+            state.quant_scraper_posted[listing_id] = posted
+
+
+def _baseline_quant_posted(state: NotifierState, listing: dict[str, Any]) -> None:
+    """Record a seen role's current posted date when none is stored yet."""
+    listing_id = str(listing.get("id") or "")
+    posted = _posted_on(listing)
+    if listing_id.startswith("qs:") and posted:
+        state.quant_scraper_posted.setdefault(listing_id, posted)
+
+
+def _mark_repost_title(listing: dict[str, Any]) -> None:
+    """Append a repost note to the title shown in the console and the email."""
+    title = str(listing.get("title") or "").strip()
+    if title.casefold().endswith("(reposted)"):
+        return
+    listing["title"] = f"{title} (reposted)" if title else "(reposted)"
+
+
+def _select_quant_notifications(
+    rows: list[dict[str, Any]],
+    state: NotifierState,
+    *,
+    dry_run: bool,
+) -> list[dict[str, Any]]:
+    """Return quant-scraper rows that should be emailed.
+
+    A role already seen is emailed again only when its posted date is later
+    than the stored date. A seen role with no stored date keeps the current
+    date and stays quiet, so roles recorded before dates were tracked are not
+    resent. A repost's title gains ``(reposted)`` for the notification only.
+    """
+    selected: list[dict[str, Any]] = []
+    for row in rows:
+        if _quant_reposted(row, state):
+            _mark_repost_title(row)
+            selected.append(row)
+            continue
+        if not _quant_already_seen(row, state):
+            selected.append(row)
+            continue
+        if not dry_run:
+            _baseline_quant_posted(state, row)
+    return selected
+
+
 def _select_quant_rows(
     listings: list[dict[str, Any]],
     *,
@@ -455,6 +532,7 @@ def _finish_poll(
     state.seen_ids |= closed
     for row in decided_rows:
         state.seen_apply_keys |= _stored_apply_keys(row)
+    _remember_quant_posted(state, decided_rows)
     if complete:
         state.listings_sha = new_sha
         state.closed_ids_sha = new_sha
@@ -604,7 +682,10 @@ def run(argv: list[str] | None = None) -> int:
     new_sha: str = meta["sha"]
     quant_poll = fetch_quant_scraper(
         state.quant_scraper_shas,
-        force=not state.quant_scraper_bootstrapped,
+        force=(
+            not state.quant_scraper_bootstrapped
+            or not state.quant_scraper_posted_baselined
+        ),
         annotate_countries=bool(countries),
     )
 
@@ -681,10 +762,12 @@ def run(argv: list[str] | None = None) -> int:
             state.seen_ids |= ids
             for row in fresh_quant:
                 state.seen_apply_keys |= _stored_apply_keys(row)
+            _remember_quant_posted(state, fresh_quant)
             state.listings_sha = new_sha
             state.closed_ids_sha = new_sha
             state.quant_scraper_shas = dict(quant_poll.shas)
             state.quant_scraper_bootstrapped = True
+            state.quant_scraper_posted_baselined = True
             save_state(state, state_path)
         print(
             f"Bootstrap: marked {len(ids)} listing(s) as seen "
@@ -711,11 +794,27 @@ def run(argv: list[str] | None = None) -> int:
             state.seen_ids |= _seen_id_strings(fresh_quant)
             for row in fresh_quant:
                 state.seen_apply_keys |= _stored_apply_keys(row)
+            _remember_quant_posted(state, fresh_quant)
             state.quant_scraper_shas = dict(quant_poll.shas)
             state.quant_scraper_bootstrapped = True
+            state.quant_scraper_posted_baselined = True
         fresh_quant = []
     elif quant_poll.changed:
         quant_shas_when_complete = dict(quant_poll.shas)
+
+    reposts = [row for row in fresh_quant if _quant_reposted(row, state)]
+    fresh_quant = _select_quant_notifications(
+        fresh_quant,
+        state,
+        dry_run=ns.dry_run,
+    )
+    if reposts:
+        print(
+            f"Quant scraper: {len(reposts)} reposted internship(s) with a later posted date.",
+            file=sys.stderr,
+        )
+    if quant_poll.changed and not ns.dry_run:
+        state.quant_scraper_posted_baselined = True
 
     covered: list[str] = []
     simplify_new: list[dict[str, Any]] = []
@@ -735,12 +834,7 @@ def run(argv: list[str] | None = None) -> int:
             file=sys.stderr,
         )
 
-    quant_new = [
-        row
-        for row in fresh_quant
-        if str(row.get("id") or "") not in state.seen_ids
-        and not (_stored_apply_keys(row) & state.seen_apply_keys)
-    ]
+    quant_new = list(fresh_quant)
     new_rows = [*simplify_new, *quant_new]
     if (os.environ.get("SMTP_QUANT_TO") or "").strip():
         simplify_new_keys = collect_url_keys(simplify_new)

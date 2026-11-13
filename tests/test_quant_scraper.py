@@ -2,12 +2,16 @@
 
 from __future__ import annotations
 
+from datetime import date
+
 from internship_notifier.quant_scraper import (
     canonical_apply_key,
     countries_for_apply_url,
     country_index_from_html,
     keep_for_source,
+    parse_posted_date,
     parse_readme,
+    posted_is_later,
     url_keys,
 )
 
@@ -145,6 +149,38 @@ class TestParseReadme:
             "Quant Dev Intern",
             "Winter SWE Intern",
         ]
+
+    def test_reads_posted_dates(self) -> None:
+        rows = parse_readme(
+            _README,
+            repo="quant-scraper/example",
+            today=date(2026, 11, 13),
+        )
+        posted = {row["title"]: row["posted_on"] for row in rows}
+        assert posted["C++ Intern"] == "2026-11-03"
+        assert posted["Quant Dev Intern"] == "2026-11-01"
+
+
+class TestPostedDate:
+    def test_month_day_uses_this_year_until_it_is_ahead_of_today(self) -> None:
+        today = date(2026, 11, 13)
+        assert parse_posted_date("Nov 10", today=today) == date(2026, 11, 10)
+        assert parse_posted_date("Dec 20", today=today) == date(2025, 12, 20)
+        assert parse_posted_date("Nov 10, 2024", today=today) == date(2024, 11, 10)
+        assert parse_posted_date("2026-11-10", today=today) == date(2026, 11, 10)
+
+    def test_blank_and_dash_have_no_date(self) -> None:
+        today = date(2026, 11, 13)
+        assert parse_posted_date("", today=today) is None
+        assert parse_posted_date("—", today=today) is None
+        assert parse_posted_date("n/a", today=today) is None
+
+    def test_later_means_a_newer_calendar_day(self) -> None:
+        assert posted_is_later("2026-11-13", "2026-11-01")
+        assert not posted_is_later("2026-11-01", "2026-11-01")
+        assert not posted_is_later("2026-11-01", "2026-11-13")
+        assert not posted_is_later("", "2026-11-01")
+        assert not posted_is_later("2026-11-13", "")
 
 
 _SITE_HTML = (

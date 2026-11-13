@@ -1294,6 +1294,7 @@ class TestQuantScraperPoll:
             listing_id="qs:url:jobs.example/new",
             keys=["url:jobs.example/new"],
         )
+        quant["posted_on"] = "2026-11-01"
         meta = {"sha": "fresh-sha", "size": 1, "download_url": "https://example.com/raw"}
         snapshot = QuantScraperPoll(
             shas={"quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"},
@@ -1318,6 +1319,8 @@ class TestQuantScraperPoll:
         assert "NewCo" not in capsys.readouterr().out
         loaded = load_state(state_path)
         assert loaded.quant_scraper_bootstrapped is True
+        assert loaded.quant_scraper_posted_baselined is True
+        assert loaded.quant_scraper_posted == {"qs:url:jobs.example/new": "2026-11-01"}
         assert "qs:url:jobs.example/new" in loaded.seen_ids
         assert "url:jobs.example/new" in loaded.seen_apply_keys
 
@@ -1358,3 +1361,132 @@ class TestQuantScraperPoll:
         assert code == 0
         assert "Acme" not in capsys.readouterr().out
         assert "2" in load_state(state_path).seen_ids
+
+    def test_later_posted_date_emails_a_quant_repost(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        listing_id = "qs:url:jobs.example/repost"
+        _write_state(
+            state_path,
+            NotifierState(
+                listings_sha="old-sha",
+                seen_ids={"1", listing_id},
+                closed_ids_sha="old-sha",
+                quant_scraper_bootstrapped=True,
+                quant_scraper_posted_baselined=True,
+                quant_scraper_posted={listing_id: "2026-11-01"},
+                seen_apply_keys={"url:jobs.example/repost"},
+            ),
+        )
+        quant = _quant_row(
+            company="Jane Street",
+            url="https://jobs.example/repost",
+            listing_id=listing_id,
+            keys=["url:jobs.example/repost"],
+        )
+        quant["posted_on"] = "2026-11-13"
+        meta = {"sha": "fresh-sha", "size": 1, "download_url": "https://example.com/raw"}
+        snapshot = QuantScraperPoll(
+            shas={"quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"},
+            listings=[quant],
+            changed=True,
+        )
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[_offseason_row(id="1")],
+            ),
+            patch("internship_notifier.cli.fetch_quant_scraper", return_value=snapshot),
+        ):
+            code = run(["--config", str(cfg), "--state-path", str(state_path)])
+
+        assert code == 0
+        output = capsys.readouterr().out
+        assert "Jane Street | Winter Intern (reposted) |" in output
+        assert "https://jobs.example/repost" in output
+        loaded = load_state(state_path)
+        assert loaded.quant_scraper_posted[listing_id] == "2026-11-13"
+        assert "url:jobs.example/repost" in loaded.seen_apply_keys
+
+    def test_same_or_missing_posted_date_stays_quiet(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        same_id = "qs:url:jobs.example/same"
+        older_id = "qs:url:jobs.example/older"
+        blank_id = "qs:url:jobs.example/blank"
+        unseen_date_id = "qs:url:jobs.example/baseline"
+        _write_state(
+            state_path,
+            NotifierState(
+                listings_sha="old-sha",
+                seen_ids={"1", same_id, older_id, blank_id, unseen_date_id},
+                closed_ids_sha="old-sha",
+                quant_scraper_bootstrapped=True,
+                quant_scraper_posted_baselined=True,
+                quant_scraper_posted={
+                    same_id: "2026-11-10",
+                    older_id: "2026-11-10",
+                    blank_id: "2026-11-10",
+                },
+                seen_apply_keys={
+                    "url:jobs.example/same",
+                    "url:jobs.example/older",
+                    "url:jobs.example/blank",
+                    "url:jobs.example/baseline",
+                },
+            ),
+        )
+        rows = []
+        for listing_id, url, posted in (
+            (same_id, "https://jobs.example/same", "2026-11-10"),
+            (older_id, "https://jobs.example/older", "2026-11-01"),
+            (blank_id, "https://jobs.example/blank", ""),
+            (unseen_date_id, "https://jobs.example/baseline", "2026-11-12"),
+        ):
+            row = _quant_row(
+                company="Quiet Co",
+                url=url,
+                listing_id=listing_id,
+                keys=[url.removeprefix("https://")],
+            )
+            row["posted_on"] = posted
+            row["apply_keys"] = [f"url:{url.removeprefix('https://')}"]
+            rows.append(row)
+        meta = {"sha": "fresh-sha", "size": 1, "download_url": "https://example.com/raw"}
+        snapshot = QuantScraperPoll(
+            shas={"quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"},
+            listings=rows,
+            changed=True,
+        )
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[_offseason_row(id="1")],
+            ),
+            patch("internship_notifier.cli.fetch_quant_scraper", return_value=snapshot),
+        ):
+            code = run(["--config", str(cfg), "--state-path", str(state_path)])
+
+        assert code == 0
+        assert "Quiet Co" not in capsys.readouterr().out
+        loaded = load_state(state_path)
+        assert loaded.quant_scraper_posted == {
+            same_id: "2026-11-10",
+            older_id: "2026-11-10",
+            blank_id: "2026-11-10",
+            unseen_date_id: "2026-11-12",
+        }

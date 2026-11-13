@@ -19,6 +19,8 @@ class TestNotifierStateJson:
             "closed_ids_sha": "",
             "listings_sha": "abc",
             "quant_scraper_bootstrapped": False,
+            "quant_scraper_posted": {},
+            "quant_scraper_posted_baselined": False,
             "quant_scraper_shas": {},
             "seen_apply_keys": [],
             "seen_ids": ["1", "2", "3"],
@@ -39,6 +41,8 @@ class TestNotifierStateJson:
         assert state.seen_apply_keys == set()
         assert state.quant_scraper_shas == {}
         assert state.quant_scraper_bootstrapped is False
+        assert state.quant_scraper_posted == {}
+        assert state.quant_scraper_posted_baselined is False
 
     def test_from_json_dict_seen_ids_must_be_list(self) -> None:
         with pytest.raises(ValueError, match="seen_ids must be a list"):
@@ -69,6 +73,23 @@ class TestNotifierStateJson:
             "quant-scraper/Quant-Internships-New-Grad-2027": "abc"
         }
         assert state.seen_apply_keys == {"greenhouse:1"}
+        assert state.quant_scraper_posted == {}
+        assert state.quant_scraper_posted_baselined is False
+
+    def test_from_json_dict_quant_posted_dates_roundtrip(self) -> None:
+        state = NotifierState.from_json_dict(
+            {
+                "quant_scraper_posted": {"qs:greenhouse:1": "2026-11-10"},
+                "quant_scraper_posted_baselined": True,
+            }
+        )
+        assert state.quant_scraper_posted == {"qs:greenhouse:1": "2026-11-10"}
+        assert state.quant_scraper_posted_baselined is True
+        assert NotifierState.from_json_dict(state.to_json_dict()) == state
+
+    def test_from_json_dict_quant_posted_baselined_must_be_bool(self) -> None:
+        with pytest.raises(ValueError, match="quant_scraper_posted_baselined must be a boolean"):
+            NotifierState.from_json_dict({"quant_scraper_posted_baselined": "yes"})
 
     def test_from_json_dict_quant_bootstrapped_must_be_bool(self) -> None:
         with pytest.raises(ValueError, match="quant_scraper_bootstrapped must be a boolean"):

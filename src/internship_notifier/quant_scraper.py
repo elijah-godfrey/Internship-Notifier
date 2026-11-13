@@ -8,6 +8,9 @@ in SimplifyJobs when an apply-URL key intersects that repo's listings.
 When a country filter is on, country codes come from the same roles on
 quant-scraper.com. Each location there is labeled ``US``, ``CA``, ``GB``,
 and so on. The README only has the city name.
+
+Each internship row keeps the README ``Posted`` cell as ``posted_on``. A
+later cell is a repost of the same apply link. A missing cell stays blank.
 """
 
 from __future__ import annotations
@@ -18,6 +21,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from dataclasses import dataclass
+from datetime import date
 from typing import Any
 
 from internship_notifier import github_listings
@@ -42,6 +46,22 @@ _README_TIMEOUT_SECONDS = 60
 _SITE_TIMEOUT_SECONDS = 120
 _JOB_OBJECT = '{"id":'
 _HEADING_SPLIT = re.compile(r"\s+[—–-]\s+")
+_POSTED_ISO = re.compile(r"^(\d{4})-(\d{2})-(\d{2})$")
+_POSTED_TEXT = re.compile(r"^([A-Za-z]+)\.?\s+(\d{1,2})(?:\s*,\s*(\d{4}))?$")
+_MONTHS = {
+    "jan": 1,
+    "feb": 2,
+    "mar": 3,
+    "apr": 4,
+    "may": 5,
+    "jun": 6,
+    "jul": 7,
+    "aug": 8,
+    "sep": 9,
+    "oct": 10,
+    "nov": 11,
+    "dec": 12,
+}
 _SEPARATOR_CELL = re.compile(r":?-{3,}:?")
 _MD_LINK = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
 _SUMMARY_LABEL = re.compile(r"<summary>\s*<b>(.*?)</b>", re.IGNORECASE)
@@ -220,13 +240,65 @@ def keep_for_source(listing: dict[str, Any], source: str) -> bool:
     return False
 
 
-def parse_readme(markdown: str, *, repo: str) -> list[dict[str, Any]]:
+def parse_posted_date(text: str, *, today: date) -> date | None:
+    """Parse a README ``Posted`` cell into a calendar date.
+
+    ``Nov 10`` uses ``today``'s year. A month and day still ahead of ``today``
+    belong to the previous year. ``Nov 10, 2026`` and ``2026-11-10`` keep the
+    year they name. A blank cell, a dash, or any other text has no date.
+    """
+    raw = text.strip()
+    if not raw:
+        return None
+    iso = _POSTED_ISO.fullmatch(raw)
+    if iso is not None:
+        return _valid_date(int(iso.group(1)), int(iso.group(2)), int(iso.group(3)))
+    match = _POSTED_TEXT.fullmatch(raw)
+    if match is None:
+        return None
+    month = _MONTHS.get(match.group(1).casefold()[:3])
+    if month is None:
+        return None
+    day = int(match.group(2))
+    if match.group(3) is not None:
+        return _valid_date(int(match.group(3)), month, day)
+    posted = _valid_date(today.year, month, day)
+    if posted is not None and posted > today:
+        posted = _valid_date(today.year - 1, month, day)
+    return posted
+
+
+def posted_is_later(current: str, stored: str) -> bool:
+    """Return whether ``current`` is a strictly later ISO date than ``stored``."""
+    if not current or not stored:
+        return False
+    try:
+        return date.fromisoformat(current) > date.fromisoformat(stored)
+    except ValueError:
+        return False
+
+
+def _valid_date(year: int, month: int, day: int) -> date | None:
+    """Return the calendar date, or ``None`` when the numbers are impossible."""
+    try:
+        return date(year, month, day)
+    except ValueError:
+        return None
+
+
+def parse_readme(
+    markdown: str,
+    *,
+    repo: str,
+    today: date | None = None,
+) -> list[dict[str, Any]]:
     """Parse internship rows from one quant-scraper README.
 
     Graduate-role and programme sections are skipped. Operations, design, and
     support rows are skipped because they have no SimplifyJobs category.
     Company cells of ``↳`` continue the previous company.
     """
+    clock = today or date.today()
     listings: list[dict[str, Any]] = []
     section: str | None = None
     discipline = ""
@@ -295,6 +367,7 @@ def parse_readme(markdown: str, *, repo: str) -> list[dict[str, Any]]:
         if not keys:
             continue
         season = _season_of(title)
+        posted = parse_posted_date(_cell(cells, columns, "posted"), today=clock)
         listings.append(
             {
                 "id": f"qs:{canonical_apply_key(keys)}",
@@ -310,6 +383,7 @@ def parse_readme(markdown: str, *, repo: str) -> list[dict[str, Any]]:
                 "active": True,
                 "is_visible": True,
                 "date_posted": 0,
+                "posted_on": posted.isoformat() if posted is not None else "",
                 "company_url": "",
                 "source": repo,
             }
