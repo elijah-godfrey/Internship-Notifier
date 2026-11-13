@@ -1,6 +1,6 @@
 {
-  "closed_ids_sha": "07618b513fbab278eb559883975955e6cb3ecea6",
-  "listings_sha": "07618b513fbab278eb559883975955e6cb3ecea6",
+  "closed_ids_sha": "4c4f4c4faf69c2f386bd772c76c7268da80fa5c3",
+  "listings_sha": "4c4f4c4faf69c2f386bd772c76c7268da80fa5c3",
   "quant_scraper_bootstrapped": true,
   "quant_scraper_shas": {
     "quant-scraper/AI-ML-Internships-New-Grad-2027": "f18a4cddabfbb58f3ee3cac7ad24b3f0021fb937",
@@ -1394,6 +1394,7 @@
     "0c7e5252-d2b8-45c7-880c-9923fc29984a",
     "0c808f39-f82e-4f40-9bf5-05a6bf0e9704",
     "0c86cfb3-6d20-4de6-a83a-ca0b297c4b54",
+    "0c894f36-0b46-44e0-a2f3-ffe86146935f",
     "0c8bd910-9490-49e7-ac4f-ebcef23c5631",
     "0c8d5691-6532-406a-8a25-f4032b51809e",
     "0c948dc9-1eb1-44a6-86f9-c0695549d3b4",
@@ -2082,6 +2083,7 @@
     "1417a5a3-b960-4a63-829a-6c41adb01700",
     "14194f20-cd82-44ed-873d-7a7c8473ba4b",
     "141a0c09-a2a3-45a8-83af-cd6a6fa4746b",
+    "141dbf1a-3431-4425-9d88-1a10fb649f64",
     "1422b495-5c4c-4cc4-9cb0-74b93a01f75e",
     "14234a59-0a53-4ae6-803b-1b35ae771fda",
     "1429f063-6706-404c-8ece-56be8b43bd98",
@@ -4385,6 +4387,7 @@
     "2e27e17c-6816-481b-86d0-6a70c67df36a",
     "2e2b4512-02d3-4134-a01d-b3f6887cd3e5",
     "2e2b9880-d6c9-4502-b647-d93be679e9a2",
+    "2e2e68c0-6a5c-4917-ba15-5c1200450b37",
     "2e307846-15fa-4251-aa91-ae7d3946aef9",
     "2e345dec-ccc4-4e83-8cbc-336b8290b987",
     "2e3471cf-662d-486a-853c-85c6a9936243",
