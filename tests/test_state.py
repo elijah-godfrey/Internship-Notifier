@@ -18,6 +18,9 @@ class TestNotifierStateJson:
         assert state.to_json_dict() == {
             "closed_ids_sha": "",
             "listings_sha": "abc",
+            "quant_scraper_bootstrapped": False,
+            "quant_scraper_shas": {},
+            "seen_apply_keys": [],
             "seen_ids": ["1", "2", "3"],
         }
 
@@ -33,6 +36,9 @@ class TestNotifierStateJson:
         assert state.listings_sha == ""
         assert state.seen_ids == set()
         assert state.closed_ids_sha == ""
+        assert state.seen_apply_keys == set()
+        assert state.quant_scraper_shas == {}
+        assert state.quant_scraper_bootstrapped is False
 
     def test_from_json_dict_seen_ids_must_be_list(self) -> None:
         with pytest.raises(ValueError, match="seen_ids must be a list"):
@@ -49,6 +55,24 @@ class TestNotifierStateJson:
     def test_from_json_dict_closed_ids_sha_must_be_string(self) -> None:
         with pytest.raises(ValueError, match="closed_ids_sha must be a string"):
             NotifierState.from_json_dict({"closed_ids_sha": 123})
+
+    def test_from_json_dict_quant_fields_roundtrip(self) -> None:
+        state = NotifierState.from_json_dict(
+            {
+                "quant_scraper_bootstrapped": True,
+                "quant_scraper_shas": {"quant-scraper/Quant-Internships-New-Grad-2027": "abc"},
+                "seen_apply_keys": ["greenhouse:1"],
+            }
+        )
+        assert state.quant_scraper_bootstrapped is True
+        assert state.quant_scraper_shas == {
+            "quant-scraper/Quant-Internships-New-Grad-2027": "abc"
+        }
+        assert state.seen_apply_keys == {"greenhouse:1"}
+
+    def test_from_json_dict_quant_bootstrapped_must_be_bool(self) -> None:
+        with pytest.raises(ValueError, match="quant_scraper_bootstrapped must be a boolean"):
+            NotifierState.from_json_dict({"quant_scraper_bootstrapped": "yes"})
 
 
 class TestLoadSaveState:

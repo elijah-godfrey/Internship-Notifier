@@ -170,3 +170,14 @@ class TestFilterExcludingCategories:
             {"Hardware Engineering", "Product"},
         )
         assert kept == [rows[2], rows[4]]
+
+    def test_quantitative_finance_name_also_drops_quant_tag(self) -> None:
+        rows = [
+            {"id": "1", "category": "Quant"},
+            {"id": "2", "category": "Quantitative Finance"},
+            {"id": "3", "category": "Software"},
+        ]
+        kept = filter_excluding_categories(rows, {"Quantitative Finance"})
+        assert kept == [rows[2]]
+
+

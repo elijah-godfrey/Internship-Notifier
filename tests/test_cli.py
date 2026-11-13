@@ -18,6 +18,7 @@ from internship_notifier.prestige import (
     save_prestige_cache,
 )
 from internship_notifier.prestige_ranker import PrestigeRankingError
+from internship_notifier.quant_scraper import QuantScraperPoll
 from internship_notifier.state import NotifierState, load_state
 
 
@@ -104,6 +105,14 @@ def _write_prestige_cache(path: Path, *assessments: CompanyPrestige) -> None:
     for assessment in assessments:
         cache.put(assessment)
     save_prestige_cache(cache, path)
+
+
+@pytest.fixture(autouse=True)
+def _quiet_quant_scraper() -> object:
+    """Keep existing poll tests off the quant-scraper network."""
+    snapshot = QuantScraperPoll(shas={}, listings=[], changed=False)
+    with patch("internship_notifier.cli.fetch_quant_scraper", return_value=snapshot):
+        yield
 
 
 @pytest.fixture
@@ -975,3 +984,174 @@ class TestRunPrestigeFiltering:
         assert code == 0
         assert not cache_path.exists()
         assert "new" not in load_state(state_path).seen_ids
+
+
+def _quant_row(
+    *,
+    company: str,
+    url: str,
+    listing_id: str,
+    keys: list[str],
+) -> dict:
+    return {
+        "id": listing_id,
+        "apply_keys": keys,
+        "company_name": company,
+        "title": "Winter Intern",
+        "category": "Software Engineering",
+        "url": url,
+        "locations": ["New York"],
+        "terms": ["Off-season"],
+        "season": "offseason",
+        "listing_kind": "internship",
+        "active": True,
+        "is_visible": True,
+        "date_posted": 0,
+        "company_url": "",
+        "source": "quant-scraper/Quant-Internships-New-Grad-2027",
+    }
+
+
+class TestQuantScraperPoll:
+    def test_skips_role_already_listed_in_simplify(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(
+                listings_sha="old-sha",
+                seen_ids={"1"},
+                closed_ids_sha="old-sha",
+                quant_scraper_bootstrapped=True,
+            ),
+        )
+        simplify_url = "https://job-boards.greenhouse.io/acme/jobs/111"
+        overlap_url = "https://boards.greenhouse.io/acme/jobs/111?gh_jid=111"
+        new_url = "https://jobs.ashbyhq.com/newco/aaaaaaaa-bbbb-4ccc-8ddd-eeeeeeeeeeee"
+        rows = [
+            _offseason_row(id="1", url=simplify_url),
+            _quant_row(
+                company="Acme",
+                url=overlap_url,
+                listing_id="qs:greenhouse:111",
+                keys=["greenhouse:111", "url:boards.greenhouse.io/acme/jobs/111"],
+            ),
+            _quant_row(
+                company="NewCo",
+                url=new_url,
+                listing_id="qs:ashby:aaaaaaaa-bbbb-4ccc-8ddd-eeeeeeeeeeee",
+                keys=["ashby:aaaaaaaa-bbbb-4ccc-8ddd-eeeeeeeeeeee"],
+            ),
+        ]
+        meta = {"sha": "fresh-sha", "size": 1, "download_url": "https://example.com/raw"}
+        snapshot = QuantScraperPoll(
+            shas={"quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"},
+            listings=rows[1:],
+            changed=True,
+        )
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[rows[0]],
+            ),
+            patch("internship_notifier.cli.fetch_quant_scraper", return_value=snapshot),
+        ):
+            code = run(["--config", str(cfg), "--state-path", str(state_path)])
+
+        assert code == 0
+        output = capsys.readouterr().out
+        assert "NewCo" in output
+        assert "Acme" not in output
+        loaded = load_state(state_path)
+        assert "qs:ashby:aaaaaaaa-bbbb-4ccc-8ddd-eeeeeeeeeeee" in loaded.seen_ids
+        assert "qs:greenhouse:111" not in loaded.seen_ids
+        assert loaded.quant_scraper_shas == {
+            "quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"
+        }
+
+    def test_first_poll_marks_current_quant_roles_without_email(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(listings_sha="old-sha", seen_ids={"1"}, closed_ids_sha="old-sha"),
+        )
+        quant = _quant_row(
+            company="NewCo",
+            url="https://jobs.example/new",
+            listing_id="qs:url:jobs.example/new",
+            keys=["url:jobs.example/new"],
+        )
+        meta = {"sha": "fresh-sha", "size": 1, "download_url": "https://example.com/raw"}
+        snapshot = QuantScraperPoll(
+            shas={"quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"},
+            listings=[quant],
+            changed=True,
+        )
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[_offseason_row(id="1")],
+            ),
+            patch("internship_notifier.cli.fetch_quant_scraper", return_value=snapshot),
+        ):
+            code = run(["--config", str(cfg), "--state-path", str(state_path)])
+
+        assert code == 0
+        assert "NewCo" not in capsys.readouterr().out
+        loaded = load_state(state_path)
+        assert loaded.quant_scraper_bootstrapped is True
+        assert "qs:url:jobs.example/new" in loaded.seen_ids
+        assert "url:jobs.example/new" in loaded.seen_apply_keys
+
+    def test_simplify_row_is_not_resent_after_quant_scraper(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(
+                listings_sha="old-sha",
+                seen_ids={"1"},
+                closed_ids_sha="old-sha",
+                quant_scraper_bootstrapped=True,
+                seen_apply_keys={"greenhouse:111"},
+            ),
+        )
+        meta = {"sha": "fresh-sha", "size": 1, "download_url": "https://example.com/raw"}
+        new_simplify = _offseason_row(
+            id="2",
+            company_name="Acme",
+            url="https://job-boards.greenhouse.io/acme/jobs/111",
+        )
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[_offseason_row(id="1"), new_simplify],
+            ),
+        ):
+            code = run(["--config", str(cfg), "--state-path", str(state_path)])
+
+        assert code == 0
+        assert "Acme" not in capsys.readouterr().out
+        assert "2" in load_state(state_path).seen_ids

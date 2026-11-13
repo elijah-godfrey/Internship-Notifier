@@ -33,6 +33,12 @@ from internship_notifier.prestige_ranker import (
     get_or_rank_companies,
     refresh_stale_companies,
 )
+from internship_notifier.quant_scraper import (
+    collect_url_keys,
+    fetch_quant_scraper,
+    keep_for_source,
+    url_keys,
+)
 from internship_notifier.state import NotifierState, load_state, save_state
 
 # Leave room in the 10-minute poll gap for the email and the state commit.
@@ -348,6 +354,31 @@ def _ensure_prestige_threshold(
     return threshold
 
 
+def _stored_apply_keys(listing: dict[str, Any]) -> set[str]:
+    """Return apply-URL keys stored on a quant-scraper row."""
+    raw = listing.get("apply_keys")
+    if not isinstance(raw, list):
+        return set()
+    return {key for key in raw if isinstance(key, str)}
+
+
+def _select_quant_rows(
+    listings: list[dict[str, Any]],
+    *,
+    source: str,
+    all_categories: bool,
+    categories: list[str],
+    exclude_categories: list[str],
+) -> list[dict[str, Any]]:
+    """Apply the same season and category filters used for SimplifyJobs."""
+    rows = [row for row in listings if keep_for_source(row, source)]
+    if not all_categories:
+        rows = filters.filter_by_categories(rows, set(categories))
+    if exclude_categories:
+        rows = filters.filter_excluding_categories(rows, set(exclude_categories))
+    return rows
+
+
 def _finish_poll(
     state: NotifierState,
     state_path: Path | None,
@@ -357,11 +388,13 @@ def _finish_poll(
     dry_run: bool,
     complete: bool,
     closed_ids: set[str] | None = None,
+    quant_shas: dict[str, str] | None = None,
 ) -> int:
     """Save decided listing ids. The upstream SHA changes only when none remain.
 
     Closed ids are remembered on every save. They are not emailed, and they
-    do not count as newly decided listings.
+    do not count as newly decided listings. Quant-scraper README SHAs are
+    stored only when this poll finished every new company.
     """
     if dry_run:
         return 0
@@ -369,9 +402,14 @@ def _finish_poll(
     newly_closed = closed - state.seen_ids
     state.seen_ids |= _seen_id_strings(decided_rows)
     state.seen_ids |= closed
+    for row in decided_rows:
+        state.seen_apply_keys |= _stored_apply_keys(row)
     if complete:
         state.listings_sha = new_sha
         state.closed_ids_sha = new_sha
+        if quant_shas is not None:
+            state.quant_scraper_shas = dict(quant_shas)
+            state.quant_scraper_bootstrapped = True
     save_state(state, state_path)
     if newly_closed:
         print(
@@ -396,8 +434,9 @@ def run(argv: list[str] | None = None) -> int:
         run ``--bootstrap`` first.
     """
     parser = argparse.ArgumentParser(
-        description="Poll SimplifyJobs Summer2027-Internships listings.json, "
-        "filter by README rules, and track new IDs in local state.",
+        description="Poll SimplifyJobs Summer2027-Internships listings.json and "
+        "quant-scraper internship READMEs, filter by README rules, and track "
+        "new IDs in local state.",
         epilog="Filter defaults: notifier.toml in the current directory, or "
         "NOTIFIER_CONFIG, unless --no-config-file. Override with --source / "
         "--category / --all-categories. Email: SMTP_HOST, SMTP_FROM, SMTP_TO; "
@@ -510,10 +549,14 @@ def run(argv: list[str] | None = None) -> int:
 
     meta = github_listings.get_listings_metadata(ref=ns.ref)
     new_sha: str = meta["sha"]
+    quant_poll = fetch_quant_scraper(
+        state.quant_scraper_shas,
+        force=not state.quant_scraper_bootstrapped,
+    )
 
     sha_unchanged = bool(state.listings_sha) and new_sha == state.listings_sha
     closed_recorded = state.closed_ids_sha == new_sha
-    if not ns.bootstrap and sha_unchanged and closed_recorded:
+    if not ns.bootstrap and sha_unchanged and closed_recorded and not quant_poll.changed:
         print("No upstream change (listings.json blob sha unchanged).", file=sys.stderr)
         _refresh_prestige_cache(
             prestige_config,
@@ -526,7 +569,7 @@ def run(argv: list[str] | None = None) -> int:
 
     raw = github_listings.fetch_listings_json(meta["download_url"])
     closed_ids = _closed_listing_ids(raw)
-    if not ns.bootstrap and sha_unchanged:
+    if not ns.bootstrap and sha_unchanged and not quant_poll.changed:
         print(
             "No upstream change (listings.json blob sha unchanged). "
             f"Remembering {len(closed_ids)} closed listing(s).",
@@ -551,12 +594,38 @@ def run(argv: list[str] | None = None) -> int:
     if exclude_categories:
         filtered = filters.filter_excluding_categories(filtered, set(exclude_categories))
 
+    simplify_url_keys = collect_url_keys(raw)
+    quant_rows = _select_quant_rows(
+        quant_poll.listings,
+        source=source,
+        all_categories=all_categories,
+        categories=categories,
+        exclude_categories=exclude_categories,
+    )
+    fresh_quant: list[dict[str, Any]] = []
+    already_listed = 0
+    for row in quant_rows:
+        if _stored_apply_keys(row) & simplify_url_keys:
+            already_listed += 1
+            continue
+        fresh_quant.append(row)
+    if quant_poll.changed:
+        print(
+            f"Quant scraper: {len(fresh_quant)} internship(s) are not in "
+            f"SimplifyJobs ({already_listed} already listed there).",
+            file=sys.stderr,
+        )
+
     if ns.bootstrap:
-        ids = _seen_id_strings(filtered) | closed_ids
+        ids = _seen_id_strings(filtered) | closed_ids | _seen_id_strings(fresh_quant)
         if not ns.dry_run:
             state.seen_ids |= ids
+            for row in fresh_quant:
+                state.seen_apply_keys |= _stored_apply_keys(row)
             state.listings_sha = new_sha
             state.closed_ids_sha = new_sha
+            state.quant_scraper_shas = dict(quant_poll.shas)
+            state.quant_scraper_bootstrapped = True
             save_state(state, state_path)
         print(
             f"Bootstrap: marked {len(ids)} listing(s) as seen "
@@ -572,7 +641,48 @@ def run(argv: list[str] | None = None) -> int:
         )
         return 2
 
-    new_rows = [L for L in filtered if str(L.get("id", "")) not in state.seen_ids]
+    quant_shas_when_complete: dict[str, str] | None = None
+    if not state.quant_scraper_bootstrapped and quant_poll.changed:
+        print(
+            f"Quant scraper: first poll, marking {len(fresh_quant)} current "
+            "internship(s) as seen without emailing.",
+            file=sys.stderr,
+        )
+        if not ns.dry_run:
+            state.seen_ids |= _seen_id_strings(fresh_quant)
+            for row in fresh_quant:
+                state.seen_apply_keys |= _stored_apply_keys(row)
+            state.quant_scraper_shas = dict(quant_poll.shas)
+            state.quant_scraper_bootstrapped = True
+        fresh_quant = []
+    elif quant_poll.changed:
+        quant_shas_when_complete = dict(quant_poll.shas)
+
+    covered: list[str] = []
+    simplify_new: list[dict[str, Any]] = []
+    for listing in filtered:
+        listing_id = str(listing.get("id") or "")
+        if not listing_id or listing_id in state.seen_ids:
+            continue
+        if url_keys(str(listing.get("url") or "")) & state.seen_apply_keys:
+            covered.append(listing_id)
+            continue
+        simplify_new.append(listing)
+    if covered and not ns.dry_run:
+        state.seen_ids.update(covered)
+        print(
+            f"Skipped {len(covered)} SimplifyJobs listing(s) already sent from "
+            "quant-scraper.",
+            file=sys.stderr,
+        )
+
+    quant_new = [
+        row
+        for row in fresh_quant
+        if str(row.get("id") or "") not in state.seen_ids
+        and not (_stored_apply_keys(row) & state.seen_apply_keys)
+    ]
+    new_rows = [*simplify_new, *quant_new]
     if not new_rows:
         _refresh_prestige_cache(
             prestige_config,
@@ -589,6 +699,7 @@ def run(argv: list[str] | None = None) -> int:
             dry_run=ns.dry_run,
             complete=True,
             closed_ids=closed_ids,
+            quant_shas=quant_shas_when_complete,
         )
 
     if not prestige_config.enabled:
@@ -614,6 +725,7 @@ def run(argv: list[str] | None = None) -> int:
             dry_run=False,
             complete=True,
             closed_ids=closed_ids,
+            quant_shas=quant_shas_when_complete,
         )
 
     threshold = _ensure_prestige_threshold(
@@ -631,6 +743,7 @@ def run(argv: list[str] | None = None) -> int:
             dry_run=ns.dry_run,
             complete=False,
             closed_ids=closed_ids,
+            quant_shas=quant_shas_when_complete,
         )
 
     order, groups = _group_rows_by_company(new_rows)
@@ -654,6 +767,7 @@ def run(argv: list[str] | None = None) -> int:
             dry_run=False,
             complete=False,
             closed_ids=closed_ids,
+            quant_shas=quant_shas_when_complete,
         )
 
     ranked: list[str] = []
@@ -714,6 +828,7 @@ def run(argv: list[str] | None = None) -> int:
         dry_run=False,
         complete=not deferred,
         closed_ids=closed_ids,
+        quant_shas=quant_shas_when_complete,
     )
 
 

@@ -2,16 +2,24 @@
 
 A small notifier that watches new internships from
 [`SimplifyJobs/Summer2027-Internships`](https://github.com/SimplifyJobs/Summer2027-Internships)
-and emails you only when new listing IDs appear.
+and the [quant-scraper](https://github.com/orgs/quant-scraper/repositories)
+internship lists, and emails you only when a new listing appears.
 
 ## What this does
 
 - Polls upstream `listings.json`
+- Polls the quant-scraper quant, AI/ML, and big-tech internship READMEs
+- Emails a quant-scraper role only when that apply URL is not already in SimplifyJobs
 - Applies your filters from `notifier.toml`
 - Optionally ranks company prestige and alerts only above your threshold
 - Keeps state (`seen_ids` + `listings_sha`) so you do not get duplicates
 - Optionally sends formatted HTML email via SMTP, with a plain-text fallback
 - Labels a posting when it requires a master's, PhD, or MBA and does not accept a bachelor's or associate's degree
+
+Quant-scraper graduate roles and insight programmes are not tracked. The first
+poll after this source is added marks the internships already in those READMEs
+as seen, so the backlog is not emailed. Later polls email a role from those
+READMEs only when it is new there and SimplifyJobs does not already list it.
 
 ## 1) Install
 
