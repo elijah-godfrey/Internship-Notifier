@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3721** cached companies (maximum 500).
+Showing **500** of **3842** cached companies (maximum 500).
 
-_The 3221 lowest-scored companies are omitted by the report cap._
+_The 3342 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -40,7 +40,6 @@ _The 3221 lowest-scored companies are omitted by the report cap._
 | Palantir | 91 | High | 2026-07-18 | gpt-5.6-terra | No | Palantir Technologies | Exceptional software and data-platform brand with a highly selective engineering reputation and strong global career signal. |
 | Two Sigma | 91 | High | 2026-08-02 | gpt-5.6-terra | No | - | Exceptionally selective quantitative technology firm with an elite reputation for software, data, and research engineering. |
 | X Development | 91 | High | 2026-07-18 | gpt-5.6-terra | No | X, X, the moonshot factory | Alphabet’s moonshot organization is exceptionally selective and carries an elite research, systems, and advanced-technology engineering signal. |
-| Tower Research Capital | 90 | High | 2026-07-18 | gpt-5.6-terra | No | Tower | Highly selective quantitative trading firm with a strong technical reputation, especially for performance-critical software and research engineering. |
 
 ## Very prestigious (80-89)
 
@@ -166,6 +165,7 @@ _The 3221 lowest-scored companies are omitted by the report cap._
 | Cerebras | 81 | High | 2026-08-02 | gpt-5.6-terra | No | Cerebras Systems | Highly visible AI hardware and systems company with a strong deep-tech engineering reputation and selective talent profile. |
 | Coupang | 81 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly prominent technology-driven commerce company with a strong engineering reputation and selective global talent profile. |
 | Kensho | 81 | High | 2026-08-02 | gpt-5.6-terra | No | Kensho Technologies | Well-regarded AI and data company with a strong technical reputation, reinforced by its association with S&P Global. |
+| Nintendo | 81 | High | 2026-11-12 | gpt-5.6-terra | No | Nintendo of America, Nintendo Software Technology, Nintendo Technology Development, NST, NTD | Globally recognized interactive-entertainment leader with a strong engineering brand spanning proprietary hardware, platform technology, and acclaimed game development. Its technical internship roles and specialized development organizations make it a highly selective, distinctive signal for software engineers, especially in games and systems. |
 | Old Mission | 81 | Medium | 2026-08-02 | gpt-5.6-terra | No | Old Mission Capital | Highly selective proprietary trading firm with a strong quantitative and engineering talent signal. |
 | Sakana AI | 81 | Medium | 2026-08-02 | gpt-5.6-terra | No | Sakana | Highly visible AI research startup with notable technical positioning, though its engineering-employer track record is still emerging. |
 | SentinelOne | 81 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded cybersecurity product company with a strong technical reputation and a meaningful software-engineering career signal. |
@@ -259,6 +259,7 @@ _The 3221 lowest-scored companies are omitted by the report cap._
 | Instacart | 77 | High | 2026-08-02 | gpt-5.6-terra | No | Maplebear | Recognizable consumer technology company with a strong marketplace, data, and software-engineering brand. |
 | JP Morgan Chase | 77 | High | 2026-07-18 | gpt-5.6-terra | No | JPMorgan Chase, JPMC | Highly recognized financial institution with large-scale, selective engineering organizations, though its brand is finance-first. |
 | Roku | 77 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded consumer technology and streaming platform with substantial device, platform, and distributed-systems engineering relevance. |
+| Tower Research Capital | 77 | High | 2026-10-29 | gpt-5.6-terra | No | Capital de Recherche Tower, Capital de Recherche Tower (Canada), Tower Research Capital (Canada) ULC | Selective quantitative-trading employer with a strong systems-engineering brand, particularly in low-latency C++ and high-performance infrastructure. A notably strong software internship signal, though less broadly recognized than the very top quant firms. |
 | University of Toronto | 77 | High | 2026-09-11 | gpt-5.6-terra | No | U of T, UofT | Globally well-regarded research university with a strong engineering and computer-science reputation. |
 | Acadian Asset Management | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected quantitative asset manager where engineering and data skills are central, creating a strong specialized signal. |
 | Argonne National Laboratory | 76 | High | 2026-07-21 | gpt-5.6-terra | No | Argonne | Prestigious national research laboratory with strong scientific computing and research-engineering credibility. |
@@ -307,6 +308,7 @@ _The 3221 lowest-scored companies are omitted by the report cap._
 | Snorkel AI | 76 | Medium | 2026-08-02 | gpt-5.6-terra | No | Snorkel | Well-regarded machine-learning startup with a distinctive technical product and strong specialized AI reputation. |
 | Snyk | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Widely respected developer-security company with a strong technical product reputation in cybersecurity and DevSecOps. |
 | Sourcegraph | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Strong developer-tools reputation, particularly for code search and AI coding products, with credible engineering signal. |
+| Synopsys | 76 | High | 2026-10-30 | gpt-5.6-terra | No | Optimal Solutions, Inc. | A globally recognized leader in electronic design automation and semiconductor IP, with a strong engineering brand in chip design, verification, systems software, and simulation. It is a particularly strong signal for software roles tied to developer tools, compilers, hardware, and infrastructure, though less broadly prestigious than the most selective general-purpose software employers. |
 | Take-Two Interactive | 76 | High | 2026-08-02 | gpt-5.6-terra | No | Take Two | Highly recognized game publisher with a strong technical and interactive-software career signal. |
 | Tanium | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise cybersecurity company with a strong technical reputation and meaningful engineering selectivity. |
 | TGS Management | 76 | Medium | 2026-08-02 | gpt-5.6-terra | No | TGS | Selective quantitative trading firm with strong technical talent signal, though it has lower broad software-industry recognition. |
@@ -453,6 +455,7 @@ _The 3221 lowest-scored companies are omitted by the report cap._
 | Talos | 73 | Medium | 2026-10-16 | gpt-5.6-terra | No | Talos Global, Talos Trading, institutional digital-asset trading infrastructure | A well-funded, technically demanding fintech/crypto-infrastructure employer with a structured coding-based internship process and meaningful institutional-market credibility, but its engineering brand is strong primarily within a specialized niche rather than broadly elite across software engineering. |
 | Target | 73 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major retailer with a substantial, respected consumer technology and digital engineering organization. |
 | TENEX.AI | 73 | High | 2026-10-16 | gpt-5.6-terra | No | Tenex Security, Inc., Tenex AI | Strong technical leadership tied to Google Chronicle/Google SecOps, experienced security founders, and notable backing including a reported $250M Series B; however, it is a very young company, so its broad, durable software-engineering brand is still developing. |
+| Tinder | 73 | High | 2026-11-06 | gpt-5.6-terra | No | Tinder app, Match Group, lifeattinder.com | Globally recognized consumer technology brand with meaningful mobile, recommendation, AI, and trust-and-safety engineering challenges. Its reported internship demand suggests strong selectivity, though its software-engineering reputation is not generally in the very top tier of elite technology employers. |
 | University of Maryland - College Park | 73 | High | 2026-07-18 | gpt-5.6-terra | No | UMD | Highly respected research university with a strong computer science and engineering reputation; positive technical signal outside conventional industry roles. |
 | Veeam Software | 73 | High | 2026-08-02 | gpt-5.6-terra | No | Veeam | Widely respected enterprise data-protection and backup software company with a strong relevant engineering brand. |
 | Veeda AI | 73 | Medium | 2026-10-16 | gpt-5.6-terra | No | Veeda Innovation Inc., Veeda | Exceptional $90M seed round co-led by Khosla Ventures and Radical Ventures and research-heavy founding team make it a strong early-career technical signal, though it is newly founded and has limited public product or operating track record. |
@@ -484,7 +487,7 @@ _The 3221 lowest-scored companies are omitted by the report cap._
 | Criteo | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known ad-tech company with substantial data, machine-learning, and software engineering work. |
 | Deepgram | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded speech AI company with a strong technically focused brand, though smaller and less proven than the top AI labs. |
 | Deliveroo | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized global marketplace and logistics technology company with substantial engineering complexity and a strong European tech signal. |
-| Disney | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Disney Entertainment | Exceptional global brand with substantial digital, streaming, and platform engineering work, though less software-centric than leading technology companies. |
+| Disney | 72 | High | 2026-10-27 | gpt-5.6-terra | No | The Walt Disney Company, Disney Entertainment & ESPN Product & Technology, Disney Streaming, Disney Careers | Globally recognized employer with substantial software work across Disney+, ESPN, consumer platforms, data, and Imagineering. It is a strong career signal, though its engineering brand is less consistently top-tier than leading technology-first firms. |
 | Draper | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Draper Laboratory, Charles Stark Draper Laboratory, The Charles Stark Draper Laboratory, Inc., Charles Stark Draper Laboratory, Cambridge, MA | MIT Instrumentation Laboratory roots, longstanding advanced work in national security and space, and current embedded/software, autonomy, and ML engineering internships make it a strong technical signal—especially for defense, aerospace, and systems software—though less broadly prestigious for general software. |
 | Equinix | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized digital-infrastructure leader; strong systems, networking, and cloud-adjacent engineering signal. |
 | Exabeam | 72 | High | 2026-08-05 | gpt-5.6-terra | No | - | Recognized cybersecurity company with a strong security-product engineering signal, though below the most elite software brands. |
@@ -519,6 +522,3 @@ _The 3221 lowest-scored companies are omitted by the report cap._
 | Mind Robotics | 72 | Medium | 2026-10-16 | gpt-5.6-terra | No | Rivian spinoff Mind Robotics | AI/robotics engineering focus, live Rivian factory deployment, and more than $1B in reported funding from prominent venture firms make it a strong early-career signal; however, it was founded in 2025 and has not yet built a long-established engineering brand. |
 | Motional | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Autonomous-vehicle company with technically sophisticated robotics and software work, though its business trajectory tempers the signal. |
 | Neo4j | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded graph-database company with a strong technical reputation among developers and data-infrastructure engineers. |
-| Octopus Energy | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded technology-forward energy company with a strong and visible engineering-led product reputation. |
-| Open Text Corporation | 72 | High | 2026-09-11 | gpt-5.6-terra | No | OpenText | Established global enterprise software company with a strong, widely recognized engineering and product brand. |
-| OpenTable | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer internet and marketplace company with a strong, established software-engineering signal. |
