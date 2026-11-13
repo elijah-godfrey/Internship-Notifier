@@ -44,6 +44,7 @@ def _write_notifier(
     minimum_score: int | None = None,
     benchmark_company: str | None = None,
     exclude_categories: list[str] | None = None,
+    countries: list[str] | None = None,
 ) -> Path:
     path = tmp / "notifier.toml"
     ac = "true" if all_categories else "false"
@@ -52,6 +53,9 @@ def _write_notifier(
     if exclude_categories:
         names = ", ".join(f'"{name}"' for name in exclude_categories)
         excluded = f"exclude_categories = [{names}]"
+    if countries:
+        names = ", ".join(f'"{name}"' for name in countries)
+        excluded = f"{excluded}\ncountries = [{names}]"
     prestige = ""
     if minimum_score is not None:
         prestige = f"[prestige]\nminimum_score = {minimum_score}"
@@ -481,6 +485,83 @@ class TestRunNewRows:
         assert "2" in loaded.seen_ids
         assert "3" not in loaded.seen_ids
         assert "4" not in loaded.seen_ids
+
+    def test_country_filter_drops_other_countries(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(
+            tmp_path,
+            countries=["United States", "Canada", "United Kingdom"],
+        )
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(
+                listings_sha="old-sha",
+                seen_ids={"1"},
+                quant_scraper_bootstrapped=True,
+            ),
+        )
+        domestic = _quant_row(
+            company="Domestic",
+            url="https://jobs.example/us",
+            listing_id="qs:url:jobs.example/us",
+            keys=["url:jobs.example/us"],
+        )
+        domestic["countries"] = ["US"]
+        foreign = _quant_row(
+            company="ForeignDesk",
+            url="https://jobs.example/sg",
+            listing_id="qs:url:jobs.example/sg",
+            keys=["url:jobs.example/sg"],
+        )
+        foreign["countries"] = ["SG"]
+        foreign["locations"] = ["Singapore"]
+        unlabeled = _quant_row(
+            company="Unlabeled",
+            url="https://jobs.example/missing",
+            listing_id="qs:url:jobs.example/missing",
+            keys=["url:jobs.example/missing"],
+        )
+        unlabeled["countries"] = []
+        unlabeled["locations"] = ["New York"]
+        rows = [
+            _offseason_row(id="1", locations=["New York, NY"]),
+            _offseason_row(id="2", company_name="Beta", locations=["London, UK"]),
+            _offseason_row(id="3", company_name="Abroad", locations=["Singapore"]),
+        ]
+        meta = {"sha": "fresh-sha", "size": 3, "download_url": "https://example.com/raw"}
+        snapshot = QuantScraperPoll(
+            shas={"quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"},
+            listings=[domestic, foreign, unlabeled],
+            changed=True,
+        )
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=rows,
+            ),
+            patch("internship_notifier.cli.fetch_quant_scraper", return_value=snapshot),
+        ):
+            code = run(["--config", str(cfg), "--state-path", str(state_path)])
+
+        assert code == 0
+        output = capsys.readouterr().out
+        assert "Beta" in output
+        assert "Domestic" in output
+        assert "Abroad" not in output
+        assert "ForeignDesk" not in output
+        assert "Unlabeled" not in output
+        loaded = load_state(state_path)
+        assert loaded.seen_ids >= {"1", "2", "qs:url:jobs.example/us"}
+        assert "3" not in loaded.seen_ids
+        assert "qs:url:jobs.example/sg" not in loaded.seen_ids
+        assert "qs:url:jobs.example/missing" not in loaded.seen_ids
 
     def test_sends_email_when_smtp_configured(
         self, tmp_path, monkeypatch: pytest.MonkeyPatch, capsys

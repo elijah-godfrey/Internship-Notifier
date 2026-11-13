@@ -7,9 +7,11 @@ import pytest
 from internship_notifier.filters import (
     DEFAULT_SUMMER_EARLIEST_DATE_POSTED,
     filter_by_categories,
+    filter_by_countries,
     filter_excluding_categories,
     filter_off_season,
     filter_summer,
+    infer_country_codes,
 )
 
 
@@ -181,3 +183,45 @@ class TestFilterExcludingCategories:
         assert kept == [rows[2]]
 
 
+class TestCountryFilter:
+    def test_reads_state_province_and_country_text(self) -> None:
+        assert infer_country_codes(
+            [
+                "Santa Clara, CA",
+                "Montreal, QC, Canada",
+                "London, UK",
+                "Remote in USA",
+                "Remote in US",
+                "NYC",
+                "Paris, TX",
+                "London, ON",
+                "Edinburgh, Scotland",
+                "United States (anywhere)",
+            ]
+        ) == {"US", "CA", "GB"}
+
+    def test_ignores_other_countries_and_blank_text(self) -> None:
+        assert infer_country_codes(["Singapore", "Dublin, Ireland", "", "—"]) == set()
+
+    def test_keeps_a_listing_when_any_location_is_allowed(self) -> None:
+        rows = [
+            {"id": "us", "locations": ["New York, NY", "Singapore"]},
+            {"id": "uk", "locations": ["London, UK"]},
+            {"id": "sg", "locations": ["Singapore"]},
+            {"id": "blank", "locations": []},
+        ]
+        kept = filter_by_countries(rows, {"US", "CA", "GB"})
+        assert [row["id"] for row in kept] == ["us", "uk"]
+
+    def test_quant_scraper_codes_are_not_guessed_from_the_city(self) -> None:
+        rows = [
+            {"id": "labeled", "locations": ["New York"], "countries": ["SG"]},
+            {"id": "missing", "locations": ["New York"], "countries": []},
+            {"id": "mixed", "locations": ["London"], "countries": ["GB", "SG"]},
+        ]
+        kept = filter_by_countries(rows, {"US", "GB"})
+        assert [row["id"] for row in kept] == ["mixed"]
+
+    def test_empty_allow_list_keeps_every_listing(self) -> None:
+        rows = [{"id": "sg", "locations": ["Singapore"]}]
+        assert filter_by_countries(rows, set()) == rows

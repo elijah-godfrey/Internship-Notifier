@@ -369,13 +369,16 @@ def _select_quant_rows(
     all_categories: bool,
     categories: list[str],
     exclude_categories: list[str],
+    countries: list[str],
 ) -> list[dict[str, Any]]:
-    """Apply the same season and category filters used for SimplifyJobs."""
+    """Apply the same season, category, and country filters used for SimplifyJobs."""
     rows = [row for row in listings if keep_for_source(row, source)]
     if not all_categories:
         rows = filters.filter_by_categories(rows, set(categories))
     if exclude_categories:
         rows = filters.filter_excluding_categories(rows, set(exclude_categories))
+    if countries:
+        rows = filters.filter_by_countries(rows, set(countries))
     return rows
 
 
@@ -541,6 +544,7 @@ def run(argv: list[str] | None = None) -> int:
     prestige_config = (
         file_cfg.prestige if file_cfg is not None else PrestigeTomlConfig()
     )
+    countries = list(file_cfg.countries) if file_cfg is not None else []
     prestige_cache = (
         load_prestige_cache(prestige_cache_path)
         if prestige_config.enabled
@@ -552,6 +556,7 @@ def run(argv: list[str] | None = None) -> int:
     quant_poll = fetch_quant_scraper(
         state.quant_scraper_shas,
         force=not state.quant_scraper_bootstrapped,
+        annotate_countries=bool(countries),
     )
 
     sha_unchanged = bool(state.listings_sha) and new_sha == state.listings_sha
@@ -593,6 +598,8 @@ def run(argv: list[str] | None = None) -> int:
         filtered = filters.filter_by_categories(filtered, set(categories))
     if exclude_categories:
         filtered = filters.filter_excluding_categories(filtered, set(exclude_categories))
+    if countries:
+        filtered = filters.filter_by_countries(filtered, set(countries))
 
     simplify_url_keys = collect_url_keys(raw)
     quant_rows = _select_quant_rows(
@@ -601,6 +608,7 @@ def run(argv: list[str] | None = None) -> int:
         all_categories=all_categories,
         categories=categories,
         exclude_categories=exclude_categories,
+        countries=countries,
     )
     fresh_quant: list[dict[str, Any]] = []
     already_listed = 0

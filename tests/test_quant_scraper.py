@@ -4,6 +4,8 @@ from __future__ import annotations
 
 from internship_notifier.quant_scraper import (
     canonical_apply_key,
+    countries_for_apply_url,
+    country_index_from_html,
     keep_for_source,
     parse_readme,
     url_keys,
@@ -143,3 +145,22 @@ class TestParseReadme:
             "Quant Dev Intern",
             "Winter SWE Intern",
         ]
+
+
+_SITE_HTML = (
+    '<script>self.__next_f.push([1,"{\\"id\\":1,\\"title\\":\\"Intern\\",'
+    '\\"url\\":\\"https://boards.greenhouse.io/acme/jobs/222\\",'
+    '\\"level\\":\\"internship\\",\\"locations\\":['
+    '{\\"name\\":\\"London\\",\\"country\\":\\"GB\\"},'
+    '{\\"name\\":\\"Singapore\\",\\"country\\":\\"SG\\"}]}"])</script>'
+)
+
+
+class TestCountryIndex:
+    def test_reads_country_codes_and_matches_a_greenhouse_query(self) -> None:
+        index = country_index_from_html(_SITE_HTML)
+        codes = countries_for_apply_url(
+            "https://example.com/apply?gh_jid=222",
+            index,
+        )
+        assert codes == {"GB", "SG"}

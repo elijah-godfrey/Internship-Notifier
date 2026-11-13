@@ -37,6 +37,7 @@ Set what you want to track:
 - `all_categories = true` to include all categories for that source
 - `categories = [...]` only matters when `all_categories = false`
 - `exclude_categories = [...]` drops those categories after the allow-list. A README name such as `"Hardware Engineering"` also matches the short tag stored on most listings, such as `"Hardware"`
+- `countries = ["United States", "Canada", "United Kingdom"]` keeps a listing only when a location is in one of those countries. Quant-scraper roles use the country codes on quant-scraper.com. SimplifyJobs roles are matched from the city and state text. A role listed in more than one country stays if any of them is allowed.
 
 If you change filters later, run bootstrap again once.
 

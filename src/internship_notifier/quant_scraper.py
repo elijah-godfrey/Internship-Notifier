@@ -4,13 +4,19 @@ The quant-scraper org publishes internship tables in README.md, not
 ``listings.json``. Rows are kept only when they are internships. Graduate
 roles and insight programmes are omitted. A row is treated as already listed
 in SimplifyJobs when an apply-URL key intersects that repo's listings.
+
+When a country filter is on, country codes come from the same roles on
+quant-scraper.com. Each location there is labeled ``US``, ``CA``, ``GB``,
+and so on. The README only has the city name.
 """
 
 from __future__ import annotations
 
 import json
 import re
+import urllib.error
 import urllib.parse
+import urllib.request
 from dataclasses import dataclass
 from typing import Any
 
@@ -25,8 +31,16 @@ QUANT_SCRAPER_REPOS: tuple[str, ...] = (
 )
 QUANT_SCRAPER_REF = "main"
 README_PATH = "README.md"
+# Same three lists as the README repos, with a country code on every city.
+QUANT_SCRAPER_SITES: tuple[str, ...] = (
+    "https://quant-scraper.com/quant",
+    "https://quant-scraper.com/ai",
+    "https://quant-scraper.com/big-tech",
+)
 
 _README_TIMEOUT_SECONDS = 60
+_SITE_TIMEOUT_SECONDS = 120
+_JOB_OBJECT = '{"id":'
 _HEADING_SPLIT = re.compile(r"\s+[—–-]\s+")
 _SEPARATOR_CELL = re.compile(r":?-{3,}:?")
 _MD_LINK = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
@@ -307,23 +321,27 @@ def fetch_quant_scraper(
     previous_shas: dict[str, str],
     *,
     force: bool = False,
+    annotate_countries: bool = False,
 ) -> QuantScraperPoll:
     """Fetch quant-scraper READMEs when their blob SHAs changed.
 
     Metadata is always requested. README bodies are downloaded only when a SHA
-    differs from ``previous_shas`` or ``force`` is true.
+    differs from ``previous_shas`` or ``force`` is true. When
+    ``annotate_countries`` is true, each parsed row also gets a ``countries``
+    list from quant-scraper.com, matched on the apply URL.
 
     Args:
         previous_shas: Last saved README SHAs keyed by ``owner/name``.
         force: Download bodies even when every SHA matches. Used once, before
             the supplemental source has been bootstrapped.
+        annotate_countries: Look up country codes for the parsed rows.
 
     Returns:
         SHAs, parsed internships, and whether bodies were read.
 
     Raises:
-        RuntimeError: If GitHub metadata or a README download fails, or a
-            response is missing the fields this poller needs.
+        RuntimeError: If GitHub metadata, a README, or the country pages fail,
+            or if country data matches none of the parsed apply URLs.
     """
     metas = {repo: _readme_metadata(repo) for repo in QUANT_SCRAPER_REPOS}
     shas = {repo: meta["sha"] for repo, meta in metas.items()}
@@ -343,7 +361,153 @@ def fetch_quant_scraper(
                 continue
             seen_ids.add(listing_id)
             listings.append(listing)
+    if annotate_countries:
+        _annotate_countries(listings, _fetch_country_index())
     return QuantScraperPoll(shas=shas, listings=listings, changed=True)
+
+
+def country_index_from_html(html: str) -> dict[str, set[str]]:
+    """Map apply-URL keys to country codes embedded in a QuantScraper page.
+
+    The page is a Next.js document. Role objects inside it carry
+    ``locations[].country`` (``US``, ``GB``, ``CA``, and so on). The returned
+    index includes every role on the page, not only internships, so a README
+    row still matches when the page uses a different level label.
+    """
+    start = html.find("self.__next_f")
+    decoded = html[start if start >= 0 else 0 :].replace('\\"', '"')
+    index: dict[str, set[str]] = {}
+    for url, codes in _jobs_in_page(decoded):
+        for key in url_keys(url):
+            index.setdefault(key, set()).update(codes)
+    return index
+
+
+def countries_for_apply_url(url: str, index: dict[str, set[str]]) -> set[str]:
+    """Return country codes for one apply URL.
+
+    An ATS job id is preferred. The plain host-and-path key is used only when
+    no ATS id from this URL is in the index.
+    """
+    keys = url_keys(url)
+    specific = [key for key in keys if not key.startswith("url:")]
+    found: set[str] = set()
+    for key in specific:
+        found |= index.get(key, set())
+    if found:
+        return found
+    for key in keys:
+        found |= index.get(key, set())
+    return found
+
+
+def _annotate_countries(
+    listings: list[dict[str, Any]],
+    index: dict[str, set[str]],
+) -> None:
+    """Set ``countries`` on each row from the website index."""
+    matched = 0
+    for listing in listings:
+        codes = countries_for_apply_url(str(listing.get("url") or ""), index)
+        listing["countries"] = sorted(codes)
+        if codes:
+            matched += 1
+    if listings and matched == 0:
+        raise RuntimeError(
+            "QuantScraper country data did not match any internship apply URL"
+        )
+
+
+def _fetch_country_index() -> dict[str, set[str]]:
+    """Download the three QuantScraper pages and merge their country indexes."""
+    index: dict[str, set[str]] = {}
+    for url in QUANT_SCRAPER_SITES:
+        page_index = country_index_from_html(_site_html(url))
+        if not page_index:
+            raise RuntimeError(f"QuantScraper page {url} had no location countries")
+        for key, codes in page_index.items():
+            index.setdefault(key, set()).update(codes)
+    return index
+
+
+def _site_html(url: str) -> str:
+    """GET one QuantScraper HTML page."""
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": github_listings.USER_AGENT,
+            "Accept": "text/html",
+        },
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=_SITE_TIMEOUT_SECONDS) as response:
+            return response.read().decode("utf-8")
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode(errors="replace")
+        raise RuntimeError(f"HTTP {exc.code} for {url}: {body[:500]}") from exc
+
+
+def _jobs_in_page(decoded: str) -> list[tuple[str, set[str]]]:
+    """Yield apply URL and country codes for each role object in page text."""
+    found: list[tuple[str, set[str]]] = []
+    pos = 0
+    while True:
+        start = decoded.find(_JOB_OBJECT, pos)
+        if start < 0:
+            break
+        end = _json_object_end(decoded, start)
+        if end is None:
+            pos = start + len(_JOB_OBJECT)
+            continue
+        try:
+            obj = json.loads(decoded[start:end])
+        except json.JSONDecodeError:
+            pos = start + len(_JOB_OBJECT)
+            continue
+        pos = end
+        if not isinstance(obj, dict):
+            continue
+        url = obj.get("url")
+        locations = obj.get("locations")
+        if not isinstance(url, str) or not isinstance(locations, list):
+            continue
+        codes = {
+            loc.get("country")
+            for loc in locations
+            if isinstance(loc, dict)
+            and isinstance(loc.get("country"), str)
+            and loc.get("country")
+        }
+        if codes:
+            found.append((url, codes))
+    return found
+
+
+def _json_object_end(text: str, start: int) -> int | None:
+    """Return the index after the object that begins at ``start``."""
+    depth = 0
+    in_string = False
+    escaped = False
+    limit = min(len(text), start + 100_000)
+    for index in range(start, limit):
+        char = text[index]
+        if in_string:
+            if escaped:
+                escaped = False
+            elif char == "\\":
+                escaped = True
+            elif char == '"':
+                in_string = False
+            continue
+        if char == '"':
+            in_string = True
+        elif char == "{":
+            depth += 1
+        elif char == "}":
+            depth -= 1
+            if depth == 0:
+                return index + 1
+    return None
 
 
 def _readme_metadata(repo: str) -> github_listings.ListingsMetadata:

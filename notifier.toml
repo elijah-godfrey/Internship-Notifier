@@ -7,6 +7,9 @@ source = "all" # summer2027 | offseason | all
 all_categories = true
 exclude_categories = ["Hardware Engineering", "Product Management"]
 
+# Keep a listing when any of its locations is in one of these countries.
+countries = ["United States", "Canada", "United Kingdom"]
+
 # Only notify for companies ranked at least as prestigious as Carta.
 [prestige]
 benchmark_company = "Carta"

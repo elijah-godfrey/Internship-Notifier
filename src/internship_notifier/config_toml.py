@@ -11,6 +11,17 @@ from typing import Any
 ALLOWED_SOURCES = frozenset({"summer2027", "offseason", "all"})
 MIN_PRESTIGE_SCORE = 1
 MAX_PRESTIGE_SCORE = 100
+# Config names the user writes, mapped to the codes stored on listings.
+_COUNTRY_CODES: dict[str, str] = {
+    "united states": "US",
+    "usa": "US",
+    "us": "US",
+    "canada": "CA",
+    "united kingdom": "GB",
+    "uk": "GB",
+    "great britain": "GB",
+    "gb": "GB",
+}
 
 
 @dataclass(frozen=True)
@@ -39,6 +50,8 @@ class NotifierTomlConfig:
         all_categories: When ``True``, do not restrict to an allow-list of categories.
         categories: Canonical category names when ``all_categories`` is ``False``.
         exclude_categories: Canonical category names to drop after the allow-list.
+        countries: Country codes to allow (``US``, ``CA``, ``GB``). Empty means no
+            country filter.
         prestige: Optional company-prestige threshold settings.
     """
 
@@ -46,7 +59,33 @@ class NotifierTomlConfig:
     all_categories: bool
     categories: list[str]
     exclude_categories: list[str] = field(default_factory=list)
+    countries: list[str] = field(default_factory=list)
     prestige: PrestigeTomlConfig = field(default_factory=PrestigeTomlConfig)
+
+
+def _load_countries(data: dict[str, Any]) -> list[str]:
+    """Parse an optional ``countries`` allow-list into ``US`` / ``CA`` / ``GB``."""
+    if "countries" not in data:
+        return []
+    raw = data["countries"]
+    if not isinstance(raw, list) or not all(isinstance(item, str) for item in raw):
+        raise ValueError("notifier.toml: 'countries' must be an array of strings")
+    codes: list[str] = []
+    seen: set[str] = set()
+    for item in raw:
+        name = item.strip()
+        if not name:
+            continue
+        code = _COUNTRY_CODES.get(name.casefold())
+        if code is None:
+            allowed = "United States, Canada, United Kingdom"
+            raise ValueError(
+                f"notifier.toml: unknown country {item!r}. Use {allowed}."
+            )
+        if code not in seen:
+            seen.add(code)
+            codes.append(code)
+    return codes
 
 
 def _load_string_list(data: dict[str, Any], key: str) -> list[str]:
@@ -140,6 +179,7 @@ def load_notifier_toml(path: Path) -> NotifierTomlConfig:
         all_categories=all_categories,
         categories=categories,
         exclude_categories=_load_string_list(data, "exclude_categories"),
+        countries=_load_countries(data),
         prestige=_load_prestige_config(data),
     )
 

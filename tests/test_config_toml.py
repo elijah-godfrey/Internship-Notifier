@@ -146,6 +146,31 @@ class TestLoadNotifierToml:
         with pytest.raises(ValueError, match="exclude_categories"):
             load_notifier_toml(p)
 
+    def test_loads_country_allow_list(self, tmp_path) -> None:
+        p = tmp_path / "notifier.toml"
+        _write_toml(
+            p,
+            """
+            source = "all"
+            all_categories = true
+            countries = ["United States", "Canada", "UK"]
+            """,
+        )
+        assert load_notifier_toml(p).countries == ["US", "CA", "GB"]
+
+    def test_unknown_country_is_rejected(self, tmp_path) -> None:
+        p = tmp_path / "notifier.toml"
+        _write_toml(
+            p,
+            """
+            source = "all"
+            all_categories = true
+            countries = ["France"]
+            """,
+        )
+        with pytest.raises(ValueError, match="unknown country"):
+            load_notifier_toml(p)
+
     def test_categories_non_empty_when_not_all(self, tmp_path) -> None:
         p = tmp_path / "notifier.toml"
         _write_toml(

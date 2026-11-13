@@ -2,10 +2,13 @@
 
 Constants and logic mirror ``list_updater/listings.py`` and ``commands.py`` in
 https://github.com/SimplifyJobs/Summer2027-Internships (``dev`` branch).
+Country matching for SimplifyJobs reads the location text. Quant-scraper rows
+already carry country codes from quant-scraper.com.
 """
 
 from __future__ import annotations
 
+import re
 from typing import Any
 
 Listing = dict[str, Any]
@@ -184,3 +187,184 @@ def filter_excluding_categories(
         for listing in listings
         if _canonical_category(listing.get("category")) not in excluded
     ]
+
+
+# Two-letter codes as written after a city: "Santa Clara, CA", "Toronto, ON".
+_US_CODES = frozenset(
+    "AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO "
+    "MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC".split()
+)
+_CA_CODES = frozenset("AB BC MB NB NL NS NT NU ON PE QC SK YT".split())
+_PLACE_NAMES: dict[str, str] = {
+    "alabama": "US",
+    "alaska": "US",
+    "arizona": "US",
+    "arkansas": "US",
+    "california": "US",
+    "colorado": "US",
+    "connecticut": "US",
+    "delaware": "US",
+    "florida": "US",
+    "georgia": "US",
+    "hawaii": "US",
+    "idaho": "US",
+    "illinois": "US",
+    "indiana": "US",
+    "iowa": "US",
+    "kansas": "US",
+    "kentucky": "US",
+    "louisiana": "US",
+    "maine": "US",
+    "maryland": "US",
+    "massachusetts": "US",
+    "michigan": "US",
+    "minnesota": "US",
+    "mississippi": "US",
+    "missouri": "US",
+    "montana": "US",
+    "nebraska": "US",
+    "nevada": "US",
+    "new hampshire": "US",
+    "new jersey": "US",
+    "new mexico": "US",
+    "new york": "US",
+    "new york city": "US",
+    "north carolina": "US",
+    "north dakota": "US",
+    "ohio": "US",
+    "oklahoma": "US",
+    "oregon": "US",
+    "pennsylvania": "US",
+    "rhode island": "US",
+    "south carolina": "US",
+    "south dakota": "US",
+    "tennessee": "US",
+    "texas": "US",
+    "utah": "US",
+    "vermont": "US",
+    "virginia": "US",
+    "washington": "US",
+    "washington dc": "US",
+    "west virginia": "US",
+    "wisconsin": "US",
+    "wyoming": "US",
+    "district of columbia": "US",
+    "nyc": "US",
+    "sf": "US",
+    "la": "US",
+    "south sf": "US",
+    "dc": "US",
+    "us": "US",
+    "usa": "US",
+    "alberta": "CA",
+    "british columbia": "CA",
+    "manitoba": "CA",
+    "new brunswick": "CA",
+    "newfoundland and labrador": "CA",
+    "newfoundland": "CA",
+    "nova scotia": "CA",
+    "northwest territories": "CA",
+    "nunavut": "CA",
+    "ontario": "CA",
+    "prince edward island": "CA",
+    "quebec": "CA",
+    "québec": "CA",
+    "saskatchewan": "CA",
+    "yukon": "CA",
+    "england": "GB",
+    "scotland": "GB",
+    "wales": "GB",
+    "northern ireland": "GB",
+}
+_US_PHRASE = re.compile(
+    r"\b(?:usa|u\.s\.a\.?|u\.s\.|united states(?: of america)?)\b|\bremote in us\b",
+    re.IGNORECASE,
+)
+_CANADA_PHRASE = re.compile(r"\bcanada\b", re.IGNORECASE)
+_UK_PHRASE = re.compile(r"\b(?:uk|u\.k\.|united kingdom|great britain)\b", re.IGNORECASE)
+_PLUS_SUFFIX = re.compile(r"\s*\+\s*\d+\s*$")
+
+
+def infer_country_codes(locations: object) -> set[str]:
+    """Return ``US``, ``CA``, and ``GB`` codes found in location strings.
+
+    SimplifyJobs writes ``City, ST`` or a country name, not a separate country
+    field. A string that does not say one of these three countries is ignored.
+    """
+    if not isinstance(locations, list):
+        return set()
+    codes: set[str] = set()
+    for location in locations:
+        if not isinstance(location, str):
+            continue
+        code = _country_of_location(location)
+        if code is not None:
+            codes.add(code)
+    return codes
+
+
+def filter_by_countries(
+    listings: list[Listing],
+    countries: set[str] | frozenset[str],
+) -> list[Listing]:
+    """Keep listings that have a location in ``countries``.
+
+    Codes are ``US``, ``CA``, and ``GB``. A row that already has a
+    ``countries`` list uses that list, including when the list is empty.
+    Other rows are classified from their location text. An empty
+    ``countries`` argument keeps every listing.
+
+    Args:
+        listings: Source-filtered listings.
+        countries: Allowed country codes.
+
+    Returns:
+        Listings with at least one allowed country.
+    """
+    if not countries:
+        return list(listings)
+    allowed = set(countries)
+    kept: list[Listing] = []
+    for listing in listings:
+        if "countries" in listing:
+            raw = listing.get("countries") or []
+            codes = {code for code in raw if isinstance(code, str)}
+        else:
+            codes = infer_country_codes(listing.get("locations"))
+        if codes & allowed:
+            kept.append(listing)
+    return kept
+
+
+def _country_of_location(location: str) -> str | None:
+    text = _PLUS_SUFFIX.sub("", location).strip()
+    if not text or text == "—":
+        return None
+    if _UK_PHRASE.search(text):
+        return "GB"
+    if _CANADA_PHRASE.search(text):
+        return "CA"
+    if _US_PHRASE.search(text):
+        return "US"
+    parts = [part.strip() for part in text.split(",") if part.strip()]
+    if not parts:
+        return None
+    for part in (parts[-1], text):
+        code = _country_of_token(part)
+        if code is not None:
+            return code
+    return None
+
+
+def _country_of_token(token: str) -> str | None:
+    compact = " ".join(token.casefold().replace(".", "").split())
+    named = _PLACE_NAMES.get(compact)
+    if named is not None:
+        return named
+    if len(compact) == 2 and compact.isalpha():
+        code = compact.upper()
+        if code in _US_CODES:
+            return "US"
+        if code in _CA_CODES:
+            return "CA"
+    return None
