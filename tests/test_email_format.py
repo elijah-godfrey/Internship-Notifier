@@ -34,14 +34,11 @@ def _listing(
 
 class TestPlaintextEmail:
     def test_includes_listing_and_prestige_details(self) -> None:
-        body = render_plaintext_email(
-            [_listing()],
-            threshold_label="Carta benchmark (78/100)",
-        )
+        body = render_plaintext_email([_listing()])
         assert "1 new internship opportunity" in body
         assert "Acme — Software Engineering Intern" in body
         assert "Prestige: 85/100 (high confidence)" in body
-        assert "Carta benchmark (78/100)" in body
+        assert "Prestige threshold:" not in body
         assert "https://jobs.example/apply" in body
 
     def test_works_without_prestige(self) -> None:
@@ -51,13 +48,11 @@ class TestPlaintextEmail:
 
 class TestHtmlEmail:
     def test_contains_card_apply_button_and_prestige(self) -> None:
-        body = render_html_email(
-            [_listing()],
-            threshold_label="Carta benchmark (78/100)",
-        )
+        body = render_html_email([_listing()])
         assert "<!doctype html>" in body
         assert "Software Engineering Intern" in body
         assert "Prestige: 85/100" in body
+        assert "Prestige threshold:" not in body
         assert 'href="https://jobs.example/apply"' in body
         assert ">Apply</a>" in body
 

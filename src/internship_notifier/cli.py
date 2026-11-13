@@ -191,7 +191,6 @@ def _deliver_notifications(
     *,
     prestige_config: PrestigeTomlConfig,
     prestige_cache: PrestigeCache,
-    prestige_threshold: int | None,
     dry_run: bool,
 ) -> None:
     """Print eligible listings and email them when SMTP is configured.
@@ -214,7 +213,6 @@ def _deliver_notifications(
             kind=kind,
             prestige_config=prestige_config,
             prestige_cache=prestige_cache,
-            prestige_threshold=prestige_threshold,
             dry_run=dry_run,
         )
 
@@ -245,7 +243,6 @@ def _send_notification_batch(
     kind: str,
     prestige_config: PrestigeTomlConfig,
     prestige_cache: PrestigeCache,
-    prestige_threshold: int | None,
     dry_run: bool,
 ) -> None:
     """Send one email for a source batch."""
@@ -258,26 +255,12 @@ def _send_notification_batch(
             for row in notify_rows
         ]
     )
-    threshold_label = None
-    if prestige_threshold is not None:
-        threshold_label = (
-            f"{prestige_config.benchmark_company} benchmark "
-            f"({prestige_threshold}/100)"
-            if prestige_config.benchmark_company
-            else f"{prestige_threshold}/100"
-        )
     prefix = (
         os.environ.get("SMTP_SUBJECT_PREFIX") or smtp_notify.DEFAULT_SUBJECT_PREFIX
     ).strip()
     subject = f"{prefix}: {len(notify_rows)} new {kind}listing(s)"
-    plain_body = email_format.render_plaintext_email(
-        email_listings,
-        threshold_label=threshold_label,
-    )
-    html_body = email_format.render_html_email(
-        email_listings,
-        threshold_label=threshold_label,
-    )
+    plain_body = email_format.render_plaintext_email(email_listings)
+    html_body = email_format.render_html_email(email_listings)
     if dry_run:
         print(
             f"Dry-run: would email {settings.mail_to} "
@@ -771,7 +754,6 @@ def run(argv: list[str] | None = None) -> int:
             new_rows,
             prestige_config=prestige_config,
             prestige_cache=prestige_cache,
-            prestige_threshold=None,
             dry_run=ns.dry_run,
         )
         if ns.dry_run:
@@ -819,7 +801,6 @@ def run(argv: list[str] | None = None) -> int:
         known_eligible,
         prestige_config=prestige_config,
         prestige_cache=prestige_cache,
-        prestige_threshold=threshold,
         dry_run=ns.dry_run,
     )
     if not ns.dry_run and known_rows:
@@ -861,7 +842,6 @@ def run(argv: list[str] | None = None) -> int:
         ranked_eligible,
         prestige_config=prestige_config,
         prestige_cache=prestige_cache,
-        prestige_threshold=threshold,
         dry_run=ns.dry_run,
     )
     decided = [*known_rows, *ranked_rows]

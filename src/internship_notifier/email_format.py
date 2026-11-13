@@ -81,17 +81,10 @@ def sort_notification_listings(
     )
 
 
-def render_plaintext_email(
-    listings: list[NotificationListing],
-    *,
-    threshold_label: str | None = None,
-) -> str:
+def render_plaintext_email(listings: list[NotificationListing]) -> str:
     """Render a readable plain-text fallback."""
     noun = "opportunity" if len(listings) == 1 else "opportunities"
-    lines = [f"{len(listings)} new internship {noun}"]
-    if threshold_label:
-        lines.append(f"Prestige threshold: {threshold_label}")
-    lines.append("")
+    lines = [f"{len(listings)} new internship {noun}", ""]
 
     for listing in listings:
         lines.append(f"{listing.company} — {listing.title}")
@@ -117,19 +110,9 @@ def render_plaintext_email(
     return "\n".join(lines).rstrip() + "\n"
 
 
-def render_html_email(
-    listings: list[NotificationListing],
-    *,
-    threshold_label: str | None = None,
-) -> str:
+def render_html_email(listings: list[NotificationListing]) -> str:
     """Render conservative, inline-CSS HTML compatible with major email clients."""
     noun = "opportunity" if len(listings) == 1 else "opportunities"
-    threshold = (
-        f'<p style="margin:8px 0 0;color:#cbd5e1;font-size:14px;">'
-        f"Prestige threshold: {html.escape(threshold_label)}</p>"
-        if threshold_label
-        else ""
-    )
     cards = "".join(_render_listing_card(listing) for listing in listings)
     return f"""<!doctype html>
 <html>
@@ -143,7 +126,6 @@ def render_html_email(
           <h1 style="margin:0;color:#ffffff;font-size:24px;line-height:1.3;">
             {len(listings)} new internship {noun}
           </h1>
-          {threshold}
         </td></tr>
         <tr><td style="height:16px;"></td></tr>
         {cards}
