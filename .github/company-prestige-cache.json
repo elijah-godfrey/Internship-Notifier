@@ -6371,6 +6371,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "bmll": {
+      "aliases": [
+        "BMLL Technologies",
+        "bmlltech.com"
+      ],
+      "confidence": "medium",
+      "display_name": "BMLL",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Specialized, technically credible capital-markets data and analytics firm with Cambridge roots, respected strategic investors, and meaningful institutional-market adoption. It is a solid signal for data-intensive fintech or quant-oriented engineering, but its small, niche profile lacks the broad software-engineering recognition and demonstrated selectivity of top-tier employers.",
+      "reviewed_at": "2026-11-13",
+      "rubric_version": "prestige-v2"
+    },
     "bny": {
       "aliases": [
         "BNY Mellon",

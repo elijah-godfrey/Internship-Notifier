@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3846** of **3846** cached companies (all cached companies).
+Showing **3847** of **3847** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -865,6 +865,7 @@ Showing **3846** of **3846** cached companies (all cached companies).
 | Axis Communications AB | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | Axis Communications | Established network-video and security technology company with credible embedded and systems engineering relevance. |
 | AXQ Capital | 66 | Medium | 2026-10-16 | gpt-5.6-terra | No | AXQ Capital LP, AXQ | A credible quant-research and technology focus, a strategic partnership with Schonfeld, and engineering/quant internship roles, but its small scale and limited broad software-engineering brand recognition keep it below top-tier quant firms. |
 | Bank of Montreal | 66 | High | 2026-07-24 | gpt-5.6-terra | No | BMO, BMO Financial Group | Major established bank with a credible technology organization and strong general employer recognition, though its engineering brand is below top-tier technology firms. |
+| BMLL | 66 | Medium | 2026-11-13 | gpt-5.6-terra | No | BMLL Technologies, bmlltech.com | Specialized, technically credible capital-markets data and analytics firm with Cambridge roots, respected strategic investors, and meaningful institutional-market adoption. It is a solid signal for data-intensive fintech or quant-oriented engineering, but its small, niche profile lacks the broad software-engineering recognition and demonstrated selectivity of top-tier employers. |
 | BNY | 66 | High | 2026-10-19 | gpt-5.6-terra | No | BNY Mellon, The Bank of New York Mellon Corporation, Bank of New York Mellon, bnymellon.com | BNY is the corporate brand formerly known as BNY Mellon, a major global financial-services institution with established engineering and developer internship tracks. It is a solid, recognizable finance-technology signal, though its software-engineering brand and perceived selectivity are below the strongest tech and quantitative-finance employers. |
 | Canon | 66 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized technology and imaging company with a credible engineering reputation, though software is not its primary brand. |
 | Cantor Fitzgerald | 66 | High | 2026-11-13 | gpt-5.6-terra | No | Cantor Fitzgerald, L.P., Cantor, cantor.com | Established global financial-services firm with meaningful electronic-trading and low-latency engineering work. It is a solid fintech signal, though its software-engineering brand and internship selectivity are less broadly recognized than top technology firms or elite quantitative trading shops. |
