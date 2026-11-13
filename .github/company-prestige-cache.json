@@ -30377,6 +30377,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "octant": {
+      "aliases": [
+        "Octant Bio",
+        "octant.bio"
+      ],
+      "confidence": "medium",
+      "display_name": "Octant",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "A well-backed, clinical-stage techbio company with meaningful computational biology and ML-driven drug-discovery work, including a major pharma collaboration. It is a credible niche signal for engineering in biotech, but its software-engineering brand and broad name recognition remain limited versus leading technology employers.",
+      "reviewed_at": "2026-11-13",
+      "rubric_version": "prestige-v2"
+    },
     "octaura": {
       "aliases": [],
       "confidence": "medium",

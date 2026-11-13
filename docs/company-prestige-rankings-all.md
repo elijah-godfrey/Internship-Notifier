@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3840** of **3840** cached companies (all cached companies).
+Showing **3841** of **3841** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1755,6 +1755,7 @@ Showing **3840** of **3840** cached companies (all cached companies).
 | Nightwing Intelligence Solutions | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | Nightwing | Credible national-security technology work, but its independent software engineering brand is relatively new and niche. |
 | Novanta | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialized technology and medical/industrial instrumentation company, though not broadly known for a standout software-engineering brand. |
 | OCLC | 57 | High | 2026-08-02 | gpt-5.6-terra | No | Online Computer Library Center | Established library-technology organization with a solid specialized engineering reputation. |
+| Octant | 57 | Medium | 2026-11-13 | gpt-5.6-terra | No | Octant Bio, octant.bio | A well-backed, clinical-stage techbio company with meaningful computational biology and ML-driven drug-discovery work, including a major pharma collaboration. It is a credible niche signal for engineering in biotech, but its software-engineering brand and broad name recognition remain limited versus leading technology employers. |
 | Octaura | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Specialized fixed-income market-infrastructure company with relevant technical work, but limited broad recognition as an engineering destination. |
 | OneMain Financial | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established consumer-finance company with meaningful technology roles, though not a leading engineering destination. |
 | Oshkosh | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded industrial and vehicle manufacturer with meaningful technical work, though not a top software brand. |
