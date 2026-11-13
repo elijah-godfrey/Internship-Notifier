@@ -653,8 +653,8 @@ class TestRunNewRows:
         group, beta = send_mail.call_args_list
         assert group.kwargs["settings"].mail_to == "group@example.com"
         assert "Beta" in group.kwargs["plain_body"]
-        assert "Domestic" not in group.kwargs["plain_body"]
-        assert "1 new listing(s)" in group.kwargs["subject"]
+        assert "Domestic" in group.kwargs["plain_body"]
+        assert "2 new listing(s)" in group.kwargs["subject"]
         assert beta.kwargs["settings"].mail_to == "me@example.com"
         assert "Domestic" in beta.kwargs["plain_body"]
         assert "Beta" not in beta.kwargs["plain_body"]
@@ -665,6 +665,65 @@ class TestRunNewRows:
         err = capsys.readouterr().err
         assert "Sent email to group@example.com." in err
         assert "Sent email to me@example.com." in err
+
+    def test_quant_preview_includes_a_role_simplify_is_also_sending(
+        self, tmp_path, monkeypatch: pytest.MonkeyPatch
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(
+                listings_sha="old-sha",
+                seen_ids={"1"},
+                quant_scraper_bootstrapped=True,
+            ),
+        )
+        monkeypatch.setenv("SMTP_HOST", "smtp.example.com")
+        monkeypatch.setenv("SMTP_FROM", "from@example.com")
+        monkeypatch.setenv("SMTP_TO", "group@example.com")
+        monkeypatch.setenv("SMTP_QUANT_TO", "me@example.com")
+        shared_url = "https://boards.greenhouse.io/acme/jobs/111"
+        quant = _quant_row(
+            company="Acme Quant",
+            url=shared_url + "?gh_jid=111",
+            listing_id="qs:greenhouse:111",
+            keys=["greenhouse:111"],
+        )
+        meta = {"sha": "fresh-sha", "size": 1, "download_url": "https://example.com/raw"}
+        snapshot = QuantScraperPoll(
+            shas={"quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"},
+            listings=[quant],
+            changed=True,
+        )
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[
+                    _offseason_row(id="2", company_name="Acme", url=shared_url),
+                ],
+            ),
+            patch("internship_notifier.cli.fetch_quant_scraper", return_value=snapshot),
+            patch("internship_notifier.smtp_notify.send_email") as send_mail,
+        ):
+            code = run(["--config", str(cfg), "--state-path", str(state_path)])
+
+        assert code == 0
+        group, beta = send_mail.call_args_list
+        assert "Acme" in group.kwargs["plain_body"]
+        assert "Acme Quant" not in group.kwargs["plain_body"]
+        assert "1 new listing(s)" in group.kwargs["subject"]
+        assert "Acme Quant" in beta.kwargs["plain_body"]
+        assert beta.kwargs["settings"].mail_to == "me@example.com"
+        loaded = load_state(state_path)
+        assert "2" in loaded.seen_ids
+        assert "qs:greenhouse:111" in loaded.seen_ids
+        assert "greenhouse:111" not in loaded.seen_apply_keys
 
     def test_dry_run_does_not_save_or_send(
         self, tmp_path, monkeypatch: pytest.MonkeyPatch

@@ -25,8 +25,9 @@ class SmtpSettings:
         password: Login password (often an app password for Gmail/Outlook).
         mail_from: RFC5322 From address.
         mail_to: RFC5322 To address. Several addresses may be comma-separated.
-        quant_mail_to: Optional To address for quant-scraper listings only.
-            Empty sends those listings to ``mail_to`` with everything else.
+        quant_mail_to: Optional extra To address for a copy of the quant-scraper
+            listings. Empty sends no extra copy. ``mail_to`` still receives
+            the combined email.
     """
 
     host: str

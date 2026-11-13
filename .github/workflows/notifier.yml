@@ -11,8 +11,8 @@
 #   Secrets: OPENAI_API_KEY, SMTP_HOST, SMTP_FROM, SMTP_TO, and usually
 #            SMTP_USER, SMTP_PASSWORD (optional: SMTP_PORT default 587,
 #            SMTP_SUBJECT_PREFIX, SMTP_QUANT_TO). SMTP_QUANT_TO, when set,
-#            receives quant-scraper listings only. Delete it to send those
-#            listings to SMTP_TO with the others.
+#            also receives a copy of the quant-scraper listings. SMTP_TO still
+#            receives the combined email. Delete SMTP_QUANT_TO to stop the copy.
 #   Variable: OPENAI_PRESTIGE_MODEL (optional; default gpt-5.6-terra)
 #
 # First time: run this workflow manually with "bootstrap" checked, or rely on

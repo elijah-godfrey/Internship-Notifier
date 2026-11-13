@@ -195,8 +195,8 @@ def _deliver_notifications(
 ) -> None:
     """Print eligible listings and email them when SMTP is configured.
 
-    When ``SMTP_QUANT_TO`` is set, quant-scraper rows go only to that address.
-    SimplifyJobs rows still go to ``SMTP_TO``.
+    When ``SMTP_QUANT_TO`` is set, that address also receives the quant-scraper
+    rows. ``SMTP_TO`` still receives the combined email.
     """
     for row in notify_rows:
         print(_format_listing_line(row))
@@ -221,14 +221,18 @@ def _notification_batches(
     notify_rows: list[dict[str, Any]],
     settings: smtp_notify.SmtpSettings,
 ) -> list[tuple[list[dict[str, Any]], smtp_notify.SmtpSettings, str]]:
-    """Split a poll into the emails it should send."""
+    """Build the group email, plus a quant-scraper copy when one is configured.
+
+    Rows tagged ``_quant_preview_only`` are already represented in the group
+    email by their SimplifyJobs listing, so they are left out of that message.
+    """
+    group_rows = [row for row in notify_rows if not row.get("_quant_preview_only")]
     if not settings.quant_mail_to:
-        return [(notify_rows, settings, "")]
-    simplify_rows = [row for row in notify_rows if not _is_quant_scraper_listing(row)]
+        return [(group_rows, settings, "")] if group_rows else []
     quant_rows = [row for row in notify_rows if _is_quant_scraper_listing(row)]
     batches: list[tuple[list[dict[str, Any]], smtp_notify.SmtpSettings, str]] = []
-    if simplify_rows:
-        batches.append((simplify_rows, settings, ""))
+    if group_rows:
+        batches.append((group_rows, settings, ""))
     if quant_rows:
         batches.append(
             (quant_rows, replace(settings, mail_to=settings.quant_mail_to), "quant-scraper ")
@@ -393,7 +397,13 @@ def _ensure_prestige_threshold(
 
 
 def _stored_apply_keys(listing: dict[str, Any]) -> set[str]:
-    """Return apply-URL keys stored on a quant-scraper row."""
+    """Return apply-URL keys stored on a quant-scraper row.
+
+    A preview copy of a role SimplifyJobs is already sending keeps its id
+    seen without recording the apply URL, so the group email is not suppressed.
+    """
+    if listing.get("_quant_preview_only"):
+        return set()
     raw = listing.get("apply_keys")
     if not isinstance(raw, list):
         return set()
@@ -650,10 +660,12 @@ def run(argv: list[str] | None = None) -> int:
         countries=countries,
     )
     fresh_quant: list[dict[str, Any]] = []
+    listed_in_simplify: list[dict[str, Any]] = []
     already_listed = 0
     for row in quant_rows:
         if _stored_apply_keys(row) & simplify_url_keys:
             already_listed += 1
+            listed_in_simplify.append(row)
             continue
         fresh_quant.append(row)
     if quant_poll.changed:
@@ -730,6 +742,16 @@ def run(argv: list[str] | None = None) -> int:
         and not (_stored_apply_keys(row) & state.seen_apply_keys)
     ]
     new_rows = [*simplify_new, *quant_new]
+    if (os.environ.get("SMTP_QUANT_TO") or "").strip():
+        simplify_new_keys = collect_url_keys(simplify_new)
+        for row in listed_in_simplify:
+            listing_id = str(row.get("id") or "")
+            if not listing_id or listing_id in state.seen_ids:
+                continue
+            if not (_stored_apply_keys(row) & simplify_new_keys):
+                continue
+            row["_quant_preview_only"] = True
+            new_rows.append(row)
     if not new_rows:
         _refresh_prestige_cache(
             prestige_config,

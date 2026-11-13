@@ -155,12 +155,11 @@ Typical Gmail values:
 - `SMTP_TO=yourgmail@gmail.com`
 - `SMTP_PASSWORD=16-char-app-password`
 
-`SMTP_TO` can list several addresses, separated by commas. To beta-test
-quant-scraper listings, set `SMTP_QUANT_TO` to your address only. Those
-listings are emailed there and left out of the `SMTP_TO` message. SimplifyJobs
-listings still go to `SMTP_TO`. Remove `SMTP_QUANT_TO` when the group should
-receive quant-scraper listings too. Listings already emailed during the beta
-are not sent again.
+`SMTP_TO` can list several addresses, separated by commas. Set `SMTP_QUANT_TO`
+to also receive a copy of the quant-scraper listings, including a role that
+SimplifyJobs is sending in the same poll. `SMTP_TO` still receives the
+combined email. Remove `SMTP_QUANT_TO` when that extra copy is no longer
+needed. A role is marked seen once, so it is not sent again on a later poll.
 
 ### OpenAI API
 
@@ -210,8 +209,8 @@ Setup:
 3. Add the `OPENAI_PRESTIGE_MODEL` repository variable with
    `gpt-5.6-terra` (optional; this is the default).
 4. Add email secrets: `SMTP_HOST`, `SMTP_FROM`, `SMTP_TO`, and usually
-   `SMTP_USER`, `SMTP_PASSWORD`. Optional `SMTP_QUANT_TO` sends quant-scraper
-   listings to that address only.
+   `SMTP_USER`, `SMTP_PASSWORD`. Optional `SMTP_QUANT_TO` also receives a copy
+   of the quant-scraper listings.
 5. Run the workflow manually once with `bootstrap=true`.
 
 ### Run the workflow manually
