@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3842** of **3842** cached companies (all cached companies).
+Showing **3844** of **3844** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2240,6 +2240,7 @@ Showing **3842** of **3842** cached companies (all cached companies).
 | Exclusive Networks | 52 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Established cybersecurity-focused technology distributor with recognizable industry presence, but not generally known as a highly selective or top-tier software-engineering employer. |
 | F&G | 52 | High | 2026-10-30 | gpt-5.6-terra | No | Fidelity & Guaranty Life Insurance Company, F&G Annuities & Life, FG, fglife.com | Established publicly traded annuity and life insurer with real IT and software internship roles, but it has primarily insurance-industry recognition rather than a strong or broadly selective software-engineering brand. |
 | Fable | 52 | Low | 2026-09-19 | gpt-5.6-terra | No | - | The name is ambiguous across multiple companies; no single clearly dominant, high-prestige software-engineering employer can be identified from the name alone. |
+| Federal Home Loan Bank of Dallas | 52 | Medium | 2026-11-13 | gpt-5.6-terra | No | FHLB Dallas, FHLBank Dallas, FHLBD | A well-established congressionally chartered regional wholesale bank with substantive IT, cybersecurity, cloud, data, and digital-transformation internship work. It is a credible financial-services employer, but its software engineering brand and selectivity are primarily regional and not broadly elite in tech. |
 | Fifth Third Bank | 52 | High | 2026-08-02 | gpt-5.6-terra | No | Fifth Third, Fifth Third Bancorp, 53 Bank | A credible regional bank with technology roles, but a modest national software-engineering reputation. |
 | First National Bank | 52 | Medium | 2026-10-16 | gpt-5.6-terra | No | FNB, First National Bank of Pennsylvania | Established IT/software-engineering and student internship programs, giving it a credible regional financial-services signal, but it is not broadly regarded as a top-tier or especially selective software-engineering employer. |
 | FNBO | 52 | High | 2026-08-02 | gpt-5.6-terra | No | First National Bank of Omaha | Established regional banking employer with ordinary positive technology experience, but limited national software-engineering brand strength. |
@@ -3183,6 +3184,7 @@ Showing **3842** of **3842** cached companies (all cached companies).
 | Interstates | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Interstates Companies | Credible industrial electrical and automation firm, but its software-engineering brand is specialized and not broadly prominent. |
 | JB&B | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Jaros, Baum & Bolles | Respected building-systems engineering consultancy, but with limited relevance or recognition as a software-engineering employer. |
 | Jefferson County Colorado | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | Jeffco | Public-sector employer with stable local technology roles, but limited software-industry prestige. |
+| JSX | 43 | Medium | 2026-11-13 | gpt-5.6-terra | No | JetSuiteX, JSX Air, Delux Public Charter, LLC, jsx.com | JSX is the JetSuiteX-branded public-charter airline. It is a recognizable, venture-backed aviation company, but its engineering roles appear primarily to support airline and internal IT operations rather than a broadly recognized software-engineering brand; the internship signal is therefore modest and industry-specific. |
 | June Health Inc. | 43 | Medium | 2026-10-16 | gpt-5.6-terra | No | Mamamoon Health, Toronto, Canada | A real software product, a small engineering function, a national Canadian launch, and a 2026 CAD$2.4M financing round, but remains an early-stage, regionally known health-tech company without a broadly established software-engineering or internship-selectivity brand. |
 | KEEN Footwear | 43 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognizable consumer brand, but not known as a selective or especially strong software-engineering employer. |
 | Keller Foundations Ltd | 43 | Medium | 2026-09-11 | gpt-5.6-terra | No | Keller | Well-known specialist construction and geotechnical employer, but with limited software-engineering brand strength. |
