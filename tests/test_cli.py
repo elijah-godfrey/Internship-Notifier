@@ -126,6 +126,7 @@ def clear_smtp_env(monkeypatch: pytest.MonkeyPatch) -> None:
         "SMTP_PORT",
         "SMTP_FROM",
         "SMTP_TO",
+        "SMTP_QUANT_TO",
         "SMTP_USER",
         "SMTP_PASSWORD",
     ):
@@ -602,6 +603,68 @@ class TestRunNewRows:
         assert "Acme" in kwargs["html_body"]
         err = capsys.readouterr().err
         assert "Sent email to to@example.com." in err
+
+    def test_quant_scraper_mail_goes_to_the_beta_recipient(
+        self, tmp_path, monkeypatch: pytest.MonkeyPatch, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        _write_state(
+            state_path,
+            NotifierState(
+                listings_sha="old-sha",
+                seen_ids={"1"},
+                quant_scraper_bootstrapped=True,
+            ),
+        )
+        monkeypatch.setenv("SMTP_HOST", "smtp.example.com")
+        monkeypatch.setenv("SMTP_FROM", "from@example.com")
+        monkeypatch.setenv("SMTP_TO", "group@example.com")
+        monkeypatch.setenv("SMTP_QUANT_TO", "me@example.com")
+        quant = _quant_row(
+            company="Domestic",
+            url="https://jobs.example/us",
+            listing_id="qs:url:jobs.example/us",
+            keys=["url:jobs.example/us"],
+        )
+        meta = {"sha": "fresh-sha", "size": 1, "download_url": "https://example.com/raw"}
+        snapshot = QuantScraperPoll(
+            shas={"quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"},
+            listings=[quant],
+            changed=True,
+        )
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[_offseason_row(id="2", company_name="Beta")],
+            ),
+            patch("internship_notifier.cli.fetch_quant_scraper", return_value=snapshot),
+            patch("internship_notifier.smtp_notify.send_email") as send_mail,
+        ):
+            code = run(["--config", str(cfg), "--state-path", str(state_path)])
+
+        assert code == 0
+        assert send_mail.call_count == 2
+        group, beta = send_mail.call_args_list
+        assert group.kwargs["settings"].mail_to == "group@example.com"
+        assert "Beta" in group.kwargs["plain_body"]
+        assert "Domestic" not in group.kwargs["plain_body"]
+        assert "1 new listing(s)" in group.kwargs["subject"]
+        assert beta.kwargs["settings"].mail_to == "me@example.com"
+        assert "Domestic" in beta.kwargs["plain_body"]
+        assert "Beta" not in beta.kwargs["plain_body"]
+        assert "1 new quant-scraper listing(s)" in beta.kwargs["subject"]
+        loaded = load_state(state_path)
+        assert "2" in loaded.seen_ids
+        assert "qs:url:jobs.example/us" in loaded.seen_ids
+        err = capsys.readouterr().err
+        assert "Sent email to group@example.com." in err
+        assert "Sent email to me@example.com." in err
 
     def test_dry_run_does_not_save_or_send(
         self, tmp_path, monkeypatch: pytest.MonkeyPatch

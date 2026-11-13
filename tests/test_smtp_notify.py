@@ -18,6 +18,7 @@ SMTP_KEYS = (
     "SMTP_PORT",
     "SMTP_FROM",
     "SMTP_TO",
+    "SMTP_QUANT_TO",
     "SMTP_USER",
     "SMTP_PASSWORD",
 )
@@ -63,6 +64,18 @@ class TestSettingsFromEnv:
         assert got.host == "smtp.example.com"
         assert got.mail_from == "a@b.com"
         assert got.mail_to == "c@d.com"
+        assert got.quant_mail_to == ""
+
+    def test_reads_optional_quant_recipient(self, monkeypatch: pytest.MonkeyPatch) -> None:
+        _clear_smtp_env(monkeypatch)
+        monkeypatch.setenv("SMTP_HOST", "smtp.example.com")
+        monkeypatch.setenv("SMTP_FROM", "from@example.com")
+        monkeypatch.setenv("SMTP_TO", "group@example.com")
+        monkeypatch.setenv("SMTP_QUANT_TO", " me@example.com ")
+        got = settings_from_env()
+        assert got is not None
+        assert got.mail_to == "group@example.com"
+        assert got.quant_mail_to == "me@example.com"
 
     def test_requires_from_when_host_set(self, monkeypatch: pytest.MonkeyPatch) -> None:
         _clear_smtp_env(monkeypatch)

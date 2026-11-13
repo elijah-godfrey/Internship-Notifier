@@ -155,6 +155,13 @@ Typical Gmail values:
 - `SMTP_TO=yourgmail@gmail.com`
 - `SMTP_PASSWORD=16-char-app-password`
 
+`SMTP_TO` can list several addresses, separated by commas. To beta-test
+quant-scraper listings, set `SMTP_QUANT_TO` to your address only. Those
+listings are emailed there and left out of the `SMTP_TO` message. SimplifyJobs
+listings still go to `SMTP_TO`. Remove `SMTP_QUANT_TO` when the group should
+receive quant-scraper listings too. Listings already emailed during the beta
+are not sent again.
+
 ### OpenAI API
 
 Prestige filtering needs an OpenAI API key only when a company is not already
@@ -203,7 +210,8 @@ Setup:
 3. Add the `OPENAI_PRESTIGE_MODEL` repository variable with
    `gpt-5.6-terra` (optional; this is the default).
 4. Add email secrets: `SMTP_HOST`, `SMTP_FROM`, `SMTP_TO`, and usually
-   `SMTP_USER`, `SMTP_PASSWORD`.
+   `SMTP_USER`, `SMTP_PASSWORD`. Optional `SMTP_QUANT_TO` sends quant-scraper
+   listings to that address only.
 5. Run the workflow manually once with `bootstrap=true`.
 
 ### Run the workflow manually

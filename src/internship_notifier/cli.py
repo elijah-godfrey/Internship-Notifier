@@ -7,6 +7,7 @@ import os
 import smtplib
 import sys
 import time
+from dataclasses import replace
 from pathlib import Path
 from typing import Any
 
@@ -177,6 +178,14 @@ def _eligible_rows(
     return eligible
 
 
+def _is_quant_scraper_listing(listing: dict[str, Any]) -> bool:
+    """Return whether a row came from a quant-scraper README."""
+    source = str(listing.get("source") or "")
+    if source.startswith("quant-scraper/"):
+        return True
+    return str(listing.get("id") or "").startswith("qs:")
+
+
 def _deliver_notifications(
     notify_rows: list[dict[str, Any]],
     *,
@@ -185,7 +194,11 @@ def _deliver_notifications(
     prestige_threshold: int | None,
     dry_run: bool,
 ) -> None:
-    """Print eligible listings and email them when SMTP is configured."""
+    """Print eligible listings and email them when SMTP is configured.
+
+    When ``SMTP_QUANT_TO`` is set, quant-scraper rows go only to that address.
+    SimplifyJobs rows still go to ``SMTP_TO``.
+    """
     for row in notify_rows:
         print(_format_listing_line(row))
     if not notify_rows:
@@ -194,6 +207,48 @@ def _deliver_notifications(
     settings = smtp_notify.settings_from_env()
     if not settings:
         return
+    for rows, batch_settings, kind in _notification_batches(notify_rows, settings):
+        _send_notification_batch(
+            rows,
+            settings=batch_settings,
+            kind=kind,
+            prestige_config=prestige_config,
+            prestige_cache=prestige_cache,
+            prestige_threshold=prestige_threshold,
+            dry_run=dry_run,
+        )
+
+
+def _notification_batches(
+    notify_rows: list[dict[str, Any]],
+    settings: smtp_notify.SmtpSettings,
+) -> list[tuple[list[dict[str, Any]], smtp_notify.SmtpSettings, str]]:
+    """Split a poll into the emails it should send."""
+    if not settings.quant_mail_to:
+        return [(notify_rows, settings, "")]
+    simplify_rows = [row for row in notify_rows if not _is_quant_scraper_listing(row)]
+    quant_rows = [row for row in notify_rows if _is_quant_scraper_listing(row)]
+    batches: list[tuple[list[dict[str, Any]], smtp_notify.SmtpSettings, str]] = []
+    if simplify_rows:
+        batches.append((simplify_rows, settings, ""))
+    if quant_rows:
+        batches.append(
+            (quant_rows, replace(settings, mail_to=settings.quant_mail_to), "quant-scraper ")
+        )
+    return batches
+
+
+def _send_notification_batch(
+    notify_rows: list[dict[str, Any]],
+    *,
+    settings: smtp_notify.SmtpSettings,
+    kind: str,
+    prestige_config: PrestigeTomlConfig,
+    prestige_cache: PrestigeCache,
+    prestige_threshold: int | None,
+    dry_run: bool,
+) -> None:
+    """Send one email for a source batch."""
     email_listings = email_format.sort_notification_listings(
         [
             email_format.NotificationListing.from_listing(
@@ -214,7 +269,7 @@ def _deliver_notifications(
     prefix = (
         os.environ.get("SMTP_SUBJECT_PREFIX") or smtp_notify.DEFAULT_SUBJECT_PREFIX
     ).strip()
-    subject = f"{prefix}: {len(notify_rows)} new listing(s)"
+    subject = f"{prefix}: {len(notify_rows)} new {kind}listing(s)"
     plain_body = email_format.render_plaintext_email(
         email_listings,
         threshold_label=threshold_label,
@@ -443,7 +498,8 @@ def run(argv: list[str] | None = None) -> int:
         epilog="Filter defaults: notifier.toml in the current directory, or "
         "NOTIFIER_CONFIG, unless --no-config-file. Override with --source / "
         "--category / --all-categories. Email: SMTP_HOST, SMTP_FROM, SMTP_TO; "
-        "optional SMTP_PORT (587), SMTP_USER, SMTP_PASSWORD, SMTP_SUBJECT_PREFIX.",
+        "optional SMTP_PORT (587), SMTP_USER, SMTP_PASSWORD, SMTP_SUBJECT_PREFIX, "
+        "SMTP_QUANT_TO.",
     )
     parser.add_argument(
         "--config",

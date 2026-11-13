@@ -24,7 +24,9 @@ class SmtpSettings:
         user: Login username; empty string if the server needs no auth.
         password: Login password (often an app password for Gmail/Outlook).
         mail_from: RFC5322 From address.
-        mail_to: RFC5322 To address (single recipient for v1).
+        mail_to: RFC5322 To address. Several addresses may be comma-separated.
+        quant_mail_to: Optional To address for quant-scraper listings only.
+            Empty sends those listings to ``mail_to`` with everything else.
     """
 
     host: str
@@ -33,6 +35,7 @@ class SmtpSettings:
     password: str
     mail_from: str
     mail_to: str
+    quant_mail_to: str = ""
 
 
 def settings_from_env() -> SmtpSettings | None:
@@ -44,7 +47,8 @@ def settings_from_env() -> SmtpSettings | None:
 
     Recognized variables: ``SMTP_HOST``, ``SMTP_PORT`` (default
     :data:`DEFAULT_SMTP_PORT`),
-    ``SMTP_USER``, ``SMTP_PASSWORD``, ``SMTP_FROM``, ``SMTP_TO``.
+    ``SMTP_USER``, ``SMTP_PASSWORD``, ``SMTP_FROM``, ``SMTP_TO``, and optional
+    ``SMTP_QUANT_TO``.
 
     Returns:
         Frozen :class:`SmtpSettings`, or ``None`` when ``SMTP_HOST`` is absent.
@@ -67,6 +71,7 @@ def settings_from_env() -> SmtpSettings | None:
         raise ValueError(f"SMTP_PORT must be an integer, got {port_raw!r}") from e
     user = (os.environ.get("SMTP_USER") or "").strip()
     password = os.environ.get("SMTP_PASSWORD") or ""
+    quant_mail_to = (os.environ.get("SMTP_QUANT_TO") or "").strip()
     return SmtpSettings(
         host=host,
         port=port,
@@ -74,6 +79,7 @@ def settings_from_env() -> SmtpSettings | None:
         password=password,
         mail_from=mail_from,
         mail_to=mail_to,
+        quant_mail_to=quant_mail_to,
     )
 
 

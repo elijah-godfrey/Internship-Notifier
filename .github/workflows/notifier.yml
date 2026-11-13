@@ -10,7 +10,9 @@
 # Setup (repo Settings → Secrets and variables → Actions):
 #   Secrets: OPENAI_API_KEY, SMTP_HOST, SMTP_FROM, SMTP_TO, and usually
 #            SMTP_USER, SMTP_PASSWORD (optional: SMTP_PORT default 587,
-#            SMTP_SUBJECT_PREFIX)
+#            SMTP_SUBJECT_PREFIX, SMTP_QUANT_TO). SMTP_QUANT_TO, when set,
+#            receives quant-scraper listings only. Delete it to send those
+#            listings to SMTP_TO with the others.
 #   Variable: OPENAI_PRESTIGE_MODEL (optional; default gpt-5.6-terra)
 #
 # First time: run this workflow manually with "bootstrap" checked, or rely on
@@ -128,6 +130,7 @@ jobs:
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_FROM: ${{ secrets.SMTP_FROM }}
           SMTP_TO: ${{ secrets.SMTP_TO }}
+          SMTP_QUANT_TO: ${{ secrets.SMTP_QUANT_TO }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SMTP_SUBJECT_PREFIX: ${{ secrets.SMTP_SUBJECT_PREFIX }}
