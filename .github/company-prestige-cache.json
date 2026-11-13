@@ -7622,6 +7622,21 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "cantor fitzgerald": {
+      "aliases": [
+        "Cantor Fitzgerald, L.P.",
+        "Cantor",
+        "cantor.com"
+      ],
+      "confidence": "high",
+      "display_name": "Cantor Fitzgerald",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Established global financial-services firm with meaningful electronic-trading and low-latency engineering work. It is a solid fintech signal, though its software-engineering brand and internship selectivity are less broadly recognized than top technology firms or elite quantitative trading shops.",
+      "reviewed_at": "2026-11-13",
+      "rubric_version": "prestige-v2"
+    },
     "canva": {
       "aliases": [],
       "confidence": "high",

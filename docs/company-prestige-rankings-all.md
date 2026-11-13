@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3844** of **3844** cached companies (all cached companies).
+Showing **3845** of **3845** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -867,6 +867,7 @@ Showing **3844** of **3844** cached companies (all cached companies).
 | Bank of Montreal | 66 | High | 2026-07-24 | gpt-5.6-terra | No | BMO, BMO Financial Group | Major established bank with a credible technology organization and strong general employer recognition, though its engineering brand is below top-tier technology firms. |
 | BNY | 66 | High | 2026-10-19 | gpt-5.6-terra | No | BNY Mellon, The Bank of New York Mellon Corporation, Bank of New York Mellon, bnymellon.com | BNY is the corporate brand formerly known as BNY Mellon, a major global financial-services institution with established engineering and developer internship tracks. It is a solid, recognizable finance-technology signal, though its software-engineering brand and perceived selectivity are below the strongest tech and quantitative-finance employers. |
 | Canon | 66 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized technology and imaging company with a credible engineering reputation, though software is not its primary brand. |
+| Cantor Fitzgerald | 66 | High | 2026-11-13 | gpt-5.6-terra | No | Cantor Fitzgerald, L.P., Cantor, cantor.com | Established global financial-services firm with meaningful electronic-trading and low-latency engineering work. It is a solid fintech signal, though its software-engineering brand and internship selectivity are less broadly recognized than top technology firms or elite quantitative trading shops. |
 | Chevron Corporation | 66 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized energy company with substantial technical operations; its software brand is respected but not a top-tier destination for software engineering. |
 | Citi | 66 | High | 2026-08-02 | gpt-5.6-terra | No | Citigroup | Major global financial institution with substantial technology organizations, but a less distinctive software brand than leading tech firms. |
 | CodeRabbit Inc | 66 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Growing AI developer-tools company with a relevant technical product and positive emerging engineering signal, though not yet broadly established. |
