@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3847** cached companies (maximum 500).
+Showing **500** of **3849** cached companies (maximum 500).
 
-_The 3347 lowest-scored companies are omitted by the report cap._
+_The 3349 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -506,6 +506,7 @@ _The 3347 lowest-scored companies are omitted by the report cap._
 | HBK Capital Management | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | HBK | Respected investment firm with selective quantitative and engineering-adjacent roles, though its software brand is primarily finance-specific. |
 | Hewlett Packard (HP) | 72 | High | 2026-07-21 | gpt-5.6-terra | No | Hewlett Packard, HP Inc. | Long-established global technology brand with credible software and systems engineering recognition, though below the most selective tech firms. |
 | Honeywell | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized industrial and aerospace technology company with substantial engineering credibility; software prestige is strong but not at elite pure-tech level. |
+| Horizon3 | 72 | Medium | 2026-11-14 | gpt-5.6-terra | No | Horizon3.ai, Horizon3 AI, Inc. | Well-funded, fast-growing cybersecurity company with a technically sophisticated autonomous penetration-testing product and a credible engineering brand in security. It is a strong specialized signal, though less universally recognized or proven selective than top established security or major tech employers. |
 | incident.io | 72 | High | 2026-10-19 | gpt-5.6-terra | No | - | Well-funded, fast-growing incident-management/SRE startup with a credible engineering-led founding team, strong developer-facing product, and adoption by recognizable technology companies. It is a strong startup signal for software engineering, though its name recognition and selectivity are not yet at the level of the most established elite employers. |
 | Intrinsic | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Intrinsic Innovation | Alphabet-backed robotics software company with a strong technical focus, though its employer brand is still relatively niche. |
 | Kestra | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Kestra open-source orchestration platform | Rapidly growing developer-facing product, substantial open-source adoption, and 2026 Series A provide a strong infrastructure/data-engineering signal, though it is still an emerging brand rather than a broadly established top-tier software employer. |
@@ -521,4 +522,3 @@ _The 3347 lowest-scored companies are omitted by the report cap._
 | Metropolis Technologies | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Metropolis | Scaled real-world ML, software, and edge-device work plus a $500M Series D at roughly a $5B valuation make it a strong and increasingly recognized engineering signal, though it remains less universally established than elite major-tech employers. |
 | Mind Robotics | 72 | Medium | 2026-10-16 | gpt-5.6-terra | No | Rivian spinoff Mind Robotics | AI/robotics engineering focus, live Rivian factory deployment, and more than $1B in reported funding from prominent venture firms make it a strong early-career signal; however, it was founded in 2025 and has not yet built a long-established engineering brand. |
 | Motional | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Autonomous-vehicle company with technically sophisticated robotics and software work, though its business trajectory tempers the signal. |
-| Neo4j | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded graph-database company with a strong technical reputation among developers and data-infrastructure engineers. |

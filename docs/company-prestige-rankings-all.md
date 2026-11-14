@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3847** of **3847** cached companies (all cached companies).
+Showing **3849** of **3849** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -504,6 +504,7 @@ Showing **3847** of **3847** cached companies (all cached companies).
 | HBK Capital Management | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | HBK | Respected investment firm with selective quantitative and engineering-adjacent roles, though its software brand is primarily finance-specific. |
 | Hewlett Packard (HP) | 72 | High | 2026-07-21 | gpt-5.6-terra | No | Hewlett Packard, HP Inc. | Long-established global technology brand with credible software and systems engineering recognition, though below the most selective tech firms. |
 | Honeywell | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized industrial and aerospace technology company with substantial engineering credibility; software prestige is strong but not at elite pure-tech level. |
+| Horizon3 | 72 | Medium | 2026-11-14 | gpt-5.6-terra | No | Horizon3.ai, Horizon3 AI, Inc. | Well-funded, fast-growing cybersecurity company with a technically sophisticated autonomous penetration-testing product and a credible engineering brand in security. It is a strong specialized signal, though less universally recognized or proven selective than top established security or major tech employers. |
 | incident.io | 72 | High | 2026-10-19 | gpt-5.6-terra | No | - | Well-funded, fast-growing incident-management/SRE startup with a credible engineering-led founding team, strong developer-facing product, and adoption by recognizable technology companies. It is a strong startup signal for software engineering, though its name recognition and selectivity are not yet at the level of the most established elite employers. |
 | Intrinsic | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Intrinsic Innovation | Alphabet-backed robotics software company with a strong technical focus, though its employer brand is still relatively niche. |
 | Kestra | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Kestra open-source orchestration platform | Rapidly growing developer-facing product, substantial open-source adoption, and 2026 Series A provide a strong infrastructure/data-engineering signal, though it is still an emerging brand rather than a broadly established top-tier software employer. |
@@ -2685,6 +2686,7 @@ Showing **3847** of **3847** cached companies (all cached companies).
 | Neighborly | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established home-services franchisor with technology work, but it is not widely recognized as a standout software-engineering employer. |
 | New York Post Holdings | 48 | Medium | 2026-08-01 | gpt-5.6-terra | No | New York Post | Recognized media brand, but its software engineering organization is not broadly viewed as a top technical career signal. |
 | Newell Brands | 48 | High | 2026-10-21 | gpt-5.6-terra | No | Newell Rubbermaid, NWL | Recognized public consumer-goods company behind major household brands, with IT and software roles, but it is not widely viewed as a top-tier software engineering employer; the technical signal is primarily enterprise and consumer-products focused. |
+| Nexus Cognitive | 48 | Medium | 2026-11-14 | gpt-5.6-terra | No | Nexus Cognitive Technologies, NexusOne, nexuscognitive.com | A growing enterprise data-and-AI infrastructure firm backed by Insight Partners, with credible technical work in managed data platforms. Its software-engineering brand and selectivity appear materially less established and less broadly recognized than leading product-engineering employers. |
 | Nimble Gravity | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized data and AI consultancy with relevant technical work, but limited broad employer-brand recognition. |
 | NJM Insurance Group | 48 | Medium | 2026-10-19 | gpt-5.6-terra | No | NJM, New Jersey Manufacturers Insurance Company, New Jersey Manufacturers Insurance Group, njm.com | Established Mid-Atlantic mutual property-and-casualty insurer with a structured internship program and internal software-engineering work, but limited recognition or selectivity as a software-engineering employer outside the regional insurance sector. |
 | Nooks | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Emerging sales-tech/AI startup with relevant product engineering, but limited broad prestige relative to established software firms. |

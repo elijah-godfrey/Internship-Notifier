@@ -20705,6 +20705,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "horizon3": {
+      "aliases": [
+        "Horizon3.ai",
+        "Horizon3 AI, Inc."
+      ],
+      "confidence": "medium",
+      "display_name": "Horizon3",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Well-funded, fast-growing cybersecurity company with a technically sophisticated autonomous penetration-testing product and a credible engineering brand in security. It is a strong specialized signal, though less universally recognized or proven selective than top established security or major tech employers.",
+      "reviewed_at": "2026-11-14",
+      "rubric_version": "prestige-v2"
+    },
     "hottinger bruel and kjr hbk": {
       "aliases": [
         "HBK",
@@ -29379,6 +29393,21 @@
       "reason": "Established cloud communications/SaaS company with relevant engineering work, but a modest broader software-engineering brand and selectivity signal.",
       "reviewed_at": "2026-07-24",
       "rubric_version": "prestige-v1"
+    },
+    "nexus cognitive": {
+      "aliases": [
+        "Nexus Cognitive Technologies",
+        "NexusOne",
+        "nexuscognitive.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Nexus Cognitive",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "A growing enterprise data-and-AI infrastructure firm backed by Insight Partners, with credible technical work in managed data platforms. Its software-engineering brand and selectivity appear materially less established and less broadly recognized than leading product-engineering employers.",
+      "reviewed_at": "2026-11-14",
+      "rubric_version": "prestige-v2"
     },
     "niantic spatial": {
       "aliases": [
