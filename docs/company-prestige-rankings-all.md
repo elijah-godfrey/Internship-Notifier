@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3849** of **3849** cached companies (all cached companies).
+Showing **3850** of **3850** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -684,6 +684,7 @@ Showing **3849** of **3849** cached companies (all cached companies).
 | Fannie Mae | 68 | High | 2026-08-18 | gpt-5.6-terra | No | Federal National Mortgage Association | Well-recognized financial institution with substantial technology work, though not generally viewed as an elite software-engineering destination. |
 | Fiserv | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | A major payments and financial-technology provider with substantial engineering work and strong industry recognition. |
 | Five9 | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established cloud contact-center software company with a credible engineering brand, though not a top-tier general software signal. |
+| Forus | 68 | Medium | 2026-11-14 | gpt-5.6-terra | No | Tandem, forus.com, Forus HQ | Well-funded AI healthcare startup with a rapidly scaling product, prominent venture backing, and a demanding engineering internship involving production systems. It is an emerging strong signal, though its software-engineering brand is still far less established than top-tier technology employers. |
 | Gartner | 68 | High | 2026-08-13 | gpt-5.6-terra | No | - | Widely recognized research and advisory firm with a solid technology reputation, though not typically viewed as a top-tier software-engineering destination. |
 | Gecko Robotics | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | Gecko | Notable robotics and industrial-inspection startup with a strong specialized technical signal, though less universally recognized than major tech firms. |
 | Gen | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | Gen Digital, NortonLifeLock | Recognized cybersecurity company behind major consumer-security products, with a solid software and security engineering signal. |

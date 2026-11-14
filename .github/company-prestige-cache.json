@@ -17100,6 +17100,21 @@
       "reviewed_at": "2026-09-12",
       "rubric_version": "prestige-v1"
     },
+    "forus": {
+      "aliases": [
+        "Tandem",
+        "forus.com",
+        "Forus HQ"
+      ],
+      "confidence": "medium",
+      "display_name": "Forus",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-funded AI healthcare startup with a rapidly scaling product, prominent venture backing, and a demanding engineering internship involving production systems. It is an emerging strong signal, though its software-engineering brand is still far less established than top-tier technology employers.",
+      "reviewed_at": "2026-11-14",
+      "rubric_version": "prestige-v2"
+    },
     "forward networks": {
       "aliases": [],
       "confidence": "medium",
