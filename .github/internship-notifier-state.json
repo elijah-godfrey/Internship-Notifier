@@ -47,6 +47,8 @@
     "qs:url:campusjobs.mlp.com/careers/job/755957778848": "2026-07-27",
     "qs:url:campusjobs.mlp.com/careers/job/755957819517": "2026-07-28",
     "qs:url:campusjobs.mlp.com/careers/job/755957819661": "2026-07-28",
+    "qs:url:careers.arm.com/job/austin/machine-learning-engineering-intern-ms-phd/33099/103250201872": "2026-11-13",
+    "qs:url:careers.arm.com/job/seattle/intern-research-scientist-ai/33099/103208989872": "2026-11-12",
     "qs:url:careers.oracle.com/en/sites/jobsearch/job/334345": "2026-05-22",
     "qs:url:careers.qualcomm.com/careers/job/446716226621": "2026-04-20",
     "qs:url:careers.qualcomm.com/careers/job/446720737089": "2026-09-21",
@@ -128,9 +130,9 @@
   },
   "quant_scraper_posted_baselined": true,
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "33a9895a4e5385e0efc4e887dc9f7322bb271f95",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "fbf6ba246025fbe6b62fdc6796fd005d062f014b",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "c640c457b258d70803b16661e8b14814175eb543"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "a97b548a827355217d72e4f727597b35340b0491",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "9fad05ea4a948af19506a2f454d9c5ce4dc7c5fb",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "079c046746f1f08622c5cba67fea4fb772397bbf"
   },
   "seen_apply_keys": [
     "amazon:10557133",
@@ -239,6 +241,8 @@
     "url:campusjobs.mlp.com/careers/job/755957819661",
     "url:careers.amd.com/jobs/90425",
     "url:careers.amd.com/jobs/90429",
+    "url:careers.arm.com/job/austin/machine-learning-engineering-intern-ms-phd/33099/103250201872",
+    "url:careers.arm.com/job/seattle/intern-research-scientist-ai/33099/103208989872",
     "url:careers.oracle.com/en/sites/jobsearch/job/334345",
     "url:careers.qualcomm.com/careers/job/446716226621",
     "url:careers.qualcomm.com/careers/job/446720737089",
@@ -22569,6 +22573,8 @@
     "qs:url:campusjobs.mlp.com/careers/job/755957819661",
     "qs:url:careers.amd.com/jobs/90425",
     "qs:url:careers.amd.com/jobs/90429",
+    "qs:url:careers.arm.com/job/austin/machine-learning-engineering-intern-ms-phd/33099/103250201872",
+    "qs:url:careers.arm.com/job/seattle/intern-research-scientist-ai/33099/103208989872",
     "qs:url:careers.oracle.com/en/sites/jobsearch/job/334345",
     "qs:url:careers.qualcomm.com/careers/job/446716226621",
     "qs:url:careers.qualcomm.com/careers/job/446720737089",

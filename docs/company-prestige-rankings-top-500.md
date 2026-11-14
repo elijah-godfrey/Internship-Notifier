@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3851** cached companies (maximum 500).
+Showing **500** of **3852** cached companies (maximum 500).
 
-_The 3351 lowest-scored companies are omitted by the report cap._
+_The 3352 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -185,6 +185,7 @@ _The 3351 lowest-scored companies are omitted by the report cap._
 
 | Company | Score | Confidence | Reviewed | Model | Manual | Aliases | Reason |
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
+| Arm | 79 | High | 2026-11-14 | gpt-5.6-terra | No | Arm Holdings, arm.com | A globally recognized compute-platform and semiconductor-IP company with a strong systems, architecture, compiler, and developer-ecosystem engineering brand. It is a strong technical signal, especially for low-level software roles, though less universally prestigious for general software engineering than the very top software-first employers. |
 | ClickHouse | 79 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected database company with an especially strong reputation in data infrastructure and systems engineering. |
 | Maven Securities | 79 | High | 2026-08-02 | gpt-5.6-terra | No | Maven | Well-regarded proprietary trading firm with a selective quantitative trading and engineering reputation. |
 | Replit | 79 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly visible developer-tools and AI coding company with a strong software-engineering brand. |
@@ -521,4 +522,3 @@ _The 3351 lowest-scored companies are omitted by the report cap._
 | Merck | 72 | High | 2026-08-02 | gpt-5.6-terra | No | MSD | Globally recognized pharmaceutical company with strong technical and data-oriented work, though not a top software-engineering brand. |
 | Metropolis Technologies | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Metropolis | Scaled real-world ML, software, and edge-device work plus a $500M Series D at roughly a $5B valuation make it a strong and increasingly recognized engineering signal, though it remains less universally established than elite major-tech employers. |
 | Mind Robotics | 72 | Medium | 2026-10-16 | gpt-5.6-terra | No | Rivian spinoff Mind Robotics | AI/robotics engineering focus, live Rivian factory deployment, and more than $1B in reported funding from prominent venture firms make it a strong early-career signal; however, it was founded in 2025 and has not yet built a long-established engineering brand. |
-| Motional | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Autonomous-vehicle company with technically sophisticated robotics and software work, though its business trajectory tempers the signal. |

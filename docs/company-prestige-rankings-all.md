@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3851** of **3851** cached companies (all cached companies).
+Showing **3852** of **3852** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -183,6 +183,7 @@ Showing **3851** of **3851** cached companies (all cached companies).
 
 | Company | Score | Confidence | Reviewed | Model | Manual | Aliases | Reason |
 | --- | ---: | --- | --- | --- | :---: | --- | --- |
+| Arm | 79 | High | 2026-11-14 | gpt-5.6-terra | No | Arm Holdings, arm.com | A globally recognized compute-platform and semiconductor-IP company with a strong systems, architecture, compiler, and developer-ecosystem engineering brand. It is a strong technical signal, especially for low-level software roles, though less universally prestigious for general software engineering than the very top software-first employers. |
 | ClickHouse | 79 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected database company with an especially strong reputation in data infrastructure and systems engineering. |
 | Maven Securities | 79 | High | 2026-08-02 | gpt-5.6-terra | No | Maven | Well-regarded proprietary trading firm with a selective quantitative trading and engineering reputation. |
 | Replit | 79 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly visible developer-tools and AI coding company with a strong software-engineering brand. |
