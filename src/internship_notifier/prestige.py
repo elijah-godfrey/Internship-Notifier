@@ -64,6 +64,44 @@ def normalize_company_name(name: str) -> str:
     return " ".join(tokens)
 
 
+# Words that are skipped when an alias is only the initials of a longer name.
+_INITIALISM_SKIP = frozenset({"a", "an", "and", "for", "of", "the"})
+
+
+def alias_can_resolve(alias: str, display_name: str) -> bool:
+    """Return whether ``alias`` is specific enough to mean ``display_name``.
+
+    Ticker symbols such as ``MSFT`` still match. An alias that is only the
+    initials of the display name does not: ``ARM`` is Advanced Robotics for
+    Manufacturing and also the chip company Arm.
+    """
+    return not _is_initialism(alias, display_name)
+
+
+def _is_initialism(alias: str, display_name: str) -> bool:
+    """Return whether ``alias`` is the initials of consecutive display words."""
+    alias_words = normalize_company_name(alias).split()
+    if len(alias_words) != 1:
+        return False
+    token = alias_words[0]
+    if len(token) < 2:
+        return False
+    words = [
+        word
+        for word in normalize_company_name(display_name).split()
+        if word not in _INITIALISM_SKIP
+    ]
+    for start in range(len(words)):
+        letters = ""
+        for word in words[start:]:
+            letters += word[0]
+            if letters == token:
+                return True
+            if len(letters) > len(token):
+                break
+    return False
+
+
 def validate_prestige_score(score: object) -> int:
     """Validate and return a 1-100 prestige score."""
     if isinstance(score, bool) or not isinstance(score, int):
@@ -183,15 +221,24 @@ class PrestigeCache:
     companies: dict[str, CompanyPrestige] = field(default_factory=dict)
 
     def get(self, company_name: str) -> CompanyPrestige | None:
-        """Find a company by its display name, cache key, or alias."""
+        """Find a company by its display name, cache key, or a specific alias.
+
+        An alias that is only the initials of the display name is ignored.
+        ``ARM`` on Advanced Robotics for Manufacturing must not answer a
+        lookup for the chip company Arm.
+        """
         requested = normalize_company_name(company_name)
         direct = self.companies.get(requested)
         if direct is not None:
             return direct
         for assessment in self.companies.values():
-            names = (assessment.display_name, *assessment.aliases)
-            if any(normalize_company_name(name) == requested for name in names):
+            if normalize_company_name(assessment.display_name) == requested:
                 return assessment
+            for alias in assessment.aliases:
+                if normalize_company_name(alias) != requested:
+                    continue
+                if alias_can_resolve(alias, assessment.display_name):
+                    return assessment
         return None
 
     def put(self, assessment: CompanyPrestige) -> bool:

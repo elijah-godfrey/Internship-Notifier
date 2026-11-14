@@ -100,6 +100,29 @@ class TestPrestigeCache:
         assert cache.get("MSFT") == assessment
         assert cache.get("Unknown") is None
 
+    def test_short_acronym_alias_does_not_match_a_different_company(self) -> None:
+        cache = PrestigeCache()
+        institute = _assessment(
+            display_name="Advanced Robotics for Manufacturing",
+            score=52,
+            aliases=("ARM Institute", "ARM"),
+        )
+        cache.put(institute)
+
+        assert cache.get("Arm") is None
+        assert cache.get("ARM Institute") == institute
+        assert cache.get("Advanced Robotics for Manufacturing") == institute
+
+    def test_short_alias_matches_when_it_begins_the_company_name(self) -> None:
+        cache = PrestigeCache()
+        flex = _assessment(display_name="Flextronics International", score=56, aliases=("Flex",))
+        cache.put(flex)
+        amazon = _assessment(display_name="Amazon", score=91, aliases=("AWS",))
+        cache.put(amazon)
+
+        assert cache.get("Flex") == flex
+        assert cache.get("AWS") == amazon
+
     def test_put_replaces_same_normalized_company(self) -> None:
         cache = PrestigeCache()
         cache.put(_assessment(score=80))

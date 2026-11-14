@@ -2353,9 +2353,7 @@
       "rubric_version": "prestige-v1"
     },
     "american tower": {
-      "aliases": [
-        "ATC"
-      ],
+      "aliases": [],
       "confidence": "medium",
       "display_name": "American Tower",
       "manual_override": false,
@@ -7900,10 +7898,7 @@
     "carnegie mellon university software engineering institute": {
       "aliases": [
         "CMU SEI",
-        "Carnegie Mellon Software Engineering Institute",
-        "SEI",
-        "SEI Investments",
-        "Strategic Education"
+        "Carnegie Mellon Software Engineering Institute"
       ],
       "confidence": "medium",
       "display_name": "Carnegie Mellon University Software Engineering Institute",
@@ -30331,10 +30326,7 @@
       "website": "https://obe.tv"
     },
     "obsidian entertainment": {
-      "aliases": [
-        "Xbox Game Studios",
-        "Microsoft"
-      ],
+      "aliases": [],
       "confidence": "high",
       "display_name": "Obsidian Entertainment",
       "manual_override": false,
@@ -37174,8 +37166,7 @@
     },
     "scancom": {
       "aliases": [
-        "National MRI Scan Ltd.",
-        "SCAN"
+        "National MRI Scan Ltd."
       ],
       "confidence": "medium",
       "display_name": "Scan.com",
@@ -41103,8 +41094,6 @@
     "tandem intelligence": {
       "aliases": [
         "Tandem",
-        "Tandem Diabetes Care",
-        "Forus, Inc.",
         "Tandem Technology, Inc."
       ],
       "confidence": "medium",
