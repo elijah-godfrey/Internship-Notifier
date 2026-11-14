@@ -7688,6 +7688,22 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "capgemini": {
+      "aliases": [
+        "Capgemini SE",
+        "Capgemini Engineering",
+        "Sogeti",
+        "Altran Technologies"
+      ],
+      "confidence": "high",
+      "display_name": "Capgemini",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Globally recognized IT consulting and technology-services firm with substantial applications, cloud, and digital-engineering work. It is a solid resume signal for software internships, though its broad services model and typical hiring selectivity place it below elite product-focused engineering employers.",
+      "reviewed_at": "2026-11-14",
+      "rubric_version": "prestige-v2"
+    },
     "capital automotive group": {
       "aliases": [],
       "confidence": "medium",
