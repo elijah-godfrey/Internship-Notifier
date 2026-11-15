@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3852** of **3852** cached companies (all cached companies).
+Showing **3853** of **3853** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2005,6 +2005,7 @@ Showing **3852** of **3852** cached companies (all cached companies).
 | Ontario Ministry of Public and Business Service Delivery and Procurement | 55 | Medium | 2026-09-11 | gpt-5.6-terra | No | Ontario MPBSDP | Recognizable Ontario digital-service and public-sector technology environment, though not broadly viewed as elite engineering prestige. |
 | OPENLANE | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | KAR Global | Established digital automotive-marketplace business with relevant software work, but modest general engineering prestige. |
 | Orbifold AI, Inc. | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | A credible $5M seed round and technically ambitious robotics, multimodal-data, and infrastructure work, but remains a small, early-stage company with limited established software-engineering brand recognition. |
+| Oregon State University | 55 | High | 2026-11-15 | gpt-5.6-terra | No | OSU, Oregon State, Oregon State University System | Recognized public R1 university with a credible engineering and computer-science research environment, including applied software work, but an OSU internship is a more regional academic signal than a broadly elite software-engineering brand. |
 | Otsuka Pharmaceutical | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Otsuka | Large, respected pharmaceutical employer, but it is not broadly viewed as a software engineering destination. |
 | Output Biosciences | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | Output Labs, now Output Labs | YC backing and specialized AI/biological-modeling engineering work are positive signals, but its software-engineering brand and public track record remain early-stage and not broadly established. |
 | Parallel Systems | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Technically ambitious rail-autonomy startup, offering a positive specialized engineering signal but limited established brand recognition. |
