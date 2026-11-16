@@ -22748,6 +22748,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "ipex": {
+      "aliases": [
+        "IPEX by Aliaxis",
+        "IPEX North America",
+        "Aliaxis"
+      ],
+      "confidence": "low",
+      "display_name": "IPEX",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Most likely the North American pipe-systems manufacturer under Aliaxis. It offers IT and data-related work, but its employer brand is primarily manufacturing rather than software engineering, giving it a modest, industry-specific technical signal.",
+      "reviewed_at": "2026-11-16",
+      "rubric_version": "prestige-v2"
+    },
     "ipipeline": {
       "aliases": [],
       "confidence": "medium",

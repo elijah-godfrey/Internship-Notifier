@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3854** of **3854** cached companies (all cached companies).
+Showing **3855** of **3855** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2992,6 +2992,7 @@ Showing **3854** of **3854** cached companies (all cached companies).
 | IMEG | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected engineering design and consulting firm, but with limited standalone software-engineering brand recognition. |
 | Inspire Medical Systems | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialized medical-device company, though its software-engineering reputation is limited and domain-specific. |
 | International Rescue Committee (IRC) | 45 | High | 2026-07-21 | gpt-5.6-terra | No | International Rescue Committee, IRC | Highly respected humanitarian nonprofit, though it has limited software-engineering employer prestige relative to technical organizations. |
+| IPEX | 45 | Low | 2026-11-16 | gpt-5.6-terra | No | IPEX by Aliaxis, IPEX North America, Aliaxis | Most likely the North American pipe-systems manufacturer under Aliaxis. It offers IT and data-related work, but its employer brand is primarily manufacturing rather than software engineering, giving it a modest, industry-specific technical signal. |
 | Johns Manville (JM) | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Johns Manville, JM | Established industrial materials company, but with limited broad recognition as a software engineering destination. |
 | KCI Technologies | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected engineering and consulting firm, though its reputation is primarily outside mainstream software engineering. |
 | Kontoor Brands | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established apparel company, but its software engineering brand is not a major industry signal. |
