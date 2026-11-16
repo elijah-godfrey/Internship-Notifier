@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3855** of **3855** cached companies (all cached companies).
+Showing **3856** of **3856** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1260,6 +1260,7 @@ Showing **3855** of **3855** cached companies (all cached companies).
 | Iambic Therapeutics | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | Iambic | Technically credible AI drug-discovery company, but its engineering signal is primarily biotech-specific rather than broadly established. |
 | Iberdrola Group | 62 | High | 2026-08-02 | gpt-5.6-terra | No | Iberdrola | Major global energy company with meaningful digital and infrastructure technology work, though its engineering brand is not primarily software-focused. |
 | Inspire Brands | 62 | Medium | 2026-11-16 | gpt-5.6-terra | No | Inspire | Well-known multi-brand restaurant operator with meaningful centralized product, data, platform, and reliability engineering supporting major consumer brands. It is a solid technical internship signal, though its software-engineering brand and perceived selectivity are below leading technology companies. |
+| Instil | 62 | Medium | 2026-11-16 | gpt-5.6-terra | No | Instil Software Ltd, instil.co | Established Belfast software-engineering consultancy with a credible technical focus spanning product engineering, cloud, security, and developer training. It is a solid regional engineering signal, but lacks the broad global selectivity and brand recognition associated with top-tier software employers. |
 | Institute of Foundation Models | 62 | Medium | 2026-10-16 | gpt-5.6-terra | No | IFM, Institute of Foundation Models at MBZUAI | Frontier/open foundation-model work and international labs give it a solid, specialized AI-engineering signal, but its very short track record and limited broad employer recognition keep it below established top-tier AI labs. |
 | Insulet Corporation | 62 | Medium | 2026-08-02 | gpt-5.6-terra | No | Omnipod | Respected medical-device company with meaningful engineering work, but a modest general software-engineering brand. |
 | Integrity Marketing Group | 62 | Low | 2026-10-16 | gpt-5.6-terra | No | Integrity | Integrity Marketing Group (integrity.com), the Dallas-based life, health and wealth insurtech—not other firms named “Integrity.” Its proprietary AI-driven insurance platform and $1.2B Silver Lake investment indicate a credible technical business, but it is not broadly regarded as a top-tier software-engineering. |

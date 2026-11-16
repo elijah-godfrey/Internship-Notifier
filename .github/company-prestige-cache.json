@@ -22166,6 +22166,20 @@
       "rubric_version": "prestige-v2",
       "website": "https://instead.com"
     },
+    "instil": {
+      "aliases": [
+        "Instil Software Ltd",
+        "instil.co"
+      ],
+      "confidence": "medium",
+      "display_name": "Instil",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Established Belfast software-engineering consultancy with a credible technical focus spanning product engineering, cloud, security, and developer training. It is a solid regional engineering signal, but lacks the broad global selectivity and brand recognition associated with top-tier software employers.",
+      "reviewed_at": "2026-11-16",
+      "rubric_version": "prestige-v2"
+    },
     "institute of foundation models": {
       "aliases": [
         "IFM",
