@@ -22091,6 +22091,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "inspire brands": {
+      "aliases": [
+        "Inspire"
+      ],
+      "confidence": "medium",
+      "display_name": "Inspire Brands",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Well-known multi-brand restaurant operator with meaningful centralized product, data, platform, and reliability engineering supporting major consumer brands. It is a solid technical internship signal, though its software-engineering brand and perceived selectivity are below leading technology companies.",
+      "reviewed_at": "2026-11-16",
+      "rubric_version": "prestige-v2"
+    },
     "inspire medical systems": {
       "aliases": [],
       "confidence": "medium",
