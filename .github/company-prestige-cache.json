@@ -36111,6 +36111,20 @@
       "reviewed_at": "2026-08-10",
       "rubric_version": "prestige-v1"
     },
+    "road commission for oakland county": {
+      "aliases": [
+        "RCOC",
+        "rcocweb.org"
+      ],
+      "confidence": "high",
+      "display_name": "Road Commission for Oakland County",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Established county-level transportation agency with IT work and internships, but its employer reputation is primarily local civil infrastructure rather than software engineering; it has limited broader technical-brand signal or selectivity.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "roam virtual workspace": {
       "aliases": [
         "Roam",
@@ -40884,6 +40898,21 @@
       "reason": "Established e-commerce company with relevant engineering work, but limited broad prestige or selectivity in software hiring.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "surepoint ag systems": {
+      "aliases": [
+        "SurePoint Ag",
+        "surepointag.com",
+        "John Deere"
+      ],
+      "confidence": "high",
+      "display_name": "SurePoint Ag Systems",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 56,
+      "reason": "Specialized precision-agriculture equipment and software company with an engineering and software-development presence, now owned by John Deere. It provides a credible niche ag-tech signal, but its software-engineering brand and selectivity are not broadly recognized at the level of major technology employers.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
     },
     "susquehanna international group sig": {
       "aliases": [

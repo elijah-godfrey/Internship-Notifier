@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3867** of **3867** cached companies (all cached companies).
+Showing **3869** of **3869** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1879,6 +1879,7 @@ Showing **3867** of **3867** cached companies (all cached companies).
 | Solar Turbines | 56 | High | 2026-07-18 | gpt-5.6-terra | No | - | Respected industrial technology company, but software engineering is not its primary or broadly recognized career signal. |
 | Southern Company | 56 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-established utility employer, but its software-engineering brand is primarily industry-specific. |
 | SPREEAI | 56 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | A credible technical AI focus and some public recognition, but it is still a young, small private company with limited broad software-engineering brand recognition versus established top-tier employers. |
+| SurePoint Ag Systems | 56 | High | 2026-11-17 | gpt-5.6-terra | No | SurePoint Ag, surepointag.com, John Deere | Specialized precision-agriculture equipment and software company with an engineering and software-development presence, now owned by John Deere. It provides a credible niche ag-tech signal, but its software-engineering brand and selectivity are not broadly recognized at the level of major technology employers. |
 | Synthesis | 56 | Medium | 2026-10-29 | gpt-5.6-terra | No | Synthesis School, Inc., synthesis.com | Venture-backed edtech company with a recognizable SpaceX-origin story and an AI learning product, but it has limited broad recognition as a software-engineering employer compared with leading technology companies. |
 | The Global Alliance for Genomics and Health | 56 | Medium | 2026-09-11 | gpt-5.6-terra | No | GA4GH | Well regarded in genomics data standards and international research collaboration, with strong niche technical relevance but limited general software-brand recognition. |
 | Thrivent | 56 | Medium | 2026-10-19 | gpt-5.6-terra | No | Thrivent Financial, Thrivent Financial for Lutherans, thrivent.com | Established Fortune 500 financial-services organization with a formal software-engineering internship program. It is a credible enterprise-finance signal, but its engineering brand and selectivity are not broadly regarded as top-tier in software. |
@@ -3803,6 +3804,7 @@ Showing **3867** of **3867** cached companies (all cached companies).
 | MSM Inc. | 28 | Medium | 2026-10-16 | gpt-5.6-terra | No | MSMXP, Mirror Show Management | A long-running, recognized niche brand and some digital-experience work, but public evidence positions it primarily as an events, design, fabrication, and marketing company—not a broadly recognized or highly selective software-engineering employer. |
 | Plot Technologies | 28 | Low | 2026-09-29 | gpt-5.6-terra | No | - | Limited broadly recognized evidence of a strong or selective software-engineering employer brand under this exact company name. |
 | Premium Merchant Funding | 28 | Medium | 2026-10-16 | gpt-5.6-terra | No | PMF, Premium Merchant Funding One, LLC | An established alternative-finance business, but public evidence indicates a sales/financial-services-focused organization rather than a recognized software engineering employer; its technical brand and software-internship signal appear limited. |
+| Road Commission for Oakland County | 28 | High | 2026-11-17 | gpt-5.6-terra | No | RCOC, rcocweb.org | Established county-level transportation agency with IT work and internships, but its employer reputation is primarily local civil infrastructure rather than software engineering; it has limited broader technical-brand signal or selectivity. |
 | Spectra Scientific Inc. | 28 | High | 2026-10-16 | gpt-5.6-terra | No | - | An established niche in groundwater sampling, pumps, sensors, and telemetry, but public evidence indicates a small industrial-instrumentation business rather than a recognized or highly selective software-engineering employer. |
 | STEM Xpert LLC | 28 | Medium | 2026-10-16 | gpt-5.6-terra | No | VerisFederal LLC, STEMXpert | Own site describes outsourced software-product development alongside engineering and workforce services; public profiles indicate a small private firm and a later VerisFederal DBA, with limited broad software-engineering brand recognition or evidence of exceptional internship selectivity. |
 | Upstream USA | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Mission-driven nonprofit organization with little established software-engineering employer recognition. |
