@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3860** of **3860** cached companies (all cached companies).
+Showing **3861** of **3861** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -753,6 +753,7 @@ Showing **3860** of **3860** cached companies (all cached companies).
 | Scout AI | 68 | Medium | 2026-10-28 | gpt-5.6-terra | No | scoutco.ai | Well-funded frontier defense-AI startup building autonomy software for unmanned systems, with meaningful early defense traction and a strong technical problem area. Its software-engineering signal is positive, but the company is very young and has not yet built the broad, proven reputation of top-tier AI or defense-tech employers. |
 | Seagate Technology | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Seagate | Recognized storage and hardware technology company with credible systems and firmware engineering work, though not a top software employer brand. |
 | Signifyd | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded fraud-prevention fintech with a credible software and data-engineering focus, though not a broadly elite general-tech signal. |
+| Soros Fund Management | 68 | High | 2026-11-17 | gpt-5.6-terra | No | SFM, sorosfundmgmt.com, soros.com | Well-regarded, long-established global investment firm with a selective technical internship and meaningful engineering exposure to financial systems. It is a strong signal for finance and quant-oriented software roles, though its software-engineering brand is narrower and less broadly recognized than leading technology companies. |
 | Sprinklr | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise SaaS company with credible engineering work, though not generally viewed as top-tier tech. |
 | Stack AV | 68 | Medium | 2026-11-12 | gpt-5.6-terra | No | Stack, stackav.com, StackAV | Well-funded autonomous-trucking startup with a technically credible founding team from Argo AI and Carnegie Mellon/Uber ATG backgrounds. Its robotics, ML, embedded, and autonomy work is strong engineering experience, but the company is young and has limited broad-name recognition compared with established top-tier software employers. |
 | State Street | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major global financial-services firm with substantial technology operations and a solid engineering signal, though not a leading software-native brand. |

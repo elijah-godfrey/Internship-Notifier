@@ -39213,6 +39213,21 @@
       "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
     },
+    "soros fund management": {
+      "aliases": [
+        "SFM",
+        "sorosfundmgmt.com",
+        "soros.com"
+      ],
+      "confidence": "high",
+      "display_name": "Soros Fund Management",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-regarded, long-established global investment firm with a selective technical internship and meaningful engineering exposure to financial systems. It is a strong signal for finance and quant-oriented software roles, though its software-engineering brand is narrower and less broadly recognized than leading technology companies.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "sorting robotics": {
       "aliases": [],
       "confidence": "medium",
