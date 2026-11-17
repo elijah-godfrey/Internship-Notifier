@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3856** of **3856** cached companies (all cached companies).
+Showing **3859** of **3859** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -741,6 +741,7 @@ Showing **3856** of **3856** cached companies (all cached companies).
 | Realtor.com | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer real-estate technology platform with meaningful product-engineering work and recognizable brand value. |
 | Regeneron Pharmaceuticals | 68 | High | 2026-10-02 | gpt-5.6-terra | No | Regeneron | Highly respected biotechnology company with strong scientific and technical credibility; a solid engineering signal, though less broadly elite in mainstream software recruiting than leading technology firms. |
 | Relay Financial Technologies | 68 | Medium | 2026-10-16 | gpt-5.6-terra | No | Relay, Relay Financial | $32.2M Bain Capital Ventures-led Series B, subsequent $50M growth financing, 200–500-person footprint, and engineering co-op programs make it a solid fintech internship signal, though it is not broadly regarded as a top-tier software employer. |
+| Reliable Robotics | 68 | High | 2026-11-17 | gpt-5.6-terra | No | Reliable, reliable.co | Well-funded autonomous-aviation company working on safety-critical aircraft automation and FAA certification, giving its engineering work a strong technical signal. It is respected in aerospace autonomy but remains a specialized private startup rather than a broadly established top-tier software brand. |
 | Riverlane | 68 | High | 2026-10-29 | gpt-5.6-terra | No | Riverlane Research Ltd, riverlane.com | Specialized, well-funded quantum-error-correction company with a technically demanding engineering stack spanning software, compilers, embedded systems, and hardware integration. It is a strong deep-tech signal, though its employer brand remains niche relative to top general software firms. |
 | Rivian | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | Rivian Automotive | Well-known EV technology company with meaningful software work in embedded systems, vehicle platforms, and connected products; a solid engineering signal, though less selective and less established as a software brand than top tech firms. |
 | Rivian and Volkswagen Group Technologies | 68 | Medium | 2026-07-30 | gpt-5.6-terra | No | RV Tech, Rivian Volkswagen Group Technologies | A credible automotive-software and EV engineering signal, supported by Rivian’s technology focus and Volkswagen Group affiliation. It is respected in mobility software but is less broadly selective or recognized than top general-purpose software employers. |
@@ -2574,6 +2575,7 @@ Showing **3856** of **3856** cached companies (all cached companies).
 | Berkley Technology Services | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | BTS | Technology organization supporting a respected insurance group, with limited standalone visibility as a software engineering destination. |
 | Bits In Glass Inc | 48 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Established technology consulting and systems-integration firm, but with primarily regional and services-oriented engineering recognition. |
 | BJ's Wholesale Club | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | BJs Wholesale Club | Recognized retail employer with meaningful internal technology needs, but not a notably selective engineering brand. |
+| Bound | 48 | Low | 2026-11-17 | gpt-5.6-terra | No | bound.co, Bound Rates | Appears to be the London FX-risk fintech. Its recent Series A gives it a positive startup signal, but it remains a niche, early-stage company without broad established software-engineering prestige. |
 | Bracco | 48 | Medium | 2026-11-12 | gpt-5.6-terra | No | Bracco Group, Bracco Imaging, Bracco Imaging S.p.A., Bracco Diagnostics Inc., bracco.com | Established global diagnostic-imaging and medical-technology group with meaningful R&D and some AI/digital-health products. It is a respected healthcare-industry employer, but has limited broad recognition or demonstrated selectivity as a software-engineering brand. |
 | Breeze Airways | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Breeze | Recognizable newer airline, but it has limited reputation for software-engineering selectivity or technical brand strength. |
 | Burlington Stores | 48 | High | 2026-10-19 | gpt-5.6-terra | No | Burlington, Burlington Coat Factory, BURL, BCFWC | Established Fortune 500 off-price retailer with a meaningful corporate IT organization, offering credible large-scale retail and supply-chain systems exposure. However, it is not broadly recognized as a selective or engineering-led technology employer, so its software internship signal is primarily retail-industry specific. |
@@ -2602,6 +2604,7 @@ Showing **3856** of **3856** cached companies (all cached companies).
 | DiligenceVault | 48 | Medium | 2026-09-11 | gpt-5.6-terra | No | Diligence Vault | A niche enterprise software firm with relevant product-engineering experience, but limited broad recognition or selectivity signal in software engineering. |
 | DPD UK | 48 | Medium | 2026-09-30 | gpt-5.6-terra | No | DPD, DPDgroup UK | Recognized UK parcel-delivery employer with meaningful operational technology, but not a prominent or highly selective software-engineering brand. |
 | Driscoll's | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Driscolls | Established agriculture and consumer-products company, but with limited broad recognition as a software-engineering employer. |
+| Duetti | 48 | Medium | 2026-11-17 | gpt-5.6-terra | No | duetti.co, Duetti Music | Venture-backed music-catalog financing and management company with a real data and engineering function, but it is young and its software-engineering employer brand remains niche rather than broadly recognized. |
 | Duracell | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized consumer-products brand, but it has limited broad reputation as a software-engineering employer. |
 | Elanco | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Elanco Animal Health | Recognized animal-health company with some technology roles, but software is not a core employer brand. |
 | Emergent Holdings | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established insurance and health-services employer, with software primarily supporting its core business. |

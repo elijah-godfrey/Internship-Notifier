@@ -6615,6 +6615,20 @@
       "reviewed_at": "2026-11-03",
       "rubric_version": "prestige-v2"
     },
+    "bound": {
+      "aliases": [
+        "bound.co",
+        "Bound Rates"
+      ],
+      "confidence": "low",
+      "display_name": "Bound",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Appears to be the London FX-risk fintech. Its recent Series A gives it a positive startup signal, but it remains a niche, early-stage company without broad established software-engineering prestige.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "bowergroupasia": {
       "aliases": [
         "BGA"
@@ -13439,6 +13453,20 @@
       "reason": "Specialized tax-services firm with limited general recognition or demonstrated prestige as a software-engineering employer.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "duetti": {
+      "aliases": [
+        "duetti.co",
+        "Duetti Music"
+      ],
+      "confidence": "medium",
+      "display_name": "Duetti",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Venture-backed music-catalog financing and management company with a real data and engineering function, but it is young and its software-engineering employer brand remains niche rather than broadly recognized.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
     },
     "duke energy": {
       "aliases": [],
@@ -35196,6 +35224,20 @@
       "reason": "Early-stage insurance technology company with relevant software work, but limited established engineering-employer recognition.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "reliable robotics": {
+      "aliases": [
+        "Reliable",
+        "reliable.co"
+      ],
+      "confidence": "high",
+      "display_name": "Reliable Robotics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Well-funded autonomous-aviation company working on safety-critical aircraft automation and FAA certification, giving its engineering work a strong technical signal. It is respected in aerospace autonomy but remains a specialized private startup rather than a broadly established top-tier software brand.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
     },
     "relling": {
       "aliases": [
