@@ -4282,6 +4282,20 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "attain partners": {
+      "aliases": [
+        "Attain",
+        "attainpartners.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Attain Partners",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "A credible, specialized management and technology consultancy with recognized Salesforce education expertise and substantial higher-education/public-sector implementation work. It offers a positive but niche engineering signal, rather than the broadly recognized or highly selective software-engineering brand of top technology firms.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "attentive": {
       "aliases": [
         "Attentive Mobile"
@@ -10339,6 +10353,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "compunetix": {
+      "aliases": [
+        "Compunetics",
+        "Sonexis Technology"
+      ],
+      "confidence": "medium",
+      "display_name": "Compunetix",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established privately held communications-systems company with substantive software work in mission-critical voice, video, and collaboration products. It offers credible hands-on engineering experience, but its software brand and internship selectivity have limited recognition outside its specialized telecommunications and government-communications niche.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "comstock companies": {
       "aliases": [
         "Comstock"
@@ -15892,6 +15920,19 @@
       "reason": "Respected electrical and energy-services company, but with limited broad software-engineering reputation.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "falcomm": {
+      "aliases": [
+        "myfalcomm.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Falcomm",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Early-stage Atlanta fabless-semiconductor startup with credible RF-chip technology, external startup visibility, and a specialized engineering focus. It is a positive niche signal for embedded, RF, and semiconductor work, but has limited broad software-engineering recognition and an unproven internship brand.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
     },
     "fanatics": {
       "aliases": [],
@@ -29315,6 +29356,21 @@
       "rubric_version": "prestige-v2",
       "website": "https://newlantern.ai"
     },
+    "new york city housing development": {
+      "aliases": [
+        "HDC",
+        "NYC HDC",
+        "NYCHDC"
+      ],
+      "confidence": "medium",
+      "display_name": "New York City Housing Development Corporation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established New York public-benefit housing finance agency with meaningful civic and finance-sector recognition, but its engineering work is primarily internal enterprise application development rather than a broadly recognized or highly selective software brand.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "new york mets": {
       "aliases": [
         "Mets",
@@ -34869,6 +34925,20 @@
       "rubric_version": "prestige-v2",
       "website": "https://rapdev.io"
     },
+    "raptor maps": {
+      "aliases": [
+        "raptormaps.com",
+        "Raptor Solar"
+      ],
+      "confidence": "medium",
+      "display_name": "Raptor Maps",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "VC-backed, YC-alumni climate-software company with a technically substantive product spanning geospatial data, computer vision, robotics, and solar-asset operations. It is a credible specialized engineering signal, but its brand and demonstrated selectivity are not broadly top-tier across software engineering.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "rave aerospace": {
       "aliases": [
         "Safran Passenger Innovations",
@@ -36516,6 +36586,19 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2",
       "website": "https://rosalind.bio"
+    },
+    "ross video": {
+      "aliases": [
+        "rossvideo.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Ross Video",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Established global broadcast-technology company with substantial R&D and technically demanding live-production software and systems. It is well regarded in its specialized industry, but has limited broad software-engineering name recognition compared with leading general-tech employers.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
     },
     "rothesay": {
       "aliases": [
