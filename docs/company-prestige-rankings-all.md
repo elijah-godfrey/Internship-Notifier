@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3866** of **3866** cached companies (all cached companies).
+Showing **3867** of **3867** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1767,6 +1767,7 @@ Showing **3866** of **3866** cached companies (all cached companies).
 | Netsmart | 57 | Medium | 2026-10-19 | gpt-5.6-terra | No | Netsmart Technologies, ntst.com | Established healthcare IT vendor with substantial, specialized EHR and care-platform engineering work and a formal software internship program. It is a solid industry-specific signal, but has limited broad recognition or top-tier selectivity in software engineering. |
 | Neurocrine Biosciences | 57 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected biotechnology company, but software engineering is supporting rather than its central employer brand. |
 | Nightwing Intelligence Solutions | 57 | Medium | 2026-07-18 | gpt-5.6-terra | No | Nightwing | Credible national-security technology work, but its independent software engineering brand is relatively new and niche. |
+| NorthStar Earth & Space | 57 | Medium | 2026-11-17 | gpt-5.6-terra | No | NorthStar Earth & Space Enterprises, Inc., Northstar Ciel & Terre Inc., NorthStar, northstar-data.com | A credible, technically specialized space-domain-awareness company with a real satellite-data and analytics platform, external financing, and public-market visibility. It offers a meaningful niche aerospace/software signal, but has limited broad recognition and a less established engineering brand than top software employers. |
 | Novanta | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialized technology and medical/industrial instrumentation company, though not broadly known for a standout software-engineering brand. |
 | OCLC | 57 | High | 2026-08-02 | gpt-5.6-terra | No | Online Computer Library Center | Established library-technology organization with a solid specialized engineering reputation. |
 | Octant | 57 | Medium | 2026-11-13 | gpt-5.6-terra | No | Octant Bio, octant.bio | A well-backed, clinical-stage techbio company with meaningful computational biology and ML-driven drug-discovery work, including a major pharma collaboration. It is a credible niche signal for engineering in biotech, but its software-engineering brand and broad name recognition remain limited versus leading technology employers. |

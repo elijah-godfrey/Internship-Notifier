@@ -30027,6 +30027,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "northstar earth and space": {
+      "aliases": [
+        "NorthStar Earth & Space Enterprises, Inc.",
+        "Northstar Ciel & Terre Inc.",
+        "NorthStar",
+        "northstar-data.com"
+      ],
+      "confidence": "medium",
+      "display_name": "NorthStar Earth & Space",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "A credible, technically specialized space-domain-awareness company with a real satellite-data and analytics platform, external financing, and public-market visibility. It offers a meaningful niche aerospace/software signal, but has limited broad recognition and a less established engineering brand than top software employers.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "northumbria university": {
       "aliases": [
         "University of Northumbria at Newcastle"
