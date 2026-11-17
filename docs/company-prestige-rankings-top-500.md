@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3861** cached companies (maximum 500).
+Showing **500** of **3865** cached companies (maximum 500).
 
-_The 3361 lowest-scored companies are omitted by the report cap._
+_The 3365 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -438,6 +438,7 @@ _The 3361 lowest-scored companies are omitted by the report cap._
 | HERE | 73 | High | 2026-08-02 | gpt-5.6-terra | No | HERE Technologies, HERE Global B.V. | Established mapping and location-intelligence company with strong technical credibility in geospatial data, navigation, and platform engineering. |
 | HERE Technologies | 73 | High | 2026-08-02 | gpt-5.6-terra | No | HERE, HERE Global B.V. | Established mapping and location-intelligence company with strong technical credibility in geospatial data, navigation, and platform engineering. |
 | Hiverge Ltd | 73 | High | 2026-10-16 | gpt-5.6-terra | No | - | A very young seed-stage company with limited broad employer recognition, preventing a top-tier score. |
+| In-Q-Tel | 73 | High | 2026-11-17 | gpt-5.6-terra | No | IQT | Highly distinctive national-security technology investor with an engineering group building and integrating prototypes across software, AI, and hardware. It is a strong technical signal, especially in defense and deep-tech, though less broadly recognized as a conventional software employer than top product companies. |
 | Keysight Technologies | 73 | High | 2026-07-21 | gpt-5.6-terra | No | Keysight | Widely respected electronic-design, test, and measurement technology company with a strong technical engineering reputation and meaningful software relevance. |
 | LEGO | 73 | High | 2026-09-11 | gpt-5.6-terra | No | The LEGO Group, LEGO Group | Globally recognized product company with credible digital and software work, though its engineering brand is not among the most elite tech employers. |
 | Luma AI | 73 | Medium | 2026-08-02 | gpt-5.6-terra | No | Luma | Recognized generative-AI and 3D technology startup with a strong technical profile, though it is still comparatively early-stage. |
@@ -521,4 +522,3 @@ _The 3361 lowest-scored companies are omitted by the report cap._
 | Mercedes-Benz | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Mercedes-Benz Group | Iconic global engineering brand with increasingly substantial automotive-software work and a strong technical career signal. |
 | Merck | 72 | High | 2026-08-02 | gpt-5.6-terra | No | MSD | Globally recognized pharmaceutical company with strong technical and data-oriented work, though not a top software-engineering brand. |
 | Metropolis Technologies | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Metropolis | Scaled real-world ML, software, and edge-device work plus a $500M Series D at roughly a $5B valuation make it a strong and increasingly recognized engineering signal, though it remains less universally established than elite major-tech employers. |
-| Mind Robotics | 72 | Medium | 2026-10-16 | gpt-5.6-terra | No | Rivian spinoff Mind Robotics | AI/robotics engineering focus, live Rivian factory deployment, and more than $1B in reported funding from prominent venture firms make it a strong early-career signal; however, it was founded in 2025 and has not yet built a long-established engineering brand. |

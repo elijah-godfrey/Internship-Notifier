@@ -1633,6 +1633,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "all options": {
+      "aliases": [
+        "All Options International",
+        "All Options USA",
+        "All Options International B.V."
+      ],
+      "confidence": "medium",
+      "display_name": "All Options",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 62,
+      "reason": "Established proprietary options market maker with a technically demanding trading-systems environment and international operations. It is a solid signal for engineering roles in quantitative finance, though its software brand and broad name recognition are notably narrower than leading global market-making firms.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "allegheny county": {
       "aliases": [
         "County of Allegheny"
@@ -2672,6 +2687,20 @@
       "reason": "The name is ambiguous; assuming Angel City FC, it has limited relevance and recognition as a software engineering employer.",
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v1"
+    },
+    "angel host": {
+      "aliases": [
+        "myangelhost.com",
+        "Sentinel by Angel Host"
+      ],
+      "confidence": "medium",
+      "display_name": "Angel Host",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Seed-funded Montreal short-term-rental revenue-management company with proprietary pricing and operations software, but a small, niche proptech/services brand with limited broad software-engineering recognition or demonstrated internship selectivity.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
     },
     "anglian water": {
       "aliases": [],
@@ -21797,6 +21826,19 @@
       "prestige_score": 55,
       "reason": "A credible global B2B engineering product footprint in vehicle data, analytics, and cloud telematics, but its software-engineering brand and demonstrated internship selectivity appear specialized rather than broadly top-tier.",
       "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v2"
+    },
+    "in q tel": {
+      "aliases": [
+        "IQT"
+      ],
+      "confidence": "high",
+      "display_name": "In-Q-Tel",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 73,
+      "reason": "Highly distinctive national-security technology investor with an engineering group building and integrating prototypes across software, AI, and hardware. It is a strong technical signal, especially in defense and deep-tech, though less broadly recognized as a conventional software employer than top product companies.",
+      "reviewed_at": "2026-11-17",
       "rubric_version": "prestige-v2"
     },
     "inbulks": {
@@ -47636,6 +47678,22 @@
       "reason": "Major logistics company with meaningful operational technology, but not a broadly prestigious software engineering destination.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "xradar": {
+      "aliases": [
+        "Xradar Canada",
+        "Xradar BC Inc.",
+        "GeoRadar Group",
+        "xradar.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Xradar",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 34,
+      "reason": "A Canadian concrete-imaging and non-destructive-testing provider that develops proprietary field hardware and software. The software co-op offers relevant applied engineering exposure, but Xradar has limited broad recognition or established prestige as a software employer.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
     },
     "xsolla": {
       "aliases": [],
