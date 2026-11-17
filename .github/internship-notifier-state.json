@@ -14,6 +14,7 @@
     "qs:ashby:7c401bbf-ee63-4fcd-a44a-a16b9b787697": "2026-03-05",
     "qs:ashby:f020ff1a-4b4c-4415-8434-2da5010a7076": "2024-08-24",
     "qs:greenhouse:5271149007": "2026-11-03",
+    "qs:greenhouse:6219626004": "2026-11-16",
     "qs:greenhouse:6238015004": "2026-10-28",
     "qs:greenhouse:6865687002": "2026-10-23",
     "qs:greenhouse:6866538002": "2026-10-22",
@@ -27,7 +28,7 @@
     "qs:greenhouse:8052281": "2026-08-18",
     "qs:greenhouse:8052338": "2026-08-18",
     "qs:greenhouse:8052351": "2026-08-18",
-    "qs:greenhouse:8083292": "2026-10-07",
+    "qs:greenhouse:8083292": "2026-11-16",
     "qs:greenhouse:8168315": "2026-10-20",
     "qs:greenhouse:8356789": "2026-11-12",
     "qs:greenhouse:8356815": "2026-11-12",
@@ -131,9 +132,9 @@
   },
   "quant_scraper_posted_baselined": true,
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "1d0cb8ae1ded8d855f0d46b04fa61d250e0a6bbc",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "ec14eb3f1d56c009115259fa2c790e6c3f1fdeb0",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "acb7b50e513a59c3f6b293175d3f73bcdc671f2f"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "4e4f2ea6ffae20dd6e87987a6add88bc311d03a7",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "18275cf436c8cc6618653ad16129ad6dd5ff1f0a",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "a00ff6c0c8d10d70abd4a88e938214a755f66137"
   },
   "seen_apply_keys": [
     "amazon:10557133",
