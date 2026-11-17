@@ -42443,6 +42443,23 @@
       "rubric_version": "prestige-v2",
       "website": "https://thenuclearcompany.com"
     },
+    "the opus group": {
+      "aliases": [
+        "Opus",
+        "theopusgroup.com",
+        "Opus Agency",
+        "MAS",
+        "Verve"
+      ],
+      "confidence": "medium",
+      "display_name": "The Opus Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 29,
+      "reason": "Experiential-marketing agency network with an IT function, rather than a recognized software-engineering employer. Its technical roles appear centered on business applications and IT operations, giving a limited software-internship career signal.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "the regional municipality of york": {
       "aliases": [
         "York Region"

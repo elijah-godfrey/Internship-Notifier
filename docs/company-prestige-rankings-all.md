@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3859** of **3859** cached companies (all cached companies).
+Showing **3860** of **3860** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3756,6 +3756,7 @@ Showing **3859** of **3859** cached companies (all cached companies).
 | doTERRA | 29 | High | 2026-08-02 | gpt-5.6-terra | No | - | Consumer wellness company with little established reputation as a software-engineering employer. |
 | Lydian | 29 | Low | 2026-10-16 | gpt-5.6-terra | No | Lydian Pay | Work is technically relevant, but the company has limited established software-engineering brand recognition and the name is shared by several unrelated firms. |
 | Pine Rest | 29 | High | 2026-08-02 | gpt-5.6-terra | No | Pine Rest Christian Mental Health Services | Recognized healthcare provider, but it has little distinct software-engineering employer brand. |
+| The Opus Group | 29 | Medium | 2026-11-17 | gpt-5.6-terra | No | Opus, theopusgroup.com, Opus Agency, MAS, Verve | Experiential-marketing agency network with an IT function, rather than a recognized software-engineering employer. Its technical roles appear centered on business applications and IT operations, giving a limited software-internship career signal. |
 | 3S Business Corporation, Inc. | 28 | High | 2026-10-16 | gpt-5.6-terra | No | 3SBC | Software/ERP consulting, training, and staffing rather than having a broadly recognized product-engineering brand; it has some software-developer internship activity, but limited evidence of selectivity or broad software-engineering prestige. |
 | ACLU Kentucky | 28 | High | 2026-08-02 | gpt-5.6-terra | No | American Civil Liberties Union of Kentucky | Recognized civil-liberties organization locally, but it has little software engineering employer signal. |
 | Acron Aviation | 28 | Low | 2026-09-14 | gpt-5.6-terra | No | - | Limited widely recognized software-engineering brand and unclear internship selectivity; likely a niche aviation-industry signal rather than a broadly strong SWE credential. |
