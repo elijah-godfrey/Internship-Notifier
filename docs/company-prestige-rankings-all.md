@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3865** of **3865** cached companies (all cached companies).
+Showing **3866** of **3866** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -703,6 +703,7 @@ Showing **3865** of **3865** cached companies (all cached companies).
 | Impulse Space | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | Impulse Space Propulsion | Technically ambitious space company with a promising aerospace engineering signal, but it is young and has not yet built broad, established software-employer recognition. |
 | Intapp | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established vertical SaaS company for professional services with a credible engineering reputation, though limited broad recognition. |
 | IonQ | 68 | Medium | 2026-09-15 | gpt-5.6-terra | No | - | Recognized quantum-computing company with a technically ambitious brand and meaningful relevance to specialized software and systems work, but it has a narrower and less established software-engineering prestige signal than leading mainstream technology employers. |
+| IQT | 68 | High | 2026-11-17 | gpt-5.6-terra | No | In-Q-Tel, iqt.org, Peleus, In-Q-It | In-Q-Tel is a well-known nonprofit strategic investor serving the U.S. national-security community, with a credible technology and rapid-prototyping role. It is a strong specialized signal in defense tech and government-facing innovation, though less broadly recognized as a conventional software-engineering employer than leading product-focused technology companies. |
 | Ivo | 68 | High | 2026-10-16 | gpt-5.6-terra | No | Ivo AI | Enterprise legal-tech product, customers such as Atlassian and Canva, and $55M Series B indicate a strong, fast-growing engineering environment; however, it remains a relatively young, niche company without the broad software-employer recognition of top-tier firms. |
 | Johnson & Johnson | 68 | High | 2026-08-02 | gpt-5.6-terra | No | J&J, JNJ | Globally respected healthcare company with strong selectivity and meaningful technology needs, though software is not its primary employer brand. |
 | K2 Space | 68 | Medium | 2026-10-19 | gpt-5.6-terra | No | K2, k2space.com | Well-funded, fast-growing satellite manufacturer with a technically demanding in-house spacecraft and software stack plus notable commercial and government traction. It is a strong aerospace/startup signal, though still a young, niche company without the broad software-engineering recognition of top-tier technology employers. |

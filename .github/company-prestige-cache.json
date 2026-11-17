@@ -22858,6 +22858,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "iqt": {
+      "aliases": [
+        "In-Q-Tel",
+        "iqt.org",
+        "Peleus",
+        "In-Q-It"
+      ],
+      "confidence": "high",
+      "display_name": "IQT",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "In-Q-Tel is a well-known nonprofit strategic investor serving the U.S. national-security community, with a credible technology and rapid-prototyping role. It is a strong specialized signal in defense tech and government-facing innovation, though less broadly recognized as a conventional software-engineering employer than leading product-focused technology companies.",
+      "reviewed_at": "2026-11-17",
+      "rubric_version": "prestige-v2"
+    },
     "iqvia": {
       "aliases": [],
       "confidence": "high",
