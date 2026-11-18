@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3880** of **3880** cached companies (all cached companies).
+Showing **3881** of **3881** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1106,6 +1106,7 @@ Showing **3880** of **3880** cached companies (all cached companies).
 | Syntiant | 64 | Medium | 2026-09-09 | gpt-5.6-terra | No | - | Respected edge-AI and semiconductor startup niche with technically relevant engineering work, though less broadly recognized than leading AI or chip companies. |
 | T. Rowe Price | 64 | Medium | 2026-07-23 | gpt-5.6-terra | No | T. Rowe Price Group, TROW | Well-regarded asset manager with solid technology roles and a credible financial-services signal, though its engineering brand is not broadly viewed as top-tier tech. |
 | The Washington Post | 64 | Medium | 2026-08-02 | gpt-5.6-terra | No | Washington Post, Washpost | Prominent media institution with meaningful digital-product and engineering work, though not a leading software employer. |
+| Trainline | 64 | High | 2026-11-18 | gpt-5.6-terra | No | Thetrainline.com, trainlinegroup.com | A widely recognized European travel-tech platform with meaningful consumer scale and complex web, mobile, data, and ticketing systems. It is a solid software internship signal, though its engineering brand and selectivity are not generally viewed as top-tier across the broader technology industry. |
 | TransUnion | 64 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-recognized data and credit-information company with substantial technology work, though not generally viewed as elite tech. |
 | Tricentis | 64 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known test-automation company with a credible engineering product brand, particularly in quality tooling. |
 | TTP | 64 | Medium | 2026-10-19 | gpt-5.6-terra | No | The Technology Partnership, TTP Group, ttp.com | Established deep-tech and product-development consultancy with a real software engineering practice, technically demanding internships, and strong specialist credibility in healthtech, communications, and complex physical systems; its engineering brand is solid but less broadly recognized than leading software companies. |

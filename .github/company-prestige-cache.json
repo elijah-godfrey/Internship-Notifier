@@ -43567,6 +43567,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "trainline": {
+      "aliases": [
+        "Thetrainline.com",
+        "trainlinegroup.com"
+      ],
+      "confidence": "high",
+      "display_name": "Trainline",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "A widely recognized European travel-tech platform with meaningful consumer scale and complex web, mobile, data, and ticketing systems. It is a solid software internship signal, though its engineering brand and selectivity are not generally viewed as top-tier across the broader technology industry.",
+      "reviewed_at": "2026-11-18",
+      "rubric_version": "prestige-v2"
+    },
     "trajekt sports": {
       "aliases": [
         "Trajekt"
