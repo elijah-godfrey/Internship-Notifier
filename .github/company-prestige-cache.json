@@ -18686,6 +18686,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "giro": {
+      "aliases": [
+        "Le Groupe en informatique et recherche op\u00e9rationnelle",
+        "giro.ca",
+        "HASTUS",
+        "GeoRoute"
+      ],
+      "confidence": "medium",
+      "display_name": "GIRO",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Established, globally deployed enterprise software company with a credible specialization in operations-research and optimization systems for transit and postal operations. It offers meaningful technical work, particularly in algorithms and large-scale business software, but has limited broad recognition outside its niche.",
+      "reviewed_at": "2026-11-18",
+      "rubric_version": "prestige-v2"
+    },
     "gitai": {
       "aliases": [],
       "confidence": "low",

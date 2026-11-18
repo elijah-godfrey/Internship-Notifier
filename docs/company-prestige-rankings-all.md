@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3879** of **3879** cached companies (all cached companies).
+Showing **3880** of **3880** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1062,6 +1062,7 @@ Showing **3879** of **3879** cached companies (all cached companies).
 | Fable Security Inc | 64 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | $31M launch financing led by Greylock and Redpoint is a meaningful positive signal, but it is a very young company with an emerging—not yet broadly established—software-engineering brand. |
 | FAST Enterprises | 64 | Medium | 2026-08-14 | gpt-5.6-terra | No | - | Well-regarded niche provider of government software, offering a solid technical signal but limited broad consumer-tech recognition. |
 | Freddie Mac | 64 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized financial institution with substantial technology operations and a solid engineering signal. |
+| GIRO | 64 | Medium | 2026-11-18 | gpt-5.6-terra | No | Le Groupe en informatique et recherche opérationnelle, giro.ca, HASTUS, GeoRoute | Established, globally deployed enterprise software company with a credible specialization in operations-research and optimization systems for transit and postal operations. It offers meaningful technical work, particularly in algorithms and large-scale business software, but has limited broad recognition outside its niche. |
 | Gitar, Inc. | 64 | High | 2026-10-16 | gpt-5.6-terra | No | Gitar AI | Developer-tools focus, funding, and acquisition provide a solid technical signal, but its very short independent history and limited standalone name recognition keep it below top-tier internship prestige. |
 | Gorgias | 64 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-known e-commerce customer-support SaaS company with a credible startup engineering signal. |
 | Gritt Robotics Inc | 64 | Medium | 2026-10-16 | gpt-5.6-terra | No | Gritt, Gritt AI | $32.4M backing from notable venture firms and technically credible robotics focus make it a solid positive signal, but its very recent emergence from stealth and limited broad engineering-brand recognition keep it below top-tier prestige. |
