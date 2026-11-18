@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3877** of **3877** cached companies (all cached companies).
+Showing **3879** of **3879** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -628,6 +628,7 @@ Showing **3877** of **3877** cached companies (all cached companies).
 | Crosby | 69 | High | 2026-10-16 | gpt-5.6-terra | No | Crosby Legal, Crosby AI law firm | Engineering signal is strengthened by prominent venture backing (including Sequoia, Index Ventures, Bain Capital Ventures, and Lux Capital), substantial reported funding, and an engineering-led product organization. |
 | Deel | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known global HR and payroll technology company with a solid engineering signal, though not generally viewed as top-tier technically. |
 | Euronext | 69 | High | 2026-08-02 | gpt-5.6-terra | No | - | Major exchange operator offering consequential financial-market technology work; solid, specialized engineering signal. |
+| Firefly Aerospace | 69 | Medium | 2026-11-18 | gpt-5.6-terra | No | Firefly, Firefly Space Systems, FLY | A respected commercial-space employer with meaningful flight, lunar-landing, and aerospace software work. It is a strong specialized engineering signal, though its software brand and internship selectivity are less broadly established than top-tier technology or major aerospace leaders. |
 | Firetiger | 69 | High | 2026-10-16 | gpt-5.6-terra | No | - | Sequoia backing and August 2026 team acquisition by Cursor create a solid technical signal, but its short independent history and limited standalone brand recognition keep it below top-tier. |
 | Fireworks AI | 69 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | An emerging AI infrastructure company with a promising technical signal, though its selectivity and lasting brand are less established. |
 | Ford Motor Company | 69 | High | 2026-08-02 | gpt-5.6-terra | No | Ford | Globally recognized automotive company with substantial software and embedded-systems work; a solid signal, though not a top software employer. |
@@ -2531,6 +2532,7 @@ Showing **3877** of **3877** cached companies (all cached companies).
 | RXO | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized logistics technology company, though its engineering reputation is primarily industry-specific. |
 | Scientific Research Corporation | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | SRC | Established government and defense technology contractor with relevant technical work, but limited broad software-industry recognition. |
 | Sherwin-Williams | 49 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-established industrial brand with internal technology opportunities, but little standalone software engineering prestige. |
+| Smarty | 49 | Medium | 2026-11-18 | gpt-5.6-terra | No | SmartyStreets, smarty.com | Established private address-intelligence/API company with a genuine engineering product and software internship, but its recognition and selectivity appear primarily regional and niche rather than broadly top-tier among software employers. |
 | Sunbird Software | 49 | Medium | 2026-09-04 | gpt-5.6-terra | No | Sunbird DCIM | Recognized in the specialized data-center infrastructure-management software market, but its engineering brand is niche. |
 | SupplyHouse.com | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | SupplyHouse | Established e-commerce company with relevant engineering work, but limited broad prestige or selectivity in software hiring. |
 | TechInsights | 49 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized technology and semiconductor intelligence firm, with a specialized rather than broadly prestigious engineering brand. |

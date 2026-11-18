@@ -16599,6 +16599,21 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "firefly aerospace": {
+      "aliases": [
+        "Firefly",
+        "Firefly Space Systems",
+        "FLY"
+      ],
+      "confidence": "medium",
+      "display_name": "Firefly Aerospace",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 69,
+      "reason": "A respected commercial-space employer with meaningful flight, lunar-landing, and aerospace software work. It is a strong specialized engineering signal, though its software brand and internship selectivity are less broadly established than top-tier technology or major aerospace leaders.",
+      "reviewed_at": "2026-11-18",
+      "rubric_version": "prestige-v2"
+    },
     "firemon": {
       "aliases": [],
       "confidence": "medium",
@@ -38939,6 +38954,20 @@
       "reason": "Well-regarded adtech and marketing-automation company with a credible product-engineering reputation, though niche relative to top general-tech firms.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "smarty": {
+      "aliases": [
+        "SmartyStreets",
+        "smarty.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Smarty",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 49,
+      "reason": "Established private address-intelligence/API company with a genuine engineering product and software internship, but its recognition and selectivity appear primarily regional and niche rather than broadly top-tier among software employers.",
+      "reviewed_at": "2026-11-18",
+      "rubric_version": "prestige-v2"
     },
     "smith nephew": {
       "aliases": [
