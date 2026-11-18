@@ -38267,6 +38267,17 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "sheetz": {
+      "aliases": [],
+      "confidence": "high",
+      "display_name": "Sheetz",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Well-known regional convenience retailer with a meaningful in-house technology organization supporting large-scale retail operations, apps, and infrastructure. It is a solid industry employer, but its software-engineering brand and selectivity are not broadly viewed as top-tier in the wider technology market.",
+      "reviewed_at": "2026-11-18",
+      "rubric_version": "prestige-v2"
+    },
     "shein": {
       "aliases": [],
       "confidence": "medium",

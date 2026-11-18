@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3881** of **3881** cached companies (all cached companies).
+Showing **3882** of **3882** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2758,6 +2758,7 @@ Showing **3881** of **3881** cached companies (all cached companies).
 | SchoolMint | 48 | Medium | 2026-08-13 | gpt-5.6-terra | No | - | Established education-technology software company with relevant product engineering work, but primarily niche/industry-specific rather than a broadly prestigious engineering signal. |
 | Selective Insurance | 48 | High | 2026-11-10 | gpt-5.6-terra | No | Selective Insurance Group, Inc., Selective Insurance Company of America, SIGI, selective.com | Established publicly traded regional property-and-casualty insurer with a real IT internship and software work, but its engineering brand and selectivity are not broadly recognized as top-tier in software. |
 | Sharecare | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established digital-health company with relevant technology work, though limited broad selectivity or engineering-brand recognition. |
+| Sheetz | 48 | High | 2026-11-18 | gpt-5.6-terra | No | - | Well-known regional convenience retailer with a meaningful in-house technology organization supporting large-scale retail operations, apps, and infrastructure. It is a solid industry employer, but its software-engineering brand and selectivity are not broadly viewed as top-tier in the wider technology market. |
 | Sheridan College | 48 | High | 2026-09-11 | gpt-5.6-terra | No | - | Well-regarded Canadian educational institution, but not broadly a high-prestige software-engineering employer. |
 | Simon Property Group | 48 | Medium | 2026-09-04 | gpt-5.6-terra | No | SPG, Simon | Well-known major real-estate operator with credible enterprise technology exposure, but it is not broadly recognized as a selective or top-tier software engineering employer. |
 | SimonComputing, Inc. | 48 | High | 2026-10-16 | gpt-5.6-terra | No | Simon Computing | Credible software work in modernization, data analytics, cybersecurity, and government systems, but its engineering brand and selectivity are primarily regional and government-contracting specific rather than broadly prestigious across software engineering. |
