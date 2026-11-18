@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3875** of **3875** cached companies (all cached companies).
+Showing **3877** of **3877** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2082,6 +2082,7 @@ Showing **3875** of **3875** cached companies (all cached companies).
 | Blue Robotics | 54 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Well regarded in the niche marine-robotics and open hardware community, with credible technical work but limited mainstream software-brand reach. |
 | Cell Signaling Technology | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | CST | Respected life-sciences company, but software engineering is not its principal external reputation. |
 | Centrica | 54 | High | 2026-08-02 | gpt-5.6-terra | No | British Gas | Established energy-services company, but its technology reputation is primarily tied to its industry rather than software engineering. |
+| CMI Media Group | 54 | Medium | 2026-11-18 | gpt-5.6-terra | No | CMI Media, CMI, cmimediagroup.com, cmimedia.com | Established WPP-owned specialist healthcare media agency with meaningful data, ad-tech, and analytics work, but its employer signal for a software engineering internship is primarily niche agency/marketing technology rather than a broadly recognized engineering brand. |
 | CMiC | 54 | Medium | 2026-08-11 | gpt-5.6-terra | No | Computer Methods International Corp. | Established construction-management software vendor with relevant enterprise engineering work, though its brand is mainly industry-specific rather than broadly elite. |
 | Context | 54 | Low | 2026-10-16 | gpt-5.6-terra | No | Explore Interfaces Inc. | Context (context.ai), the San Francisco AI-agent/AI-native-workspace startup operated by Explore Interfaces Inc. |
 | CoVar | 54 | Medium | 2026-10-19 | gpt-5.6-terra | No | covar.com | A long-running, specialized AI/ML R&D software company with demonstrated defense and government research work, including DARPA-related contracts. It offers substantive technical signal in computer vision and mission software, but remains a small, niche employer without broad software-engineering brand recognition. |
@@ -2442,6 +2443,7 @@ Showing **3875** of **3875** cached companies (all cached companies).
 | Zayo | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | Zayo Group | Recognized fiber-network and infrastructure provider with relevant technical work, but limited broad software-engineering prestige. |
 | Zions Bank | 51 | Medium | 2026-08-02 | gpt-5.6-terra | No | Zions Bancorporation, Zions Bankcorporation | Established regional bank offering credible enterprise technology experience, but limited broader software-engineering prestige. |
 | Beth Israel Lahey Health | 50 | High | 2026-08-02 | gpt-5.6-terra | No | BILH | Major regional healthcare system, but technology roles are not broadly viewed as a standout software engineering signal. |
+| BISSELL | 50 | High | 2026-11-18 | gpt-5.6-terra | No | BISSELL Homecare, Inc. | Established, family-owned global floor-care and consumer-products company with real digital, embedded, IoT, and robotics work. It is a credible internship signal, but its software-engineering brand and selectivity are industry-specific rather than broadly top-tier. |
 | Blockhouse Labs, Inc. | 50 | Medium | 2026-10-16 | gpt-5.6-terra | No | Blockhouse, Blockhouse Capital | Engineering internship centers on production Rust trading systems and low-latency exchange infrastructure, giving it a meaningful niche technical signal; however, it is a small pre-seed company with limited broad employer recognition, so its software-engineering brand is not top-tier. |
 | Blue Cross and Blue Shield of Minnesota | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | Blue Cross Minnesota, BCBSMN | Established regional insurer with substantial enterprise systems, but not a highly selective or widely recognized engineering brand. |
 | BP | 50 | High | 2026-08-02 | gpt-5.6-terra | No | British Petroleum | Globally recognized energy company with meaningful technology operations, but limited prestige specifically for software engineering. |

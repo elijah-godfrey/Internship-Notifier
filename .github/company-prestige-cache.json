@@ -5846,6 +5846,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "bissell": {
+      "aliases": [
+        "BISSELL Homecare, Inc."
+      ],
+      "confidence": "high",
+      "display_name": "BISSELL",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 50,
+      "reason": "Established, family-owned global floor-care and consumer-products company with real digital, embedded, IoT, and robotics work. It is a credible internship signal, but its software-engineering brand and selectivity are industry-specific rather than broadly top-tier.",
+      "reviewed_at": "2026-11-18",
+      "rubric_version": "prestige-v2"
+    },
     "bitgo": {
       "aliases": [],
       "confidence": "high",
@@ -9750,6 +9763,22 @@
       "reason": "Globally recognized derivatives-exchange operator with selective engineering work in high-performance financial systems; a strong finance-tech signal.",
       "reviewed_at": "2026-07-21",
       "rubric_version": "prestige-v1"
+    },
+    "cmi media group": {
+      "aliases": [
+        "CMI Media",
+        "CMI",
+        "cmimediagroup.com",
+        "cmimedia.com"
+      ],
+      "confidence": "medium",
+      "display_name": "CMI Media Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 54,
+      "reason": "Established WPP-owned specialist healthcare media agency with meaningful data, ad-tech, and analytics work, but its employer signal for a software engineering internship is primarily niche agency/marketing technology rather than a broadly recognized engineering brand.",
+      "reviewed_at": "2026-11-18",
+      "rubric_version": "prestige-v2"
     },
     "cmic": {
       "aliases": [
