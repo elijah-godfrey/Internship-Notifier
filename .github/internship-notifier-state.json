@@ -98,7 +98,7 @@
     "qs:url:careers.qualcomm.com/careers/job/446721661677": "2026-10-21",
     "qs:url:careers.qualcomm.com/careers/job/446721678727": "2026-10-22",
     "qs:url:careers.qualcomm.com/careers/job/446721686396": "2026-10-22",
-    "qs:url:careers.qualcomm.com/careers/job/446721822125": "2026-10-28",
+    "qs:url:careers.qualcomm.com/careers/job/446721822125": "2026-11-18",
     "qs:url:careers.qualcomm.com/careers/job/446721828828": "2026-10-28",
     "qs:url:careers.qualcomm.com/careers/job/446721858024": "2026-10-29",
     "qs:url:careers.qualcomm.com/careers/job/446721862429": "2026-11-03",
@@ -209,9 +209,9 @@
   },
   "quant_scraper_posted_baselined": true,
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "01014dc404527ab6c617c125dfe836f5f90664ac",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "b3218649915acc8ab3dfd2cefb15378cb41f55b2",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "7cb7887e7e6f98e8f619f08526d351f0856ad08f"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "d4305eb243f502db88280fcae3fe13be3537761b",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "993c2389fead0463a5c48247cbcf5e4ec3524532",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "4806fb6f9ad37b3f8ef83cbcba9c5b0e46c227a1"
   },
   "seen_apply_keys": [
     "amazon:10550494",
