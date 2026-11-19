@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3882** of **3882** cached companies (all cached companies).
+Showing **3883** of **3883** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3687,6 +3687,7 @@ Showing **3882** of **3882** cached companies (all cached companies).
 | The Kinetic Group | 33 | High | 2026-10-16 | gpt-5.6-terra | No | TKG, The Kinetic Group Operations LLC, Vista Outdoor ammunition business, Kinetic Group | An established, recognizable manufacturing/defense-adjacent employer, but its internships and engineering identity are centered on product, manufacturing, R&D, and operations rather than a notable software-engineering brand or highly selective SWE pipeline. |
 | Wayne County | 33 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Government employer with limited software engineering brand and little selectivity signal for technical careers. |
 | American Cancer Society Cancer Action Network | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized advocacy affiliate, but it has limited standalone software engineering brand or selectivity signal. |
+| Barry's | 32 | High | 2026-11-19 | gpt-5.6-terra | No | Barry's Bootcamp, Barry’s Bootcamp Holdings, LLC, barrys.com | Established global boutique-fitness brand with consumer digital products, but it has limited recognition, selectivity, or reputation as a software-engineering employer; the career signal is primarily fitness and consumer operations rather than technology. |
 | BCforward | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Primarily known as a staffing and services firm rather than a selective software-product engineering employer. |
 | Bob's Discount Furniture | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | Bobs Discount Furniture | Recognized retail employer, but its software engineering reputation is limited and not a major technical career signal. |
 | Cambria Software | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | Cambria Corporation, Cambria Outsourcing, Cambria Software Phils. Inc. | Long operating history supports some relevant engineering experience, but it has limited broad software-engineering brand recognition or evidence of unusually selective technical hiring. |

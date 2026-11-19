@@ -5208,6 +5208,21 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "barry s": {
+      "aliases": [
+        "Barry's Bootcamp",
+        "Barry\u2019s Bootcamp Holdings, LLC",
+        "barrys.com"
+      ],
+      "confidence": "high",
+      "display_name": "Barry's",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Established global boutique-fitness brand with consumer digital products, but it has limited recognition, selectivity, or reputation as a software-engineering employer; the career signal is primarily fitness and consumer operations rather than technology.",
+      "reviewed_at": "2026-11-19",
+      "rubric_version": "prestige-v2"
+    },
     "barry wehmiller": {
       "aliases": [],
       "confidence": "medium",
