@@ -200,8 +200,8 @@
     "qs:workday:cisco.wd5.myworkdayjobs.com:2025977": "2026-10-17",
     "qs:workday:cisco.wd5.myworkdayjobs.com:2026049": "2026-10-24",
     "qs:workday:cisco.wd5.myworkdayjobs.com:2028084": "2026-10-17",
-    "qs:workday:intel.wd1.myworkdayjobs.com:JR0287977": "2026-10-19",
-    "qs:workday:intel.wd1.myworkdayjobs.com:JR0288086": "2026-10-19",
+    "qs:workday:intel.wd1.myworkdayjobs.com:JR0287977": "2026-10-20",
+    "qs:workday:intel.wd1.myworkdayjobs.com:JR0288086": "2026-10-20",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0288661": "2026-10-29",
     "qs:workday:nvidia.wd5.myworkdayjobs.com:JR2025096": "2026-10-31",
     "qs:workday:nvidia.wd5.myworkdayjobs.com:JR2025907": "2026-10-31",
@@ -217,9 +217,9 @@
   },
   "quant_scraper_posted_baselined": true,
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "6b0e6649861b3556217ba243a4bd9f2ffcfbbd1e",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "3fe05c504c636a03b2de21573e7c5fe078d02fb9",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "ff23028efe0734ecc3e6bac378d61acb7899f156"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "49bbeab1ff7d5da2b803efd9d62a3f9a67fe513a",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "56cc0aa85dd29b331eba4453772038693f9bbff8",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "42c7886053b7ba32b2df57c4a4b7f8f53c2bad28"
   },
   "seen_apply_keys": [
     "amazon:10550494",
