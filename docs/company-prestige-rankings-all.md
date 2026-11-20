@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3890** of **3890** cached companies (all cached companies).
+Showing **3891** of **3891** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -700,6 +700,7 @@ Showing **3890** of **3890** cached companies (all cached companies).
 | Hexagon AB | 68 | Medium | 2026-09-04 | gpt-5.6-terra | No | Hexagon | Well-regarded industrial technology and geospatial-software company; a solid technical signal, though not a top generalist software employer. |
 | Howard Hughes Medical Institute (HHMI) | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | HHMI, Howard Hughes Medical Institute | Highly respected biomedical research institution; technical roles carry a strong research signal, though it is not primarily known as a software employer. |
 | Hyundai Motor Company | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Hyundai | Globally recognized automaker with growing software and mobility engineering work; a strong signal, though not a top software-brand employer. |
+| iCapital | 68 | Medium | 2026-11-20 | gpt-5.6-terra | No | iCapital Network, Institutional Capital Network, Inc., icapital.com, icapitalnetwork.com | Well-funded, high-growth fintech with a substantial technology platform in alternative investments and a visible engineering organization. It is a strong finance-tech signal, though its software brand is less broadly recognized or selective than top-tier consumer or infrastructure technology employers. |
 | ID.me | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized digital-identity technology company with consequential engineering work and a solid modern software reputation. |
 | impact.com | 68 | Medium | 2026-08-06 | gpt-5.6-terra | No | Impact | Well-regarded partnership-management SaaS company with a credible engineering product brand, though it lacks the broad selectivity and recognition of top-tier software employers. |
 | Impulse Space | 68 | Medium | 2026-07-22 | gpt-5.6-terra | No | Impulse Space Propulsion | Technically ambitious space company with a promising aerospace engineering signal, but it is young and has not yet built broad, established software-employer recognition. |
