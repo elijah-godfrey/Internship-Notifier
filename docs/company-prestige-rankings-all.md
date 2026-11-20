@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3883** of **3883** cached companies (all cached companies).
+Showing **3885** of **3885** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -863,6 +863,7 @@ Showing **3883** of **3883** cached companies (all cached companies).
 | Adtran | 66 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected networking and telecommunications technology company with meaningful engineering work, though not an elite general software brand. |
 | Alation | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized enterprise data-management software company with a credible engineering brand, though not broadly top-tier. |
 | AlixPartners | 66 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly regarded consulting firm with a selective professional-services reputation, though not principally a software engineering brand. |
+| Amperity | 66 | Medium | 2026-11-20 | gpt-5.6-terra | No | amperity.com | Well-funded enterprise customer-data platform with credible machine-learning and data-engineering work, major-brand customers, and a solid Seattle startup reputation. It is a positive software internship signal, though its engineering brand and selectivity are less broadly recognized than top-tier tech employers. |
 | Andreessen Horowitz | 66 | High | 2026-10-31 | gpt-5.6-terra | No | a16z, AH Capital Management, a16z.com | A highly recognized, selective technology venture-capital firm with a strong startup ecosystem signal. Its core reputation is investing and platform support rather than building software products, so its direct software-engineering internship brand is less established than that of leading technology companies. |
 | Anterior | 66 | Medium | 2026-10-16 | gpt-5.6-terra | No | Co:Helm, Anterior AI | $64M total funding, backing from NEA and Sequoia, and production-oriented payer integrations create a solid technical signal, but it is a young, specialized company without a broadly established software-engineering brand. |
 | Apollo Global | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | Apollo Global Management | Highly recognized alternative-asset manager; technical roles benefit from the firm's finance reputation, though it is not chiefly an engineering brand. |
@@ -2364,6 +2365,7 @@ Showing **3883** of **3883** cached companies (all cached companies).
 | TriNet | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established HR technology and services company, but not widely considered a top software-engineering brand. |
 | UMB Financial Corporation | 52 | Medium | 2026-10-16 | gpt-5.6-terra | No | UMB Bank, UMB | A long-established regional financial institution with meaningful technology operations, but its employer brand is primarily banking rather than a broadly recognized or highly selective software-engineering destination. |
 | University Health Network | 52 | Medium | 2026-08-02 | gpt-5.6-terra | No | UHN | Respected academic health network with technical work in healthcare and research, but a limited general software-engineering brand. |
+| Uplinq | 52 | Low | 2026-11-20 | gpt-5.6-terra | No | Uplinq AI, uplinq.com | Venture-backed AI bookkeeping and tax startup with a real product engineering internship, but limited broad recognition or established software-engineering prestige beyond its fintech niche. |
 | US Foods | 52 | Medium | 2026-09-01 | gpt-5.6-terra | No | US Foods Holding Corp. | Large, established foodservice distributor; a credible enterprise-tech internship but not a prominent software-engineering brand. |
 | V2X | 52 | Medium | 2026-09-03 | gpt-5.6-terra | No | - | Established defense and government-services contractor with substantial technical work, but not a particularly strong general software-engineering brand. |
 | Vantor | 52 | Low | 2026-09-23 | gpt-5.6-terra | No | - | Limited independent employer-brand history under this name; potential specialized technical work does not yet translate to broad software-engineering prestige. |

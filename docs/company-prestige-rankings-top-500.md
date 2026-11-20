@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3883** cached companies (maximum 500).
+Showing **500** of **3885** cached companies (maximum 500).
 
-_The 3383 lowest-scored companies are omitted by the report cap._
+_The 3385 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
