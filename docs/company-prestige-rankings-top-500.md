@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3887** cached companies (maximum 500).
+Showing **500** of **3890** cached companies (maximum 500).
 
-_The 3387 lowest-scored companies are omitted by the report cap._
+_The 3390 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -508,6 +508,7 @@ _The 3387 lowest-scored companies are omitted by the report cap._
 | HBK Capital Management | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | HBK | Respected investment firm with selective quantitative and engineering-adjacent roles, though its software brand is primarily finance-specific. |
 | Hewlett Packard (HP) | 72 | High | 2026-07-21 | gpt-5.6-terra | No | Hewlett Packard, HP Inc. | Long-established global technology brand with credible software and systems engineering recognition, though below the most selective tech firms. |
 | Honeywell | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized industrial and aerospace technology company with substantial engineering credibility; software prestige is strong but not at elite pure-tech level. |
+| Honeywell Aerospace | 72 | High | 2026-11-20 | gpt-5.6-terra | No | Honeywell Aerospace Technologies, Honeywell Aerospace business, Honeywell International aerospace division | Globally recognized aerospace and defense supplier with substantial engineering depth and meaningful embedded, avionics, and safety-critical software work. A strong aerospace/embedded-systems signal, though less broadly prestigious for general software engineering than leading technology firms. |
 | Horizon3 | 72 | Medium | 2026-11-14 | gpt-5.6-terra | No | Horizon3.ai, Horizon3 AI, Inc. | Well-funded, fast-growing cybersecurity company with a technically sophisticated autonomous penetration-testing product and a credible engineering brand in security. It is a strong specialized signal, though less universally recognized or proven selective than top established security or major tech employers. |
 | incident.io | 72 | High | 2026-10-19 | gpt-5.6-terra | No | - | Well-funded, fast-growing incident-management/SRE startup with a credible engineering-led founding team, strong developer-facing product, and adoption by recognizable technology companies. It is a strong startup signal for software engineering, though its name recognition and selectivity are not yet at the level of the most established elite employers. |
 | Intrinsic | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Intrinsic Innovation | Alphabet-backed robotics software company with a strong technical focus, though its employer brand is still relatively niche. |
@@ -521,4 +522,3 @@ _The 3387 lowest-scored companies are omitted by the report cap._
 | Maybell Quantum Industries | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Maybell Quantum | Well-regarded quantum-networking startup with a technically sophisticated and selective engineering profile. |
 | Mercedes-Benz | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Mercedes-Benz Group | Iconic global engineering brand with increasingly substantial automotive-software work and a strong technical career signal. |
 | Merck | 72 | High | 2026-08-02 | gpt-5.6-terra | No | MSD | Globally recognized pharmaceutical company with strong technical and data-oriented work, though not a top software-engineering brand. |
-| Metropolis Technologies | 72 | High | 2026-10-16 | gpt-5.6-terra | No | Metropolis | Scaled real-world ML, software, and edge-device work plus a $500M Series D at roughly a $5B valuation make it a strong and increasingly recognized engineering signal, though it remains less universally established than elite major-tech employers. |

@@ -8136,6 +8136,21 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "cas": {
+      "aliases": [
+        "Chemical Abstracts Service",
+        "CAS, a division of the American Chemical Society",
+        "American Chemical Society"
+      ],
+      "confidence": "high",
+      "display_name": "CAS",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Established scientific-information organization with meaningful engineering work in data and research products, but its software-engineering brand is specialized to chemistry and less broadly selective or recognized than major technology employers.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
+    },
     "cascades": {
       "aliases": [],
       "confidence": "high",
@@ -20896,6 +20911,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "honeywell aerospace": {
+      "aliases": [
+        "Honeywell Aerospace Technologies",
+        "Honeywell Aerospace business",
+        "Honeywell International aerospace division"
+      ],
+      "confidence": "high",
+      "display_name": "Honeywell Aerospace",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 72,
+      "reason": "Globally recognized aerospace and defense supplier with substantial engineering depth and meaningful embedded, avionics, and safety-critical software work. A strong aerospace/embedded-systems signal, though less broadly prestigious for general software engineering than leading technology firms.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
+    },
     "hootsuite": {
       "aliases": [],
       "confidence": "high",
@@ -21447,6 +21477,20 @@
       "reason": "Globally recognized automaker with growing software and mobility engineering work; a strong signal, though not a top software-brand employer.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "ia": {
+      "aliases": [
+        "Innovation Associates",
+        "iarx.com"
+      ],
+      "confidence": "medium",
+      "display_name": "iA",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 50,
+      "reason": "iA appears to be Innovation Associates, a long-running pharmacy-automation company building enterprise software and robotics. It offers meaningful specialized engineering work, but its software-employer reputation is primarily niche and regional rather than broadly elite.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
     },
     "ia collaborative": {
       "aliases": [],

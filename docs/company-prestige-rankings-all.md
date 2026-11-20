@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3887** of **3887** cached companies (all cached companies).
+Showing **3890** of **3890** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -506,6 +506,7 @@ Showing **3887** of **3887** cached companies (all cached companies).
 | HBK Capital Management | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | HBK | Respected investment firm with selective quantitative and engineering-adjacent roles, though its software brand is primarily finance-specific. |
 | Hewlett Packard (HP) | 72 | High | 2026-07-21 | gpt-5.6-terra | No | Hewlett Packard, HP Inc. | Long-established global technology brand with credible software and systems engineering recognition, though below the most selective tech firms. |
 | Honeywell | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized industrial and aerospace technology company with substantial engineering credibility; software prestige is strong but not at elite pure-tech level. |
+| Honeywell Aerospace | 72 | High | 2026-11-20 | gpt-5.6-terra | No | Honeywell Aerospace Technologies, Honeywell Aerospace business, Honeywell International aerospace division | Globally recognized aerospace and defense supplier with substantial engineering depth and meaningful embedded, avionics, and safety-critical software work. A strong aerospace/embedded-systems signal, though less broadly prestigious for general software engineering than leading technology firms. |
 | Horizon3 | 72 | Medium | 2026-11-14 | gpt-5.6-terra | No | Horizon3.ai, Horizon3 AI, Inc. | Well-funded, fast-growing cybersecurity company with a technically sophisticated autonomous penetration-testing product and a credible engineering brand in security. It is a strong specialized signal, though less universally recognized or proven selective than top established security or major tech employers. |
 | incident.io | 72 | High | 2026-10-19 | gpt-5.6-terra | No | - | Well-funded, fast-growing incident-management/SRE startup with a credible engineering-led founding team, strong developer-facing product, and adoption by recognizable technology companies. It is a strong startup signal for software engineering, though its name recognition and selectivity are not yet at the level of the most established elite employers. |
 | Intrinsic | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Intrinsic Innovation | Alphabet-backed robotics software company with a strong technical focus, though its employer brand is still relatively niche. |
@@ -1708,6 +1709,7 @@ Showing **3887** of **3887** cached companies (all cached companies).
 | Cadent | 57 | High | 2026-10-16 | gpt-5.6-terra | No | Cadent ad-tech | Substantive software/ML and media-platform work, including the 2024 acquisition of AdTheorent, but its engineering brand is principally ad-tech-specific rather than broadly top-tier. |
 | Carbon Direct | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible climate-tech and carbon-management company with relevant data and software work, though still niche. |
 | Carrier Global | 57 | High | 2026-08-02 | gpt-5.6-terra | No | Carrier | Recognized industrial technology company with credible engineering work, though its reputation is centered outside software. |
+| CAS | 57 | High | 2026-11-20 | gpt-5.6-terra | No | Chemical Abstracts Service, CAS, a division of the American Chemical Society, American Chemical Society | Established scientific-information organization with meaningful engineering work in data and research products, but its software-engineering brand is specialized to chemistry and less broadly selective or recognized than major technology employers. |
 | Cerence | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized automotive conversational-AI and voice-software specialist, with a solid but niche engineering signal. |
 | CLO Virtual Fashion | 57 | Medium | 2026-08-02 | gpt-5.6-terra | No | CLO | Established 3D fashion-software company with specialized technical credibility, but limited general engineering prestige. |
 | Collier Aerospace | 57 | Medium | 2026-10-19 | gpt-5.6-terra | No | Collier Research and Development Corporation, Collier Research, HyperX, collieraerospace.com | Established, specialized aerospace CAE software company behind HyperX, with credible technical work connected to aerospace and space programs. It is respected within composite-structures analysis but small and niche, so its software-engineering signal is not broadly top-tier. |
@@ -2473,6 +2475,7 @@ Showing **3887** of **3887** cached companies (all cached companies).
 | GFL Environmental Inc | 50 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Recognized Canadian environmental-services company, but software engineering is not its primary reputation or selective brand. |
 | Great Question | 50 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Product-focused research software company, but relatively limited broad recognition and demonstrated selectivity. |
 | Henry Schein | 50 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large healthcare distribution company with enterprise technology needs, but a limited software-engineering brand. |
+| iA | 50 | Medium | 2026-11-20 | gpt-5.6-terra | No | Innovation Associates, iarx.com | iA appears to be Innovation Associates, a long-running pharmacy-automation company building enterprise software and robotics. It offers meaningful specialized engineering work, but its software-employer reputation is primarily niche and regional rather than broadly elite. |
 | JCDecaux | 50 | Medium | 2026-09-30 | gpt-5.6-terra | No | JCDecaux Group | Globally recognized out-of-home advertising company with established digital operations, but limited prominence as a selective software-engineering destination. |
 | Levi Strauss & Co. | 50 | High | 2026-08-02 | gpt-5.6-terra | No | Levi's | Highly recognized consumer brand, but not generally a strong or selective software-engineering career signal. |
 | Luxium Solutions | 50 | Medium | 2026-09-03 | gpt-5.6-terra | No | Luxium | Established photonics and optical-components business with credible niche technical relevance, but limited broad software-engineering brand recognition. |
