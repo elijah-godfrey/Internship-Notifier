@@ -4659,6 +4659,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "avista": {
+      "aliases": [
+        "Avista Utilities",
+        "AVA"
+      ],
+      "confidence": "high",
+      "display_name": "Avista",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Established publicly traded regional electric and natural-gas utility with enterprise technology internships spanning systems, cybersecurity, data, integrations, and software-related work. It offers credible critical-infrastructure experience, but has limited broad software-engineering brand recognition or selectivity relative to major technology employers.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
+    },
     "aviva": {
       "aliases": [],
       "confidence": "medium",
@@ -12007,6 +12021,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "daikin comfort": {
+      "aliases": [
+        "Daikin Comfort Technologies North America",
+        "DNA",
+        "Goodman Global Group",
+        "Goodman"
+      ],
+      "confidence": "medium",
+      "display_name": "Daikin Comfort",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established North American HVAC manufacturer within the global Daikin group, offering a credible industrial technology signal. However, it is not broadly recognized as a selective or top-tier software engineering employer.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
+    },
     "daimler truck": {
       "aliases": [
         "Daimler Truck Holding AG"
@@ -14521,6 +14551,20 @@
       "reason": "Specialized AI-hardware startup with a credible technical focus, but limited broad employer-brand recognition.",
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
+    },
+    "encore": {
+      "aliases": [
+        "Encoretivity AB",
+        "encore.dev"
+      ],
+      "confidence": "low",
+      "display_name": "Encore",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 50,
+      "reason": "Likely the Stockholm developer-tools startup behind an open-source backend infrastructure platform. Its technical focus and venture backing provide a positive engineering signal, but it remains a small, early-stage company with limited broad employer recognition.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
     },
     "endeavor": {
       "aliases": [],
@@ -19672,6 +19716,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "gti energy": {
+      "aliases": [
+        "Gas Technology Institute",
+        "GTI",
+        "Institute of Gas Technology",
+        "gti.energy"
+      ],
+      "confidence": "medium",
+      "display_name": "GTI Energy",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established nonprofit energy R&D organization with a long industry legacy and credible technical work, but its software engineering brand and internship selectivity are primarily energy-sector-specific rather than broadly recognized across software employers.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
+    },
     "gts": {
       "aliases": [],
       "confidence": "medium",
@@ -23510,6 +23570,22 @@
       "prestige_score": 52,
       "reason": "Reported $50M Series A and software-enabled product create a credible early-stage cleantech signal, but it remains a young, niche company without a broadly established software-engineering brand.",
       "reviewed_at": "2026-10-16",
+      "rubric_version": "prestige-v2"
+    },
+    "jewelers mutual group": {
+      "aliases": [
+        "Jewelers Mutual",
+        "Jewelers Mutual Insurance Company",
+        "Jewelers Mutual Holding Company",
+        "jewelersmutual.com"
+      ],
+      "confidence": "high",
+      "display_name": "Jewelers Mutual Group",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established specialty-insurance group with a growing technology organization and modern platform work, but its engineering brand and selectivity remain primarily niche and regional rather than broadly recognized across software.",
+      "reviewed_at": "2026-11-20",
       "rubric_version": "prestige-v2"
     },
     "jingdong": {
@@ -39751,6 +39827,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "southwest power pool": {
+      "aliases": [
+        "SPP"
+      ],
+      "confidence": "high",
+      "display_name": "Southwest Power Pool",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 54,
+      "reason": "A well-established regional grid operator with meaningful mission-critical software and IT work, including developer internships. It is respected in power-system technology, but its engineering brand and selectivity are primarily industry-specific rather than broadly top-tier in software.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
+    },
     "space dynamics laboratory": {
       "aliases": [
         "SDL"
@@ -44599,6 +44688,20 @@
       "reason": "Large, recognizable business-supplies company, but its software roles are not widely regarded as a strong engineering prestige signal.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "ulteig": {
+      "aliases": [
+        "Ulteig Engineers, Inc.",
+        "ulteig.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Ulteig",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established, employee-owned North American infrastructure engineering consultancy with credible digital-transformation and SCADA work. It is a solid industry-specific signal, but its software engineering brand and selectivity are not broadly recognized as top-tier.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
     },
     "ultima genomics": {
       "aliases": [],
