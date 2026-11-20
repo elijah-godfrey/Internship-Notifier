@@ -31800,6 +31800,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "ottawa tourism": {
+      "aliases": [
+        "Ottawa Tourism and Convention Authority, Inc.",
+        "Tourisme Ottawa",
+        "ottawatourism.ca"
+      ],
+      "confidence": "high",
+      "display_name": "Ottawa Tourism",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 27,
+      "reason": "Established regional destination-marketing nonprofit with a recognizable local tourism role, but it is not a software company and has little demonstrated software-engineering recruiting or technical-brand signal.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
+    },
     "otter products": {
       "aliases": [
         "OtterBox"

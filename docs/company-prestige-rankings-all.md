@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3891** of **3891** cached companies (all cached companies).
+Showing **3892** of **3892** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3840,6 +3840,7 @@ Showing **3891** of **3891** cached companies (all cached companies).
 | HealthCorps | 27 | High | 2026-10-16 | gpt-5.6-terra | No | - | An established public-health mission and national reach, but public materials characterize it as a nonprofit program organization rather than a software company and provide little evidence of a recognized engineering organization or selective software-internship pipeline. |
 | Kanshe Infotech | 27 | High | 2026-10-16 | gpt-5.6-terra | No | Kanshe | Public materials emphasize staff augmentation, placement, and cloud/Salesforce services rather than a recognized proprietary engineering product or notably selective software-internship program, yielding limited software-engineering prestige. |
 | Marketing Kitchen Inc. | 27 | High | 2026-10-16 | gpt-5.6-terra | No | - | Some data/IT and software work, but its public profile is primarily a regional advertising/print operations business rather than a recognized software engineering employer, so an SWE internship carries limited technical-brand signal. |
+| Ottawa Tourism | 27 | High | 2026-11-20 | gpt-5.6-terra | No | Ottawa Tourism and Convention Authority, Inc., Tourisme Ottawa, ottawatourism.ca | Established regional destination-marketing nonprofit with a recognizable local tourism role, but it is not a software company and has little demonstrated software-engineering recruiting or technical-brand signal. |
 | Pitt Ohio | 27 | High | 2026-08-02 | gpt-5.6-terra | No | - | Regional transportation and logistics company with limited distinct software-engineering reputation. |
 | Premier Truck Rental | 27 | Medium | 2026-08-02 | gpt-5.6-terra | No | PTR | Primarily a truck-rental business with little visible software-engineering employer prestige. |
 | QC Quality of Course Inc. | 27 | Medium | 2026-10-16 | gpt-5.6-terra | No | QC Career School, QC Event School, QC Makeup Academy, QC Design School, QC Pet Studies, QC Wellness Studies, Winghill Writing School | An established niche distance-education business, but public evidence indicates limited software-engineering brand recognition, technical selectivity, or broader engineering-industry signal. |
