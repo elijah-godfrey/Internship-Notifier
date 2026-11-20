@@ -16911,6 +16911,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "flare": {
+      "aliases": [
+        "Flare Systems",
+        "flare.io"
+      ],
+      "confidence": "medium",
+      "display_name": "Flare",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 67,
+      "reason": "A well-funded, growth-stage cybersecurity company with a credible technical product in threat exposure management and a real software engineering internship program. It is a solid engineering signal in security, though its name recognition and selectivity are below the most established security and infrastructure employers.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
+    },
     "flexera": {
       "aliases": [],
       "confidence": "high",

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3892** of **3892** cached companies (all cached companies).
+Showing **3893** of **3893** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -807,6 +807,7 @@ Showing **3892** of **3892** cached companies (all cached companies).
 | Eli Lilly and Company | 67 | High | 2026-08-02 | gpt-5.6-terra | No | Lilly | Highly respected global pharmaceutical company; software is important but not its primary engineering brand. |
 | Entrust | 67 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known identity, security, and payments technology company with a strong specialized engineering signal. |
 | Field AI | 67 | Medium | 2026-07-28 | gpt-5.6-terra | No | FieldAI | An emerging AI/robotics company with a potentially strong technical profile, though its employer brand and long-term selectivity are less established than major AI labs. |
+| Flare | 67 | Medium | 2026-11-20 | gpt-5.6-terra | No | Flare Systems, flare.io | A well-funded, growth-stage cybersecurity company with a credible technical product in threat exposure management and a real software engineering internship program. It is a solid engineering signal in security, though its name recognition and selectivity are below the most established security and infrastructure employers. |
 | Frontier Health | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Frontier Health AI, Juno, London AI healthtech | AI healthcare-operations product, substantial Atomico-led seed funding, live NHS deployments, and engineering team with publicly stated Google, Apple, DeepMind, and Palantir experience create a solid technical signal. |
 | G2 | 67 | High | 2026-08-02 | gpt-5.6-terra | No | G2 Crowd | Well-known B2B software marketplace with a credible engineering brand, though not typically viewed as top-tier elite. |
 | Galaxy Digital | 67 | Medium | 2026-10-16 | gpt-5.6-terra | No | Galaxy, GLXY | A publicly visible, well-capitalized crypto and infrastructure employer with substantive engineering roles, but its software-engineering brand is more sector-specific than broadly top-tier. |
