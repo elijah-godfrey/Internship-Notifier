@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3885** of **3885** cached companies (all cached companies).
+Showing **3887** of **3887** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3547,6 +3547,7 @@ Showing **3885** of **3885** cached companies (all cached companies).
 | LUZCO | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | Luzco Technologies | Established engineering-services firm, but its brand is industry-specific and offers limited software-engineering prestige. |
 | Main Line Health | 38 | High | 2026-08-02 | gpt-5.6-terra | No | - | Regional healthcare system whose reputation is primarily clinical rather than software engineering. |
 | MAT Holdings | 38 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established diversified industrial company, but with limited visible software-engineering brand recognition. |
+| Melaleuca | 38 | Medium | 2026-11-20 | gpt-5.6-terra | No | Melaleuca: The Wellness Company, The Wellness Company, melaleuca.com | Established international consumer-products and direct-selling company with an internal IT organization, but it has limited recognition, selectivity signal, or reputation as a software engineering employer relative to technology-focused companies. |
 | Montgomery Investment Technology, Inc. | 38 | High | 2026-10-16 | gpt-5.6-terra | No | MITI, FinTools | A long-running but small, specialized private firm with a real programming internship and quantitative software work; however, its engineering brand and selectivity have limited recognition outside its niche. |
 | New Jersey Innovation Authority | 38 | Medium | 2026-10-16 | gpt-5.6-terra | No | NJIA, New Jersey State Office of Innovation | Work includes digital public-service products and technology modernization, but it is too new and regionally focused to have an established, broadly recognized software-engineering employer brand. |
 | Novogradac | 38 | Medium | 2026-08-03 | gpt-5.6-terra | No | - | Respected specialist accounting and consulting firm, though its software-engineering employer signal is limited. |
@@ -3801,6 +3802,7 @@ Showing **3885** of **3885** cached companies (all cached companies).
 | Compassion International | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established nonprofit, but not a notable or selective software-engineering employer signal. |
 | CRG Defense | 28 | Low | 2026-10-04 | gpt-5.6-terra | No | - | Limited broadly recognizable software-engineering brand and unclear evidence of selectivity or technical reputation; likely a niche defense-sector signal rather than a widely portable one. |
 | Echelon Insights | 28 | Low | 2026-09-19 | gpt-5.6-terra | No | - | Limited broadly verifiable software-engineering brand recognition; likely a niche or smaller organization. |
+| EFI Foundation | 28 | Medium | 2026-11-20 | gpt-5.6-terra | No | EFIF, Energy Futures Initiative, efifoundation.org | A credible Washington energy-policy nonprofit founded by former U.S. Energy Secretary Ernest Moniz, with technical research and data-analysis work. However, it is small and not broadly recognized as a software-engineering employer, so its SWE internship signal is limited. |
 | Elevations Credit Union | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Regional financial institution with limited software-engineering brand recognition. |
 | Encephalo Investments | 28 | Low | 2026-10-16 | gpt-5.6-terra | No | Encephalo | Public materials show a limited 2–10-person firm and an inconsistent current real-estate operating identity; there is little evidence of broad software-engineering recognition or established technical selectivity. |
 | Essos Technologies Incorporated | 28 | Medium | 2026-10-16 | gpt-5.6-terra | No | Essos, Essos Health | A real software-enabled product business, but public evidence does not establish broad software-engineering recognition, demonstrated internship selectivity, or a strong engineering-employer brand. |

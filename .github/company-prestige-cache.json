@@ -13944,6 +13944,21 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "efi foundation": {
+      "aliases": [
+        "EFIF",
+        "Energy Futures Initiative",
+        "efifoundation.org"
+      ],
+      "confidence": "medium",
+      "display_name": "EFI Foundation",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "A credible Washington energy-policy nonprofit founded by former U.S. Energy Secretary Ernest Moniz, with technical research and data-analysis work. However, it is small and not broadly recognized as a software-engineering employer, so its SWE internship signal is limited.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
+    },
     "egis group": {
       "aliases": [
         "Egis"
@@ -27329,6 +27344,21 @@
       "reason": "Known in cloud consulting and managed services, particularly in Asia, but has more industry-specific than broad software-engineering prestige.",
       "reviewed_at": "2026-09-12",
       "rubric_version": "prestige-v1"
+    },
+    "melaleuca": {
+      "aliases": [
+        "Melaleuca: The Wellness Company",
+        "The Wellness Company",
+        "melaleuca.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Melaleuca",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 38,
+      "reason": "Established international consumer-products and direct-selling company with an internal IT organization, but it has limited recognition, selectivity signal, or reputation as a software engineering employer relative to technology-focused companies.",
+      "reviewed_at": "2026-11-20",
+      "rubric_version": "prestige-v2"
     },
     "melius": {
       "aliases": [
