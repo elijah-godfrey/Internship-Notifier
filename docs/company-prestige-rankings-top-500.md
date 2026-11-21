@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3900** cached companies (maximum 500).
+Showing **500** of **3910** cached companies (maximum 500).
 
-_The 3400 lowest-scored companies are omitted by the report cap._
+_The 3410 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -430,6 +430,7 @@ _The 3400 lowest-scored companies are omitted by the report cap._
 | Ampere | 73 | Medium | 2026-08-02 | gpt-5.6-terra | No | Ampere Computing | Assuming Ampere Computing: a respected specialized chip company with a strong systems and infrastructure engineering signal. |
 | AVEVA | 73 | High | 2026-07-20 | gpt-5.6-terra | No | - | Widely respected industrial software company with a strong domain-engineering reputation, though less broadly prestigious than leading consumer or cloud software firms. |
 | Axiom Space | 73 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Commercial space company with technically demanding engineering work and a strong aerospace signal, though not software-centric. |
+| Biohub | 73 | Medium | 2026-11-21 | gpt-5.6-terra | No | Chan Zuckerberg Biohub, CZ Biohub, biohub.org | A well-funded, high-profile nonprofit research organization with a growing frontier AI-for-biology engineering brand and strong technical work, though its software-engineering reputation is more specialized and less broadly established than elite general-tech employers. |
 | Ciena | 73 | High | 2026-07-18 | gpt-5.6-terra | No | - | Well-regarded networking and telecommunications technology company with a strong systems and infrastructure engineering signal. |
 | Crusoe | 73 | Medium | 2026-08-02 | gpt-5.6-terra | No | Crusoe Energy Systems | Prominent AI and cloud-infrastructure startup with a growing, technically strong engineering signal. |
 | DraftKings | 73 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer technology company with substantial engineering needs; a strong, selective signal in gaming and online-platform software. |
@@ -521,4 +522,3 @@ _The 3400 lowest-scored companies are omitted by the report cap._
 | Marqeta | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized payments-API fintech with a strong modern engineering and infrastructure reputation. |
 | Maybell Quantum Industries | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Maybell Quantum | Well-regarded quantum-networking startup with a technically sophisticated and selective engineering profile. |
 | Mercedes-Benz | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Mercedes-Benz Group | Iconic global engineering brand with increasingly substantial automotive-software work and a strong technical career signal. |
-| Merck | 72 | High | 2026-08-02 | gpt-5.6-terra | No | MSD | Globally recognized pharmaceutical company with strong technical and data-oriented work, though not a top software-engineering brand. |

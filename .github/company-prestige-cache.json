@@ -5853,6 +5853,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "biohub": {
+      "aliases": [
+        "Chan Zuckerberg Biohub",
+        "CZ Biohub",
+        "biohub.org"
+      ],
+      "confidence": "medium",
+      "display_name": "Biohub",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 73,
+      "reason": "A well-funded, high-profile nonprofit research organization with a growing frontier AI-for-biology engineering brand and strong technical work, though its software-engineering reputation is more specialized and less broadly established than elite general-tech employers.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
+    },
     "biomed realty": {
       "aliases": [
         "BioMed Realty Trust, Inc."
@@ -14970,6 +14985,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "ep wealth advisors": {
+      "aliases": [
+        "EP Wealth",
+        "EP Wealth Advisors Holdings, LLC"
+      ],
+      "confidence": "medium",
+      "display_name": "EP Wealth Advisors",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established national registered investment adviser with meaningful scale and an internal data/technology function, but it is primarily a wealth-management firm rather than a recognized software-engineering employer; its technical internship signal is therefore industry-specific and moderate.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
+    },
     "epia neuro": {
       "aliases": [],
       "confidence": "high",
@@ -19497,6 +19526,21 @@
       "reason": "Product-focused research software company, but relatively limited broad recognition and demonstrated selectivity.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "great southern wood preserving": {
+      "aliases": [
+        "GSWP",
+        "YellaWood",
+        "yellawood.com"
+      ],
+      "confidence": "high",
+      "display_name": "Great Southern Wood Preserving",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Established, sizable manufacturer behind the YellaWood brand with regional and industry recognition, but it is a wood-products business rather than a software company. Its public technology presence appears centered on internal IT and operational systems, so a software engineering internship carries limited broader engineering-brand signal.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
     },
     "greatamerica financial services": {
       "aliases": [
@@ -25883,6 +25927,20 @@
       "reviewed_at": "2026-09-05",
       "rubric_version": "prestige-v1"
     },
+    "los angeles dodgers": {
+      "aliases": [
+        "LA Dodgers",
+        "Brooklyn Dodgers"
+      ],
+      "confidence": "medium",
+      "display_name": "Los Angeles Dodgers",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Iconic MLB franchise with a credible Baseball Systems and R&D engineering function, giving an internship solid sports-technology and data-platform signal. Its software engineering brand is respected but specialized rather than broadly top-tier across technology.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
+    },
     "louis dreyfus": {
       "aliases": [
         "LDC"
@@ -27769,6 +27827,20 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "mesirow": {
+      "aliases": [
+        "Mesirow Financial",
+        "Mesirow Financial Holdings, Inc."
+      ],
+      "confidence": "medium",
+      "display_name": "Mesirow",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established employee-owned Chicago financial-services firm with meaningful capital-markets and investment-banking operations, but it is not widely recognized as a software-engineering employer and its technology roles appear primarily internal enterprise/financial-services focused.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
+    },
     "meta": {
       "aliases": [
         "Meta Platforms",
@@ -28125,6 +28197,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "milliman": {
+      "aliases": [
+        "Milliman & Robertson",
+        "milliman.com"
+      ],
+      "confidence": "high",
+      "display_name": "Milliman",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Established, globally recognized actuarial and risk-consulting firm with meaningful software, data, and insurance-technology work. It is a strong domain-specific signal, though its software-engineering brand is less broadly prestigious than leading technology employers.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
+    },
     "mind robotics": {
       "aliases": [
         "Rivian spinoff Mind Robotics"
@@ -28395,6 +28481,20 @@
       "reason": "Strong machine-learning and advertising-technology reputation, with a technically demanding engineering brand and selective profile.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "mom s meals": {
+      "aliases": [
+        "Mom\u2019s Meals",
+        "PurFoods"
+      ],
+      "confidence": "high",
+      "display_name": "Mom's Meals",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established national medically tailored meal provider with an internal engineering organization, but it is not a recognized software employer; its technical brand and internship selectivity appear limited.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
     },
     "moment energy": {
       "aliases": [],
@@ -32445,6 +32545,23 @@
       "reason": "Recognized reinsurance company with technical roles, though it has limited standalone software-engineering brand strength.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "pason": {
+      "aliases": [
+        "Pason Systems",
+        "Pason Well Services Ltd.",
+        "pason.com",
+        "TSX: PSI",
+        "OTC: PSYTF"
+      ],
+      "confidence": "medium",
+      "display_name": "Pason",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 57,
+      "reason": "Established public energy-technology company with meaningful embedded, real-time data, cloud, and industrial software work in drilling and energy storage. It is a respected specialized employer, but its software-engineering brand and internship selectivity are not broadly comparable to top general-tech firms.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
     },
     "path robotics": {
       "aliases": [
@@ -39772,6 +39889,21 @@
       "reason": "Well-established utility employer, but its software-engineering brand is primarily industry-specific.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "southern farm bureau life": {
+      "aliases": [
+        "Southern Farm Bureau Life Insurance Company",
+        "SFBLI",
+        "sfbli.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Southern Farm Bureau Life",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 47,
+      "reason": "Long-established regional life insurer with IT and data-engineering work, but limited broad recognition or evidence of top-tier software-engineering selectivity.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
     },
     "southern new hampshire university": {
       "aliases": [
@@ -47235,6 +47367,21 @@
       "reason": "Well-known autonomous-driving company with credible robotics and AI engineering work; selective technical signal.",
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
+    },
+    "werner": {
+      "aliases": [
+        "Werner Electric Supply",
+        "onewerner.com",
+        "wernerelectric.com"
+      ],
+      "confidence": "high",
+      "display_name": "Werner",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Established regional electrical-products distributor with IT and AI internship roles, but limited broader software-engineering brand recognition or demonstrated technical selectivity.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
     },
     "west bend insurance": {
       "aliases": [
