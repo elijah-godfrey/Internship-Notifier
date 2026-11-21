@@ -24910,6 +24910,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "kstc": {
+      "aliases": [
+        "Kentucky Science and Technology Corporation",
+        "Kentucky Science and Technology Council, Inc."
+      ],
+      "confidence": "high",
+      "display_name": "KSTC",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 32,
+      "reason": "Established Kentucky nonprofit focused on innovation programs, commercialization, STEM, and economic development rather than a recognized software-product or engineering employer. Its regional mission offers some relevant technology exposure, but it carries limited standalone software-engineering prestige or selectivity signal.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
+    },
     "kulicke and soffa": {
       "aliases": [
         "K&S"

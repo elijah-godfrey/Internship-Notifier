@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3912** of **3912** cached companies (all cached companies).
+Showing **3913** of **3913** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3735,6 +3735,7 @@ Showing **3912** of **3912** cached companies (all cached companies).
 | Hubs.is | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | Hubs | An early-access, founder-led product company with some technical AI/product signal, but limited public evidence of broad industry recognition, established engineering reputation, or demonstrated selectivity for software engineering internships. |
 | JK Moving Services | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | JK Moving | Established moving-services business, but it has little relevant software-engineering employer prestige. |
 | Kelso Industries | 32 | High | 2026-10-16 | gpt-5.6-terra | No | - | Meaningful industry scale and growth, but public materials position it as a construction/facilities operator rather than a software employer; its software-engineering brand and internship selectivity appear limited. |
+| KSTC | 32 | High | 2026-11-21 | gpt-5.6-terra | No | Kentucky Science and Technology Corporation, Kentucky Science and Technology Council, Inc. | Established Kentucky nonprofit focused on innovation programs, commercialization, STEM, and economic development rather than a recognized software-product or engineering employer. Its regional mission offers some relevant technology exposure, but it carries limited standalone software-engineering prestige or selectivity signal. |
 | Lumbermen's | 32 | High | 2026-11-06 | gpt-5.6-terra | No | lumbermens-inc.com | Regional employee-owned building-materials manufacturer and distributor with a genuine internal software internship, but limited recognition and selectivity as a software-engineering employer. |
 | MedElite | 32 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Healthcare-services brand with limited known software-engineering reputation or selectivity signal. |
 | Mobile Data Technologies | 32 | Medium | 2026-10-16 | gpt-5.6-terra | No | MDT | A small, specialized hardware/software firm rather than a broadly recognized software employer, so it provides limited general software-engineering prestige despite relevant technical product work. |
