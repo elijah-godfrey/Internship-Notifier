@@ -237,9 +237,9 @@
   },
   "quant_scraper_posted_baselined": true,
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "ac7626ecb537758bf4a36a7e3db607b1b42ad94c",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "d43a0fecb12eb614f0ecbd7a255433d5c3dcc85c",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "ad0ade5e6b81a8b8f904b7e70b12695321a6ddbf"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "191d072737cdd49f5193debb850569a9e7450cd2",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "a7db8bbc5aff50caf656740b76397e36ababf1a4",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "558eafef4a704561a0f154ed5b955910a0717285"
   },
   "seen_apply_keys": [
     "amazon:10550494",
