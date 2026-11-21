@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3910** of **3910** cached companies (all cached companies).
+Showing **3912** of **3912** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2569,6 +2569,7 @@ Showing **3910** of **3910** cached companies (all cached companies).
 | AccuWeather | 48 | High | 2026-07-18 | gpt-5.6-terra | No | - | Established weather-data brand with technical relevance, but limited prestige as a software employer. |
 | Ace Hardware | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known retail brand with technology roles, but not a particularly strong software engineering prestige signal. |
 | Actian | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established data-management software vendor, though its engineering brand is less prominent than leading infrastructure companies. |
+| Acuity Insurance | 48 | Medium | 2026-11-21 | gpt-5.6-terra | No | Acuity, Acuity, A Mutual Insurance Company, acuity.com | Established regional mutual property-and-casualty insurer with a meaningful internal technology organization and software roles, but limited broad recognition or selectivity as a software-engineering employer outside insurance and the Midwest. |
 | Advance Auto Parts | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Large recognizable retailer with internal technology roles, but limited standalone prestige as a software-engineering employer. |
 | Advocate Health Care | 48 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known regional healthcare provider, but its engineering brand is primarily internal health-system technology rather than software product development. |
 | Aevex Aerospace | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized aerospace and defense technology employer with relevant systems work, but limited broad software-brand recognition. |
@@ -2707,6 +2708,7 @@ Showing **3910** of **3910** cached companies (all cached companies).
 | M3USA | 48 | Medium | 2026-09-08 | gpt-5.6-terra | No | M3 USA | Recognized healthcare and market-research business within the M3 group, but its software engineering brand is more industry-specific than a strong general technology career signal. |
 | Mackenzie Investments | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established Canadian asset manager, though it has limited standalone prestige as a software engineering destination. |
 | Marriott Vacations Worldwide | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | MVW | Recognized travel and hospitality business, though not a notably selective or prominent software-engineering brand. |
+| Mawer Investment Management | 48 | Medium | 2026-11-21 | gpt-5.6-terra | No | Mawer, Mawer & Associates, Mawer Investment Management U.S. LLC | Established independent asset manager with a credible internal technology function, but its reputation and internships are centered on investment management rather than a broadly recognized software-engineering brand. It is a positive niche signal in financial-services technology, with limited general software-industry prestige. |
 | Maxinsights | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | Max Insights | Embodied-AI focus, external funding listings, and technical roles provide a relevant emerging signal, but it remains a small, young company without broad established software-engineering prestige or demonstrated internship selectivity. |
 | MCG Health | 48 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Established healthcare-technology company, though its software brand is mainly sector-specific. |
 | Medline | 48 | High | 2026-08-02 | gpt-5.6-terra | No | Medline Industries | Established medical-supply company, though it is not broadly recognized for software engineering or technical selectivity. |

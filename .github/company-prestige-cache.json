@@ -678,6 +678,21 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "acuity insurance": {
+      "aliases": [
+        "Acuity",
+        "Acuity, A Mutual Insurance Company",
+        "acuity.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Acuity Insurance",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established regional mutual property-and-casualty insurer with a meaningful internal technology organization and software roles, but limited broad recognition or selectivity as a software-engineering employer outside insurance and the Midwest.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
+    },
     "acumatica": {
       "aliases": [
         "Acumatica Cloud ERP"
@@ -27190,6 +27205,21 @@
       "reason": "Well-regarded proprietary trading firm with a selective quantitative trading and engineering reputation.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "mawer investment management": {
+      "aliases": [
+        "Mawer",
+        "Mawer & Associates",
+        "Mawer Investment Management U.S. LLC"
+      ],
+      "confidence": "medium",
+      "display_name": "Mawer Investment Management",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Established independent asset manager with a credible internal technology function, but its reputation and internships are centered on investment management rather than a broadly recognized software-engineering brand. It is a positive niche signal in financial-services technology, with limited general software-industry prestige.",
+      "reviewed_at": "2026-11-21",
+      "rubric_version": "prestige-v2"
     },
     "maxima": {
       "aliases": [
