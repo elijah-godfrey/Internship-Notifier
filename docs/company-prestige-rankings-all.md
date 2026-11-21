@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3913** of **3913** cached companies (all cached companies).
+Showing **3914** of **3914** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -732,6 +732,7 @@ Showing **3913** of **3913** cached companies (all cached companies).
 | Nebius | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | Nebius Group | Emerging AI-cloud infrastructure company with a technically relevant brand, though its internship signal is still less proven than leading cloud employers. |
 | Nectar Social | 68 | High | 2026-10-16 | gpt-5.6-terra | No | Mihafa, Inc., Nectar, Mihafa Inc dba Nectar Social | $30M Series A led by Menlo Ventures, with participation from GV and True Ventures, and technically substantive agentic-AI product create a solid engineering signal; however, it is a young, still-emerging company without the broad or long-established software-engineering reputation of top-tier employers. |
 | NeoCognition | 68 | Medium | 2026-10-16 | gpt-5.6-terra | No | NeoCognition Labs | $40M seed round and founding AI-research team provide a strong early technical signal, but it is newly out of stealth and lacks an established software-engineering employer brand. |
+| Neros | 68 | Medium | 2026-11-21 | gpt-5.6-terra | No | Neros Technologies, Neros Tech, neros.tech | Fast-growing, well-funded defense-drone company with credible government traction and technically demanding autonomy, embedded, and manufacturing work. It is a strong emerging defense-tech signal, but its software-engineering brand and selectivity are not yet as established or broadly recognized as top-tier firms. |
 | Nike | 68 | High | 2026-08-31 | gpt-5.6-terra | No | - | Globally recognized brand with substantial digital and technology work; a solid engineering signal, though not primarily known as a top software employer. |
 | Nio | 68 | High | 2026-07-18 | gpt-5.6-terra | No | - | Recognized EV maker with meaningful software and autonomous-vehicle engineering relevance, though not top-tier software prestige. |
 | Nokia | 68 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized telecommunications company with substantial engineering heritage, but a less prominent general software-engineering signal than top software firms. |
