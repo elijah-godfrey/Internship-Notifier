@@ -1362,6 +1362,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "aj bell": {
+      "aliases": [
+        "AJ Bell Investcentre",
+        "AJB"
+      ],
+      "confidence": "high",
+      "display_name": "AJ Bell",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 64,
+      "reason": "Established UK-listed investment-platform company with a meaningful in-house engineering organization and technically consequential fintech products. It is a solid, credible software internship signal, though its engineering brand and selectivity are not broadly viewed as top-tier globally.",
+      "reviewed_at": "2026-11-23",
+      "rubric_version": "prestige-v2"
+    },
     "akamai technologies": {
       "aliases": [
         "Akamai"

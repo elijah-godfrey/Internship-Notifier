@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3916** of **3916** cached companies (all cached companies).
+Showing **3917** of **3917** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1044,6 +1044,7 @@ Showing **3916** of **3916** cached companies (all cached companies).
 | 3M | 64 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected industrial technology employer, though its software engineering brand is secondary to materials and manufacturing. |
 | ACI Worldwide | 64 | High | 2026-07-18 | gpt-5.6-terra | No | ACI | Established payments-software company with credible transaction-platform engineering work and a solid fintech signal. |
 | Advanced Energy | 64 | Medium | 2026-07-18 | gpt-5.6-terra | No | Advanced Energy Industries, AEI | Established power-conversion and semiconductor-equipment company with credible engineering work, though not a widely recognized software employer. |
+| AJ Bell | 64 | High | 2026-11-23 | gpt-5.6-terra | No | AJ Bell Investcentre, AJB | Established UK-listed investment-platform company with a meaningful in-house engineering organization and technically consequential fintech products. It is a solid, credible software internship signal, though its engineering brand and selectivity are not broadly viewed as top-tier globally. |
 | Axiomatic AI | 64 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Prominent early-stage AI-for-science company with a strong technical profile, though its employer reputation is still developing. |
 | Bandwidth | 64 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established communications-platform company with relevant cloud and telecom engineering work and solid specialized recognition. |
 | Baselayer | 64 | Medium | 2026-10-16 | gpt-5.6-terra | No | Osiris Ratings, Inc. | Recent $35M Series A, credible fintech customers, and technically substantive identity/risk API work create a solid early-stage fintech signal, but it remains a young company without broad top-tier software-engineering brand recognition. |
