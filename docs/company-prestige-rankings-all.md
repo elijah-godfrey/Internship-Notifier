@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3914** of **3914** cached companies (all cached companies).
+Showing **3915** of **3915** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3416,6 +3416,7 @@ Showing **3914** of **3914** cached companies (all cached companies).
 | OptiRTC | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized water-management technology company; relevant technical work but limited broad software-employer recognition. |
 | Pivot Energy | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized clean-energy developer, but it has a limited software-engineering brand relative to technology employers. |
 | Primerica | 42 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized financial-services company, but it has limited software-engineering-specific prestige. |
+| QSL | 42 | Low | 2026-11-23 | gpt-5.6-terra | No | QSL International Ltd., qsl.com | QSL appears to be the Quebec-based North American port-terminal and logistics operator. It has meaningful industry recognition and operational technology needs, but limited broad software-engineering brand or evidence of selective SWE internship recruiting. |
 | Red Wing Shoe Company | 42 | High | 2026-11-06 | gpt-5.6-terra | No | Red Wing Shoes, Red Wing Heritage | Established, globally distributed work-footwear company with a durable consumer and manufacturing brand, but limited recognition or demonstrated selectivity as a software-engineering employer. An internship would be a solid industry-specific signal rather than a broadly prestigious technical one. |
 | Redwood Credit Union | 42 | High | 2026-08-02 | gpt-5.6-terra | No | RCU | Established regional financial institution, but software engineering is not a prominent external employer signal. |
 | Reli | 42 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Early-stage insurance technology company with relevant software work, but limited established engineering-employer recognition. |
