@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3915** of **3915** cached companies (all cached companies).
+Showing **3916** of **3916** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1571,6 +1571,7 @@ Showing **3915** of **3915** cached companies (all cached companies).
 | ezCater | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized marketplace startup with a credible product-engineering environment, though not a broadly top-tier signal. |
 | Fasanara | 58 | Medium | 2026-09-09 | gpt-5.6-terra | No | Fasanara Capital | Fasanara is a recognized alternative-investment firm with meaningful quantitative and technology work, but it has a more specialized finance-sector engineering brand than broadly elite software-employer recognition. |
 | FINRA | 58 | High | 2026-08-02 | gpt-5.6-terra | No | Financial Industry Regulatory Authority | A highly recognized financial-regulatory organization with credible technology work, though not a top software employer brand. |
+| First Resonance | 58 | Medium | 2026-11-23 | gpt-5.6-terra | No | ION Factory OS, ION, firstresonance.io | Specialized, venture-backed manufacturing-software startup with credible hard-tech roots, a modern Factory OS product, and meaningful industry traction. It is a positive signal for industrial software, but remains a small, niche employer without broad software-engineering prestige or a clearly established high-selectivity brand. |
 | Forerunner | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Forerunner Ventures | Well-known consumer-focused venture firm, but software-engineering roles are not its primary employer identity. |
 | Fortive | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial technology parent company with meaningful software-adjacent businesses, but a moderate rather than elite software-engineering signal. |
 | Frazer-Nash Consultancy | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialist engineering consultancy, with software relevance but more domain-specific than broadly recognized. |
