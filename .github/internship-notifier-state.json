@@ -220,6 +220,7 @@
     "qs:workday:cisco.wd5.myworkdayjobs.com:2025977": "2026-10-17",
     "qs:workday:cisco.wd5.myworkdayjobs.com:2026049": "2026-10-24",
     "qs:workday:cisco.wd5.myworkdayjobs.com:2028084": "2026-10-17",
+    "qs:workday:intel.wd1.myworkdayjobs.com:JR0287092": "2026-11-23",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0287977": "2026-10-24",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0288086": "2026-10-24",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0288661": "2026-10-29",
@@ -237,9 +238,9 @@
   },
   "quant_scraper_posted_baselined": true,
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "cf48d1b2cd560c4422bca26a53eb9755d8d9ea9a",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "feb725aef7b5f0842cd0838068607209ff15a537",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "e6e32c9e6f3f78c3acfe727092dc602a17a2fc63"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "80082af0919c50bc438c9081e5212246b704752c",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "7c6a6dcfd4f14f7c139d7f64f13a482edf272f10",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "57812d51c1265b02d700844047251138338838fb"
   },
   "seen_apply_keys": [
     "amazon:10550494",
@@ -495,6 +496,7 @@
     "url:google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
     "url:gresearch.com/vacancies/machine-learning-engineer-intern",
     "url:gresearch.com/vacancies/software-engineering-intern",
+    "url:intel.wd1.myworkdayjobs.com/external/job/us-arizona-phoenix/satas-graduate-research-intern---modeling-and-simulation_jr0287092",
     "url:intel.wd1.myworkdayjobs.com/external/job/us-oregon-hillsboro/process-integration---yield-engineering-phd-intern_jr0288086",
     "url:intel.wd1.myworkdayjobs.com/external/job/us-oregon-hillsboro/process-integration-development-engineer-phd-intern-2027_jr0288661",
     "url:intel.wd1.myworkdayjobs.com/external/job/us-oregon-hillsboro/process-integration-development-engineer-phd-intern-new-2027_jr0287977",
@@ -662,6 +664,7 @@
     "workday:cisco.wd5.myworkdayjobs.com:2025977",
     "workday:cisco.wd5.myworkdayjobs.com:2026049",
     "workday:cisco.wd5.myworkdayjobs.com:2028084",
+    "workday:intel.wd1.myworkdayjobs.com:JR0287092",
     "workday:intel.wd1.myworkdayjobs.com:JR0287977",
     "workday:intel.wd1.myworkdayjobs.com:JR0288086",
     "workday:intel.wd1.myworkdayjobs.com:JR0288661",
@@ -23543,6 +23546,7 @@
     "qs:workday:cisco.wd5.myworkdayjobs.com:2025977",
     "qs:workday:cisco.wd5.myworkdayjobs.com:2026049",
     "qs:workday:cisco.wd5.myworkdayjobs.com:2028084",
+    "qs:workday:intel.wd1.myworkdayjobs.com:JR0287092",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0287977",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0288086",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0288661",
