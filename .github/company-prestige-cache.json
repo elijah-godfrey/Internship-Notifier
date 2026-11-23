@@ -11058,6 +11058,19 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "cornerstone partners": {
+      "aliases": [
+        "cstonellc.com"
+      ],
+      "confidence": "low",
+      "display_name": "CornerStone Partners",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 28,
+      "reason": "Appears to be a specialized outsourced-CIO and investment-management firm, not a software-focused employer. It offers finance-oriented internships, but public evidence provides little indication of a recognized software-engineering brand or selective SWE pipeline.",
+      "reviewed_at": "2026-11-23",
+      "rubric_version": "prestige-v2"
+    },
     "corning": {
       "aliases": [],
       "confidence": "high",
@@ -25591,6 +25604,20 @@
       "prestige_score": 53,
       "reason": "Established global commercial-fitness equipment company with recognized Life Fitness and Hammer Strength brands and meaningful connected-product work, but it is primarily a hardware and fitness business rather than a broadly prestigious software-engineering employer.",
       "reviewed_at": "2026-10-19",
+      "rubric_version": "prestige-v2"
+    },
+    "lifeway": {
+      "aliases": [
+        "Lifeway Christian Resources",
+        "Lifeway Christian Resources of the Southern Baptist Convention"
+      ],
+      "confidence": "medium",
+      "display_name": "Lifeway",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "Established nonprofit Christian publishing and digital-services organization with real software work, including modern web, mobile, backend, and cloud-facing roles. It is well known in its faith-based niche, but has limited broad software-engineering brand recognition and unclear internship selectivity.",
+      "reviewed_at": "2026-11-23",
       "rubric_version": "prestige-v2"
     },
     "liftwerx": {

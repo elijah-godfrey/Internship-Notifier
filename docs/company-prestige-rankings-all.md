@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3918** of **3918** cached companies (all cached companies).
+Showing **3920** of **3920** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3046,6 +3046,7 @@ Showing **3918** of **3918** cached companies (all cached companies).
 | Kontoor Brands | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established apparel company, but its software engineering brand is not a major industry signal. |
 | KSM Technology Partners | 45 | Low | 2026-10-16 | gpt-5.6-terra | No | KSM | A small, specialized technology consultancy with credible regulated-industry engineering work, but limited broad recognition or demonstrated selectivity as a software-engineering employer. |
 | Lean TECHniques | 45 | Medium | 2026-09-23 | gpt-5.6-terra | No | - | Specialized software consulting firm with a positive niche reputation, but limited broad recognition or selectivity signal compared with major technology employers. |
+| Lifeway | 45 | Medium | 2026-11-23 | gpt-5.6-terra | No | Lifeway Christian Resources, Lifeway Christian Resources of the Southern Baptist Convention | Established nonprofit Christian publishing and digital-services organization with real software work, including modern web, mobile, backend, and cloud-facing roles. It is well known in its faith-based niche, but has limited broad software-engineering brand recognition and unclear internship selectivity. |
 | Loram | 45 | Medium | 2026-09-05 | gpt-5.6-terra | No | Loram Maintenance of Way, Loram Technologies | A recognized rail-infrastructure specialist, but its engineering reputation is primarily industry-specific rather than a strong general software signal. |
 | Léger | 45 | Medium | 2026-08-12 | gpt-5.6-terra | No | Léger Marketing | Léger is a recognized Canadian market-research and analytics firm, but it has limited broad software-engineering brand recognition or selectivity relative to leading technology employers. |
 | Marmon Holdings | 45 | Medium | 2026-07-18 | gpt-5.6-terra | No | Marmon | Established industrial holding company, but with limited standalone software engineering brand recognition. |
@@ -3829,6 +3830,7 @@ Showing **3918** of **3918** cached companies (all cached companies).
 | CloudAscent Inc | 28 | Low | 2026-10-16 | gpt-5.6-terra | No | Qrate | A specialized product focus, but limited broad software-engineering brand recognition or public evidence of selectivity; the exact legal identity behind “CloudAscent Inc” was not confirmed. |
 | Collinear AI | 28 | Low | 2026-09-21 | gpt-5.6-terra | No | - | Limited broadly established evidence of a selective or widely recognized software-engineering employer brand; the AI positioning may be relevant but is not by itself a strong internship signal. |
 | Compassion International | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established nonprofit, but not a notable or selective software-engineering employer signal. |
+| CornerStone Partners | 28 | Low | 2026-11-23 | gpt-5.6-terra | No | cstonellc.com | Appears to be a specialized outsourced-CIO and investment-management firm, not a software-focused employer. It offers finance-oriented internships, but public evidence provides little indication of a recognized software-engineering brand or selective SWE pipeline. |
 | CRG Defense | 28 | Low | 2026-10-04 | gpt-5.6-terra | No | - | Limited broadly recognizable software-engineering brand and unclear evidence of selectivity or technical reputation; likely a niche defense-sector signal rather than a widely portable one. |
 | Echelon Insights | 28 | Low | 2026-09-19 | gpt-5.6-terra | No | - | Limited broadly verifiable software-engineering brand recognition; likely a niche or smaller organization. |
 | EFI Foundation | 28 | Medium | 2026-11-20 | gpt-5.6-terra | No | EFIF, Energy Futures Initiative, efifoundation.org | A credible Washington energy-policy nonprofit founded by former U.S. Energy Secretary Ernest Moniz, with technical research and data-analysis work. However, it is small and not broadly recognized as a software-engineering employer, so its SWE internship signal is limited. |
