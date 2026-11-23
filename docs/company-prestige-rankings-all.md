@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3917** of **3917** cached companies (all cached companies).
+Showing **3918** of **3918** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3281,6 +3281,7 @@ Showing **3917** of **3917** cached companies (all cached companies).
 | Per Scholas | 43 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded workforce-development nonprofit, but not primarily an established software-engineering employer. |
 | Phamily | 43 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Healthcare technology work can be relevant, but the company has limited broad software-engineering brand recognition. |
 | Phonic | 43 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Emerging voice-AI company with technically relevant work, but still limited broad recognition and selectivity signal. |
+| Playfly Sports | 43 | Medium | 2026-11-23 | gpt-5.6-terra | No | Playfly, Playfly Tech and Digital, playfly.com | Established U.S. sports-media and marketing company with meaningful industry partnerships and some data/platform work, but it is not broadly recognized as a selective software-engineering employer; its engineering brand is limited relative to dedicated technology companies. |
 | POET | 43 | Medium | 2026-10-19 | gpt-5.6-terra | No | POET Holding Company, LLC, POET Biofuels, The POET Companies, poet.com | Established renewable-fuels and bioprocessing company with some data and internal software roles, but its employer brand is centered on industrial biotechnology rather than software engineering; technical signal is primarily industry-specific. |
 | Point Blue Conservation Science | 43 | Medium | 2026-08-05 | gpt-5.6-terra | No | Point Blue | Established conservation-science nonprofit, but it has limited broad recognition as a software engineering employer. |
 | PSECU | 43 | Medium | 2026-07-31 | gpt-5.6-terra | No | - | Recognized regional credit union with potentially solid internal technology roles, but limited selectivity and broad software-engineering employer recognition. |

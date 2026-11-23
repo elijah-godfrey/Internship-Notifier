@@ -33697,6 +33697,21 @@
       "reviewed_at": "2026-09-23",
       "rubric_version": "prestige-v1"
     },
+    "playfly sports": {
+      "aliases": [
+        "Playfly",
+        "Playfly Tech and Digital",
+        "playfly.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Playfly Sports",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 43,
+      "reason": "Established U.S. sports-media and marketing company with meaningful industry partnerships and some data/platform work, but it is not broadly recognized as a selective software-engineering employer; its engineering brand is limited relative to dedicated technology companies.",
+      "reviewed_at": "2026-11-23",
+      "rubric_version": "prestige-v2"
+    },
     "playstation": {
       "aliases": [
         "Sony Interactive Entertainment",
