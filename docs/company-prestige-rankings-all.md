@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3922** of **3922** cached companies (all cached companies).
+Showing **3924** of **3924** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1999,6 +1999,7 @@ Showing **3922** of **3922** cached companies (all cached companies).
 | IMS | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | IMS Tech, Insurance & Mobility Solutions, Intelligent Mechatronic Systems, Trak Global Group | A credible global B2B engineering product footprint in vehicle data, analytics, and cloud telematics, but its software-engineering brand and demonstrated internship selectivity appear specialized rather than broadly top-tier. |
 | Invisible Technologies AI | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Invisible Technologies | Visible AI-services company with some technical relevance, but a less established engineering-employer reputation than leading AI labs. |
 | iRhythm Technologies | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | iRhythm | Credible digital-health and medical-device company, but with a specialized and less broadly visible software engineering brand. |
+| ISO New England | 55 | Medium | 2026-11-24 | gpt-5.6-terra | No | ISO-NE, isonewengland.com, iso-ne.com | A respected, mission-critical regional grid operator with substantive engineering work in real-time power systems, markets, and cloud platforms. It offers a solid energy-infrastructure signal, but its software-engineering brand and selectivity are primarily regional and industry-specific rather than broadly top-tier. |
 | KeyBank | 55 | High | 2026-08-02 | gpt-5.6-terra | No | KeyCorp | Established national bank with meaningful technology work, but not generally viewed as a top-tier software-engineering brand. |
 | KQED | 55 | Medium | 2026-10-07 | gpt-5.6-terra | No | KQED Public Media | Well-known public media organization with credible digital-product work, but limited broad software-engineering prestige or selectivity relative to major technology employers. |
 | Kraft Heinz | 55 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly recognized consumer-goods employer, but not broadly known as a top software engineering destination. |
@@ -2760,6 +2761,7 @@ Showing **3922** of **3922** cached companies (all cached companies).
 | Phlair | 48 | Medium | 2026-07-21 | gpt-5.6-terra | No | - | Phlair is an early-stage climate-tech company with technically demanding work, but it has limited broad recognition as a software-engineering brand. |
 | Pilot Company | 48 | High | 2026-10-19 | gpt-5.6-terra | No | Pilot Flying J, Pilot Travel Centers, pilotcompany.com, Berkshire Hathaway subsidiary | Major North American travel-center and fuel operator with established internal technology, data, and digital-product teams. A software internship offers credible enterprise engineering experience, but Pilot is not broadly regarded as a top-tier software employer or especially selective engineering brand. |
 | Piper Sandler | 48 | High | 2026-08-02 | gpt-5.6-terra | No | Piper Sandler Companies | Respected investment bank, but its core reputation is in finance rather than software engineering. |
+| Plains All American Pipeline | 48 | Medium | 2026-11-24 | gpt-5.6-terra | No | Plains, Plains All American Pipeline, L.P., PAA, Plains GP Holdings, PAGP | Established North American midstream-energy operator with a credible engineering internship program, but its employer brand is centered on physical energy infrastructure rather than software engineering. Digital and AI-related internship work exists, though the company has limited broad recognition or selectivity as a software-engineering destination. |
 | Powell Industries, Inc. | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | Powell, POWL | A long-established public industrial engineering company with a documented internship program and some software roles, but its reputation and recruiting signal are primarily in electrical/power equipment—not broadly in software engineering. |
 | Prairie View A&M University | 48 | High | 2026-08-02 | gpt-5.6-terra | No | PVAMU, Prairie View | Recognized public university, but its software-engineering employer signal is primarily regional and academic. |
 | Public Service Enterprise Group | 48 | High | 2026-08-02 | gpt-5.6-terra | No | PSEG | Large, established utility with solid enterprise technology work, but limited broad prestige as a software engineering employer. |
