@@ -37,7 +37,7 @@
     "qs:greenhouse:8052281": "2026-08-18",
     "qs:greenhouse:8052338": "2026-08-18",
     "qs:greenhouse:8052351": "2026-08-18",
-    "qs:greenhouse:8083292": "2026-11-16",
+    "qs:greenhouse:8083292": "2026-11-23",
     "qs:greenhouse:8168315": "2026-10-20",
     "qs:greenhouse:8171699": "2026-11-16",
     "qs:greenhouse:8175441": "2026-10-30",
@@ -69,7 +69,7 @@
     "qs:url:campusjobs.mlp.com/careers/job/755957819661": "2026-07-28",
     "qs:url:careers.adobe.com/us/en/job/r171519": "2026-10-01",
     "qs:url:careers.adobe.com/us/en/job/r171666": "2026-09-18",
-    "qs:url:careers.adobe.com/us/en/job/r172064": "2026-10-20",
+    "qs:url:careers.adobe.com/us/en/job/r172064": "2026-11-23",
     "qs:url:careers.adobe.com/us/en/job/r172996": "2026-10-19",
     "qs:url:careers.adobe.com/us/en/job/r172997": "2026-10-21",
     "qs:url:careers.adobe.com/us/en/job/r172998": "2026-10-19",
@@ -221,8 +221,8 @@
     "qs:workday:cisco.wd5.myworkdayjobs.com:2026049": "2026-10-24",
     "qs:workday:cisco.wd5.myworkdayjobs.com:2028084": "2026-10-17",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0287092": "2026-11-23",
-    "qs:workday:intel.wd1.myworkdayjobs.com:JR0287977": "2026-10-24",
-    "qs:workday:intel.wd1.myworkdayjobs.com:JR0288086": "2026-10-24",
+    "qs:workday:intel.wd1.myworkdayjobs.com:JR0287977": "2026-10-25",
+    "qs:workday:intel.wd1.myworkdayjobs.com:JR0288086": "2026-10-25",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0288661": "2026-10-29",
     "qs:workday:nvidia.wd5.myworkdayjobs.com:JR2025096": "2026-10-31",
     "qs:workday:nvidia.wd5.myworkdayjobs.com:JR2025907": "2026-10-31",
@@ -238,9 +238,9 @@
   },
   "quant_scraper_posted_baselined": true,
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "80082af0919c50bc438c9081e5212246b704752c",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "7c6a6dcfd4f14f7c139d7f64f13a482edf272f10",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "57812d51c1265b02d700844047251138338838fb"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "bb6fc390e2f4f2984c6e610df29ba48538a9048f",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "4e0905a3bf83c4f3b0f50c4adf7f34dd140941c0",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "d4ec81567588b645911cee1a718932a5cf3af537"
   },
   "seen_apply_keys": [
     "amazon:10550494",
