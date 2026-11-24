@@ -14707,6 +14707,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "energy solutions": {
+      "aliases": [
+        "Energy Solutions - USA",
+        "energy-solution.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Energy Solutions",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "Employee-owned clean-energy and climate consulting firm with an established internship program and a real internal software-engineering function, but its engineering brand is specialized to utility efficiency programs rather than broadly recognized or especially selective in software.",
+      "reviewed_at": "2026-11-24",
+      "rubric_version": "prestige-v2"
+    },
     "energy transfer partners": {
       "aliases": [
         "Energy Transfer"

@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3924** of **3924** cached companies (all cached companies).
+Showing **3925** of **3925** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2645,6 +2645,7 @@ Showing **3924** of **3924** cached companies (all cached companies).
 | Elanco | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Elanco Animal Health | Recognized animal-health company with some technology roles, but software is not a core employer brand. |
 | Emergent Holdings | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established insurance and health-services employer, with software primarily supporting its core business. |
 | Enact | 48 | Medium | 2026-10-21 | gpt-5.6-terra | No | Enact Holdings, Enact Mortgage Insurance Corporation, EnactMI, Genworth Mortgage Insurance Corporation, Genworth Mortgage Holdings | Established publicly traded U.S. mortgage-insurance provider with meaningful technology integrations, but its engineering brand and internship selectivity are primarily niche to insurance and housing finance rather than broadly recognized in software engineering. |
+| Energy Solutions | 48 | Medium | 2026-11-24 | gpt-5.6-terra | No | Energy Solutions - USA, energy-solution.com | Employee-owned clean-energy and climate consulting firm with an established internship program and a real internal software-engineering function, but its engineering brand is specialized to utility efficiency programs rather than broadly recognized or especially selective in software. |
 | Energy Vault | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Visible clean-energy technology company with some technical appeal, but a limited established software-engineering signal. |
 | Engineers and Geoscientists BC | 48 | Medium | 2026-08-07 | gpt-5.6-terra | No | EGBC, Engineers and Geoscientists British Columbia | Well-recognized provincial professional regulator in its domain, but it has limited software-engineering employer prestige relative to technology-focused firms. |
 | Ensemble Health Partners | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized healthcare revenue-cycle company, though its engineering brand is mainly industry-specific rather than broadly elite. |
