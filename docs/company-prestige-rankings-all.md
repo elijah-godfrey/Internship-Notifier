@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3921** of **3921** cached companies (all cached companies).
+Showing **3922** of **3922** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1024,6 +1024,7 @@ Showing **3921** of **3921** cached companies (all cached companies).
 | Slice | 65 | High | 2026-10-16 | gpt-5.6-terra | No | Slice Life, MyPizza Technologies, Inc., Slice Solutions, Inc. | $40M Series D included investors such as KKR, GGV Capital, and Cross Creek, supporting a solid engineering signal; however, its focused restaurant-tech brand is not broadly viewed as top-tier software-engineering prestige. |
 | Solidigm | 65 | Medium | 2026-08-02 | gpt-5.6-terra | No | Solidigm Technology | Credible storage and semiconductor company with technically relevant systems work, though its software brand is specialized. |
 | Standard Template Labs | 65 | Medium | 2026-10-16 | gpt-5.6-terra | No | STLabs | $49M seed round led by ICONIQ and CRV and founder Amit Agarwal’s prior Datadog leadership provide a strong early technical signal, but it is a 2025-founded, very early-stage company without an established broad software-engineering brand yet. |
+| Strava | 65 | High | 2026-11-24 | gpt-5.6-terra | No | strava.com | Recognized consumer technology platform with a substantial global product, established engineering internship program, and strong venture backing. It is a solid software-engineering signal, though its technical-employer reputation and selectivity are not generally viewed at the level of elite consumer-tech firms. |
 | Stryker | 65 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected medical-technology company; software roles benefit from its strong regulated-product engineering reputation, though it is not software-first. |
 | Textron | 65 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-established aerospace, defense, and industrial engineering employer with respected technical systems work. |
 | Thea Energy, Inc. | 65 | High | 2026-10-16 | gpt-5.6-terra | No | Princeton Stellarators | Substantial Series B financing, DOE program participation, and technically demanding fusion/control-software work create a solid engineering signal, but it remains a young, specialized company without broad top-tier software-employer recognition. |

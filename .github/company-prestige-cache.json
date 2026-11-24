@@ -41294,6 +41294,19 @@
       "reviewed_at": "2026-09-03",
       "rubric_version": "prestige-v1"
     },
+    "strava": {
+      "aliases": [
+        "strava.com"
+      ],
+      "confidence": "high",
+      "display_name": "Strava",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Recognized consumer technology platform with a substantial global product, established engineering internship program, and strong venture backing. It is a solid software-engineering signal, though its technical-employer reputation and selectivity are not generally viewed at the level of elite consumer-tech firms.",
+      "reviewed_at": "2026-11-24",
+      "rubric_version": "prestige-v2"
+    },
     "stride": {
       "aliases": [
         "K12 Inc."
