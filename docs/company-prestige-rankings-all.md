@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3920** of **3920** cached companies (all cached companies).
+Showing **3921** of **3921** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3807,6 +3807,7 @@ Showing **3920** of **3920** cached companies (all cached companies).
 | City of Burlington | 29 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Municipal employer with limited software-engineering employer recognition beyond its locality. |
 | City of Greeley | 29 | High | 2026-08-02 | gpt-5.6-terra | No | - | Local-government technology work offers limited broad career signal in software engineering. |
 | City of Largo | 29 | High | 2026-08-02 | gpt-5.6-terra | No | - | Municipal employer with limited broad software-engineering employer recognition. |
+| Culver's | 29 | High | 2026-11-24 | gpt-5.6-terra | No | Culver Franchising System, LLC, culvers.com | Recognized, established restaurant franchise, but its employer brand is centered on restaurant operations and franchising rather than software engineering; publicly visible evidence of a selective or notable software internship pipeline is limited. |
 | Demco | 29 | Medium | 2026-10-19 | gpt-5.6-terra | No | Demco Products, Dethmers Manufacturing Company, demco-products.com | Established private manufacturer of agricultural, towing, RV, and trailer products, but it has limited recognition and little visible software-engineering brand or internship signal. |
 | doTERRA | 29 | High | 2026-08-02 | gpt-5.6-terra | No | - | Consumer wellness company with little established reputation as a software-engineering employer. |
 | Lydian | 29 | Low | 2026-10-16 | gpt-5.6-terra | No | Lydian Pay | Work is technically relevant, but the company has limited established software-engineering brand recognition and the name is shared by several unrelated firms. |
