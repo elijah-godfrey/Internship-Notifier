@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3925** of **3925** cached companies (all cached companies).
+Showing **3926** of **3926** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1146,6 +1146,7 @@ Showing **3925** of **3925** cached companies (all cached companies).
 | Cambridge Mobile Telematics | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | CMT | Recognized telematics and insurance-technology company with meaningful data and mobile engineering relevance. |
 | Camlin Group | 63 | High | 2026-10-16 | gpt-5.6-terra | No | Camlin, Camlin Energy, Camlin Technologies | A solid, specialized engineering signal, though its software brand is not broadly top-tier or. |
 | Capgemini | 63 | High | 2026-11-14 | gpt-5.6-terra | No | Capgemini SE, Capgemini Engineering, Sogeti, Altran Technologies | Globally recognized IT consulting and technology-services firm with substantial applications, cloud, and digital-engineering work. It is a solid resume signal for software internships, though its broad services model and typical hiring selectivity place it below elite product-focused engineering employers. |
+| CarGurus | 63 | High | 2026-11-24 | gpt-5.6-terra | No | CARG, cargurus.com | Established public automotive marketplace and dealer-software company with a meaningful engineering organization and data/AI-focused products. It is a solid technical internship signal, though its software brand and selectivity are less broadly elite than leading consumer-tech or infrastructure companies. |
 | Center for AI Safety | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | CAIS | Recognized in the AI-safety research community, though it is a small research nonprofit rather than an established engineering employer. |
 | Charge Robotics | 63 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | MIT-founded team, YC backing, reported $22M raise, and commercial robotics deployments give it a solid deep-tech signal, but it remains a small, early-stage company without broad software-engineering brand recognition. |
 | ConductorAI | 63 | High | 2026-10-16 | gpt-5.6-terra | No | Conduit, Conductor AI | Conduit platform targets technically demanding, security-sensitive government environments; the company reports FedRAMP High and classified-environment deployments, raised a $15M Series A led by Lux Capital, and has public defense-agency contract traction. |

@@ -8056,6 +8056,20 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "cargurus": {
+      "aliases": [
+        "CARG",
+        "cargurus.com"
+      ],
+      "confidence": "high",
+      "display_name": "CarGurus",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "Established public automotive marketplace and dealer-software company with a meaningful engineering organization and data/AI-focused products. It is a solid technical internship signal, though its software brand and selectivity are less broadly elite than leading consumer-tech or infrastructure companies.",
+      "reviewed_at": "2026-11-24",
+      "rubric_version": "prestige-v2"
+    },
     "carmeuse": {
       "aliases": [],
       "confidence": "high",
