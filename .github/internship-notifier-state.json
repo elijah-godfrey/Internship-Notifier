@@ -130,7 +130,7 @@
     "qs:url:careers.qualcomm.com/careers/job/446722003454": "2026-11-06",
     "qs:url:careers.qualcomm.com/careers/job/446722005254": "2026-11-06",
     "qs:url:careers.qualcomm.com/careers/job/446722038614": "2026-11-09",
-    "qs:url:careers.qualcomm.com/careers/job/446722152489": "2026-11-16",
+    "qs:url:careers.qualcomm.com/careers/job/446722152489": "2026-11-24",
     "qs:url:careers.qualcomm.com/careers/job/446722176432": "2026-11-17",
     "qs:url:careers.qualcomm.com/careers/job/446722198182": "2026-11-18",
     "qs:url:careers.qualcomm.com/careers/job/446722247294": "2026-11-20",
@@ -140,6 +140,8 @@
     "qs:url:careers.sig.com/jobs/11654": "2026-10-14",
     "qs:url:careers.sig.com/jobs/11692": "2026-11-05",
     "qs:url:explore.jobs.netflix.net/careers/job/790319427586": "2026-11-09",
+    "qs:url:gresearch.com/vacancies/infrastructure-software-engineering-internship": "2026-11-24",
+    "qs:url:gresearch.com/vacancies/infrastructure-software-engineering-internship-2": "2026-11-24",
     "qs:url:gresearch.com/vacancies/machine-learning-engineer-intern": "2026-10-06",
     "qs:url:janestreet.com/join-jane-street/position/8927052002": "2026-11-10",
     "qs:url:janestreet.com/join-jane-street/position/8927083002": "2026-11-10",
@@ -238,9 +240,9 @@
   },
   "quant_scraper_posted_baselined": true,
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "bb6fc390e2f4f2984c6e610df29ba48538a9048f",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "4e0905a3bf83c4f3b0f50c4adf7f34dd140941c0",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "d4ec81567588b645911cee1a718932a5cf3af537"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "4873505feba70b165fab29fd05ecd70160140c4a",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "1a4433d1473875acb070a9385c14ec1ad511b52c",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "b0af1cc5c6e8fa48791d36dcfd6d12f36b22a61b"
   },
   "seen_apply_keys": [
     "amazon:10550494",
@@ -494,6 +496,8 @@
     "url:google.com/about/careers/applications/jobs/results/86701057991680710-research-intern-phd-summer-2027",
     "url:google.com/about/careers/applications/jobs/results/89965613241246406-data-scientist-research-intern-phd-summer-2027",
     "url:google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
+    "url:gresearch.com/vacancies/infrastructure-software-engineering-internship",
+    "url:gresearch.com/vacancies/infrastructure-software-engineering-internship-2",
     "url:gresearch.com/vacancies/machine-learning-engineer-intern",
     "url:gresearch.com/vacancies/software-engineering-intern",
     "url:intel.wd1.myworkdayjobs.com/external/job/us-arizona-phoenix/satas-graduate-research-intern---modeling-and-simulation_jr0287092",
@@ -23523,6 +23527,8 @@
     "qs:url:google.com/about/careers/applications/jobs/results/86701057991680710-research-intern-phd-summer-2027",
     "qs:url:google.com/about/careers/applications/jobs/results/89965613241246406-data-scientist-research-intern-phd-summer-2027",
     "qs:url:google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027",
+    "qs:url:gresearch.com/vacancies/infrastructure-software-engineering-internship",
+    "qs:url:gresearch.com/vacancies/infrastructure-software-engineering-internship-2",
     "qs:url:gresearch.com/vacancies/machine-learning-engineer-intern",
     "qs:url:gresearch.com/vacancies/software-engineering-intern",
     "qs:url:janestreet.com/join-jane-street/position/5866838002",
