@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3926** of **3926** cached companies (all cached companies).
+Showing **3927** of **3927** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3833,6 +3833,7 @@ Showing **3926** of **3926** cached companies (all cached companies).
 | Capital Automotive Group | 28 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Automotive retail organization with limited recognized software-engineering brand. |
 | ChukMedia | 28 | Medium | 2026-11-11 | gpt-5.6-terra | No | The Sasha Group, VaynerX, chukmedia.com | A VaynerX advertising and brand-marketing agency, formerly The Sasha Group. It has recognizable marketing-industry backing, but limited evidence of a dedicated, selective software-engineering organization or internship brand. |
 | Cirque du Soleil | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally recognized entertainment brand, but it has little software-engineering employer prestige. |
+| City of Campbell River | 28 | High | 2026-11-25 | gpt-5.6-terra | No | City of Campbell River, British Columbia, campbellriver.ca | A small municipal government employer with an internal IT function focused on civic systems, infrastructure technology, and end-user support rather than a recognized software-engineering internship brand. It offers relevant public-sector technical experience but limited selectivity and broad software-industry signaling. |
 | CloudAscent Inc | 28 | Low | 2026-10-16 | gpt-5.6-terra | No | Qrate | A specialized product focus, but limited broad software-engineering brand recognition or public evidence of selectivity; the exact legal identity behind “CloudAscent Inc” was not confirmed. |
 | Collinear AI | 28 | Low | 2026-09-21 | gpt-5.6-terra | No | - | Limited broadly established evidence of a selective or widely recognized software-engineering employer brand; the AI positioning may be relevant but is not by itself a strong internship signal. |
 | Compassion International | 28 | High | 2026-08-02 | gpt-5.6-terra | No | - | Established nonprofit, but not a notable or selective software-engineering employer signal. |
