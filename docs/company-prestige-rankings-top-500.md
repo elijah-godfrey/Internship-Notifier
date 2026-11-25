@@ -4,9 +4,9 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **500** of **3928** cached companies (maximum 500).
+Showing **500** of **3930** cached companies (maximum 500).
 
-_The 3428 lowest-scored companies are omitted by the report cap._
+_The 3430 lowest-scored companies are omitted by the report cap._
 
 ## Exceptional (90-100)
 
@@ -304,6 +304,7 @@ _The 3428 lowest-scored companies are omitted by the report cap._
 | Proofpoint | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded cybersecurity company with a strong technical reputation and meaningful engineering career signal. |
 | Rakuten | 76 | High | 2026-08-02 | gpt-5.6-terra | No | Rakuten Group | Globally recognized technology and internet group with a strong engineering signal, particularly in Japan and its consumer platforms. |
 | SailPoint | 76 | High | 2026-08-02 | gpt-5.6-terra | No | SailPoint Technologies | Well-regarded identity-security company with a strong enterprise software and cybersecurity engineering reputation. |
+| SambaNova | 76 | High | 2026-11-25 | gpt-5.6-terra | No | SambaNova Systems, sambanova.ai | Well-funded, high-profile AI infrastructure company with a technically demanding full-stack engineering focus spanning custom accelerators, compilers, systems, and cloud inference. Its Stanford-linked founding team, major enterprise deployments, and strong position in specialized AI hardware make it a strong software-engineering signal, though less universally established than top-tier Big Tech or leading semiconductor incumbents. |
 | Serval | 76 | High | 2026-10-16 | gpt-5.6-terra | No | Serval AI | Rapid Series A and Series B funding from prominent firms including Sequoia, Redpoint, First Round, and General Catalyst, plus a reported $1B valuation, make it a strong and selective early-stage engineering signal. |
 | Skydio | 76 | High | 2026-08-01 | gpt-5.6-terra | No | - | Well-regarded autonomous-drone company with a strong robotics, computer vision, and engineering reputation. |
 | Snorkel AI | 76 | Medium | 2026-08-02 | gpt-5.6-terra | No | Snorkel | Well-regarded machine-learning startup with a distinctive technical product and strong specialized AI reputation. |
@@ -521,4 +522,3 @@ _The 3428 lowest-scored companies are omitted by the report cap._
 | Manhattan Associates | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Respected enterprise supply-chain software company with a strong domain-specific engineering and product reputation. |
 | Marqeta | 72 | High | 2026-08-02 | gpt-5.6-terra | No | - | Recognized payments-API fintech with a strong modern engineering and infrastructure reputation. |
 | Maybell Quantum Industries | 72 | Medium | 2026-08-02 | gpt-5.6-terra | No | Maybell Quantum | Well-regarded quantum-networking startup with a technically sophisticated and selective engineering profile. |
-| Mercedes-Benz | 72 | High | 2026-08-02 | gpt-5.6-terra | No | Mercedes-Benz Group | Iconic global engineering brand with increasingly substantial automotive-software work and a strong technical career signal. |

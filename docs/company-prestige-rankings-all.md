@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3928** of **3928** cached companies (all cached companies).
+Showing **3930** of **3930** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -302,6 +302,7 @@ Showing **3928** of **3928** cached companies (all cached companies).
 | Proofpoint | 76 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded cybersecurity company with a strong technical reputation and meaningful engineering career signal. |
 | Rakuten | 76 | High | 2026-08-02 | gpt-5.6-terra | No | Rakuten Group | Globally recognized technology and internet group with a strong engineering signal, particularly in Japan and its consumer platforms. |
 | SailPoint | 76 | High | 2026-08-02 | gpt-5.6-terra | No | SailPoint Technologies | Well-regarded identity-security company with a strong enterprise software and cybersecurity engineering reputation. |
+| SambaNova | 76 | High | 2026-11-25 | gpt-5.6-terra | No | SambaNova Systems, sambanova.ai | Well-funded, high-profile AI infrastructure company with a technically demanding full-stack engineering focus spanning custom accelerators, compilers, systems, and cloud inference. Its Stanford-linked founding team, major enterprise deployments, and strong position in specialized AI hardware make it a strong software-engineering signal, though less universally established than top-tier Big Tech or leading semiconductor incumbents. |
 | Serval | 76 | High | 2026-10-16 | gpt-5.6-terra | No | Serval AI | Rapid Series A and Series B funding from prominent firms including Sequoia, Redpoint, First Round, and General Catalyst, plus a reported $1B valuation, make it a strong and selective early-stage engineering signal. |
 | Skydio | 76 | High | 2026-08-01 | gpt-5.6-terra | No | - | Well-regarded autonomous-drone company with a strong robotics, computer vision, and engineering reputation. |
 | Snorkel AI | 76 | Medium | 2026-08-02 | gpt-5.6-terra | No | Snorkel | Well-regarded machine-learning startup with a distinctive technical product and strong specialized AI reputation. |
@@ -886,6 +887,7 @@ Showing **3928** of **3928** cached companies (all cached companies).
 | Chevron Corporation | 66 | High | 2026-07-20 | gpt-5.6-terra | No | - | Globally recognized energy company with substantial technical operations; its software brand is respected but not a top-tier destination for software engineering. |
 | Citi | 66 | High | 2026-08-02 | gpt-5.6-terra | No | Citigroup | Major global financial institution with substantial technology organizations, but a less distinctive software brand than leading tech firms. |
 | CodeRabbit Inc | 66 | Medium | 2026-09-11 | gpt-5.6-terra | No | - | Growing AI developer-tools company with a relevant technical product and positive emerging engineering signal, though not yet broadly established. |
+| Davidson Kempner | 66 | Medium | 2026-11-25 | gpt-5.6-terra | No | Davidson Kempner Capital Management, DKCM, davidsonkempner.com | Established global alternative-investment firm with a strong reputation in finance and complex, research-driven investing. Its technology organization is credible, but Davidson Kempner is not broadly recognized as a top software-engineering employer, so the internship signal is solid but finance-specialized. |
 | DEKA Research & Development | 66 | Medium | 2026-08-02 | gpt-5.6-terra | No | DEKA | Well-regarded R&D and robotics organization with strong engineering credibility, though its software brand is less broadly recognized. |
 | Dexmate, Inc. | 66 | Medium | 2026-10-16 | gpt-5.6-terra | No | Dexmate Robotics | Engineering signal is strengthened by a strategic LG Technology Ventures investment and visible use of its robots in prominent research ecosystems, but it is a young 2024-founded company without the broad, established software-employer reputation or demonstrated selectivity of top-tier firms. |
 | Dow Jones | 66 | High | 2026-08-02 | gpt-5.6-terra | No | - | Prominent financial-news and data brand with credible digital-product and data engineering work. |

@@ -12333,6 +12333,21 @@
       "reviewed_at": "2026-10-27",
       "rubric_version": "prestige-v2"
     },
+    "davidson kempner": {
+      "aliases": [
+        "Davidson Kempner Capital Management",
+        "DKCM",
+        "davidsonkempner.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Davidson Kempner",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 66,
+      "reason": "Established global alternative-investment firm with a strong reputation in finance and complex, research-driven investing. Its technology organization is credible, but Davidson Kempner is not broadly recognized as a top software-engineering employer, so the internship signal is solid but finance-specialized.",
+      "reviewed_at": "2026-11-25",
+      "rubric_version": "prestige-v2"
+    },
     "davies ward phillips and vineberg llp": {
       "aliases": [
         "Davies",
@@ -37790,6 +37805,20 @@
       "reason": "Established ad-tech and television-data company with a relevant technical product, though not broadly top-tier in engineering prestige.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "sambanova": {
+      "aliases": [
+        "SambaNova Systems",
+        "sambanova.ai"
+      ],
+      "confidence": "high",
+      "display_name": "SambaNova",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 76,
+      "reason": "Well-funded, high-profile AI infrastructure company with a technically demanding full-stack engineering focus spanning custom accelerators, compilers, systems, and cloud inference. Its Stanford-linked founding team, major enterprise deployments, and strong position in specialized AI hardware make it a strong software-engineering signal, though less universally established than top-tier Big Tech or leading semiconductor incumbents.",
+      "reviewed_at": "2026-11-25",
+      "rubric_version": "prestige-v2"
     },
     "samsara": {
       "aliases": [],
