@@ -1,6 +1,6 @@
 {
-  "closed_ids_sha": "ea76a5b8d16ebc9fbcff08a873460545a4359ec0",
-  "listings_sha": "ea76a5b8d16ebc9fbcff08a873460545a4359ec0",
+  "closed_ids_sha": "7a88552df14cfa747cee73985f119fc3fa50c32d",
+  "listings_sha": "7a88552df14cfa747cee73985f119fc3fa50c32d",
   "quant_scraper_bootstrapped": true,
   "quant_scraper_posted": {
     "qs:amazon:10550494": "2026-09-16",
@@ -16951,6 +16951,7 @@
     "b6f3c11d-afce-4ebd-b16f-8f3bfb75b164",
     "b6f694d4-38e4-468e-b7fe-352c2ffa0771",
     "b6fae392-7fe9-433f-9ff9-3beb8557c195",
+    "b6fb4775-b029-410e-8d24-d84afb8fb694",
     "b6fc3934-181a-4132-bdaa-096257d221fe",
     "b70c58af-b64c-44b4-9d83-34dcf151295f",
     "b70cf0fc-1a6d-451a-a737-885a6a68884f",
@@ -23115,6 +23116,7 @@
     "fd5f230b-99df-4f7a-9232-1b95fac6d0f8",
     "fd61a245-e169-4c79-b278-405c45e14d99",
     "fd622461-8da2-4fdb-b3c4-cf2537907d70",
+    "fd62318c-78e9-47ad-a66a-f7a1501c5a7f",
     "fd6664b1-b682-4a0c-a15c-193d9a9c67c5",
     "fd6aa588-63f5-44d4-9253-72d84365341a",
     "fd6ca013-a376-4c0b-b1e3-339aec6de188",
