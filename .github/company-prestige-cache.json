@@ -26819,6 +26819,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "mantech": {
+      "aliases": [
+        "ManTech International",
+        "mantech.com"
+      ],
+      "confidence": "medium",
+      "display_name": "ManTech",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established national-security technology contractor with substantive software, cyber, data/AI, and systems-engineering work for U.S. defense and intelligence customers. It is a credible, specialized engineering signal, but its brand and internship selectivity are not generally viewed as top-tier across the broader software industry.",
+      "reviewed_at": "2026-11-25",
+      "rubric_version": "prestige-v2"
+    },
     "mantecon partners": {
       "aliases": [],
       "confidence": "high",

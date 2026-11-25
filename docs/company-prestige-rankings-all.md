@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3930** of **3930** cached companies (all cached companies).
+Showing **3931** of **3931** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1623,6 +1623,7 @@ Showing **3930** of **3930** cached companies (all cached companies).
 | Lonza | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | Lonza Group | Well-regarded life-sciences manufacturer, but its primary employer brand is not software engineering. |
 | Luminate | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | Luminate Data, Luminate Film & TV | A credible, specialized data-platform brand and backing within Penske Media Eldridge, but limited broad software-engineering prestige or evidence of elite technical selectivity. |
 | Major League Baseball | 58 | High | 2026-08-02 | gpt-5.6-terra | No | MLB | Highly recognizable organization with interesting sports, media, and data technology work, but a less established general software-employer brand. |
+| ManTech | 58 | Medium | 2026-11-25 | gpt-5.6-terra | No | ManTech International, mantech.com | Established national-security technology contractor with substantive software, cyber, data/AI, and systems-engineering work for U.S. defense and intelligence customers. It is a credible, specialized engineering signal, but its brand and internship selectivity are not generally viewed as top-tier across the broader software industry. |
 | Markon | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | Markon Solutions | Credible engineering/cyber work and government-mission selectivity, but its software-engineering brand is primarily specialized GovCon rather than broadly elite or widely recognized in mainstream software. |
 | Mars | 58 | High | 2026-08-02 | gpt-5.6-terra | No | - | Highly respected global consumer-products company, but its software engineering signal is secondary to its consumer brand. |
 | Meshy | 58 | Medium | 2026-07-18 | gpt-5.6-terra | No | Meshy AI | Visible generative-AI startup with relevant technical work, but an early-stage and less established engineering reputation. |
