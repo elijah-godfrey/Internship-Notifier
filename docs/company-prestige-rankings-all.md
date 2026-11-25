@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3927** of **3927** cached companies (all cached companies).
+Showing **3928** of **3928** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3636,6 +3636,7 @@ Showing **3927** of **3927** cached companies (all cached companies).
 | ResponsiveAds, Inc. | 36 | Medium | 2026-10-16 | gpt-5.6-terra | No | RAD | Real software/product work, but its small, niche ad-tech footprint and limited broad engineering-industry recognition make it a limited software-engineering prestige signal. |
 | Taylor Corporation | 36 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established business-services and printing company, but not widely recognized for software engineering excellence. |
 | The Friedkin Group | 36 | Medium | 2026-09-12 | gpt-5.6-terra | No | Friedkin Group | Established diversified holding company, but it has limited visibility or selectivity as a software-engineering employer. |
+| The Tech Interactive | 36 | High | 2026-11-25 | gpt-5.6-terra | No | The Tech, The Tech Museum of Innovation, thetech.org | Well-regarded Silicon Valley nonprofit science and STEAM-education center, but it is not primarily a software company and has limited software-engineering employer recognition or demonstrated internship selectivity. |
 | Twin Paradox Labs | 36 | Medium | 2026-10-16 | gpt-5.6-terra | No | Twin Paradox | Credible public R&D support and partnerships, but is a very small, early-stage hardware-focused company with limited broad software-engineering brand recognition. |
 | Vixxo | 36 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Facilities-management services company with limited recognition as a software engineering employer. |
 | ABEC | 35 | Low | 2026-09-14 | gpt-5.6-terra | No | - | Likely a specialized engineering/manufacturing company rather than a broadly recognized software employer; limited software-engineering brand signal. |

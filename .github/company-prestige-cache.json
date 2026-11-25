@@ -43439,6 +43439,21 @@
       "reviewed_at": "2026-07-18",
       "rubric_version": "prestige-v1"
     },
+    "the tech interactive": {
+      "aliases": [
+        "The Tech",
+        "The Tech Museum of Innovation",
+        "thetech.org"
+      ],
+      "confidence": "high",
+      "display_name": "The Tech Interactive",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 36,
+      "reason": "Well-regarded Silicon Valley nonprofit science and STEAM-education center, but it is not primarily a software company and has limited software-engineering employer recognition or demonstrated internship selectivity.",
+      "reviewed_at": "2026-11-25",
+      "rubric_version": "prestige-v2"
+    },
     "the toro": {
       "aliases": [
         "Toro"
