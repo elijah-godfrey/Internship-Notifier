@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3931** of **3931** cached companies (all cached companies).
+Showing **3934** of **3934** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -994,6 +994,7 @@ Showing **3931** of **3931** cached companies (all cached companies).
 | Interdigital | 65 | High | 2026-07-18 | gpt-5.6-terra | No | - | Respected wireless and communications R&D company with meaningful technical depth, though less broadly recognized by general software recruiters. |
 | iSAM | 65 | Medium | 2026-10-30 | gpt-5.6-terra | No | International Standard Asset Management, iSAM Funds, iSAM Securities, isam.com, isam-securities.com | Specialized systematic-investing and algorithmic-trading firm with meaningful quantitative-development and proprietary-technology work. It is a solid technical signal, particularly for quant-finance roles, but has more limited broad software-engineering name recognition than leading global technology or top trading firms. |
 | Ivalua | 65 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-regarded enterprise procurement software vendor with a credible engineering signal, primarily within its domain. |
+| Jack Henry | 65 | High | 2026-11-26 | gpt-5.6-terra | No | Jack Henry & Associates, JKHY, Symitar, Banno, ProfitStars | Established public fintech with a long record building core banking, payments, and digital systems for thousands of financial institutions. It offers credible, mission-critical engineering experience, though its software brand is more specialized to banking infrastructure than broadly elite or highly selective. |
 | Kioxia | 65 | High | 2026-08-02 | gpt-5.6-terra | No | Kioxia Holdings | Major memory and storage technology company with strong semiconductor credibility, though less prominent as a general software employer. |
 | L3Harris Technologies | 65 | High | 2026-08-02 | gpt-5.6-terra | No | L3Harris | Strong defense and aerospace technical brand; software work is respected, particularly in mission-critical systems. |
 | Leidos | 65 | High | 2026-07-23 | gpt-5.6-terra | No | - | Well-established defense, government, and systems-integration employer with a solid technical signal, especially for cleared and mission-focused engineering; less elite in mainstream software engineering. |
@@ -2075,6 +2076,7 @@ Showing **3931** of **3931** cached companies (all cached companies).
 | thyssenkrupp | 55 | High | 2026-07-18 | gpt-5.6-terra | No | - | Globally known industrial engineering group, with a solid but not especially prominent software-engineering employer brand. |
 | TJX | 55 | Medium | 2026-07-27 | gpt-5.6-terra | No | The TJX Companies, TJ Maxx | Large, established retailer with meaningful internal technology work, but its software engineering brand is not broadly viewed as top-tier. |
 | Tokio Marine Kiln | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | TMK | Specialty insurance business with a digital orientation; a solid niche signal but not a widely recognized software-engineering destination. |
+| Tombras | 55 | Medium | 2026-11-26 | gpt-5.6-terra | No | The Tombras Group, Charles Tombras Advertising, tombras.com | Established independent advertising agency with meaningful technology, data, web, and app-development work and strong recognition in its industry. It is a solid, industry-specific signal, but its software engineering brand and technical selectivity are not broadly comparable to leading technology employers. |
 | Toyota Motor Manufacturing Canada Inc (TMMC) | 55 | Medium | 2026-09-11 | gpt-5.6-terra | No | TMMC, Toyota Motor Manufacturing Canada | Toyota is globally respected, but this manufacturing subsidiary has a limited standalone software-engineering brand. |
 | TPG | 55 | High | 2026-10-31 | gpt-5.6-terra | No | Texas Pacific Group, TPG Capital, tpg.com | Globally recognized alternative-asset manager with established internal engineering and cybersecurity roles, but its employer reputation and selectivity are principally in investing rather than software engineering; its engineering brand is industry-specific rather than a broad top-tier technical signal. |
 | Transamerica | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established financial-services brand with meaningful technology work, though not a prominent software-engineering destination. |
@@ -2147,6 +2149,7 @@ Showing **3931** of **3931** cached companies (all cached companies).
 | The Toro Company | 54 | High | 2026-08-02 | gpt-5.6-terra | No | Toro | Established equipment manufacturer with relevant embedded and connected-product work, but modest general software-engineering prestige. |
 | Titan Global Capital Management Inc | 54 | Medium | 2026-09-11 | gpt-5.6-terra | No | Titan | A recognizable fintech and investment-management employer with relevant software work, but a less established engineering signal than leading fintechs. |
 | TNS | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | Transaction Network Services | Established payments and communications infrastructure provider with solid technical work, but limited broad software-brand recognition. |
+| Total Quality Logistics | 54 | High | 2026-11-26 | gpt-5.6-terra | No | TQL | Large, established North American freight brokerage with a substantial internal technology organization and real software-development internship work. It is well recognized in logistics, but its employer brand and selectivity are not broadly top-tier in software engineering. |
 | Transcarent | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible digital-health company, but its engineering brand and internship selectivity are not broadly established. |
 | Ultra Maritime | 54 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Specialized maritime-defense technology employer with relevant engineering work, but limited broad recognition in mainstream software recruiting. |
 | University of Arkansas | 54 | High | 2026-08-02 | gpt-5.6-terra | No | UArk | Established public research university, but employment there carries a moderate rather than elite software-engineering signal. |

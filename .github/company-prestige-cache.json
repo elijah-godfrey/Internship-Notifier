@@ -23610,6 +23610,23 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "jack henry": {
+      "aliases": [
+        "Jack Henry & Associates",
+        "JKHY",
+        "Symitar",
+        "Banno",
+        "ProfitStars"
+      ],
+      "confidence": "high",
+      "display_name": "Jack Henry",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 65,
+      "reason": "Established public fintech with a long record building core banking, payments, and digital systems for thousands of financial institutions. It offers credible, mission-critical engineering experience, though its software brand is more specialized to banking infrastructure than broadly elite or highly selective.",
+      "reviewed_at": "2026-11-26",
+      "rubric_version": "prestige-v2"
+    },
     "jackson financial": {
       "aliases": [
         "Jackson",
@@ -44044,6 +44061,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "tombras": {
+      "aliases": [
+        "The Tombras Group",
+        "Charles Tombras Advertising",
+        "tombras.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Tombras",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Established independent advertising agency with meaningful technology, data, web, and app-development work and strong recognition in its industry. It is a solid, industry-specific signal, but its software engineering brand and technical selectivity are not broadly comparable to leading technology employers.",
+      "reviewed_at": "2026-11-26",
+      "rubric_version": "prestige-v2"
+    },
     "tonal": {
       "aliases": [],
       "confidence": "medium",
@@ -44103,6 +44135,19 @@
       "reason": "Established enterprise retail-technology business with credible engineering work, but a narrower and less prominent software-engineering brand than top technology employers.",
       "reviewed_at": "2026-07-27",
       "rubric_version": "prestige-v1"
+    },
+    "total quality logistics": {
+      "aliases": [
+        "TQL"
+      ],
+      "confidence": "high",
+      "display_name": "Total Quality Logistics",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 54,
+      "reason": "Large, established North American freight brokerage with a substantial internal technology organization and real software-development internship work. It is well recognized in logistics, but its employer brand and selectivity are not broadly top-tier in software engineering.",
+      "reviewed_at": "2026-11-26",
+      "rubric_version": "prestige-v2"
     },
     "tower research capital": {
       "aliases": [
