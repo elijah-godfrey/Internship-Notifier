@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3934** of **3934** cached companies (all cached companies).
+Showing **3935** of **3935** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2037,6 +2037,7 @@ Showing **3934** of **3934** cached companies (all cached companies).
 | OnLogic | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected industrial-computing and edge-hardware company, with a narrower software-engineering signal. |
 | Ontario Ministry of Public and Business Service Delivery and Procurement | 55 | Medium | 2026-09-11 | gpt-5.6-terra | No | Ontario MPBSDP | Recognizable Ontario digital-service and public-sector technology environment, though not broadly viewed as elite engineering prestige. |
 | OPENLANE | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | KAR Global | Established digital automotive-marketplace business with relevant software work, but modest general engineering prestige. |
+| OpenSesame | 55 | Medium | 2026-11-26 | gpt-5.6-terra | No | opensesame.com | Established enterprise learning SaaS company with a meaningful engineering environment and growth-equity backing, but its software brand is primarily specialized to corporate e-learning rather than broadly elite or highly selective. |
 | Orbifold AI, Inc. | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | A credible $5M seed round and technically ambitious robotics, multimodal-data, and infrastructure work, but remains a small, early-stage company with limited established software-engineering brand recognition. |
 | Oregon State University | 55 | High | 2026-11-15 | gpt-5.6-terra | No | OSU, Oregon State, Oregon State University System | Recognized public R1 university with a credible engineering and computer-science research environment, including applied software work, but an OSU internship is a more regional academic signal than a broadly elite software-engineering brand. |
 | Otsuka Pharmaceutical | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Otsuka | Large, respected pharmaceutical employer, but it is not broadly viewed as a software engineering destination. |
