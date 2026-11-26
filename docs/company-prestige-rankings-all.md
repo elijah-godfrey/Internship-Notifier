@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3935** of **3935** cached companies (all cached companies).
+Showing **3936** of **3936** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1562,6 +1562,7 @@ Showing **3935** of **3935** cached companies (all cached companies).
 | Curriculum Associates | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established education-technology company with recognizable products, though not a top-tier general software brand. |
 | CYVL | 58 | High | 2026-10-16 | gpt-5.6-terra | No | AI Intern to the CEO, AI Intern to the CEO role | AI/software-and-sensor platform, public-sector traction, and $14M Series A create a credible technical signal, but it remains a relatively small, niche govtech company without broad top-tier software-engineering brand recognition. |
 | Deeplocal | 58 | High | 2026-11-06 | gpt-5.6-terra | No | deeplocal.com, Wire & Plastic Products, WPP | Well-regarded Pittsburgh creative-technology studio with in-house software, robotics, and interactive-experience engineering for prominent brands. Its Carnegie Mellon roots and WPP ownership add credibility, but it is a specialized experiential-marketing employer rather than a broadly recognized top-tier software engineering brand. |
+| DEPT | 58 | High | 2026-11-26 | gpt-5.6-terra | No | Dept Agency, dept.global, deptagency.com | Established global digital agency with a meaningful engineering practice, enterprise-brand work, and structured internships. Its technical signal is positive, but its primary reputation is technology-and-marketing services rather than a highly selective software engineering employer. |
 | Desjardins Group | 58 | High | 2026-08-02 | gpt-5.6-terra | No | Desjardins, Desjardins Financial Group | Major Canadian financial-services institution with solid technology work, though not broadly viewed as an elite software employer. |
 | DevRev | 58 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Developer-focused software startup with a relevant product and engineering orientation, but a still-limited established reputation. |
 | Dick's Sporting Goods | 58 | High | 2026-08-02 | gpt-5.6-terra | No | DICK'S, DSG | Major retailer with meaningful digital and e-commerce engineering work, though it is not broadly a top software employer. |

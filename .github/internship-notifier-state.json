@@ -1,8 +1,9 @@
 {
-  "closed_ids_sha": "48717231082033452d56c79cc0f63601fba6f652",
-  "listings_sha": "48717231082033452d56c79cc0f63601fba6f652",
+  "closed_ids_sha": "585403546d084728b87e9b6d70af264ea141ac75",
+  "listings_sha": "585403546d084728b87e9b6d70af264ea141ac75",
   "quant_scraper_bootstrapped": true,
   "quant_scraper_posted": {
+    "qs:amazon:10535149": "2026-11-14",
     "qs:amazon:10550494": "2026-09-16",
     "qs:amazon:10557133": "2026-09-22",
     "qs:amazon:10585775": "2026-10-21",
@@ -247,11 +248,12 @@
   },
   "quant_scraper_posted_baselined": true,
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "530684f5675cf95ef93e88b86aaafe981d2a8b62",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "e8783f882944cff108b5f95c2ee273bc1de36cf4",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "8579f3af51fa76e51dfbbad35aaf28a55b8a0a9e"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "e6986dab7803938186ac7e728d5311009a1ca8d4",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "5b8f9393160d5ac5f514560c337045e6e88d8cf5",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "61fd2b0b5c275198e9a6f9f07132414e38f9a167"
   },
   "seen_apply_keys": [
+    "amazon:10535149",
     "amazon:10550494",
     "amazon:10557133",
     "amazon:10585775",
@@ -336,6 +338,7 @@
     "url:adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---experience-researcher_r172996",
     "url:adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001",
     "url:akunacapital.com/careers/job/8018856",
+    "url:amazon.jobs/en/jobs/10535149/system-dev-engineer-internship-2027",
     "url:amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027",
     "url:amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
     "url:amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services",
@@ -22187,6 +22190,7 @@
     "f21bf546-9396-44b8-883c-fd05f255de0e",
     "f21cd6fc-a4ee-489c-a2a3-0ce00bc468b0",
     "f21fd8c2-51b1-48c3-a6af-092113970a45",
+    "f22421d0-9ba8-49f6-9e0b-6e2c924538f0",
     "f224e9c0-6aa1-45bb-b02c-b75ccda9b00c",
     "f2273a00-fd36-44f4-b959-cffdf589df8a",
     "f228c099-b9e8-45d6-b76f-a5af09765daa",
@@ -23421,6 +23425,7 @@
     "fff6e751-d777-477e-aef3-17eb3209eedb",
     "fff73d24-2557-417b-a791-58567415f245",
     "fffa4bdc-f97d-4cc9-9912-6015b38cfd10",
+    "qs:amazon:10535149",
     "qs:amazon:10550494",
     "qs:amazon:10557133",
     "qs:amazon:10585775",

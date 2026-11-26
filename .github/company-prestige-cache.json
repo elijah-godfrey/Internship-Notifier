@@ -12854,6 +12854,21 @@
       "reviewed_at": "2026-09-11",
       "rubric_version": "prestige-v1"
     },
+    "dept": {
+      "aliases": [
+        "Dept Agency",
+        "dept.global",
+        "deptagency.com"
+      ],
+      "confidence": "high",
+      "display_name": "DEPT",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established global digital agency with a meaningful engineering practice, enterprise-brand work, and structured internships. Its technical signal is positive, but its primary reputation is technology-and-marketing services rather than a highly selective software engineering employer.",
+      "reviewed_at": "2026-11-26",
+      "rubric_version": "prestige-v2"
+    },
     "descartes systems group": {
       "aliases": [
         "Descartes"
