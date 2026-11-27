@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3938** of **3938** cached companies (all cached companies).
+Showing **3939** of **3939** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -3027,6 +3027,7 @@ Showing **3938** of **3938** cached companies (all cached companies).
 | Dmg Media | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized UK media publisher, but it has a limited standalone software-engineering brand. |
 | Dover | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Well-established industrial conglomerate, but its software-engineering brand is not broadly prominent. |
 | Egis Group | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | Egis | Established engineering and infrastructure consultancy, with software prestige that is mainly sector-specific. |
+| Encepta | 45 | Medium | 2026-11-27 | gpt-5.6-terra | No | encepta.net | A Canadian telecom and utility-infrastructure services company with specialized data and software capabilities. It offers a credible, domain-specific technical signal, but has limited broad recognition as a software-engineering employer. |
 | Endeavor Health | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Established healthcare-system employer with relevant internal technology work but limited broader software prestige. |
 | ENFRA | 45 | Medium | 2026-10-16 | gpt-5.6-terra | No | Bernhard, ENFRA Solutions | A meaningful national engineering/energy reputation and has acquired building-analytics software businesses, but its core employer brand is infrastructure, construction, and energy services rather than a broadly recognized software-engineering organization. |
 | EOS IT Solutions | 45 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Relevant IT-services work, but its software-engineering reputation is relatively niche and less broadly recognized. |

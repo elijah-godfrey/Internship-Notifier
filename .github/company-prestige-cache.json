@@ -14670,6 +14670,19 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2"
     },
+    "encepta": {
+      "aliases": [
+        "encepta.net"
+      ],
+      "confidence": "medium",
+      "display_name": "Encepta",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 45,
+      "reason": "A Canadian telecom and utility-infrastructure services company with specialized data and software capabilities. It offers a credible, domain-specific technical signal, but has limited broad recognition as a software-engineering employer.",
+      "reviewed_at": "2026-11-27",
+      "rubric_version": "prestige-v2"
+    },
     "encharge ai": {
       "aliases": [],
       "confidence": "medium",
