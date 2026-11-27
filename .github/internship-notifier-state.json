@@ -48,8 +48,8 @@
     "qs:greenhouse:8356815": "2026-11-12",
     "qs:greenhouse:8386080": "2026-11-18",
     "qs:greenhouse:8415869": "2026-11-25",
-    "qs:greenhouse:8773447002": "2026-11-18",
-    "qs:greenhouse:8777760002": "2026-10-06",
+    "qs:greenhouse:8773447002": "2026-11-27",
+    "qs:greenhouse:8777760002": "2026-11-27",
     "qs:greenhouse:8847738002": "2026-10-05",
     "qs:lever:315f695d-04d1-4a9a-848e-cb2bec7a997e": "2025-12-11",
     "qs:lever:ac0dc094-2480-43c2-8495-26ade227ff4f": "2026-03-10",
@@ -256,6 +256,7 @@
     "qs:greenhouse:5297134007": 1,
     "qs:greenhouse:8083292": 2,
     "qs:greenhouse:8773447002": 1,
+    "qs:greenhouse:8777760002": 1,
     "qs:url:careers.adobe.com/us/en/job/r172064": 1,
     "qs:url:careers.qualcomm.com/careers/job/446721822125": 1,
     "qs:url:careers.qualcomm.com/careers/job/446722152489": 1,
@@ -341,9 +342,9 @@
     "qs:workday:salesforce.wd12.myworkdayjobs.com:JR367516": 1
   },
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "87c1c7254fc247dcc786e32f022cba3c74c7ee17",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "c181d928ddc5f6f168d6a5ea07e1badc7a5125ab",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "787ce039d30fdfc538e9f80901208f3f3d144219"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "4e06d3345adde2c3203c88bd49e79a5d77ade9b2",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "c22fe60377dfe2cb60510fbaaa09b1ea82a98a1a",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "ebb3a3971370a58be57ddb93b1d9c03c7b7789fe"
   },
   "seen_apply_keys": [
     "amazon:10535149",
