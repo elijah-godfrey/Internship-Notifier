@@ -35,6 +35,10 @@ class NotifierState:
         quant_scraper_posted_baselined: True after seen quant-scraper roles have
             had their current posted dates recorded. Missing on old state files,
             so the next poll records those dates without emailing them.
+        quant_scraper_repost_counts: How many times each quant-scraper listing id
+            has been notified again after a later posted date. Missing entries
+            count as zero, so a role recorded before this field existed can
+            still be reposted once.
     """
 
     listings_sha: str = ""
@@ -45,6 +49,7 @@ class NotifierState:
     quant_scraper_bootstrapped: bool = False
     quant_scraper_posted: dict[str, str] = field(default_factory=dict)
     quant_scraper_posted_baselined: bool = False
+    quant_scraper_repost_counts: dict[str, int] = field(default_factory=dict)
 
     def to_json_dict(self) -> dict[str, Any]:
         """Serialize to a JSON-friendly dict (id sets as sorted lists)."""
@@ -54,6 +59,9 @@ class NotifierState:
             "quant_scraper_bootstrapped": self.quant_scraper_bootstrapped,
             "quant_scraper_posted": dict(sorted(self.quant_scraper_posted.items())),
             "quant_scraper_posted_baselined": self.quant_scraper_posted_baselined,
+            "quant_scraper_repost_counts": dict(
+                sorted(self.quant_scraper_repost_counts.items())
+            ),
             "quant_scraper_shas": dict(sorted(self.quant_scraper_shas.items())),
             "seen_apply_keys": sorted(self.seen_apply_keys),
             "seen_ids": sorted(self.seen_ids),
@@ -78,6 +86,10 @@ class NotifierState:
             data.get("quant_scraper_posted") or {},
             "quant_scraper_posted",
         )
+        quant_scraper_repost_counts = _count_dict(
+            data.get("quant_scraper_repost_counts") or {},
+            "quant_scraper_repost_counts",
+        )
         bootstrapped = data.get("quant_scraper_bootstrapped", False)
         if not isinstance(bootstrapped, bool):
             raise ValueError("quant_scraper_bootstrapped must be a boolean")
@@ -93,7 +105,22 @@ class NotifierState:
             quant_scraper_bootstrapped=bootstrapped,
             quant_scraper_posted=quant_scraper_posted,
             quant_scraper_posted_baselined=posted_baselined,
+            quant_scraper_repost_counts=quant_scraper_repost_counts,
         )
+
+
+def _count_dict(raw: object, label: str) -> dict[str, int]:
+    """Validate a JSON object whose keys are strings and values are counts."""
+    if not isinstance(raw, dict):
+        raise ValueError(f"{label} must be an object of counts")
+    values: dict[str, int] = {}
+    for key, value in raw.items():
+        if not isinstance(key, str) or isinstance(value, bool) or not isinstance(value, int):
+            raise ValueError(f"each {label} entry must be a string and a count")
+        if value < 0:
+            raise ValueError(f"each {label} count must be zero or greater")
+        values[key] = value
+    return values
 
 
 def _string_set(raw: object, label: str) -> set[str]:

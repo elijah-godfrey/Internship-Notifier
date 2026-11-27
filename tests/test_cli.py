@@ -1413,7 +1413,60 @@ class TestQuantScraperPoll:
         assert "https://jobs.example/repost" in output
         loaded = load_state(state_path)
         assert loaded.quant_scraper_posted[listing_id] == "2026-11-13"
+        assert loaded.quant_scraper_repost_counts[listing_id] == 1
         assert "url:jobs.example/repost" in loaded.seen_apply_keys
+
+    def test_second_quant_repost_stays_quiet(
+        self, tmp_path, clear_smtp_env, capsys
+    ) -> None:
+        cfg = _write_notifier(tmp_path)
+        state_path = tmp_path / "state.json"
+        listing_id = "qs:url:jobs.example/repost"
+        _write_state(
+            state_path,
+            NotifierState(
+                listings_sha="old-sha",
+                seen_ids={"1", listing_id},
+                closed_ids_sha="old-sha",
+                quant_scraper_bootstrapped=True,
+                quant_scraper_posted_baselined=True,
+                quant_scraper_posted={listing_id: "2026-11-13"},
+                quant_scraper_repost_counts={listing_id: 1},
+                seen_apply_keys={"url:jobs.example/repost"},
+            ),
+        )
+        quant = _quant_row(
+            company="Jane Street",
+            url="https://jobs.example/repost",
+            listing_id=listing_id,
+            keys=["url:jobs.example/repost"],
+        )
+        quant["posted_on"] = "2026-11-20"
+        meta = {"sha": "fresh-sha", "size": 1, "download_url": "https://example.com/raw"}
+        snapshot = QuantScraperPoll(
+            shas={"quant-scraper/Quant-Internships-New-Grad-2027": "readme-sha"},
+            listings=[quant],
+            changed=True,
+        )
+
+        with (
+            patch(
+                "internship_notifier.github_listings.get_listings_metadata",
+                return_value=meta,
+            ),
+            patch(
+                "internship_notifier.github_listings.fetch_listings_json",
+                return_value=[_offseason_row(id="1")],
+            ),
+            patch("internship_notifier.cli.fetch_quant_scraper", return_value=snapshot),
+        ):
+            code = run(["--config", str(cfg), "--state-path", str(state_path)])
+
+        assert code == 0
+        assert "Jane Street" not in capsys.readouterr().out
+        loaded = load_state(state_path)
+        assert loaded.quant_scraper_posted[listing_id] == "2026-11-20"
+        assert loaded.quant_scraper_repost_counts[listing_id] == 1
 
     def test_same_or_missing_posted_date_stays_quiet(
         self, tmp_path, clear_smtp_env, capsys

@@ -46,6 +46,9 @@ from internship_notifier.state import NotifierState, load_state, save_state
 # Leave room in the 10-minute poll gap for the email and the state commit.
 DEFAULT_RANKING_BUDGET_SECONDS = 480
 IDLE_PRESTIGE_REFRESH_LIMIT = 1
+# A quant-scraper role can be emailed once when it is new, then once more when
+# its posted date moves later. Further later dates are recorded and stay quiet.
+MAX_QUANT_REPOSTS = 1
 
 
 def _apply_source(
@@ -190,6 +193,7 @@ def _is_quant_scraper_listing(listing: dict[str, Any]) -> bool:
 def _deliver_notifications(
     notify_rows: list[dict[str, Any]],
     *,
+    state: NotifierState,
     prestige_config: PrestigeTomlConfig,
     prestige_cache: PrestigeCache,
     dry_run: bool,
@@ -197,10 +201,13 @@ def _deliver_notifications(
     """Print eligible listings and email them when SMTP is configured.
 
     When ``SMTP_QUANT_TO`` is set, that address also receives the quant-scraper
-    rows. ``SMTP_TO`` still receives the combined email.
+    rows. ``SMTP_TO`` still receives the combined email. A quant-scraper repost
+    in this batch counts toward its repost limit.
     """
     for row in notify_rows:
         print(_format_listing_line(row))
+    if not dry_run:
+        _count_quant_reposts(state, notify_rows)
     if not notify_rows:
         return
 
@@ -444,6 +451,19 @@ def _remember_quant_posted(state: NotifierState, rows: list[dict[str, Any]]) -> 
             state.quant_scraper_posted[listing_id] = posted
 
 
+def _count_quant_reposts(state: NotifierState, rows: list[dict[str, Any]]) -> None:
+    """Count quant-scraper rows that are being notified as reposts."""
+    for row in rows:
+        if not row.get("_quant_repost"):
+            continue
+        listing_id = str(row.get("id") or "")
+        if not listing_id.startswith("qs:"):
+            continue
+        state.quant_scraper_repost_counts[listing_id] = (
+            state.quant_scraper_repost_counts.get(listing_id, 0) + 1
+        )
+
+
 def _baseline_quant_posted(state: NotifierState, listing: dict[str, Any]) -> None:
     """Record a seen role's current posted date when none is stored yet."""
     listing_id = str(listing.get("id") or "")
@@ -469,13 +489,22 @@ def _select_quant_notifications(
     """Return quant-scraper rows that should be emailed.
 
     A role already seen is emailed again only when its posted date is later
-    than the stored date. A seen role with no stored date keeps the current
-    date and stays quiet, so roles recorded before dates were tracked are not
-    resent. A repost's title gains ``(reposted)`` for the notification only.
+    than the stored date and it has been reposted fewer than
+    ``MAX_QUANT_REPOSTS`` times. A later date past that limit is recorded and
+    stays quiet. A seen role with no stored date keeps the current date and
+    stays quiet, so roles recorded before dates were tracked are not resent.
+    A repost's title gains ``(reposted)`` for the notification only.
     """
     selected: list[dict[str, Any]] = []
     for row in rows:
         if _quant_reposted(row, state):
+            listing_id = str(row.get("id") or "")
+            already = state.quant_scraper_repost_counts.get(listing_id, 0)
+            if already >= MAX_QUANT_REPOSTS:
+                if not dry_run:
+                    _remember_quant_posted(state, [row])
+                continue
+            row["_quant_repost"] = True
             _mark_repost_title(row)
             selected.append(row)
             continue
@@ -802,12 +831,12 @@ def run(argv: list[str] | None = None) -> int:
     elif quant_poll.changed:
         quant_shas_when_complete = dict(quant_poll.shas)
 
-    reposts = [row for row in fresh_quant if _quant_reposted(row, state)]
     fresh_quant = _select_quant_notifications(
         fresh_quant,
         state,
         dry_run=ns.dry_run,
     )
+    reposts = [row for row in fresh_quant if row.get("_quant_repost")]
     if reposts:
         print(
             f"Quant scraper: {len(reposts)} reposted internship(s) with a later posted date.",
@@ -868,6 +897,7 @@ def run(argv: list[str] | None = None) -> int:
     if not prestige_config.enabled:
         _deliver_notifications(
             new_rows,
+            state=state,
             prestige_config=prestige_config,
             prestige_cache=prestige_cache,
             dry_run=ns.dry_run,
@@ -915,6 +945,7 @@ def run(argv: list[str] | None = None) -> int:
     known_eligible = _eligible_rows(known_rows, prestige_cache, threshold)
     _deliver_notifications(
         known_eligible,
+        state=state,
         prestige_config=prestige_config,
         prestige_cache=prestige_cache,
         dry_run=ns.dry_run,
@@ -956,6 +987,7 @@ def run(argv: list[str] | None = None) -> int:
     ranked_eligible = _eligible_rows(ranked_rows, prestige_cache, threshold)
     _deliver_notifications(
         ranked_eligible,
+        state=state,
         prestige_config=prestige_config,
         prestige_cache=prestige_cache,
         dry_run=ns.dry_run,

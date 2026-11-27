@@ -21,6 +21,7 @@ class TestNotifierStateJson:
             "quant_scraper_bootstrapped": False,
             "quant_scraper_posted": {},
             "quant_scraper_posted_baselined": False,
+            "quant_scraper_repost_counts": {},
             "quant_scraper_shas": {},
             "seen_apply_keys": [],
             "seen_ids": ["1", "2", "3"],
@@ -43,6 +44,7 @@ class TestNotifierStateJson:
         assert state.quant_scraper_bootstrapped is False
         assert state.quant_scraper_posted == {}
         assert state.quant_scraper_posted_baselined is False
+        assert state.quant_scraper_repost_counts == {}
 
     def test_from_json_dict_seen_ids_must_be_list(self) -> None:
         with pytest.raises(ValueError, match="seen_ids must be a list"):
@@ -85,7 +87,21 @@ class TestNotifierStateJson:
         )
         assert state.quant_scraper_posted == {"qs:greenhouse:1": "2026-11-10"}
         assert state.quant_scraper_posted_baselined is True
+        assert state.quant_scraper_repost_counts == {}
         assert NotifierState.from_json_dict(state.to_json_dict()) == state
+
+    def test_from_json_dict_repost_counts_roundtrip(self) -> None:
+        state = NotifierState.from_json_dict(
+            {"quant_scraper_repost_counts": {"qs:greenhouse:1": 1}}
+        )
+        assert state.quant_scraper_repost_counts == {"qs:greenhouse:1": 1}
+        assert NotifierState.from_json_dict(state.to_json_dict()) == state
+
+    def test_from_json_dict_repost_counts_must_be_counts(self) -> None:
+        with pytest.raises(ValueError, match="quant_scraper_repost_counts"):
+            NotifierState.from_json_dict({"quant_scraper_repost_counts": {"qs:1": -1}})
+        with pytest.raises(ValueError, match="quant_scraper_repost_counts"):
+            NotifierState.from_json_dict({"quant_scraper_repost_counts": {"qs:1": True}})
 
     def test_from_json_dict_quant_posted_baselined_must_be_bool(self) -> None:
         with pytest.raises(ValueError, match="quant_scraper_posted_baselined must be a boolean"):
