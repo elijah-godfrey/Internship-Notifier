@@ -21879,6 +21879,21 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "iconiq": {
+      "aliases": [
+        "ICONIQ Capital",
+        "ICONIQ Growth",
+        "iconiq.com"
+      ],
+      "confidence": "medium",
+      "display_name": "ICONIQ",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 55,
+      "reason": "Well-regarded private investment and growth-equity firm with a strong technology ecosystem, but it is not primarily a software company and has a comparatively limited standalone software-engineering employer brand.",
+      "reviewed_at": "2026-11-27",
+      "rubric_version": "prestige-v2"
+    },
     "icspi": {
       "aliases": [],
       "confidence": "medium",
@@ -34363,6 +34378,19 @@
       "reason": "Established utility employer; a credible internship signal, though its software engineering brand is not broadly top-tier.",
       "reviewed_at": "2026-08-01",
       "rubric_version": "prestige-v1"
+    },
+    "pqshield": {
+      "aliases": [
+        "pqshield.com"
+      ],
+      "confidence": "high",
+      "display_name": "PQShield",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 68,
+      "reason": "Oxford-origin post-quantum cryptography specialist with credible technical depth, standards participation, and meaningful venture backing. It is a strong niche security/cryptography signal, though far less broadly recognized than top-tier global software employers.",
+      "reviewed_at": "2026-11-27",
+      "rubric_version": "prestige-v2"
     },
     "practising law institute": {
       "aliases": [

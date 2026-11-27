@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3936** of **3936** cached companies (all cached companies).
+Showing **3938** of **3938** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -745,6 +745,7 @@ Showing **3936** of **3936** cached companies (all cached companies).
 | PathAI | 68 | Medium | 2026-07-29 | gpt-5.6-terra | No | - | Well-regarded, specialized AI/digital-pathology company with credible technical work, but its software-engineering brand and selectivity are less broadly recognized than top generalist technology employers. |
 | PEAK6 | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | PEAK6 Investments | Well-regarded trading and financial-technology firm with meaningful engineering work, though less broadly recognized than elite quant firms. |
 | Pindrop | 68 | High | 2026-08-02 | gpt-5.6-terra | No | Pindrop Security | Well-regarded voice-security company with a credible applied AI and security engineering reputation. |
+| PQShield | 68 | High | 2026-11-27 | gpt-5.6-terra | No | pqshield.com | Oxford-origin post-quantum cryptography specialist with credible technical depth, standards participation, and meaningful venture backing. It is a strong niche security/cryptography signal, though far less broadly recognized than top-tier global software employers. |
 | Rad AI | 68 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Credible healthcare-AI company with a solid specialized engineering signal, though less broadly established than top AI labs. |
 | Realtor.com | 68 | High | 2026-08-02 | gpt-5.6-terra | No | - | Well-known consumer real-estate technology platform with meaningful product-engineering work and recognizable brand value. |
 | Regeneron Pharmaceuticals | 68 | High | 2026-10-02 | gpt-5.6-terra | No | Regeneron | Highly respected biotechnology company with strong scientific and technical credibility; a solid engineering signal, though less broadly elite in mainstream software recruiting than leading technology firms. |
@@ -2001,6 +2002,7 @@ Showing **3936** of **3936** cached companies (all cached companies).
 | Houlihan Lokey | 55 | Medium | 2026-10-19 | gpt-5.6-terra | No | HLI, hl.com | Highly respected independent investment bank, particularly in restructuring and M&A, but its public internship brand is primarily finance-focused and it has limited recognition as a software-engineering employer. |
 | HUB | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | A credible specialized fintech software signal and backing from an established post-trade platform, but HUB itself is young and its engineering brand is not broadly recognized as top-tier. |
 | Hyundai AutoEver America | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Hyundai AutoEver | Provides substantial automotive enterprise technology work, but has a modest standalone software-engineering prestige signal. |
+| ICONIQ | 55 | Medium | 2026-11-27 | gpt-5.6-terra | No | ICONIQ Capital, ICONIQ Growth, iconiq.com | Well-regarded private investment and growth-equity firm with a strong technology ecosystem, but it is not primarily a software company and has a comparatively limited standalone software-engineering employer brand. |
 | Illinois Tool Works | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | ITW | Established industrial manufacturer with solid engineering credibility, though it is not a prominent software-engineering destination. |
 | IMS | 55 | Medium | 2026-10-16 | gpt-5.6-terra | No | IMS Tech, Insurance & Mobility Solutions, Intelligent Mechatronic Systems, Trak Global Group | A credible global B2B engineering product footprint in vehicle data, analytics, and cloud telematics, but its software-engineering brand and demonstrated internship selectivity appear specialized rather than broadly top-tier. |
 | Invisible Technologies AI | 55 | Medium | 2026-08-02 | gpt-5.6-terra | No | Invisible Technologies | Visible AI-services company with some technical relevance, but a less established engineering-employer reputation than leading AI labs. |
