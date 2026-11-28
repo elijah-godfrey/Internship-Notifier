@@ -343,9 +343,9 @@
     "qs:workday:salesforce.wd12.myworkdayjobs.com:JR367516": 1
   },
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "e0f8cf11cc1f6fb8bd2ac459af7af959a82fd4b7",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "cf5cd479e989e76277d4ca9489f48d358ea1c1e1",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "dd7375a243b004a6434265bc5af966ea34139149"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "0899fb02547af4a1ef89d4c8ff42425e53cc92b9",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "fb56b88fa4c817e646a063e75a73ab4797c67153",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "1546ed29d97851647a4372428c65e5275feba959"
   },
   "seen_apply_keys": [
     "amazon:10535149",
