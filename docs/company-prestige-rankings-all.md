@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3941** of **3941** cached companies (all cached companies).
+Showing **3942** of **3942** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1225,6 +1225,7 @@ Showing **3941** of **3941** cached companies (all cached companies).
 | Takeda | 63 | High | 2026-08-02 | gpt-5.6-terra | No | - | Globally respected pharmaceutical company with solid technical opportunities, though software is not its core public brand. |
 | The Exploration Company | 63 | Medium | 2026-08-02 | gpt-5.6-terra | No | TEC | Venture-backed space-technology company with technically relevant work, but a young and less established engineering-employer brand. |
 | The Travelers Companies | 63 | High | 2026-08-02 | gpt-5.6-terra | No | Travelers, Travelers Insurance | Major insurer with mature technology organizations and a solid enterprise engineering signal, though not top-tier tech prestige. |
+| Trinzic | 63 | Medium | 2026-11-28 | gpt-5.6-terra | No | KBR Mission Technology Solutions, KBR MTS, Solar SpinCo | A newly branded spin-off of KBR’s established Mission Technology Solutions business, with substantial defense, space, and mission-critical engineering work. It is a solid technical signal in government and aerospace software, though the Trinzic brand itself is new and less broadly recognized in mainstream software engineering. |
 | Truveta | 63 | Medium | 2026-07-18 | gpt-5.6-terra | No | - | Respected health-data platform with credible technical work, though less broadly recognized in software. |
 | United Parcel Service (UPS) | 63 | High | 2026-07-21 | gpt-5.6-terra | No | UPS, United Parcel Service | Globally recognized logistics employer with substantial large-scale technology needs, though its software-engineering brand is not generally viewed as top-tier. |
 | University of Rochester | 63 | High | 2026-07-30 | gpt-5.6-terra | No | U of Rochester, URochester | Respected research university with credible technical and academic work, though its software-employer signal is less prominent than top CS institutions. |

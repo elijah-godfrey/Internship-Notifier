@@ -44732,6 +44732,21 @@
       "reviewed_at": "2026-11-12",
       "rubric_version": "prestige-v2"
     },
+    "trinzic": {
+      "aliases": [
+        "KBR Mission Technology Solutions",
+        "KBR MTS",
+        "Solar SpinCo"
+      ],
+      "confidence": "medium",
+      "display_name": "Trinzic",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 63,
+      "reason": "A newly branded spin-off of KBR\u2019s established Mission Technology Solutions business, with substantial defense, space, and mission-critical engineering work. It is a solid technical signal in government and aerospace software, though the Trinzic brand itself is new and less broadly recognized in mainstream software engineering.",
+      "reviewed_at": "2026-11-28",
+      "rubric_version": "prestige-v2"
+    },
     "tripadvisor": {
       "aliases": [],
       "confidence": "high",
