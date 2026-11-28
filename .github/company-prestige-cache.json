@@ -8056,6 +8056,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "carfax canada": {
+      "aliases": [
+        "CarProof",
+        "CARFAX Canada ULC",
+        "CARFAX",
+        "carfax.ca"
+      ],
+      "confidence": "medium",
+      "display_name": "CARFAX Canada",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established Canadian automotive-data software business with a recognizable CARFAX brand and meaningful engineering work in data-driven vehicle products. It is a solid regional/vertical signal, though not broadly regarded as a top-tier software-engineering destination.",
+      "reviewed_at": "2026-11-28",
+      "rubric_version": "prestige-v2"
+    },
     "cargurus": {
       "aliases": [
         "CARG",
@@ -22973,6 +22989,21 @@
       "reason": "Highly respected electronic brokerage with a strong quantitative, systems, and trading-technology engineering signal.",
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
+    },
+    "intercept": {
+      "aliases": [
+        "Intercept Group",
+        "Intercept Scale",
+        "interceptgroup.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Intercept",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 47,
+      "reason": "Established B2B technology marketing agency with recognizable enterprise-tech clients and a growing in-house AI/technology practice, but it is principally an agency rather than a recognized software-engineering employer; its engineering signal is therefore industry-specific and moderate.",
+      "reviewed_at": "2026-11-28",
+      "rubric_version": "prestige-v2"
     },
     "interco trading": {
       "aliases": [

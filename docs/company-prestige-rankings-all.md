@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3939** of **3939** cached companies (all cached companies).
+Showing **3941** of **3941** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -1544,6 +1544,7 @@ Showing **3939** of **3939** cached companies (all cached companies).
 | California ISO | 58 | High | 2026-08-02 | gpt-5.6-terra | No | CAISO, California Independent System Operator | Important grid operator with technically sophisticated infrastructure work, though its recognition is concentrated in energy systems. |
 | Capital Group | 58 | High | 2026-08-02 | gpt-5.6-terra | No | Capital Group Companies | Highly respected asset manager, but its technology organization carries a more moderate standalone engineering signal. |
 | CapTech | 58 | Medium | 2026-10-19 | gpt-5.6-terra | No | CapTech Consulting, captechconsulting.com | Established technology consulting firm with a structured software-engineering internship and credible industry recognition, but its engineering brand and selectivity are more regional/consulting-specific than broadly elite. |
+| CARFAX Canada | 58 | Medium | 2026-11-28 | gpt-5.6-terra | No | CarProof, CARFAX Canada ULC, CARFAX, carfax.ca | Established Canadian automotive-data software business with a recognizable CARFAX brand and meaningful engineering work in data-driven vehicle products. It is a solid regional/vertical signal, though not broadly regarded as a top-tier software-engineering destination. |
 | Catalist LLC | 58 | Medium | 2026-10-16 | gpt-5.6-terra | No | Washington, D.C. progressive political-data firm | A meaningful signal for civic-tech/data engineering, but its employer brand is niche rather than broadly top-tier in software engineering. |
 | CCC Intelligent Solutions | 58 | Medium | 2026-07-27 | gpt-5.6-terra | No | CCC, CCC Intelligent Solutions Holdings | Established insurance-technology and automotive-claims software company, with a solid but primarily industry-specific engineering signal. |
 | Cencora | 58 | Medium | 2026-09-26 | gpt-5.6-terra | No | AmerisourceBergen | Large, established healthcare-pharmaceutical services company with solid enterprise technology relevance, but limited top-tier software-engineering brand strength. |
@@ -2899,6 +2900,7 @@ Showing **3939** of **3939** cached companies (all cached companies).
 | Healthesystems | 47 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Healthcare technology company with a credible industry-specific engineering role, but limited broader technical-brand recognition. |
 | IA Collaborative | 47 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Respected specialized innovation and design consultancy, but with limited broad recognition as a software-engineering destination. |
 | Innodata | 47 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized data and AI services provider, though generally viewed more as a services firm than a top software employer. |
+| Intercept | 47 | Medium | 2026-11-28 | gpt-5.6-terra | No | Intercept Group, Intercept Scale, interceptgroup.com | Established B2B technology marketing agency with recognizable enterprise-tech clients and a growing in-house AI/technology practice, but it is principally an agency rather than a recognized software-engineering employer; its engineering signal is therefore industry-specific and moderate. |
 | Manifold Data Mining Inc. | 47 | High | 2026-10-16 | gpt-5.6-terra | No | Manifold, Polaris Intelligence | An in-house software team, technical data products, and established Canadian-sector clients, but limited broader software-engineering brand recognition or demonstrated elite selectivity. |
 | McKinney | 47 | High | 2026-10-16 | gpt-5.6-terra | No | McKinney Advertising, McKinney Agency | A respected agency brand and an in-house tech/innovation capability, but it is not principally a software company and has limited broad software-engineering prestige. |
 | Mobials Inc. (AutoVerify) | 47 | Medium | 2026-09-11 | gpt-5.6-terra | No | AutoVerify, Mobials | Established automotive software company with relevant product engineering, but mostly niche and regionally recognized. |
