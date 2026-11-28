@@ -4,7 +4,7 @@
 
 Scores measure software-engineering internship career prestige only: technical reputation, selectivity, and career signal. They do not include pay, work-life balance, location, or return-offer likelihood.
 
-Showing **3942** of **3942** cached companies (all cached companies).
+Showing **3943** of **3943** cached companies (all cached companies).
 
 ## Exceptional (90-100)
 
@@ -2812,6 +2812,7 @@ Showing **3942** of **3942** cached companies (all cached companies).
 | Sparksoft Corporation | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | - | Staff and a NASA SEWP VI prime award, giving it a credible but primarily government-contracting-specific engineering signal rather than broad top-tier software-engineering prestige. |
 | Spellman High Voltage Electronics | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Spellman | Established power-electronics manufacturer, but with limited broad software-engineering prestige. |
 | Starz | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | - | Recognized media brand with relevant streaming technology work, but a modest general software-engineering signal. |
+| State Employees' Credit Union | 48 | Medium | 2026-11-28 | gpt-5.6-terra | No | SECU, NC SECU, North Carolina State Employees’ Credit Union, ncsecu.org | Large, established North Carolina financial cooperative with meaningful internal digital-banking and financial-systems engineering work, but limited national recognition or selectivity as a software-engineering employer. |
 | State of North Carolina | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | North Carolina state government, NC state government | Large, recognizable state-government employer; technical roles are credible but do not carry a top-tier software brand. |
 | SteerBridge Strategies LLC | 48 | Medium | 2026-10-16 | gpt-5.6-terra | No | SteerBridge | Credible hands-on government-tech experience, but its small-company profile and limited broad recognition as a software-engineering employer make it an industry-specific rather than top-tier career signal. |
 | Stewart | 48 | Medium | 2026-08-02 | gpt-5.6-terra | No | Stewart Title, Stewart Information Services | Established real-estate and title-services company, but it has limited broad software-engineering brand recognition. |
