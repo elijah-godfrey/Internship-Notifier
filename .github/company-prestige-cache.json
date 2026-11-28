@@ -28332,6 +28332,22 @@
       "reviewed_at": "2026-08-02",
       "rubric_version": "prestige-v1"
     },
+    "michaels": {
+      "aliases": [
+        "Michaels Stores",
+        "The Michaels Companies",
+        "Michaels Companies Inc.",
+        "michaels.com"
+      ],
+      "confidence": "high",
+      "display_name": "Michaels",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 48,
+      "reason": "A large, established North American arts-and-crafts retailer with a legitimate digital software-engineering internship, but its employer brand is retail-focused rather than a broadly prestigious or notably selective software-engineering signal.",
+      "reviewed_at": "2026-11-28",
+      "rubric_version": "prestige-v2"
+    },
     "michelin": {
       "aliases": [
         "Michelin Group"
@@ -36457,6 +36473,20 @@
       "reviewed_at": "2026-10-19",
       "rubric_version": "prestige-v2"
     },
+    "revelyst": {
+      "aliases": [
+        "Vista Outdoor's Revelyst business",
+        "revelyst.com"
+      ],
+      "confidence": "medium",
+      "display_name": "Revelyst",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 52,
+      "reason": "Established outdoor-products collective with recognized brands and meaningful technology work in golf and connected hardware, but it is not broadly viewed as a leading software-engineering employer or a notably selective software internship signal.",
+      "reviewed_at": "2026-11-28",
+      "rubric_version": "prestige-v2"
+    },
     "revise robotics": {
       "aliases": [],
       "confidence": "medium",
@@ -38820,6 +38850,20 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2",
       "website": "https://serval.com"
+    },
+    "servco": {
+      "aliases": [
+        "Servco Pacific Inc.",
+        "servco.com"
+      ],
+      "confidence": "high",
+      "display_name": "Servco",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 46,
+      "reason": "Established Hawai\u02bbi-based automotive and mobility group with a real digital-strategy engineering function and internship pathway, but its engineering brand and selectivity are primarily regional and industry-specific rather than broadly recognized in software.",
+      "reviewed_at": "2026-11-28",
+      "rubric_version": "prestige-v2"
     },
     "servicenow": {
       "aliases": [],
@@ -45872,6 +45916,22 @@
       "reviewed_at": "2026-10-16",
       "rubric_version": "prestige-v2",
       "website": "https://untillabs.com"
+    },
+    "unum": {
+      "aliases": [
+        "Unum Group",
+        "UNM",
+        "UnumProvident",
+        "unum.com"
+      ],
+      "confidence": "high",
+      "display_name": "Unum",
+      "manual_override": false,
+      "model": "gpt-5.6-terra",
+      "prestige_score": 58,
+      "reason": "Established public workplace-benefits insurer with a sizable digital and software engineering organization, providing a credible enterprise-tech signal; however, its engineering brand is primarily insurance-specific rather than broadly elite or highly selective in software.",
+      "reviewed_at": "2026-11-28",
+      "rubric_version": "prestige-v2"
     },
     "unwrap": {
       "aliases": [],
