@@ -48,6 +48,7 @@
     "qs:greenhouse:8356815": "2026-11-12",
     "qs:greenhouse:8386080": "2026-11-18",
     "qs:greenhouse:8415869": "2026-11-25",
+    "qs:greenhouse:8489233002": "2026-11-23",
     "qs:greenhouse:8773447002": "2026-11-27",
     "qs:greenhouse:8777760002": "2026-11-27",
     "qs:greenhouse:8847738002": "2026-10-05",
@@ -236,7 +237,7 @@
     "qs:workday:cisco.wd5.myworkdayjobs.com:2026049": "2026-10-24",
     "qs:workday:cisco.wd5.myworkdayjobs.com:2028084": "2026-10-17",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0287092": "2026-11-23",
-    "qs:workday:intel.wd1.myworkdayjobs.com:JR0287977": "2026-10-28",
+    "qs:workday:intel.wd1.myworkdayjobs.com:JR0287977": "2026-10-29",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0288086": "2026-10-26",
     "qs:workday:intel.wd1.myworkdayjobs.com:JR0288661": "2026-10-29",
     "qs:workday:nvidia.wd5.myworkdayjobs.com:JR2025096": "2026-10-31",
@@ -342,9 +343,9 @@
     "qs:workday:salesforce.wd12.myworkdayjobs.com:JR367516": 1
   },
   "quant_scraper_shas": {
-    "quant-scraper/AI-ML-Internships-New-Grad-2027": "4e06d3345adde2c3203c88bd49e79a5d77ade9b2",
-    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "c22fe60377dfe2cb60510fbaaa09b1ea82a98a1a",
-    "quant-scraper/Quant-Internships-New-Grad-2027": "ebb3a3971370a58be57ddb93b1d9c03c7b7789fe"
+    "quant-scraper/AI-ML-Internships-New-Grad-2027": "e0f8cf11cc1f6fb8bd2ac459af7af959a82fd4b7",
+    "quant-scraper/Big-Tech-Internships-New-Grad-2027": "cf5cd479e989e76277d4ca9489f48d358ea1c1e1",
+    "quant-scraper/Quant-Internships-New-Grad-2027": "dd7375a243b004a6434265bc5af966ea34139149"
   },
   "seen_apply_keys": [
     "amazon:10535149",
@@ -402,6 +403,7 @@
     "greenhouse:8356815",
     "greenhouse:8386080",
     "greenhouse:8415869",
+    "greenhouse:8489233002",
     "greenhouse:8616338002",
     "greenhouse:8621740002",
     "greenhouse:8621749002",
@@ -628,6 +630,7 @@
     "url:janestreet.com/join-jane-street/position/8755768002",
     "url:janestreet.com/join-jane-street/position/8927052002",
     "url:janestreet.com/join-jane-street/position/8927083002",
+    "url:job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
     "url:job-boards.greenhouse.io/genevatrading/jobs/5242196007",
     "url:job-boards.greenhouse.io/pdtpartners/jobs/8083292",
     "url:job-boards.greenhouse.io/schonfeld/jobs/8171699",
@@ -23602,6 +23605,7 @@
     "qs:greenhouse:8356815",
     "qs:greenhouse:8386080",
     "qs:greenhouse:8415869",
+    "qs:greenhouse:8489233002",
     "qs:greenhouse:8616338002",
     "qs:greenhouse:8621740002",
     "qs:greenhouse:8621749002",
